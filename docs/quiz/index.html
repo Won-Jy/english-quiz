@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>English Quiz</title>
+  <link rel="stylesheet" href="../assets/css/quiz.css" />
+</head>
+<body>
+  <div id="app">
+    <header>
+      <h1>📚 English Quiz</h1>
+      <div id="date-display"></div>
+      <div id="progress-bar-wrap">
+        <div id="progress-bar"></div>
+      </div>
+      <div id="score-display" class="hidden">점수: <span id="score">0</span> / 10</div>
+    </header>
+
+    <main id="quiz-container">
+      <!-- 문제가 JS로 렌더링됨 -->
+      <div id="loading">퀴즈를 불러오는 중…</div>
+    </main>
+
+    <footer id="quiz-footer" class="hidden">
+      <button id="btn-submit" class="btn-primary">제출하기</button>
+      <button id="btn-next" class="btn-secondary hidden">다음 →</button>
+      <button id="btn-results" class="btn-primary hidden">결과 보기</button>
+    </footer>
+  </div>
+
+  <script src="../assets/js/quiz.js"></script>
+</body>
+</html>
