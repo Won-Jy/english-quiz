@@ -162,7 +162,7 @@ def save_quiz(questions: list[dict], date_str: str) -> Path:
 # ── 이메일 발송 ──────────────────────────────────────────────────────────────
 
 def send_email(date_str: str, questions: list[dict]):
-    quiz_url = f"{PAGES_BASE_URL}/quiz/{date_str}"
+    quiz_url = f"{PAGES_BASE_URL}/quiz/index.html?date={date_str}"
     preview_html = "".join(
         f"<li><b>Q{q['id']}.</b> {q['question'][:80]}…</li>"
         for q in questions[:3]
