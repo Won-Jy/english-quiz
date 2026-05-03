@@ -1,141 +1,172 @@
 {
   "date": "2026-05-03",
-  "generated_at": "2026-05-03T07:00:00",
+  "generated_at": "2026-05-03T22:07:10.317366",
   "questions": [
     {
       "id": 1,
       "type": "vocabulary",
       "source": "academic",
-      "sentence": "The artist's work _____ the boundary between the digital and the physical, creating a space where neither entirely dominates.",
-      "question": "빈칸에 가장 적절한 단어를 고르세요.",
-      "options": ["A. dissolves", "B. reinforces", "C. ignores", "D. measures"],
+      "sentence": "For Lévy-Bruhl, a person is not _____, but the outcome of a lifelong process of living with others.",
+      "question": "Choose the word that best completes the sentence:",
+      "options": [
+        "A. self-contained",
+        "B. self-conscious",
+        "C. self-evident",
+        "D. self-sufficient"
+      ],
       "answer": "A",
-      "explanation": "'Dissolves' means to break down or blur — fitting for a description of boundaries becoming unclear between two domains.",
-      "paraphrase_keywords": []
+      "explanation": "'Self-contained' means complete in itself, not needing external input. This contrasts with the idea that personhood emerges through relationships with others.",
+      "paraphrase_keywords": null
     },
     {
       "id": 2,
-      "type": "grammar",
-      "source": "general",
-      "sentence": "Neither the curators nor the director were informed about the last-minute changes to the exhibition.",
-      "question": "아래 문장 중 문법적으로 올바른 것을 고르세요.",
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Personhood is the _____ of a lifelong process of social interaction and communal living.",
+      "question": "Choose the word that best completes the sentence:",
       "options": [
-        "A. Neither the curators nor the director was informed about the changes.",
-        "B. Neither the curators nor the director were informed about the changes.",
-        "C. Neither the curators or the director was informed about the changes.",
-        "D. Neither the curators nor the director have been inform about the changes."
+        "A. origin",
+        "B. outcome",
+        "C. obstacle",
+        "D. outline"
       ],
-      "answer": "A",
-      "explanation": "With 'neither...nor', the verb agrees with the subject closest to it. Since 'the director' is singular, use 'was'.",
-      "paraphrase_keywords": []
+      "answer": "B",
+      "explanation": "'Outcome' means the result or consequence of a process, which fits the context of personhood being shaped through life experiences.",
+      "paraphrase_keywords": null
     },
     {
       "id": 3,
       "type": "vocabulary",
       "source": "academic",
-      "sentence": "The philosopher's _____ critique of modernity drew heavily on phenomenological traditions while remaining accessible to a wider audience.",
-      "question": "빈칸에 가장 적합한 단어를 고르세요.",
-      "options": ["A. incisive", "B. tentative", "C. superficial", "D. arbitrary"],
+      "sentence": "The philosopher examined the _____ of personhood through the lens of collective identity.",
+      "question": "Choose the word that best completes the sentence:",
+      "options": [
+        "A. emergence",
+        "B. emergency",
+        "C. emission",
+        "D. emulsion"
+      ],
       "answer": "A",
-      "explanation": "'Incisive' means penetratingly clear and sharp — used to describe analysis that cuts directly to the core of a subject.",
-      "paraphrase_keywords": []
+      "explanation": "'Emergence' refers to the process of coming into being or becoming visible, appropriate for discussing how personhood develops.",
+      "paraphrase_keywords": null
     },
     {
       "id": 4,
-      "type": "context",
-      "source": "general",
-      "sentence": "Despite the initial backlash, the museum's decision to deaccession several works was ultimately _____ as necessary for long-term financial stability.",
-      "question": "빈칸에 가장 자연스러운 표현은?",
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The good-vs-evil _____ of most pop-culture storytelling is a relatively recent development.",
+      "question": "Choose the word that best completes the sentence:",
       "options": [
-        "A. defended",
-        "B. accused",
-        "C. prevented",
-        "D. ignored"
+        "A. paradox",
+        "B. paradigm",
+        "C. parallel",
+        "D. parameter"
       ],
-      "answer": "A",
-      "explanation": "'Defended' fits the contrast set up by 'despite the initial backlash' — the decision faced criticism but was then justified.",
-      "paraphrase_keywords": []
+      "answer": "B",
+      "explanation": "'Paradigm' means a typical pattern, model, or framework. The good-vs-evil structure represents a standard storytelling model.",
+      "paraphrase_keywords": null
     },
     {
       "id": 5,
-      "type": "vocabulary",
-      "source": "academic",
-      "sentence": "The _____ of neoliberal logics into arts funding has fundamentally altered how institutions justify their existence to the public.",
-      "question": "빈칸에 가장 적절한 단어를 고르세요.",
-      "options": ["A. penetration", "B. absence", "C. rejection", "D. celebration"],
-      "answer": "A",
-      "explanation": "'Penetration' describes how something enters and spreads through a domain — here, how market logics have entered arts funding structures.",
-      "paraphrase_keywords": []
+      "type": "grammar",
+      "source": "general",
+      "sentence": "One school of training is highly personalised, technical and data-driven, the other is the one that wins marathons.",
+      "question": "Identify the grammatical error in this sentence:",
+      "options": [
+        "A. 'personalised' should be 'personalized'",
+        "B. Comma splice - should use a semicolon or period before 'the other'",
+        "C. 'data-driven' should not be hyphenated",
+        "D. 'wins' should be 'win'"
+      ],
+      "answer": "B",
+      "explanation": "This is a comma splice error. Two independent clauses are incorrectly joined with just a comma. A semicolon, period, or conjunction is needed.",
+      "paraphrase_keywords": null
     },
     {
       "id": 6,
       "type": "grammar",
       "source": "general",
-      "sentence": "The report, along with its supplementary annexes, were submitted to the committee last Friday.",
-      "question": "위 문장에서 틀린 부분을 포함한 올바른 버전을 고르세요.",
+      "sentence": "The good-vs-evil paradigm are a relatively recent effort to promote social cohesion.",
+      "question": "Identify the grammatical error in this sentence:",
       "options": [
-        "A. The report, along with its supplementary annexes, was submitted to the committee last Friday.",
-        "B. The report, along with its supplementary annexes, have been submitted to the committee last Friday.",
-        "C. The report, along with its supplementary annexes, are submitted to the committee last Friday.",
-        "D. No error — the sentence is correct."
+        "A. 'paradigm' should be 'paradigms'",
+        "B. 'are' should be 'is'",
+        "C. 'recent' should be 'recently'",
+        "D. 'to promote' should be 'for promoting'"
       ],
-      "answer": "A",
-      "explanation": "'Along with' is a parenthetical phrase, not a conjunction. The subject remains 'the report' (singular), so 'was' is correct.",
-      "paraphrase_keywords": []
+      "answer": "B",
+      "explanation": "The subject 'paradigm' is singular, so the verb should be 'is' not 'are' to maintain subject-verb agreement.",
+      "paraphrase_keywords": null
     },
     {
       "id": 7,
-      "type": "vocabulary",
-      "source": "academic",
-      "sentence": "Her essay sought to _____ the assumptions underlying institutional critique, arguing that the genre had become self-defeating.",
-      "question": "빈칸에 가장 적합한 단어를 고르세요.",
-      "options": ["A. interrogate", "B. celebrate", "C. replicate", "D. avoid"],
-      "answer": "A",
-      "explanation": "'Interrogate' in an academic context means to critically examine or question — a common verb in art criticism and philosophy.",
-      "paraphrase_keywords": []
+      "type": "grammar",
+      "source": "general",
+      "sentence": "A group of runners on a road with two people observing from the side in a flat, open landscape are captured in the photograph.",
+      "question": "Identify the grammatical error in this sentence:",
+      "options": [
+        "A. 'runners' should be 'runner'",
+        "B. 'are' should be 'is'",
+        "C. 'flat, open' should not have a comma",
+        "D. 'captured' should be 'capturing'"
+      ],
+      "answer": "B",
+      "explanation": "The subject 'A group' is singular, so the verb should be 'is captured' not 'are captured' despite the plural noun 'runners' in the prepositional phrase.",
+      "paraphrase_keywords": null
     },
     {
       "id": 8,
-      "type": "grammar",
+      "type": "context",
       "source": "general",
-      "sentence": "If the committee had reviewed the proposal more carefully, they might prevent the funding shortfall.",
-      "question": "이 문장의 시제 오류를 수정한 올바른 버전은?",
+      "sentence": "Ethiopian running coaches follow a training philosophy that is less about data and more about _____.",
+      "question": "Choose the most appropriate expression to complete this sentence based on the context of traditional vs modern training approaches:",
       "options": [
-        "A. If the committee had reviewed the proposal more carefully, they might have prevented the funding shortfall.",
-        "B. If the committee reviewed the proposal more carefully, they might prevent the funding shortfall.",
-        "C. If the committee had reviewed the proposal more carefully, they will prevent the funding shortfall.",
-        "D. If the committee has reviewed the proposal more carefully, they might have prevented the funding shortfall."
+        "A. cutting-edge technology",
+        "B. intuition and experience",
+        "C. scientific measurement",
+        "D. individual statistics"
       ],
-      "answer": "A",
-      "explanation": "Third conditional (unreal past): 'If + past perfect, would/might/could + have + past participle'. The original incorrectly uses bare 'prevent'.",
-      "paraphrase_keywords": []
+      "answer": "B",
+      "explanation": "The text contrasts data-driven approaches with traditional methods that win marathons, suggesting intuition and experience are valued over technical data.",
+      "paraphrase_keywords": null
     },
     {
       "id": 9,
       "type": "context",
       "source": "academic",
-      "sentence": "The curator's insistence on _____ provenance documentation reflects growing awareness of colonial-era acquisitions within European collections.",
-      "question": "빈칸에 가장 자연스러운 표현은?",
+      "sentence": "Modern storytelling's emphasis on good battling evil serves primarily to _____.",
+      "question": "Choose the expression that best describes the purpose of this storytelling paradigm:",
       "options": [
-        "A. rigorous",
-        "B. approximate",
-        "C. minimal",
-        "D. decorative"
+        "A. confuse audiences",
+        "B. promote social cohesion",
+        "C. challenge moral boundaries",
+        "D. eliminate traditional narratives"
       ],
-      "answer": "A",
-      "explanation": "'Rigorous' (thorough, precise) fits the serious institutional context of provenance research, especially regarding colonial-era holdings.",
-      "paraphrase_keywords": []
+      "answer": "B",
+      "explanation": "The text explicitly states that the good-vs-evil paradigm is 'an effort to promote social cohesion,' unifying audiences around shared moral values.",
+      "paraphrase_keywords": null
     },
     {
       "id": 10,
       "type": "paraphrase",
       "source": "academic",
-      "sentence": "The aestheticization of political life, Benjamin argued, finds its culmination in war, which alone can provide a mass movement with the grandeur of an artistic goal.",
-      "question": "위 문장을 자신의 말로 바꿔 쓰세요 (핵심 의미 보존).",
+      "sentence": "For Lucien Lévy-Bruhl, a person is not self-contained, but the outcome of a lifelong process of living with others: we before I.",
+      "question": "Paraphrase the following idea in your own words: According to Lévy-Bruhl, individual identity is shaped by collective experience rather than existing independently.",
       "options": null,
       "answer": null,
-      "explanation": "",
-      "paraphrase_keywords": ["aestheticization", "politics", "war", "Benjamin", "mass movement"]
+      "explanation": "A good paraphrase should convey that personal identity develops through social relationships and that the community ('we') takes precedence over the individual ('I').",
+      "paraphrase_keywords": [
+        "collective",
+        "community",
+        "social",
+        "relationships",
+        "identity",
+        "shaped",
+        "formed",
+        "developed",
+        "others",
+        "together"
+      ]
     }
   ]
 }
