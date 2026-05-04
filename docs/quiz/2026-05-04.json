@@ -1,0 +1,170 @@
+{
+  "date": "2026-05-04",
+  "generated_at": "2026-05-04T09:18:44.464360",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The researcher's _____ approach to data analysis ensured reliable and reproducible results.",
+      "question": "Choose the word that best completes the sentence:",
+      "options": [
+        "A. systematic",
+        "B. haphazard",
+        "C. arbitrary",
+        "D. sporadic"
+      ],
+      "answer": "A",
+      "explanation": "Systematic means methodical and organized, which is essential for ensuring reliable and reproducible research results.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The theory attempts to _____ the complex relationship between individual identity and social interaction.",
+      "question": "Choose the word that best completes the sentence:",
+      "options": [
+        "A. obscure",
+        "B. elucidate",
+        "C. complicate",
+        "D. dismiss"
+      ],
+      "answer": "B",
+      "explanation": "Elucidate means to make clear or explain, which is appropriate when a theory aims to clarify complex relationships.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The philosophical framework posits that personhood is not _____ but rather emerges through social relationships.",
+      "question": "Choose the word that best completes the sentence:",
+      "options": [
+        "A. innate",
+        "B. acquired",
+        "C. developed",
+        "D. constructed"
+      ],
+      "answer": "A",
+      "explanation": "Innate means existing from birth or inherent, contrasting with the idea that personhood emerges through social processes.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The _____ between traditional training methods and modern data-driven approaches continues to spark debate.",
+      "question": "Choose the word that best completes the sentence:",
+      "options": [
+        "A. harmony",
+        "B. dichotomy",
+        "C. similarity",
+        "D. merger"
+      ],
+      "answer": "B",
+      "explanation": "Dichotomy refers to a division or contrast between two things, fitting the context of contrasting training approaches.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 5,
+      "type": "grammar",
+      "source": "general",
+      "sentence": "The good-vs-evil paradigm of most pop-culture storytelling are a relatively recent effort to promote social cohesion.",
+      "question": "Identify the grammatical error in the sentence:",
+      "options": [
+        "A. 'paradigm' should be 'paradigms'",
+        "B. 'are' should be 'is'",
+        "C. 'relatively' should be 'relative'",
+        "D. 'to promote' should be 'promoting'"
+      ],
+      "answer": "B",
+      "explanation": "The subject 'paradigm' is singular, so the verb should be 'is' not 'are' to maintain subject-verb agreement.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "general",
+      "sentence": "For Lucien Lévy-Bruhl, a person is not self-contained, but the outcome of a lifelong process of living with anothers.",
+      "question": "Identify the grammatical error in the sentence:",
+      "options": [
+        "A. 'is not' should be 'are not'",
+        "B. 'lifelong' should be 'life-long'",
+        "C. 'anothers' should be 'others'",
+        "D. 'but' should be 'however'"
+      ],
+      "answer": "C",
+      "explanation": "'Others' is the correct plural form; 'anothers' is not a valid English word.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "general",
+      "sentence": "One school of training is highly personalised, technical and data-driven, the other is the one that wins marathons.",
+      "question": "Identify the grammatical error in the sentence:",
+      "options": [
+        "A. Missing comma after 'personalised'",
+        "B. Comma splice - should use semicolon or period",
+        "C. 'that' should be 'which'",
+        "D. 'highly' should be 'high'"
+      ],
+      "answer": "B",
+      "explanation": "This is a comma splice error. Two independent clauses should be separated by a semicolon, period, or conjunction, not just a comma.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 8,
+      "type": "context",
+      "source": "general",
+      "sentence": "Ethiopian runners' success suggests that _____ approaches may be more effective than purely scientific methods.",
+      "question": "Choose the most appropriate expression for this context about training philosophies:",
+      "options": [
+        "A. cutting-edge",
+        "B. time-honored",
+        "C. state-of-the-art",
+        "D. newfangled"
+      ],
+      "answer": "B",
+      "explanation": "Time-honored means traditional and respected over time, which contrasts appropriately with modern data-driven approaches.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 9,
+      "type": "context",
+      "source": "general",
+      "sentence": "The shift toward good-vs-evil narratives in storytelling didn't happen _____; it developed gradually over centuries.",
+      "question": "Choose the most appropriate expression for this context:",
+      "options": [
+        "A. in the long run",
+        "B. overnight",
+        "C. eventually",
+        "D. in due course"
+      ],
+      "answer": "B",
+      "explanation": "'Overnight' means suddenly or very quickly, which contrasts with 'gradually over centuries' to emphasize the slow development.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 10,
+      "type": "paraphrase",
+      "source": "general",
+      "sentence": "For Lucien Lévy-Bruhl, a person is not self-contained, but the outcome of a lifelong process of living with others: we before I.",
+      "question": "Paraphrase the following idea in your own words: According to Lévy-Bruhl, individual identity is shaped by our relationships with others throughout life, with collective identity preceding individual identity.",
+      "options": null,
+      "answer": null,
+      "explanation": "A good paraphrase should convey that personal identity develops through social connections and that community comes before individuality.",
+      "paraphrase_keywords": [
+        "social",
+        "identity",
+        "community",
+        "relationships",
+        "collective",
+        "individual",
+        "development",
+        "shaped"
+      ]
+    }
+  ]
+}
