@@ -1,0 +1,171 @@
+{
+  "date": "2026-05-05",
+  "generated_at": "2026-05-05T09:07:09.582476",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The research methodology required a _____ approach to ensure reliable results.",
+      "question": "Choose the word that best completes the sentence:",
+      "options": [
+        "A. fallback",
+        "B. systematic",
+        "C. random",
+        "D. casual"
+      ],
+      "answer": "B",
+      "explanation": "A 'systematic' approach means organized and methodical, which is essential for reliable research results.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "When the primary system failed, the team activated the _____ protocol.",
+      "question": "Choose the word that best completes the sentence:",
+      "options": [
+        "A. advanced",
+        "B. primary",
+        "C. fallback",
+        "D. dominant"
+      ],
+      "answer": "C",
+      "explanation": "A 'fallback' protocol is a backup plan used when the main system fails.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The experiment was designed for _____ purposes to validate the hypothesis.",
+      "question": "Choose the word that best completes the sentence:",
+      "options": [
+        "A. testing",
+        "B. commercial",
+        "C. entertainment",
+        "D. recreational"
+      ],
+      "answer": "A",
+      "explanation": "'Testing' purposes relates to validating hypotheses through experimental procedures in academic contexts.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The academic _____ provided a foundation for further investigation.",
+      "question": "Choose the word that best completes the sentence:",
+      "options": [
+        "A. gossip",
+        "B. text",
+        "C. rumor",
+        "D. fiction"
+      ],
+      "answer": "B",
+      "explanation": "An academic 'text' refers to scholarly writing that provides foundational knowledge for research.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 5,
+      "type": "grammar",
+      "source": "general",
+      "sentence": "Ancient Athenians chose leaders by lottery rather then elections.",
+      "question": "Identify the grammatical error in this sentence:",
+      "options": [
+        "A. 'chose' should be 'choose'",
+        "B. 'leaders' should be 'leader'",
+        "C. 'then' should be 'than'",
+        "D. 'by lottery' should be 'with lottery'"
+      ],
+      "answer": "C",
+      "explanation": "'Than' is used for comparisons, while 'then' indicates time. 'Rather than' is the correct comparative phrase.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "general",
+      "sentence": "Particles are nature's smallest constituents, but that don't mean they're fundamental.",
+      "question": "Identify the grammatical error in this sentence:",
+      "options": [
+        "A. 'nature's' should be 'natures'",
+        "B. 'don't' should be 'doesn't'",
+        "C. 'they're' should be 'their'",
+        "D. 'smallest' should be 'smaller'"
+      ],
+      "answer": "B",
+      "explanation": "The subject 'that' is singular, so the verb should be 'doesn't' (does not), not 'don't' (do not).",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "general",
+      "sentence": "A person is not self-contained, but the outcome of a lifelong process of living with other.",
+      "question": "Identify the grammatical error in this sentence:",
+      "options": [
+        "A. 'is not' should be 'are not'",
+        "B. 'outcome' should be 'outcomes'",
+        "C. 'lifelong' should be 'life-long'",
+        "D. 'other' should be 'others'"
+      ],
+      "answer": "D",
+      "explanation": "'Others' is the correct plural pronoun form when referring to multiple people.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 8,
+      "type": "context",
+      "source": "general",
+      "sentence": "Could this solve the problems _____ democracy today?",
+      "question": "Choose the most appropriate expression to complete the sentence:",
+      "options": [
+        "A. facing",
+        "B. faced",
+        "C. to face",
+        "D. having faced"
+      ],
+      "answer": "A",
+      "explanation": "'Facing' is the correct present participle that functions as an adjective modifying 'problems' in this context.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 9,
+      "type": "context",
+      "source": "general",
+      "sentence": "Personhood is the _____ of a lifelong process of living with others.",
+      "question": "Choose the most appropriate expression to complete the sentence:",
+      "options": [
+        "A. beginning",
+        "B. outcome",
+        "C. failure",
+        "D. rejection"
+      ],
+      "answer": "B",
+      "explanation": "'Outcome' correctly conveys that personhood results from the ongoing process of social interaction.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 10,
+      "type": "paraphrase",
+      "source": "general",
+      "sentence": "For Lucien Lévy-Bruhl, a person is not self-contained, but the outcome of a lifelong process of living with others: we before I.",
+      "question": "Paraphrase the following sentence in your own words, maintaining its meaning:",
+      "options": null,
+      "answer": null,
+      "explanation": "A good paraphrase should convey that individual identity develops through relationships with others throughout life, rather than existing independently.",
+      "paraphrase_keywords": [
+        "identity",
+        "relationships",
+        "social",
+        "development",
+        "collective",
+        "individual",
+        "community",
+        "formed",
+        "shaped"
+      ]
+    }
+  ]
+}
