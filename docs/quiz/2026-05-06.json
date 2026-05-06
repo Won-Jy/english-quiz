@@ -1,0 +1,170 @@
+{
+  "date": "2026-05-06",
+  "generated_at": "2026-05-06T09:22:50.265157",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The _____ text provided serves as a baseline for testing the system's functionality.",
+      "question": "Choose the best word to complete the sentence:",
+      "options": [
+        "A. fallback",
+        "B. primary",
+        "C. advanced",
+        "D. complex"
+      ],
+      "answer": "A",
+      "explanation": "A 'fallback' text is one used as a backup or default option when the main content is unavailable, which fits the testing context.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The research methodology was designed to _____ consistent results across multiple trials.",
+      "question": "Choose the best word to complete the sentence:",
+      "options": [
+        "A. generate",
+        "B. eliminate",
+        "C. contradict",
+        "D. obscure"
+      ],
+      "answer": "A",
+      "explanation": "'Generate' means to produce or create, which is appropriate when discussing consistent research results.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Scientists continue to investigate what constitutes the _____ building blocks of the universe.",
+      "question": "Choose the best word to complete the sentence:",
+      "options": [
+        "A. superficial",
+        "B. fundamental",
+        "C. temporary",
+        "D. peripheral"
+      ],
+      "answer": "B",
+      "explanation": "'Fundamental' refers to the most basic or essential elements, fitting the discussion of nature's smallest constituents.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The particles are described as nature's smallest _____, though their fundamental nature remains debated.",
+      "question": "Choose the best word to complete the sentence:",
+      "options": [
+        "A. constituents",
+        "B. observations",
+        "C. assumptions",
+        "D. regulations"
+      ],
+      "answer": "A",
+      "explanation": "'Constituents' refers to component parts that make up a whole, accurately describing particles as building blocks of nature.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 5,
+      "type": "grammar",
+      "source": "general",
+      "sentence": "Ancient Athenians choosed leaders by lottery rather than elections.",
+      "question": "Identify the grammatical error in this sentence:",
+      "options": [
+        "A. 'Ancient' should be 'Anciently'",
+        "B. 'choosed' should be 'chose'",
+        "C. 'by lottery' should be 'with lottery'",
+        "D. 'rather than' should be 'instead'"
+      ],
+      "answer": "B",
+      "explanation": "The past tense of 'choose' is the irregular form 'chose', not 'choosed'.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "general",
+      "sentence": "Brilliance and kindness shines brightest when far from the comfortable centre.",
+      "question": "Identify the grammatical error in this sentence:",
+      "options": [
+        "A. 'Brilliance' should be 'Brilliant'",
+        "B. 'shines' should be 'shine'",
+        "C. 'brightest' should be 'brightly'",
+        "D. 'far from' should be 'farther from'"
+      ],
+      "answer": "B",
+      "explanation": "The compound subject 'Brilliance and kindness' requires the plural verb 'shine', not the singular 'shines'.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "general",
+      "sentence": "Could this solves the problems facing democracy today?",
+      "question": "Identify the grammatical error in this sentence:",
+      "options": [
+        "A. 'Could' should be 'Can'",
+        "B. 'solves' should be 'solve'",
+        "C. 'facing' should be 'faced'",
+        "D. 'today' should be 'nowadays'"
+      ],
+      "answer": "B",
+      "explanation": "After modal verbs like 'could', the base form of the verb is required: 'solve', not 'solves'.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 8,
+      "type": "context",
+      "source": "general",
+      "sentence": "The author suggests that creativity and innovation tend to _____ in unexpected places away from mainstream society.",
+      "question": "Choose the most appropriate expression to complete the sentence based on the context:",
+      "options": [
+        "A. fade away",
+        "B. flourish",
+        "C. stagnate",
+        "D. diminish"
+      ],
+      "answer": "B",
+      "explanation": "The text states that brilliance 'shines brightest' at the edge, suggesting creativity thrives or flourishes in peripheral areas.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 9,
+      "type": "context",
+      "source": "general",
+      "sentence": "The question of whether reality can be explained solely by its smallest parts remains _____.",
+      "question": "Choose the most appropriate expression to complete the sentence based on the context:",
+      "options": [
+        "A. settled",
+        "B. irrelevant",
+        "C. open to debate",
+        "D. universally accepted"
+      ],
+      "answer": "C",
+      "explanation": "The text questions whether particles being small means they're fundamental, indicating the issue remains debatable.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 10,
+      "type": "paraphrase",
+      "source": "general",
+      "sentence": "Particles are nature's smallest constituents, but that doesn't mean they're fundamental.",
+      "question": "Paraphrase the following sentence in your own words while maintaining its meaning:",
+      "options": null,
+      "answer": null,
+      "explanation": "A good paraphrase should convey that while particles are the tiniest components of nature, this doesn't necessarily make them the most basic or essential elements of reality.",
+      "paraphrase_keywords": [
+        "smallest",
+        "particles",
+        "basic",
+        "essential",
+        "nature",
+        "components",
+        "not necessarily",
+        "fundamental"
+      ]
+    }
+  ]
+}
