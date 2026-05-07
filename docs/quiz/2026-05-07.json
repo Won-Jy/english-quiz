@@ -1,0 +1,171 @@
+{
+  "date": "2026-05-07",
+  "generated_at": "2026-05-07T09:32:04.550826",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The researcher conducted a _____ analysis of the data to ensure accuracy.",
+      "question": "Choose the best word to complete the sentence.",
+      "options": [
+        "A. rigorous",
+        "B. rigidly",
+        "C. rigorously",
+        "D. rigor"
+      ],
+      "answer": "A",
+      "explanation": "The adjective 'rigorous' is needed to modify the noun 'analysis.' It means thorough and careful.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The study aimed to _____ the relationship between diet and cognitive function.",
+      "question": "Choose the best word to complete the sentence.",
+      "options": [
+        "A. elucidate",
+        "B. eliminate",
+        "C. elaborate",
+        "D. elevate"
+      ],
+      "answer": "A",
+      "explanation": "'Elucidate' means to make something clear or explain, which fits the context of a study examining a relationship.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The findings were _____ with previous research on the topic.",
+      "question": "Choose the best word to complete the sentence.",
+      "options": [
+        "A. consistent",
+        "B. consisted",
+        "C. consistency",
+        "D. consisting"
+      ],
+      "answer": "A",
+      "explanation": "The adjective 'consistent' is needed after the verb 'were' to describe the findings as agreeing with previous research.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The _____ of the experiment was to test the new hypothesis under controlled conditions.",
+      "question": "Choose the best word to complete the sentence.",
+      "options": [
+        "A. objective",
+        "B. objection",
+        "C. objectively",
+        "D. objectify"
+      ],
+      "answer": "A",
+      "explanation": "'Objective' as a noun means the goal or purpose, which fits the context of describing the aim of an experiment.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 5,
+      "type": "grammar",
+      "source": "general",
+      "sentence": "In rural Iran, Sahar faces a stark choice: staying at home to look after her father, or going to the city to pursue her education.",
+      "question": "Identify the sentence with the grammatical error.",
+      "options": [
+        "A. In rural Iran, Sahar faces a stark choice.",
+        "B. She must choose between stay or go.",
+        "C. Sahar faces a difficult decision about her future.",
+        "D. The choice is between family and education."
+      ],
+      "answer": "B",
+      "explanation": "Option B is incorrect because 'between' requires parallel infinitives: 'between staying or going' or 'between to stay or to go.'",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "general",
+      "sentence": "Ancient Athenians chose leaders by lottery rather than elections.",
+      "question": "Which sentence contains a grammatical error?",
+      "options": [
+        "A. The Athenians chose their leaders differently.",
+        "B. Could this method works for modern democracy?",
+        "C. Elections were not the primary method.",
+        "D. This approach might solve current problems."
+      ],
+      "answer": "B",
+      "explanation": "Option B is incorrect because modal verbs like 'could' must be followed by the base form of the verb: 'Could this method work.'",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "general",
+      "sentence": "Brilliance and kindness shine brightest when far from the comfortable centre.",
+      "question": "Which sentence contains a grammatical error?",
+      "options": [
+        "A. Creativity shines brightest at the edges.",
+        "B. Nature is more generative there too.",
+        "C. The person standing on the cliff look thoughtful.",
+        "D. Even nature shows more growth in such places."
+      ],
+      "answer": "C",
+      "explanation": "Option C is incorrect because the singular subject 'person' requires the singular verb 'looks,' not 'look.'",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 8,
+      "type": "context",
+      "source": "general",
+      "sentence": "Sahar is at a _____ in her life, having to decide between family duty and personal ambition.",
+      "question": "Choose the most appropriate expression for this context.",
+      "options": [
+        "A. crossroads",
+        "B. dead end",
+        "C. highway",
+        "D. shortcut"
+      ],
+      "answer": "A",
+      "explanation": "'Crossroads' is an idiomatic expression meaning a critical point where an important decision must be made.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 9,
+      "type": "context",
+      "source": "general",
+      "sentence": "The ancient method of choosing leaders by lottery might _____ the problems facing modern democracy.",
+      "question": "Choose the most appropriate expression for this context.",
+      "options": [
+        "A. address",
+        "B. ignore",
+        "C. worsen",
+        "D. overlook"
+      ],
+      "answer": "A",
+      "explanation": "'Address' means to deal with or tackle a problem, which fits the context of finding solutions for democratic issues.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 10,
+      "type": "paraphrase",
+      "source": "general",
+      "sentence": "Brilliance and kindness shine brightest when far from the comfortable centre. Even nature is more generative there too.",
+      "question": "Paraphrase the following statement in your own words: 'Brilliance and kindness shine brightest when far from the comfortable centre.'",
+      "options": null,
+      "answer": null,
+      "explanation": "A good paraphrase should convey that exceptional qualities like talent and compassion are most visible or impactful in challenging or marginal environments, away from mainstream comfort.",
+      "paraphrase_keywords": [
+        "creativity",
+        "edge",
+        "margin",
+        "outside",
+        "boundary",
+        "talent",
+        "compassion",
+        "challenge",
+        "unconventional"
+      ]
+    }
+  ]
+}
