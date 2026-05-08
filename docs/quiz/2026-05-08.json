@@ -1,0 +1,175 @@
+{
+  "date": "2026-05-08",
+  "generated_at": "2026-05-08T08:21:15.306074",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The _____ text provided insufficient material for comprehensive analysis.",
+      "question": "Choose the correct word that means 'a backup or alternative option when the primary choice is unavailable':",
+      "options": [
+        "A. fallback",
+        "B. feedback",
+        "C. setback",
+        "D. drawback"
+      ],
+      "answer": "A",
+      "explanation": "Fallback refers to an alternative plan or position to retreat to when the original fails or is unavailable.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Scientists are conducting rigorous _____ to validate their hypothesis.",
+      "question": "Choose the correct word that means 'the process of examining something methodically':",
+      "options": [
+        "A. texting",
+        "B. testing",
+        "C. tasting",
+        "D. trusting"
+      ],
+      "answer": "B",
+      "explanation": "Testing refers to the systematic examination or evaluation of something to determine its quality, performance, or reliability.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The research paper requires _____ content that meets scholarly standards.",
+      "question": "Choose the correct word that means 'relating to education and scholarship':",
+      "options": [
+        "A. authentic",
+        "B. automatic",
+        "C. academic",
+        "D. aesthetic"
+      ],
+      "answer": "C",
+      "explanation": "Academic refers to matters relating to education, especially in colleges and universities, or scholarly work.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The _____ provided serves as a foundation for further investigation.",
+      "question": "Choose the correct word that means 'written or printed material that provides information':",
+      "options": [
+        "A. textile",
+        "B. text",
+        "C. context",
+        "D. pretext"
+      ],
+      "answer": "B",
+      "explanation": "Text refers to written or printed words that form the main body of a publication or document.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 5,
+      "type": "grammar",
+      "source": "general",
+      "sentence": "Genetic studies supports what historians have argued for decades about ancient India.",
+      "question": "Identify the grammatical error in this sentence:",
+      "options": [
+        "A. 'supports' should be 'support'",
+        "B. 'have argued' should be 'has argued'",
+        "C. 'for decades' should be 'since decades'",
+        "D. 'about' should be 'on'"
+      ],
+      "answer": "A",
+      "explanation": "The subject 'Genetic studies' is plural, so the verb should be 'support' not 'supports' to ensure subject-verb agreement.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "general",
+      "sentence": "In rural Iran, Sahar faces a stark choice: staying at home to look after her father, or going to the city to pursue her education.",
+      "question": "Identify the grammatical issue in this sentence:",
+      "options": [
+        "A. 'faces' should be 'is facing'",
+        "B. 'staying' and 'going' should be 'stay' and 'go'",
+        "C. 'look after' should be 'looking after'",
+        "D. The sentence is grammatically correct"
+      ],
+      "answer": "B",
+      "explanation": "After 'choice,' the infinitive form ('stay' and 'go') is more appropriate than gerunds when presenting alternatives.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "general",
+      "sentence": "What if the tools for sustainable space exploration could be founded in cellular life on Earth?",
+      "question": "Identify the grammatical error in this sentence:",
+      "options": [
+        "A. 'What if' should be 'What about'",
+        "B. 'could be founded' should be 'could be found'",
+        "C. 'in cellular life' should be 'on cellular life'",
+        "D. 'on Earth' should be 'in Earth'"
+      ],
+      "answer": "B",
+      "explanation": "'Found' is the correct past participle of 'find' meaning to discover. 'Founded' means to establish an organization.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 8,
+      "type": "context",
+      "source": "general",
+      "sentence": "A teen girl _____ in this stirring portrait of rural Iran.",
+      "question": "Choose the expression that best fits the context of someone facing a difficult decision point:",
+      "options": [
+        "A. hits the road",
+        "B. hits a crossroads",
+        "C. hits the books",
+        "D. hits the ceiling"
+      ],
+      "answer": "B",
+      "explanation": "'Hits a crossroads' is an idiom meaning to reach a point where an important decision must be made, fitting the context of Sahar's choice.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 9,
+      "type": "context",
+      "source": "general",
+      "sentence": "Ancient India was _____ waves of migration and mixing.",
+      "question": "Choose the correct expression to describe how something was influenced or formed:",
+      "options": [
+        "A. shaped by",
+        "B. shaped for",
+        "C. shaped into",
+        "D. shaped with"
+      ],
+      "answer": "A",
+      "explanation": "'Shaped by' is the correct collocation meaning to be influenced or formed by external factors or forces.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 10,
+      "type": "paraphrase",
+      "source": "general",
+      "sentence": "Genetic studies support what historians have argued for decades: ancient India was a place of migration and mixture.",
+      "question": "Paraphrase the following sentence in your own words while maintaining its meaning:",
+      "options": null,
+      "answer": null,
+      "explanation": "A good paraphrase should convey that DNA research confirms long-held historical claims about population movements and cultural blending in ancient India.",
+      "paraphrase_keywords": [
+        "DNA",
+        "genetics",
+        "science",
+        "confirms",
+        "validates",
+        "historians",
+        "scholars",
+        "migration",
+        "movement",
+        "mixing",
+        "blending",
+        "ancient",
+        "India"
+      ]
+    }
+  ]
+}
