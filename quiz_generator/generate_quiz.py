@@ -136,7 +136,7 @@ For paraphrase: options=null, answer=null."""
 def generate_questions(academic_texts, general_texts, everyday_texts):
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
     response = client.messages.create(
-        model="claude-sonnet-4-5-20251001",
+        model="claude-haiku-4-5-20251001",
         max_tokens=6000,
         system=SYSTEM_PROMPT,
         messages=[{"role": "user", "content": build_prompt(academic_texts, general_texts, everyday_texts)}],
