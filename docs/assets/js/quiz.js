@@ -179,7 +179,19 @@ function showFeedback(q, answerData) {
 // ── Claude API 채점 (paraphrase) ─────────────────────────────────────────────
 
 async function gradeParaphrase(q, userText) {
-  const response = await fetch("https://api.anthropic.com/v1/messages", {
+  // CORS 우회: 키워드 매칭 기반 자동 채점 + 모범답안 제시
+  const keywords = q.paraphrase_keywords || [];
+  const lower = userText.toLowerCase();
+  const matched = keywords.filter(k => lower.includes(k.toLowerCase()));
+  const score = matched.length >= keywords.length * 0.6 ? 3
+              : matched.length >= keywords.length * 0.3 ? 2
+              : matched.length > 0 ? 1 : 0;
+
+  return {
+    score,
+    feedback: `핵심 키워드 ${keywords.length}개 중 ${matched.length}개 포함 (${keywords.join(", ")}). 스스로 원문과 비교해보세요.`
+  };
+}
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({
