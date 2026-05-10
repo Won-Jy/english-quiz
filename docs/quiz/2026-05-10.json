@@ -1,0 +1,233 @@
+{
+  "date": "2026-05-10",
+  "generated_at": "2026-05-10T22:58:34.708262",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Thousands of marchers flooded the thoroughfares of Venice to protest the presence of Israel at the Venice Biennale, with many national pavilions _______ in solidarity.",
+      "question": "Choose the word that best completes the sentence.",
+      "options": [
+        "A. shuttering",
+        "B. clustering",
+        "C. mustering",
+        "D. blustering"
+      ],
+      "answer": "A",
+      "explanation": "Shuttering means closing temporarily, especially in protest or as a business action, which fits the context of pavilions closing in solidarity. Clustering means gathering together, mustering means assembling or gathering (often troops), and blustering means speaking aggressively or boastfully—none of which make sense for pavilions closing.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The award, considered Australia's top portrait honor, is presented annually in _______ of the best portrait of an individual distinguished in art, letters, science or politics.",
+      "question": "Choose the word that best completes the sentence.",
+      "options": [
+        "A. recognition",
+        "B. cognition",
+        "C. reclamation",
+        "D. reconciliation"
+      ],
+      "answer": "A",
+      "explanation": "Recognition means acknowledgment or appreciation of achievement, which fits the context of presenting an award. Cognition refers to mental processes of knowing, reclamation means recovering something lost, and reconciliation means restoring friendly relations—none of which suit the context of award presentation.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Last year Amahle-Imvelo Jaxa posted a TikTok video about South African peacekeepers in the Democratic Republic of the Congo. This breakout video enabled Jaxa to _______ from being a marketing and restaurant entrepreneur to a professional yapper and current affairs enthusiast.",
+      "question": "Choose the word that best completes the sentence.",
+      "options": [
+        "A. pivot",
+        "B. gravitate",
+        "C. oscillate",
+        "D. meander"
+      ],
+      "answer": "A",
+      "explanation": "Pivot means to make a fundamental change in direction or strategy, perfectly describing a career shift. Gravitate means to move toward something gradually, oscillate means to swing back and forth, and meander means to wander aimlessly—none of which capture the decisive career change described.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Things have jobs: pillows are made for comfort, scissors are sharp, and digital devices are made to track your every move—a reality that raises profound questions about technological _______.",
+      "question": "Choose the word that best completes the sentence.",
+      "options": [
+        "A. surveillance",
+        "B. conveyance",
+        "C. deliverance",
+        "D. observance"
+      ],
+      "answer": "A",
+      "explanation": "Surveillance means close observation or monitoring, especially for security purposes, which fits the context of devices tracking movements. Conveyance means transportation or communication, deliverance means rescue or liberation, and observance means compliance with rules or traditions—none of which relate to tracking movements.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Moroccan searchers found the remains on Saturday in the water within a mile of where the soldier went missing during a training exercise near a _______ cliff in Cap Draa.",
+      "question": "Choose the word that best completes the sentence, emphasizing the dangerous nature of the cliff.",
+      "options": [
+        "A. precipitous",
+        "B. propitious",
+        "C. perspicacious",
+        "D. precipitate"
+      ],
+      "answer": "A",
+      "explanation": "Precipitous means dangerously steep, which describes a cliff where someone might go missing. Propitious means favorable or auspicious, perspicacious means having keen judgment, and precipitate (as an adjective) means hasty or rash—none of which describe the physical nature of a cliff.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Richard Lewer, _______ work explores themes of masculinity and labor, has won multiple prestigious awards.",
+      "question": "Choose the correct relative pronoun to complete the sentence.",
+      "options": [
+        "A. whose",
+        "B. who's",
+        "C. which",
+        "D. that"
+      ],
+      "answer": "A",
+      "explanation": "This is a non-defining relative clause providing extra information about Richard Lewer. 'Whose' shows possession (his work). 'Who's' is a contraction of 'who is,' 'which' is for things not people in this possessive context, and 'that' cannot be used in non-defining relative clauses with commas.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The curator believes that _______ art serves as a mirror to society, reflecting both its achievements and its failures.",
+      "question": "Choose the correct article or no article (zero article).",
+      "options": [
+        "A. (no article)",
+        "B. the",
+        "C. an",
+        "D. a"
+      ],
+      "answer": "A",
+      "explanation": "When discussing abstract concepts in their general sense, English typically uses the zero article. Here, 'art' refers to art in general as a concept, not a specific type or piece of art. Using 'the' would suggest a specific, previously mentioned art, which doesn't fit the philosophical statement being made.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "No sooner _______ the exhibition opened than critics began questioning its political implications.",
+      "question": "Choose the correct verb form to complete the sentence.",
+      "options": [
+        "A. had",
+        "B. has",
+        "C. did",
+        "D. have"
+      ],
+      "answer": "A",
+      "explanation": "After the negative adverbial 'No sooner,' we use inversion with the auxiliary verb before the subject. The structure is 'No sooner had + subject + past participle + than...' to show that one event immediately preceded another. 'Has' is wrong tense, 'did' requires base form not past participle, and 'have' doesn't agree with the past time reference.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The museum board insisted that every pavilion _______ its political affiliations clearly to avoid controversy.",
+      "question": "Choose the correct verb form to complete the sentence.",
+      "options": [
+        "A. declare",
+        "B. declares",
+        "C. declared",
+        "D. would declare"
+      ],
+      "answer": "A",
+      "explanation": "After verbs of insistence, recommendation, or demand (insisted, suggest, recommend), we use the subjunctive mood in the that-clause. In modern English, this means using the base form of the verb without 's' for third person singular. 'Declares' adds an incorrect 's,' 'declared' is past tense, and 'would declare' is conditional, not subjunctive.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "If the organizers _______ the controversial decision earlier, the international backlash could have been avoided.",
+      "question": "Choose the correct verb form to complete the sentence.",
+      "options": [
+        "A. had reconsidered",
+        "B. reconsidered",
+        "C. would reconsider",
+        "D. would have reconsidered"
+      ],
+      "answer": "A",
+      "explanation": "This is a third conditional sentence expressing an unreal past condition and its hypothetical past result. The structure requires 'if + past perfect' (had reconsidered) in the condition clause and 'would/could/might have + past participle' in the result clause. 'Reconsidered' is second conditional (unreal present), while 'would reconsider' and 'would have reconsidered' are result clause forms, not condition clause forms.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "After three hours of heated discussion, the committee finally decided to _______ the proposal until the next quarterly meeting.",
+      "question": "Choose the most natural expression to complete the sentence.",
+      "options": [
+        "A. table",
+        "B. desk",
+        "C. shelf",
+        "D. bench"
+      ],
+      "answer": "A",
+      "explanation": "'Table' (meaning to postpone or set aside for later discussion) is the standard idiomatic expression in formal committee contexts. While 'shelf' exists in the phrase 'put on the shelf,' it's less formal and common in official settings. 'Desk' and 'bench' are not idiomatic in this context.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "I know the report is due tomorrow, but I'm afraid I'll need to _______ for an extension because of the unexpected data complications.",
+      "question": "Choose the most natural expression to complete the sentence.",
+      "options": [
+        "A. ask",
+        "B. beg",
+        "C. request",
+        "D. demand"
+      ],
+      "answer": "A",
+      "explanation": "In everyday spoken English, 'ask for' is the most natural and common choice when requesting an extension. 'Request' is more formal and less conversational. 'Beg' implies desperation and is too strong, while 'demand' suggests entitlement and is inappropriate when seeking a favor.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "She's been studying for the exam all week, so I'm sure she'll _______ just fine tomorrow.",
+      "question": "Choose the most natural expression to complete the sentence.",
+      "options": [
+        "A. do",
+        "B. make",
+        "C. go",
+        "D. perform"
+      ],
+      "answer": "A",
+      "explanation": "'Do' is the most natural everyday choice when talking about performance on tests or in general situations (do well, do fine, do badly). 'Perform' is too formal for casual conversation about exams. 'Make' doesn't collocate naturally with 'fine' in this context, and 'go' would need a different structure (go well, not go fine).",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "Thousands of marchers flooded the thoroughfares of Venice to protest the presence of Israel at the Venice Biennale, with many national pavilions shuttering in solidarity.",
+      "question": "Rewrite this sentence in your own words, preserving the core meaning.",
+      "options": null,
+      "answer": null,
+      "explanation": "A strong paraphrase should capture the mass demonstration against Israel's participation at the Venice art exhibition, the large number of protesters filling the streets, and the sympathetic closure of multiple country pavilions. Key elements include: protest action, location (Venice), reason (Israel's presence at art event), and pavilions closing in support.",
+      "paraphrase_keywords": [
+        "protest",
+        "Venice",
+        "Israel",
+        "Biennale",
+        "pavilions",
+        "solidarity",
+        "closure"
+      ]
+    }
+  ]
+}
