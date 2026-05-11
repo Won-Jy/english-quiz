@@ -1,0 +1,217 @@
+{
+  "date": "2026-05-11",
+  "generated_at": "2026-05-11T22:14:32.479364",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Bruno Bischofberger played a crucial role in introducing US Pop artists to Europe and forged close relationships with major figures in the contemporary art world.",
+      "question": "In this context, 'forged' most closely means:",
+      "options": [
+        "A. Created or established through effort and skill",
+        "B. Falsified or counterfeited documents",
+        "C. Heated and shaped metal",
+        "D. Moved forward forcefully"
+      ],
+      "answer": "A",
+      "explanation": "In academic and professional contexts, 'forged' means to establish or create something substantial and lasting, often through deliberate effort. Options B and C are valid definitions of 'forge' but do not fit this context about relationships. Option D is too vague and colloquial."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Susan Fisher Sterling spent close to four decades at the institution overall, having joined in 1988 as an associate curator just one year after the museum's founding.",
+      "question": "The word 'tenure' in professional contexts most accurately refers to:",
+      "options": [
+        "A. A period of holding a position or office",
+        "B. The quality of being temporary",
+        "C. A written contract document",
+        "D. The rank achieved in a career"
+      ],
+      "answer": "A",
+      "explanation": "Tenure refers to a continuous period during which someone holds a position. While B might seem opposite, it is not the definition; C is too narrow (tenure is the period, not the contract); D confuses tenure with promotion or rank."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The emotional and practical skills of adulthood can only be learned from (appropriate) levels of discomfort and stress.",
+      "question": "Which word best captures the sense of 'appropriate levels' in this sentence?",
+      "options": [
+        "A. Suitable or proper in quantity and degree",
+        "B. Legally permissible",
+        "C. Fashionable or trendy",
+        "D. Deliberately chosen for a specific purpose"
+      ],
+      "answer": "A",
+      "explanation": "In this context, 'appropriate' means fitting or suitable in terms of degree and measure. Option B refers to legal appropriateness; C is not relevant; D suggests intentional selection but misses the core meaning of 'fitting in degree.'"
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Temperatures soar in California and Arizona, while deluge continues across Western and Northern Cape.",
+      "question": "'Deluge' in meteorological reporting most accurately means:",
+      "options": [
+        "A. A sudden, violent flood of water",
+        "B. An overwhelming rush or quantity of something",
+        "C. A period of heavy, continuous rainfall",
+        "D. A disaster or catastrophe"
+      ],
+      "answer": "C",
+      "explanation": "In weather contexts, 'deluge' refers to heavy, persistent rain. While A and B are valid definitions, they are too broad for the specific meteorological context; D is overly dramatic and lacks precision."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "A search team recovered the body of a US soldier who went missing near a cliff during a training exercise in Cap Draa, Morocco.",
+      "question": "The phrase 'went missing' suggests:",
+      "options": [
+        "A. Deliberately chose to disappear",
+        "B. Disappeared under circumstances not yet fully explained",
+        "C. Was late returning from an assignment",
+        "D. Became lost due to carelessness"
+      ],
+      "answer": "B",
+      "explanation": "'Went missing' is a neutral phrase used when someone disappears without immediately clear explanation. Option A suggests intentionality not supported by the text; C and D are too specific and imply judgments not warranted by the phrase itself."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The scientist argued that knowledge itself requires continuous revision, and that progress in understanding demands humility.",
+      "question": "Which article use is correct in: 'The relationship between _____ theory and _____ practice remains contested.'",
+      "options": [
+        "A. the / the",
+        "B. a / a",
+        "C. the / ∅ (zero article)",
+        "D. ∅ (zero article) / ∅ (zero article)"
+      ],
+      "answer": "C",
+      "explanation": "In this context, 'the theory' uses the definite article because it refers to a specific, abstract concept being discussed. 'Practice' (plural or uncountable in its general sense) takes the zero article when used as a general concept. Option A uses the definite article twice, which is acceptable but less natural; B incorrectly treats both as countable singular; D misses the specificity of theory."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The committee decided that such measures should not have been necessary, given their previous discussions.",
+      "question": "Which modal construction correctly expresses criticism for an unnecessary past action?",
+      "options": [
+        "A. This approach must have been more efficient.",
+        "B. This approach should have been reconsidered earlier.",
+        "C. This approach needn't have taken so long.",
+        "D. This approach may have been problematic."
+      ],
+      "answer": "B",
+      "explanation": "'Should have' + past participle expresses criticism or mild blame for what was done. Option A (must have) indicates strong likelihood, not criticism; C (needn't have) means something wasn't necessary but provides no criticism; D (may have) expresses possibility, not criticism."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The director stopped overseeing daily operations to focus on strategic planning.",
+      "question": "Which sentence best demonstrates a change in meaning based on gerund vs. infinitive?",
+      "options": [
+        "A. She forgot locking the door / She forgot to lock the door.",
+        "B. She enjoys reading reports / She enjoys to read reports.",
+        "C. She likes working efficiently / She likes to work efficiently.",
+        "D. She prefers discussing issues / She prefers to discuss issues."
+      ],
+      "answer": "A",
+      "explanation": "'Forgot + gerund' means she forgot that she had already locked the door; 'forgot + infinitive' means she failed to lock the door. This shows genuine semantic change. Options B and D show grammatical (B is ungrammatical) or stylistic variation, not meaning change; C shows minimal semantic difference."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "He had been working on the project for three weeks before he realized a fundamental error in his approach.",
+      "question": "Which sentence correctly uses the past perfect to show sequence of two past events?",
+      "options": [
+        "A. After he finished the report, he submitted it to his supervisor.",
+        "B. He had finished the report before he submitted it to his supervisor.",
+        "C. He finished the report before he submitted it to his supervisor.",
+        "D. He has finished the report before he submits it to his supervisor."
+      ],
+      "answer": "B",
+      "explanation": "The past perfect (had finished) is used with a second past action (submitted) to show which past action happened first, especially important when the timeline might be ambiguous. Option A uses simple past for both, which is acceptable but less explicit; C also works but less emphatic; D uses present perfect and simple present, which are incorrect for a purely past scenario."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "The committee, which had been meeting every Tuesday, finally reached a consensus on the proposed changes.",
+      "question": "What is the function of the relative clause in brackets: 'The report [which was published yesterday] has already influenced policy discussions.'",
+      "options": [
+        "A. It provides essential information to identify which report is meant (defining).",
+        "B. It provides additional, non-essential information about the report (non-defining).",
+        "C. It restricts the scope of the sentence to only recent publications.",
+        "D. It changes the tense of the main clause."
+      ],
+      "answer": "B",
+      "explanation": "Non-defining relative clauses (set off by commas or brackets) provide extra information about an already-identified noun. Here, 'the report' is already specific enough; the clause adds extra detail. A describes a defining clause (no commas), which would be 'The report that was published yesterday...'; C and D incorrectly describe grammatical functions."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "She had no sooner sat down than the phone rang again.",
+      "question": "Which expression is most natural in everyday speech to convey the same timing?",
+      "options": [
+        "A. The moment she sat down, the phone rang.",
+        "B. She sat down, and then the phone rang.",
+        "C. Right after she sat down, the phone rang.",
+        "D. No sooner had she sat than the phone rang."
+      ],
+      "answer": "A",
+      "explanation": "'The moment' + clause is natural and clear for expressing immediate sequence. B is vague about timing; C works but is slightly less natural than A; D is correct grammatically but archaic in everyday speech and matches the original construction rather than offering a natural alternative."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "He suggested that the team reconsider its approach, given the new information that had emerged.",
+      "question": "Which phrasing is most natural for a workplace suggestion?",
+      "options": [
+        "A. He suggested they should reconsider the approach because new information came out.",
+        "B. He said the team ought to reconsider given the emergent data.",
+        "C. He recommended that the approach be reconsidered in light of new findings.",
+        "D. He thought they might want to think again about their way of doing things."
+      ],
+      "answer": "A",
+      "explanation": "A is clear, professional, and natural for workplace communication. B uses 'ought to,' which is less common in modern English; C is overly formal with subjunctive mood; D is too casual and vague for professional context."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The more carefully he read the contract, the more concerned he became about its implications.",
+      "question": "Which expression most naturally conveys the same cause-and-effect relationship?",
+      "options": [
+        "A. As he read the contract more carefully, his concerns increased.",
+        "B. He read the contract carefully, which made him worried about what it meant.",
+        "C. The careful reading of the contract concerned him increasingly.",
+        "D. Reading the contract carefully caused him to become more concerned."
+      ],
+      "answer": "A",
+      "explanation": "A captures the proportional relationship (the more X, the more Y) in natural, fluent English. B and D work but are less elegant; C is awkward and loses the cause-effect clarity of the original parallel structure."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "Bischofberger played a crucial role in introducing US Pop artists to Europe and forged close relationships with major figures in the contemporary art world.",
+      "question": "Rewrite this sentence in your own words, capturing its core meaning.",
+      "options": null,
+      "answer": null,
+      "explanation": "This sentence should be rewritten to show understanding of: (1) Bischofberger's role as an intermediary or facilitator, (2) the introduction/exposure of American artists to a European audience, and (3) his establishment of important professional relationships. Key concepts include 'broker,' 'promoted,' 'connected,' 'transatlantic exchange,' and 'network.'",
+      "paraphrase_keywords": [
+        "facilitated introduction of American artists",
+        "connected to European market",
+        "established key relationships",
+        "cultural exchange"
+      ]
+    }
+  ]
+}
