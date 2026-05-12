@@ -1,0 +1,231 @@
+{
+  "date": "2026-05-12",
+  "generated_at": "2026-05-12T22:19:15.263948",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The controversies beleaguering this year's edition of the Venice Biennale continue to pile up.",
+      "question": "What does 'beleaguering' most closely mean in this context?",
+      "options": [
+        "A. Celebrating and promoting",
+        "B. Harassing, besetting, or causing persistent difficulties to",
+        "C. Financially supporting",
+        "D. Publicly advertising"
+      ],
+      "answer": "B",
+      "explanation": "Beleaguer means to trouble, pester, or surround with difficulties. In the sentence, it describes how controversies persistently plague the Biennale. Option A is opposite in meaning; C and D are unrelated to the sense of ongoing problems.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Xue Tan works with artists on commission-based exhibitions, most recently with Cyprien Gaillard and other contemporary figures.",
+      "question": "In academic curatorial contexts, what does 'commission-based' primarily indicate?",
+      "options": [
+        "A. Exhibitions funded by commercial sponsors only",
+        "B. Artworks or exhibitions created specifically to order or request by an institution",
+        "C. Works sold exclusively through auction houses",
+        "D. Temporary displays that rotate monthly"
+      ],
+      "answer": "B",
+      "explanation": "Commission-based means created specifically at the request or order of a commissioning party (in this case, the curator or institution). Option A is too narrow; C conflates commissioning with sales mechanisms; D is about display duration, not the basis of creation.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The number of internal displacements triggered by conflict or violence around the world reached a record high in 2025, surpassing the number of disaster-driven internal displacements for the first time.",
+      "question": "Which word best captures the core meaning of 'surpassing' in this sentence?",
+      "options": [
+        "A. Ignoring",
+        "B. Exceeding or going beyond",
+        "C. Accompanying",
+        "D. Contradicting"
+      ],
+      "answer": "B",
+      "explanation": "Surpass means to exceed, go beyond, or be greater than a previous benchmark. The sentence states conflict-driven displacements now outnumber disaster-driven ones for the first time, which is the definition of surpassing. Options A, C, and D do not fit this comparative meaning.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "It was a fairytale ending to the World Athletics Relays in Gaborone, with Botswana's team securing victory in the final stride.",
+      "question": "The phrase 'fairytale ending' conveys which sense?",
+      "options": [
+        "A. A fictional, invented account with no factual basis",
+        "B. An unexpectedly happy, fortunate, or storybook-like conclusion",
+        "C. A disappointing and realistic outcome",
+        "D. A conclusion involving magical creatures"
+      ],
+      "answer": "B",
+      "explanation": "A fairytale ending metaphorically describes an outcome that is wonderfully happy, fortunate, or dramatically satisfying—like a narrative from fiction. It does not mean the event was actually fictional (A) or involve actual magic (D). Option C contradicts the positive sense of 'fairytale.'",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The involvement of an Italian cocurator is overtly colonial in its implications and structural dynamics.",
+      "question": "What does 'overtly' mean in this academic passage?",
+      "options": [
+        "A. Secretly or covertly",
+        "B. Openly, plainly, or without concealment",
+        "C. Indirectly or by implication",
+        "D. Regrettably or unfortunately"
+      ],
+      "answer": "B",
+      "explanation": "Overtly means openly, plainly, or in a way that is obvious and not hidden. It is the opposite of 'covertly' (option A). Option C suggests indirectness, which contradicts overt; option D is an adverb of affect, not visibility.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The impact of these displaced communities, combined with the institutional failures documented in reports, _____ become increasingly visible to policymakers.",
+      "question": "Which verb form correctly completes this sentence with an inverted or complex subject?",
+      "options": [
+        "A. has",
+        "B. have",
+        "C. do",
+        "D. does"
+      ],
+      "answer": "A",
+      "explanation": "The subject is 'the impact' (singular), which is the head noun; the phrase 'combined with the institutional failures' is a modifier. Singular subjects take 'has' in present perfect. 'Have' (B) would be plural; 'do/does' (C, D) are present tense, not present perfect required by 'become.'",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The curator's recent exhibitions, which have drawn international acclaim, showcase emerging artists from underrepresented regions.",
+      "question": "What is the primary function of the relative clause in this sentence?",
+      "options": [
+        "A. It is a defining relative clause that identifies which exhibitions are being discussed",
+        "B. It is a non-defining relative clause that adds supplementary information about the exhibitions",
+        "C. It is a defining clause that restricts meaning to only critically successful shows",
+        "D. It is a causal clause explaining why emerging artists are showcased"
+      ],
+      "answer": "B",
+      "explanation": "The clause 'which have drawn international acclaim' is non-defining (set off by commas) and provides additional descriptive information about the curator's exhibitions without restricting or identifying them. Option A describes defining clauses, which lack commas and narrow meaning; C and D misidentify the clause's grammatical function.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The director announced that the pavilion _____ been properly curated and that artists _____ receive adequate representation.",
+      "question": "Which pair of verbs correctly applies reported speech and backshift of tenses?",
+      "options": [
+        "A. had; would",
+        "B. has; will",
+        "C. have; should",
+        "D. has; would"
+      ],
+      "answer": "A",
+      "explanation": "In reported speech, when the main clause is in past ('announced'), subordinate verbs backshift: present perfect 'has been' becomes 'had been,' and will-future becomes 'would.' Options B and D fail to backshift properly; option C uses 'have' without the auxiliary 'had' needed after past 'announced.'",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The museum _____ the architect _____ renovate the entire gallery space before the exhibition opening.",
+      "question": "Which pair correctly uses a causative structure?",
+      "options": [
+        "A. had; to",
+        "B. got; to",
+        "C. made; to",
+        "D. caused; for"
+      ],
+      "answer": "A",
+      "explanation": "The causative 'have + object + infinitive' (had the architect to renovate) is correct; 'have' is more formal and common in this structure. Option B ('got to') implies permission rather than causing; option C ('made to') changes meaning; option D uses 'caused,' which does not take this structure.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "If the funding _____ secured earlier, the institutions _____ implement more ambitious programming.",
+      "question": "Which pair of verb forms correctly completes this third conditional sentence?",
+      "options": [
+        "A. had been; would have",
+        "B. were; would",
+        "C. had been; would",
+        "D. was; could have"
+      ],
+      "answer": "A",
+      "explanation": "Third conditional (past hypothetical) requires 'if + past perfect' in the condition and 'would have + past participle' in the consequence. Option A follows this pattern. Option B is second conditional (present hypothetical); C mixes third conditional condition with second conditional consequence; D uses incorrect passive form.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "By the time she arrived at the conference, most of the morning sessions had already concluded.",
+      "question": "Which expression best captures the intended meaning without changing the sentence's core sense?",
+      "options": [
+        "A. When she arrived at the conference, most of the morning sessions were concluding",
+        "B. She arrived at the conference after most of the morning sessions had ended",
+        "C. By the time she got to the conference, most of the morning sessions are concluding",
+        "D. Although she arrived at the conference, the morning sessions had concluded"
+      ],
+      "answer": "B",
+      "explanation": "Option B preserves the meaning: she arrived late, after sessions had finished. Option A suggests sessions were still ending when she arrived; C uses present tense incorrectly; D adds a contrast ('although') not present in the original.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Despite the rain, she decided to walk to the market rather than take the bus.",
+      "question": "What is the most natural way to rephrase this without losing its meaning?",
+      "options": [
+        "A. She decided to walk to the market instead of taking the bus, even though it was raining",
+        "B. The rain caused her to walk to the market and not take the bus",
+        "C. She walked to the market, though she could have taken the bus because of the rain",
+        "D. Rather than the bus, the rain made her walk to the market"
+      ],
+      "answer": "A",
+      "explanation": "Option A preserves the contrast between rain (which might discourage walking) and her choice to walk anyway. Option B suggests rain caused the decision, which contradicts 'despite'; C and D distort the cause-and-effect relationship.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "He suggested that the team reconsider its approach, given the new information that had emerged.",
+      "question": "Which paraphrase most naturally conveys the same idea in everyday speech?",
+      "options": [
+        "A. He told the team to completely change its approach because new information came out",
+        "B. Given new information, he recommended that the team rethink its current strategy",
+        "C. The team's approach needed to change because he discovered new information",
+        "D. New information forced him to suggest the team reconsider what it was doing"
+      ],
+      "answer": "B",
+      "explanation": "Option B accurately captures 'suggested' (recommended), 'reconsider' (rethink), and the causal link ('given'). Option A overstates with 'completely change'; C shifts agency from the suggester; D introduces 'forced,' which is too strong and changes the tone.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "The controversies beleaguering this year's edition of the Venice Biennale continue to pile up: of late, Somali artists and cultural organizations are voicing concern that the Somalia pavilion does not adequately showcase artists and art organizations based in the country, and that the involvement of an Italian cocurator is overtly colonial.",
+      "question": "Rewrite this sentence in your own words, capturing the core meaning in 2-3 sentences.",
+      "options": null,
+      "answer": null,
+      "explanation": null,
+      "paraphrase_keywords": [
+        "multiple controversies",
+        "Venice Biennale",
+        "Somali representation",
+        "colonial dynamics",
+        "international curation"
+      ]
+    }
+  ]
+}
