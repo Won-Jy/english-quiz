@@ -192,30 +192,6 @@ async function gradeParaphrase(q, userText) {
     feedback: `핵심 키워드 ${keywords.length}개 중 ${matched.length}개 포함 (${keywords.join(", ")}). 스스로 원문과 비교해보세요.`
   };
 }
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({
-      model: "claude-sonnet-4-20250514",
-      max_tokens: 200,
-      system: "You are a language teacher. Return ONLY valid JSON, no markdown.",
-      messages: [{
-        role: "user",
-        content: `
-Original: "${q.sentence}"
-Key concepts: ${(q.paraphrase_keywords || []).join(", ")}
-Student's paraphrase: "${userText}"
-
-Grade 0-3: 3=meaning fully preserved with different wording, 2=mostly correct, 1=partial, 0=wrong.
-Return JSON: {"score": 0-3, "feedback": "one sentence in Korean"}`
-      }]
-    })
-  });
-
-  if (!response.ok) throw new Error(`API error ${response.status}`);
-  const data = await response.json();
-  const raw = data.content[0].text.replace(/```json|```/g, "").trim();
-  return JSON.parse(raw);
-}
 
 // ── 네비게이션 ───────────────────────────────────────────────────────────────
 
