@@ -1,0 +1,231 @@
+{
+  "date": "2026-05-13",
+  "generated_at": "2026-05-13T22:20:55.719137",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The Hirshhorn Museum and Sculpture Garden in Washington, DC, acquired 314 works in 2025. The acquisitions brought the museum's collection to 13,000 pieces and increased its holdings in areas it had sought to ___.",
+      "question": "Which word best completes this sentence about the museum's curatorial strategy?",
+      "options": [
+        "A. augment",
+        "B. diminish",
+        "C. liquidate",
+        "D. obscure"
+      ],
+      "answer": "A",
+      "explanation": "Augment means to increase or enhance, which fits perfectly with the context of the museum seeking to expand its collection in specific areas. Diminish and liquidate suggest reduction, which contradicts the acquisitions narrative. Obscure is semantically unrelated to collection development.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "A public contradiction about Iran's participation in the 61st Venice Biennale has emerged after the director was interviewed. In the interview, officials explained that Iran 'neither submitted a withdrawal letter nor ___.'",
+      "question": "What word logically completes this statement about Iran's participation status?",
+      "options": [
+        "A. acquiesced to exclusion",
+        "B. embraced attendance",
+        "C. abstained from the event",
+        "D. fostered collaboration"
+      ],
+      "answer": "A",
+      "explanation": "The sentence structure 'neither X nor Y' requires a parallel negative statement; acquiesced to exclusion provides the logical counterpart to 'submitted a withdrawal letter.' The other options do not maintain the parallel structure of negation.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "When Gabon's media regulator indefinitely suspended major social media platforms in February, activists claimed this was part of a well-documented history of ___ on dissent.",
+      "question": "Which word best describes the government's action toward opposition voices?",
+      "options": [
+        "A. capitalizing",
+        "B. cracking down",
+        "C. elaborating",
+        "D. capitalizing"
+      ],
+      "answer": "B",
+      "explanation": "Cracking down means to suppress forcefully, which aligns with the context of government restrictions on social media during anti-government protests. Capitalizing suggests profiting or taking advantage, which does not fit the oppressive tone. Elaborating means to explain in detail, which is contextually inappropriate.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The report shows that conflict-driven internal displacements have ___ those caused by natural disasters, reaching 32.3 million and surpassing disaster-driven displacements for the first time since data collection began.",
+      "question": "What verb accurately describes the relationship between conflict-driven and disaster-driven displacements?",
+      "options": [
+        "A. eclipsed",
+        "B. corroborated",
+        "C. mitigated",
+        "D. paralleled"
+      ],
+      "answer": "A",
+      "explanation": "Eclipsed means to surpass or overshadow, which directly corresponds to the data showing conflict-driven displacements exceeding disaster-driven ones for the first time. Corroborated means to confirm evidence, mitigated means to reduce severity, and paralleled means to occur alongside—none capture the sense of surpassing.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The Hirshhorn Museum was established under the ___ of the Smithsonian in 1974, providing institutional support and scholarly oversight for its collections and acquisitions.",
+      "question": "Which word best describes the formal institutional relationship and protection provided to the museum?",
+      "options": [
+        "A. aegis",
+        "B. facade",
+        "C. consensus",
+        "D. mandate"
+      ],
+      "answer": "A",
+      "explanation": "Aegis means protection, sponsorship, or institutional authority—exactly what is conveyed in the source text. Facade suggests a deceptive appearance, consensus refers to agreement, and mandate means an authoritative order. While mandate might seem plausible, aegis specifically denotes the protective institutional umbrella described in the context.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The museum director insisted that the acquisition committee ___ all new works according to the revised collection development policy.",
+      "question": "Which form is correct for the subjunctive mood in this sentence?",
+      "options": [
+        "A. evaluates",
+        "B. evaluate",
+        "C. evaluated",
+        "D. would evaluate"
+      ],
+      "answer": "B",
+      "explanation": "After 'insisted that,' the subjunctive mood requires the base form 'evaluate' without subject-verb agreement markers. Option A uses indicative mood; C is past tense, inappropriate after 'insisted that'; D uses conditional, which is not subjunctive in this context.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "If the media regulator ___ the social media platforms last February, the displacement of users would have been far less severe.",
+      "question": "Which verb form correctly completes this third conditional sentence?",
+      "options": [
+        "A. had not suspended",
+        "B. did not suspend",
+        "C. would not suspend",
+        "D. has not suspended"
+      ],
+      "answer": "A",
+      "explanation": "Third conditional requires 'had + past participle' in the if-clause to express a hypothetical past situation with present consequences. Option B uses second conditional; C is conditional without the necessary auxiliary; D uses present perfect, which cannot function in a third conditional structure.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Neither the director nor the committee members ___ aware that the revised policy would generate such controversy among international partners.",
+      "question": "Which verb form agrees correctly with this compound subject introduced by 'neither...nor'?",
+      "options": [
+        "A. was",
+        "B. were",
+        "C. has been",
+        "D. are being"
+      ],
+      "answer": "B",
+      "explanation": "When subjects are joined by 'neither...nor,' the verb agrees with the nearest subject, which is 'committee members' (plural), requiring 'were.' Option A agrees with 'director,' which is incorrect; C and D introduce unnecessary perfect and progressive aspects.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The researchers ___ the experiment three times already, and they ___ considering whether a completely different approach might be necessary.",
+      "question": "Which pair of verb forms correctly distinguishes between present perfect and present progressive?",
+      "options": [
+        "A. have repeated / have been",
+        "B. repeated / are",
+        "C. have repeated / are",
+        "D. have been repeating / were"
+      ],
+      "answer": "C",
+      "explanation": "Present perfect 'have repeated' expresses the completion of an action up to now, while present progressive 'are considering' describes an ongoing action in the present moment. Option A adds an extra 'been' unnecessarily; B uses simple past, which cannot express present relevance; D uses past progressive, which is temporally inconsistent.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The activist told the journalist that the government ___ social media platforms to suppress dissent for many years.",
+      "question": "Which verb form correctly completes this reported speech sentence?",
+      "options": [
+        "A. has been using",
+        "B. had been using",
+        "C. uses",
+        "D. is using"
+      ],
+      "answer": "B",
+      "explanation": "In reported speech, when the reporting verb is in past tense (told), the reported clause undergoes backshift: present perfect becomes past perfect. 'Had been using' correctly reflects the original statement about ongoing past actions. Options A, C, and D do not perform the necessary tense backshift from direct to reported speech.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "After waiting for three hours, she finally received confirmation that her visa application had been approved.",
+      "question": "Which expression is most natural and idiomatic in this everyday context?",
+      "options": [
+        "A. she finally came into receipt of confirmation",
+        "B. confirmation finally came into her receipt",
+        "C. she finally got word that",
+        "D. confirmation was given to her finally that"
+      ],
+      "answer": "C",
+      "explanation": "'Got word that' is the most natural, idiomatic way to express receiving news in everyday English. Option A is overly formal; B has awkward syntax; D uses unnecessary passivization and sounds stilted compared to the natural conversational tone of option C.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The building, having been constructed in the 1920s, required significant renovation before it could be used.",
+      "question": "Which alternative maintains the same meaning most naturally for everyday speech?",
+      "options": [
+        "A. The building was constructed in the 1920s and it needed renovation before use.",
+        "B. Because the building was built in the 1920s, renovation was necessary.",
+        "C. The building, which was constructed in the 1920s, required significant renovation.",
+        "D. Having been built in the 1920s, the building required renovation before it could be used."
+      ],
+      "answer": "C",
+      "explanation": "Option C maintains clear meaning with a relative clause that is more natural in everyday English than the absolute phrase in the original. Option A uses 'and' awkwardly; B introduces causality not present in the original; D retains the absolute phrase construction, which is less colloquial.",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "By the time she arrived at the conference, most of the morning sessions had already concluded.",
+      "question": "Which phrasing sounds most natural for everyday conversation?",
+      "options": [
+        "A. By the time she got to the conference, most of the morning sessions were already finished.",
+        "B. Prior to her arrival at the conference, the majority of morning sessions had reached conclusion.",
+        "C. Most morning sessions had already wrapped up by when she made it to the conference.",
+        "D. Upon her conference arrival, antecedent morning sessions had concluded in their totality."
+      ],
+      "answer": "A",
+      "explanation": "Option A uses simple, natural vocabulary ('got to,' 'were already finished') appropriate for everyday conversation. Option B is overly formal with 'prior to' and 'reached conclusion'; C uses 'wrapped up,' which, though colloquial, sounds less natural than A; D is unnecessarily complex and archaic ('antecedent,' 'in their totality').",
+      "paraphrase_keywords": null
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "general",
+      "sentence": "When Gabon's media regulator indefinitely suspended major social media platforms in February, citing security concerns during anti-government protests, activists claimed the action was part of a well-documented history of using laws to curtail internet freedoms and suppress dissent.",
+      "question": "Rewrite this sentence in your own words, capturing the core meaning. What are the 3-5 key concepts?",
+      "options": null,
+      "answer": null,
+      "explanation": null,
+      "paraphrase_keywords": [
+        "government censorship",
+        "social media suspension",
+        "suppression of opposition",
+        "internet freedom restrictions",
+        "pattern of repression"
+      ]
+    }
+  ]
+}
