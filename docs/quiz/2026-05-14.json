@@ -1,0 +1,218 @@
+{
+  "date": "2026-05-14",
+  "generated_at": "2026-05-14T22:17:25.719090",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "London-based artist Anouska Samms has publicly accused the Metropolitan Museum of Art's Costume Institute for exhibiting a dress that is 'something like a counterfeit' of her work.",
+      "question": "In this context, 'counterfeit' most closely means:",
+      "options": [
+        "A) An unauthorized imitation or fraudulent copy",
+        "B) A minor stylistic variation or homage",
+        "C) A historical predecessor or inspiration",
+        "D) A complementary work in the same collection"
+      ],
+      "answer": "A",
+      "explanation": "Counterfeit refers to a fraudulent imitation made to deceive, which aligns with Samms's accusation that the museum's dress falsely resembles her original work. Option B understates the seriousness of the allegation; options C and D contradict the accusatory tone of the passage."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Jürgen Habermas, a crucial critical theorist, developed theories that became foundational to understanding public discourse.",
+      "question": "What does 'crucial' suggest about Habermas's contribution?",
+      "options": [
+        "A) His work was of vital importance and central significance",
+        "B) His ideas were primarily controversial and debated",
+        "C) His theories applied only to specific cultural contexts",
+        "D) His influence was limited to academic philosophy"
+      ],
+      "answer": "A",
+      "explanation": "'Crucial' means critically important or indispensable, indicating that Habermas's work was foundational. Option B focuses on controversy rather than importance; options C and D incorrectly limit the scope and influence of his work."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The deportation of Adriana María Quiroz Zapata 'was likely illegal', and the statement emphasized the need to avoid refoulement, or the expulsion of people to countries where they face persecution.",
+      "question": "The term 'refoulement' specifically refers to:",
+      "options": [
+        "A) The legal process of reviewing deportation cases",
+        "B) The forcible return of individuals to countries where they face danger",
+        "C) The administrative delay in processing asylum claims",
+        "D) The diplomatic negotiation between nations over border control"
+      ],
+      "answer": "B",
+      "explanation": "Refoulement is a legal term meaning the forced return of someone to a country where they may face persecution or harm, violating international law. The passage's definition confirms this. Option A describes a broader legal process; options C and D describe different immigration procedures."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "'We're not sure what it means or how it started' – the enigmatic ritual that has existed in Switzerland for centuries.",
+      "question": "The word 'enigmatic' best conveys:",
+      "options": [
+        "A) Ancient and historically significant",
+        "B) Mysterious and difficult to understand or explain",
+        "C) Peculiar to Swiss culture and tradition",
+        "D) Progressive and evolving over time"
+      ],
+      "answer": "B",
+      "explanation": "'Enigmatic' describes something puzzling, mysterious, or hard to explain—directly supported by 'we're not sure what it means.' Option A focuses on age rather than mystery; options C and D misinterpret the meaning."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Human rights experts at the United Nations issued a rare public appeal to Equatorial Guinea, describing it as 'one of the world's most repressive regimes.'",
+      "question": "A 'repressive regime' is characterized by:",
+      "options": [
+        "A) Economic policies that limit foreign investment",
+        "B) The severe restriction of freedoms and authoritarian control over citizens",
+        "C) Diplomatic isolation and trade restrictions",
+        "D) Weak institutional governance and administrative inefficiency"
+      ],
+      "answer": "B",
+      "explanation": "A repressive regime uses authoritarian methods to suppress freedoms and control the population, which aligns with the passage's concern about torture and persecution. Option A focuses on economics; option C on diplomacy; option D on administrative weakness—none capture the essence of repression."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The witness _______ have seen the suspect clearly that night, but she was certain of his identity.",
+      "question": "Which modal verb best completes this sentence?",
+      "options": [
+        "A) must",
+        "B) might",
+        "C) can",
+        "D) should"
+      ],
+      "answer": "B",
+      "explanation": "'Might' expresses low certainty or possibility, which fits the contrast: she wasn't certain of seeing him clearly (might not have), yet she was certain of his identity. 'Must' indicates high certainty (contradicting the clause); 'can' expresses ability; 'should' expresses obligation or expectation—none create the correct logical contrast."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The manager suggested that the employee _______ the project immediately to meet the deadline.",
+      "question": "Which verb form is grammatically correct after 'suggested that'?",
+      "options": [
+        "A) complete",
+        "B) completes",
+        "C) completed",
+        "D) has completed"
+      ],
+      "answer": "A",
+      "explanation": "After verbs like 'suggest,' 'recommend,' and 'insist,' English uses the subjunctive mood, requiring the base form of the verb without -s or tense markers. 'Complete' is the subjunctive form. Options B and D are indicative forms used for statements of fact; option C is simple past and doesn't trigger the subjunctive."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "She stopped _______ her old hobby and took up painting instead.",
+      "question": "Which option correctly completes the sentence?",
+      "options": [
+        "A) to pursue",
+        "B) pursuing",
+        "C) to pursuing",
+        "D) pursue"
+      ],
+      "answer": "B",
+      "explanation": "'Stop' followed by a gerund (-ing form) means to cease an ongoing activity, while 'stop' followed by an infinitive means to pause to do something else. Here, she ceased her old hobby, so the gerund 'pursuing' is correct. Option A would suggest she paused in order to pursue; options C and D are grammatically invalid."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The company had the architect _______ the building to meet modern safety standards.",
+      "question": "Which option correctly completes the sentence using the causative form?",
+      "options": [
+        "A) redesign",
+        "B) redesigned",
+        "C) to redesign",
+        "D) be redesigned"
+      ],
+      "answer": "A",
+      "explanation": "The causative structure 'have + object + base verb' indicates that the company caused the architect to perform an action. The base form 'redesign' is required after 'have.' Option B uses past tense incorrectly; option C includes an unnecessary infinitive marker; option D uses passive voice, which changes the meaning."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "The committee, which had been meeting every Tuesday, finally reached a consensus on the proposed changes.",
+      "question": "The relative clause 'which had been meeting every Tuesday' is classified as:",
+      "options": [
+        "A) A defining relative clause that identifies which committee",
+        "B) A non-defining relative clause that provides additional information",
+        "C) A restrictive clause that narrows the noun reference",
+        "D) A conditional clause expressing a hypothetical situation"
+      ],
+      "answer": "B",
+      "explanation": "The clause is non-defining (indicated by commas) because it adds extra information about an already-identified committee rather than specifying which committee is meant. Removing the clause doesn't change the core meaning. Option A incorrectly identifies it as defining; options C and D misclassify the clause type entirely."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "She found it difficult to concentrate, not because the work was hard, but because the office was noisy.",
+      "question": "Which rephrasing most naturally conveys the same meaning?",
+      "options": [
+        "A) The hard work made it difficult for her to concentrate in the noisy office.",
+        "B) She struggled to concentrate; the problem was the noise, not the difficulty of the work.",
+        "C) Despite the work being hard, she couldn't concentrate due to office noise.",
+        "D) Concentrating was hard because the office was noisy, not because of the work itself."
+      ],
+      "answer": "B",
+      "explanation": "Option B preserves the original contrast between two potential causes and clarifies which one actually prevented concentration. Option A shifts emphasis to work difficulty; option C introduces contradiction; option D reverses the logical emphasis."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Despite the rain, she decided to walk to the market rather than take the bus.",
+      "question": "Which alternative best captures the original meaning?",
+      "options": [
+        "A) She would have taken the bus if it hadn't been raining.",
+        "B) She chose walking over the bus as her preferred mode of transport, even though it was raining.",
+        "C) The rain made her choose between walking and taking the bus, and she walked.",
+        "D) She avoided the bus and walked instead because the rain would have delayed her."
+      ],
+      "answer": "B",
+      "explanation": "Option B correctly emphasizes her deliberate choice to walk despite the adverse weather condition. Option A suggests the rain was the deciding factor (not supported by the original); option C misrepresents causation; option D adds an unsupported reason about delay."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The more carefully he read the contract, the more concerned he became about its implications.",
+      "question": "What does this sentence suggest about his initial impression?",
+      "options": [
+        "A) He was immediately alarmed by the contract's language.",
+        "B) His concerns grew as he examined the contract more thoroughly.",
+        "C) He understood the implications better with each careful reading.",
+        "D) The contract became progressively clearer but more problematic."
+      ],
+      "answer": "B",
+      "explanation": "The parallel structure 'the more...the more' shows that increasing scrutiny led to increasing concern, suggesting his initial impression was less alarming than his deeper analysis. Option A overstates his initial reaction; options C and D don't capture the relationship between careful reading and heightened concern."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "The deportation of Adriana María Quiroz Zapata 'was likely illegal', and the statement emphasized the need to avoid refoulement, or the expulsion of people to countries where they face persecution.",
+      "question": "Rewrite this sentence in your own words, focusing on the key legal and humanitarian concerns.",
+      "options": null,
+      "answer": null,
+      "explanation": "Expected response should capture: (1) the judge's assessment that the deportation violated law, (2) the principle of non-refoulement as a legal obligation, (3) the humanitarian concern that returning people to dangerous situations violates international standards. Accept paraphrases that preserve these three elements.",
+      "paraphrase_keywords": [
+        "illegal deportation",
+        "international law violation",
+        "non-refoulement principle",
+        "persecution and danger",
+        "humanitarian protection"
+      ]
+    }
+  ]
+}
