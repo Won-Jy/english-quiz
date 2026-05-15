@@ -1,0 +1,217 @@
+{
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T22:05:20.026325",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Mary Lovelace O'Neal's monumental, richly hued lampblack paintings expanded abstraction's possibilities.",
+      "question": "In this context, 'monumental' most closely means:",
+      "options": [
+        "A. Made of stone or marble",
+        "B. Of great importance and impressive in scale",
+        "C. Commemorating a historical event",
+        "D. Requiring significant financial investment"
+      ],
+      "answer": "B",
+      "explanation": "Monumental here describes the scale and significance of her artistic achievements. While 'monumental' can refer to physical monuments (C), in art criticism it means 'impressively large and important.' Options A and D are too literal or narrow."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Rene Matić was recognized for the exhibition 'AS OPPOSED TO THE TRUTH,' the artist's first solo show in Germany.",
+      "question": "Which word best replaces 'recognized' in this academic context?",
+      "options": [
+        "A. acknowledged",
+        "B. identified",
+        "C. celebrated",
+        "D. announced"
+      ],
+      "answer": "C",
+      "explanation": "'Recognized' here means the artist received official commendation and praise for winning the prize. 'Celebrated' maintains this sense of honor and distinction. 'Identified' (B) and 'acknowledged' (A) are too neutral; 'announced' (D) refers to the declaration of the winner, not the achievement itself."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "A generation of young people with 'full hearts in an empty world' sought hope in the face of insurmountable malaise.",
+      "question": "The word 'malaise' in this passage refers to:",
+      "options": [
+        "A. A physical illness or disease",
+        "B. A vague sense of dissatisfaction and unease",
+        "C. Economic poverty and deprivation",
+        "D. Social isolation and loneliness"
+      ],
+      "answer": "B",
+      "explanation": "Malaise describes a deep, generalized feeling of discontent and discomfort rather than a specific condition. While it can describe physical illness (A), the context here suggests psychological and social unease. Options C and D are too specific."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "There have been 246 suspected cases of the haemorrhagic fever reported so far in the conflict-hit Ituri province.",
+      "question": "The word 'haemorrhagic' most accurately describes a disease that:",
+      "options": [
+        "A. Spreads rapidly through contaminated water",
+        "B. Causes severe internal and external bleeding",
+        "C. Results from bacterial infection rather than viral",
+        "D. Primarily affects the nervous system"
+      ],
+      "answer": "B",
+      "explanation": "Haemorrhagic derives from 'haemorrhage' (excessive bleeding). The term specifically identifies diseases characterized by uncontrolled bleeding. Options A, C, and D describe other disease characteristics unrelated to the word's meaning."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Mali's armed forces, supported by Russian mercenaries, have launched airstrikes targeting a rebel alliance as the ruling junta struggles to maintain its hold on power.",
+      "question": "In this passage, 'junta' refers to:",
+      "options": [
+        "A. A political party with democratic representation",
+        "B. A military group that seized power by force",
+        "C. A coalition of elected government officials",
+        "D. A committee of international peacekeepers"
+      ],
+      "answer": "B",
+      "explanation": "A junta is a military faction that rules a country, typically after seizing power through a coup. The context 'ruling junta' and 'struggles to maintain its hold' confirms this authoritarian military rule. Options A and C describe legitimate governance; D describes an external body."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The museum director ___ the artist's work restored by a specialist conservator.",
+      "question": "Which option correctly completes this causative sentence?",
+      "options": [
+        "A. had",
+        "B. was having",
+        "C. got",
+        "D. was being had"
+      ],
+      "answer": "A",
+      "explanation": "The sentence requires the causative 'have' structure: 'had the work restored' means the director caused someone else to restore it. 'Got' (C) is less formal but grammatically acceptable; however, 'had' is the standard choice. Option B changes the meaning to an ongoing process; D is ungrammatical."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The development of critical theory and ___ philosophy are central to understanding modern intellectual discourse.",
+      "question": "Which article/determiner correctly completes this sentence?",
+      "options": [
+        "A. the",
+        "B. a",
+        "C. zero article",
+        "D. that"
+      ],
+      "answer": "C",
+      "explanation": "Two abstract, countable nouns ('development' and 'philosophy') joined by 'and' require zero article in academic style when referring to abstract concepts generally. Using 'the' (A) would specify particular instances. 'A' (B) is incorrect for abstract nouns in this plural construction; 'that' (D) is not an article."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The data suggests that the project ___ have succeeded with better planning, though no one expected it would.",
+      "question": "Which modal verb best completes this sentence expressing criticism about the past?",
+      "options": [
+        "A. must",
+        "B. could",
+        "C. might",
+        "D. may"
+      ],
+      "answer": "B",
+      "explanation": "'Could have' expresses that something was theoretically possible but didn't happen, which matches the critical tone about past circumstances. 'Must have' (A) expresses certainty about what happened; 'might' and 'may' (C, D) express possibility without the critical implication of a missed opportunity."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "___ the exhibition in three European cities, the artist gained international recognition.",
+      "question": "Which participle clause correctly completes this sentence?",
+      "options": [
+        "A. Having shown",
+        "B. Being shown",
+        "C. Shown",
+        "D. To show"
+      ],
+      "answer": "A",
+      "explanation": "'Having shown' correctly uses the perfect participle to indicate that the exhibition occurred before the artist gained recognition. 'Being shown' (B) suggests ongoing process; 'Shown' (C) is passive and doesn't establish clear chronology; 'To show' (D) is infinitive, not a participle clause."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "She ___ worked as a translator for five years when she decided to pursue a different career.",
+      "question": "Which tense correctly completes this sentence?",
+      "options": [
+        "A. has",
+        "B. had",
+        "C. was",
+        "D. is"
+      ],
+      "answer": "B",
+      "explanation": "Past perfect 'had worked' is correct because it describes an action completed before another past event (her decision to change careers). Present perfect 'has worked' (A) would incorrectly suggest the action continues to the present. Options C and D use wrong tenses entirely."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The committee, which had been meeting every Tuesday, finally reached a consensus on the proposed changes.",
+      "question": "In this context, 'reached a consensus' most naturally means:",
+      "options": [
+        "A. The committee members voted individually on the changes",
+        "B. The committee agreed together after discussion",
+        "C. The committee postponed the decision indefinitely",
+        "D. The majority of members supported the proposal"
+      ],
+      "answer": "B",
+      "explanation": "'Reached a consensus' specifically means all parties agreed through collective discussion, not merely voted or achieved a majority. The phrase emphasizes agreement and unity of purpose, which fits the formal committee context."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The proposal was rejected not on its merits but on procedural grounds.",
+      "question": "This sentence suggests that:",
+      "options": [
+        "A. The proposal had significant logical flaws",
+        "B. The proposal was poorly written and unclear",
+        "C. The quality of the proposal was not the reason for rejection",
+        "D. The decision-makers disagreed with the proposal's goals"
+      ],
+      "answer": "C",
+      "explanation": "'Not on its merits but on procedural grounds' explicitly contrasts the proposal's quality with technical/administrative reasons for rejection. This indicates the rejection was based on process violations, not the proposal's actual value."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "He had been working on the project for three weeks before he realized a fundamental error in his approach.",
+      "question": "What does this sentence imply about the speaker's discovery?",
+      "options": [
+        "A. He found the error immediately upon starting",
+        "B. He discovered the error late in the process",
+        "C. The error was obvious to everyone else",
+        "D. His supervisor pointed out the mistake"
+      ],
+      "answer": "B",
+      "explanation": "The structure 'had been working for three weeks before he realized' indicates the error discovery was delayed well into the project, making it a late realization after significant work was already done."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "Despite a fruitful career spanning six decades, Lovelace O'Neal was known primarily as an 'artist's artist' until recent years, when she began to achieve international acclaim.",
+      "question": "Rewrite the core meaning of this sentence in your own words (3-5 key concepts):",
+      "options": null,
+      "answer": null,
+      "explanation": "The sentence conveys that O'Neal had a productive long career but remained relatively unknown to the general public (only recognized by other artists) until recently gaining wider international recognition.",
+      "paraphrase_keywords": [
+        "long successful career",
+        "limited recognition among peers only",
+        "recent international fame",
+        "delayed public acknowledgment"
+      ]
+    }
+  ]
+}
