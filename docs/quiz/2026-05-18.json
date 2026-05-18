@@ -1,0 +1,218 @@
+{
+  "date": "2026-05-18",
+  "generated_at": "2026-05-18T22:08:53.425950",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The museum had earlier sparked an uproar by scrubbing all reference to the events as the Smithsonian came under intense scrutiny.",
+      "question": "In this context, 'scrubbing' most nearly means:",
+      "options": [
+        "A. Cleaning thoroughly with a brush",
+        "B. Removing or erasing completely",
+        "C. Postponing indefinitely",
+        "D. Investigating meticulously"
+      ],
+      "answer": "B",
+      "explanation": "In academic and institutional contexts, 'scrubbing' refers to deliberately removing or deleting information, not physical cleaning. Option A is literal but contextually incorrect; C and D misinterpret the institutional action described."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Sotheby's New York logged a big win last Thursday with the $85.8 million sale of Mark Rothko's Brown and Blacks in Reds, 1957.",
+      "question": "The word 'logged' in this sentence means:",
+      "options": [
+        "A. Recorded or registered officially",
+        "B. Transported using logs",
+        "C. Entered into a ship's logbook",
+        "D. Deliberately obstructed"
+      ],
+      "answer": "A",
+      "explanation": "'Logged' in business and auction contexts means to record or register an achievement officially. Option B is literal but nonsensical; C refers to nautical usage specifically; D has no contextual support."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Residents of Ituri province fear spread of disease and economic impact of outbreak six years after the last occurrence.",
+      "question": "Which word best replaces 'occurrence' in this context?",
+      "options": [
+        "A. episode",
+        "B. incident",
+        "C. phenomenon",
+        "D. manifestation"
+      ],
+      "answer": "B",
+      "explanation": "'Incident' best captures a specific, discrete event (the previous Ebola outbreak) in public health discourse. 'Episode' suggests a phase within a continuous process; 'phenomenon' is too abstract; 'manifestation' implies a symptom rather than an event."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Sergiu Klainerman spent years proving that black holes won't fly apart; and arguing that maths is not a human invention.",
+      "question": "'Proving' in this sentence most precisely means:",
+      "options": [
+        "A. Demonstrating through logical argument or evidence",
+        "B. Testing in a controlled experiment",
+        "C. Showing through mathematical notation alone",
+        "D. Establishing beyond all possible doubt"
+      ],
+      "answer": "A",
+      "explanation": "In academic and mathematical contexts, 'proving' means demonstrating validity through rigorous argument or evidence. Option B suggests empirical testing, which is not inherent to proof; C is too narrow; D sets an unrealistic standard (absolute certainty is often epistemologically impossible)."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Jürgen Habermas is a crucial critical theorist whose work has fundamentally shaped contemporary discourse.",
+      "question": "In academic writing, 'crucial' most nearly means:",
+      "options": [
+        "A. Extremely difficult or challenging",
+        "B. Of critical importance or central significance",
+        "C. Causing great suffering",
+        "D. Urgently requiring resolution"
+      ],
+      "answer": "B",
+      "explanation": "'Crucial' in academic contexts means of central importance to a field or theory. Option A confuses it with 'arduous'; C with 'cruel'; D with 'pressing' (though these may overlap, B captures the primary scholarly meaning)."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The curator _____ the portrait's text restored to include the historical events that had been previously omitted.",
+      "question": "Choose the correct form (passive voice/causative):",
+      "options": [
+        "A. had the portrait's text restored",
+        "B. had restored the portrait's text",
+        "C. got the portrait's text to be restored",
+        "D. had the portrait's text restore"
+      ],
+      "answer": "A",
+      "explanation": "The causative 'have + object + past participle' (had...restored) indicates someone caused an action to happen rather than doing it themselves. Option B uses active voice (curator did the restoration); C is awkward with 'to be'; D lacks the past participle form needed after 'had.'"
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The museum director announced that the institution _____ the controversial policy and _____ full documentation of all historical events.",
+      "question": "Choose the correct tense forms (reported speech with backshift):",
+      "options": [
+        "A. has reversed / will include",
+        "B. reversed / would include",
+        "C. had reversed / would include",
+        "D. reverses / includes"
+      ],
+      "answer": "C",
+      "explanation": "In reported speech, present perfect 'has reversed' shifts to past perfect 'had reversed' (action before the past announcement), and 'will include' shifts to 'would include.' Option A fails to backshift; B is incomplete backshift; D uses present tense inappropriately in reported speech context."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_____ the controversial omissions, the curator decided to reinstate all historical references in the gallery's documentation.",
+      "question": "Choose the correct participle clause:",
+      "options": [
+        "A. Having discovered",
+        "B. Being discovered",
+        "C. Discovered",
+        "D. Discovering"
+      ],
+      "answer": "A",
+      "explanation": "'Having discovered' (perfect participle) indicates an action completed before the main clause action (discovering → deciding). Option B implies the curator was discovered; C loses the causal connection; D suggests simultaneous or future action, not the prior discovery that triggered the decision."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The Rothko painting _____ a record price at auction, and it _____ the second-highest sum ever paid for his work.",
+      "question": "Choose the correct perfect tense forms:",
+      "options": [
+        "A. has fetched / is",
+        "B. fetched / had been",
+        "C. has fetched / has been",
+        "D. had fetched / was"
+      ],
+      "answer": "C",
+      "explanation": "'Has fetched' (present perfect) expresses an action relevant to the present (the recent auction result); 'has been' maintains this timeframe for the second action. Option A uses incorrect present tense for the second clause; B uses simple past (isolated past event); D uses past perfect unnecessarily."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_____ integrity is essential in academic research, and _____ transparency ensures public trust in scientific institutions.",
+      "question": "Choose the correct articles (abstract/uncountable nouns):",
+      "options": [
+        "A. An / The",
+        "B. The / A",
+        "C. Zero / Zero",
+        "D. An / A"
+      ],
+      "answer": "C",
+      "explanation": "Abstract and uncountable nouns like 'integrity' and 'transparency' take zero article when discussed generally or philosophically. Option A incorrectly uses articles before abstract concepts; B treats abstract nouns as countable; D similarly misuses indefinite articles."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The committee, which had been meeting every Tuesday, finally reached a consensus on the proposed changes.",
+      "question": "Which phrase is most natural here?",
+      "options": [
+        "A. had reached a consensus unanimously",
+        "B. came to an agreement",
+        "C. achieved consensus",
+        "D. reached a consensus agreement"
+      ],
+      "answer": "C",
+      "explanation": "'Achieved consensus' is natural and concise. Option A is redundant ('consensus' already implies unanimous agreement); B loses the formal register established by 'committee'; D repeats 'consensus/agreement.'"
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "By the time she arrived at the conference, most of the morning sessions had already concluded.",
+      "question": "Which alternative is most natural?",
+      "options": [
+        "A. had already been concluded",
+        "B. had already ended",
+        "C. had already finished up",
+        "D. were already concluded"
+      ],
+      "answer": "B",
+      "explanation": "'Had already ended' is natural and parallel to 'concluded' in meaning. Option A is overly formal and passive; C is too casual for formal conference context; D uses present tense incorrectly after 'by the time' clause."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The proposal was rejected not on its merits but on procedural grounds.",
+      "question": "Which phrasing best complements this sentence?",
+      "options": [
+        "A. The committee objected to the process rather than the substance",
+        "B. The substance was not the problem, the procedure was",
+        "C. It failed for reasons of procedure, not content quality",
+        "D. Procedurally it was wrong, substantively it was fine"
+      ],
+      "answer": "A",
+      "explanation": "'Objected to the process rather than the substance' most naturally and idiomatically restates the original meaning. Option B is awkward; C is indirect; D uses technical language that shifts register."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "general",
+      "sentence": "Residents of Ituri province in eastern DRC, where the World Health Organization announced an outbreak of Ebola last week, are living in growing fear of the possible continued spread of the disease and its deadly impacts, nearly six years after the last outbreak in the region ended.",
+      "question": "Rewrite this sentence in your own words, capturing the essential meaning in 1-2 sentences.",
+      "options": null,
+      "answer": null,
+      "paraphrase_keywords": [
+        "Ituri province DRC",
+        "Ebola outbreak",
+        "growing fear",
+        "spread",
+        "six years after",
+        "disease impact"
+      ]
+    }
+  ]
+}
