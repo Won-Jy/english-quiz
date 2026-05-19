@@ -1,0 +1,232 @@
+{
+  "date": "2026-05-19",
+  "generated_at": "2026-05-19T22:21:37.000916",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Blue-chip auction house Christie's pulled in $1.1 billion in back-to-back sales held the evening of May 18, thanks to record-setting prices commanded by numerous works on offer.",
+      "question": "In the context of art auctions, what does 'commanded' mean?",
+      "options": [
+        "A. Ordered or instructed subordinates to purchase",
+        "B. Achieved or obtained (a particular price) through market demand",
+        "C. Gave military orders regarding the sale",
+        "D. Demanded payment from reluctant buyers"
+      ],
+      "answer": "B",
+      "explanation": "In financial and auction contexts, 'commanded' means the artworks achieved those high prices because of their market value and desirability. Options A and C confuse 'command' with military authority, while D misses the nuance that the prices resulted from demand rather than coercion."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "In the wake of accusations of antisemitism being leveled at British-Nigerian arts trustee Misan Harriman, more than 98,000 people have submitted complaints to the UK Independent Press Standards Organisation in Harriman's defense.",
+      "question": "What does 'in the wake of' most precisely mean?",
+      "options": [
+        "A. Immediately before an event occurs",
+        "B. As a direct consequence following an event",
+        "C. At the exact moment an event happens",
+        "D. In opposition to the outcomes of an event"
+      ],
+      "answer": "B",
+      "explanation": "'In the wake of' means as a consequence or in the aftermath of something. Option A reverses the temporal sequence, C is too precise, and D suggests opposition rather than consequence."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Far from turning its back on the sea, the fate of Qing China was tied as much to tides and storms as to cavalry and walls.",
+      "question": "The phrase 'turning its back on the sea' most likely means:",
+      "options": [
+        "A. Physically rotating away from the ocean",
+        "B. Rejecting, abandoning, or ignoring something important",
+        "C. Defending against naval attacks",
+        "D. Building structures facing away from coastlines"
+      ],
+      "answer": "B",
+      "explanation": "This is an idiomatic expression meaning to reject or ignore. The sentence structure ('Far from...') indicates Qing China did NOT abandon the sea, contradicting options A, C, and D, which are all literal or concrete interpretations."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Global health leaders are considering whether vaccines or medicines still in development could be used to fight Ebola in the Democratic Republic of the Congo, as the World Health Organization's chief said he was deeply concerned by the outbreak's speed and scale.",
+      "question": "In this medical context, 'scale' most accurately refers to:",
+      "options": [
+        "A. The physical size of the virus under a microscope",
+        "B. The extent, magnitude, or scope of the outbreak",
+        "C. A graduated measurement tool used in laboratories",
+        "D. The hierarchical ranking of disease severity"
+      ],
+      "answer": "B",
+      "explanation": "'Scale' here means the extent or scope of the problem—how widespread and large the outbreak is. Options A and C are literal definitions of 'scale,' while D misrepresents what 'scale' conveys in epidemiological contexts."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Why must humans die? According to an ancient Indian folktale, death first came to Earth through an ill-fated love affair.",
+      "question": "What does 'ill-fated' suggest about the love affair?",
+      "options": [
+        "A. It was passionate and intense",
+        "B. Destined to have unlucky or tragic consequences",
+        "C. It occurred during an unfortunate historical period",
+        "D. It involved people from different social classes"
+      ],
+      "answer": "B",
+      "explanation": "'Ill-fated' means destined for misfortune or tragedy. Option A describes intensity without implying misfortune, C and D suggest contextual circumstances rather than inevitable tragedy."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "She _____ in Paris for five years and has no plans to leave.",
+      "question": "Which option is grammatically correct and most natural?",
+      "options": [
+        "A. lived",
+        "B. has lived",
+        "C. has been living",
+        "D. had lived"
+      ],
+      "answer": "C",
+      "explanation": "The present perfect continuous ('has been living') emphasizes duration of an action from past to present with continuation. While B (present perfect) is grammatically possible, C better captures the sense of an ongoing state. A is past simple (completed action), and D is past perfect (which requires a second past action as reference)."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "By the time the investigation concluded, the CEO _____ the company's internal documents three times.",
+      "question": "Which form best completes this sentence?",
+      "options": [
+        "A. reviewed",
+        "B. had reviewed",
+        "C. has reviewed",
+        "D. was reviewing"
+      ],
+      "answer": "B",
+      "explanation": "Past perfect ('had reviewed') is required because the reviewing occurred before another past event (the investigation concluding). Option A uses simple past, suggesting events happened simultaneously; C uses present perfect inappropriately; D suggests ongoing action rather than completion."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The journalist asked the senator whether he _____ the controversial bill when he was first elected.",
+      "question": "What is the correct form for reported speech?",
+      "options": [
+        "A. supports",
+        "B. supported",
+        "C. had supported",
+        "D. would support"
+      ],
+      "answer": "C",
+      "explanation": "In reported speech, when the reporting verb is past ('asked'), we backshift tenses. The original question would be 'Did you support...when you were first elected?', which requires past perfect in reported form. B is simple past and doesn't show the relationship between two past actions; A and D don't follow backshifting rules."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_____ the door behind her, Sarah rushed toward the emergency room without looking back.",
+      "question": "Which participle clause correctly completes the opening?",
+      "options": [
+        "A. Closing",
+        "B. Closed",
+        "C. Having closed",
+        "D. Being closed"
+      ],
+      "answer": "C",
+      "explanation": "'Having closed' (perfect participle) indicates that closing the door occurred before rushing toward the emergency room, establishing clear chronological order. Simple participle 'closing' suggests simultaneity; B (past participle alone) is grammatically incomplete here; D (passive) is semantically inappropriate since Sarah, not the door, performs the action."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_____ had she received the promotion announcement _____ she decided to resign from the company.",
+      "question": "Which options correctly complete this inversion structure?",
+      "options": [
+        "A. Hardly / than",
+        "B. Hardly / when",
+        "C. No sooner / when",
+        "D. Rarely / than"
+      ],
+      "answer": "B",
+      "explanation": "'Hardly...when' is the correct construction for expressing the swift sequence of two events. 'No sooner...than' is also grammatically correct but not an option here. Option A uses 'than' incorrectly with 'Hardly'; C uses 'when' with 'No sooner' (should use 'than'); D uses 'Rarely,' which doesn't trigger this inversion pattern for sequential events."
+    },
+    {
+      "id": 11,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The architect _____ the entire structure rebuilt by the construction company to meet the new safety regulations.",
+      "question": "Which option correctly uses causative construction?",
+      "options": [
+        "A. had the entire structure rebuilt",
+        "B. got the entire structure rebuilt",
+        "C. made the entire structure rebuilt",
+        "D. had rebuilt the entire structure"
+      ],
+      "answer": "A",
+      "explanation": "Both A ('have + object + past participle') and B ('get + object + past participle') are causative constructions, but A is more formal and appropriate in professional contexts. Option C requires 'make' followed by bare infinitive, not past participle; D reverses the causative structure, suggesting the architect performed the action rather than having it done."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The meeting was scheduled for 2 PM, but it _____ at 2:30 because the director arrived late.",
+      "question": "Which option is most natural?",
+      "options": [
+        "A. started",
+        "B. had started",
+        "C. was starting",
+        "D. has started"
+      ],
+      "answer": "A",
+      "explanation": "In everyday speech recounting a past event, simple past 'started' is the natural choice. B suggests a past action before another past action (not the case here); C describes an action in progress; D is present perfect (unsuitable for a completed past event)."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "I was going to call you, but then I realized I _____ your number.",
+      "question": "Which is the most natural completion?",
+      "options": [
+        "A. had forgotten",
+        "B. have forgotten",
+        "C. forgot",
+        "D. would forget"
+      ],
+      "answer": "C",
+      "explanation": "Simple past 'forgot' is most natural in informal, everyday speech when recounting a past realization. A (past perfect) overcomplicates the temporal relationship; B (present perfect) is inappropriate for a past action; D (conditional) doesn't fit the actual event."
+    },
+    {
+      "id": 14,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Not until I read the instructions carefully _____ I understand how the new software worked.",
+      "question": "Which verb form correctly completes this inversion?",
+      "options": [
+        "A. did I understand",
+        "B. I understood",
+        "C. I had understood",
+        "D. would I understand"
+      ],
+      "answer": "A",
+      "explanation": "Negative adverbial inversion ('Not until...') requires auxiliary inversion: 'did I understand.' Option B lacks the required inversion; C uses past perfect unnecessarily; D is conditional and inappropriate for a completed past action."
+    },
+    {
+      "id": 15,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "In the wake of accusations of antisemitism being leveled at British-Nigerian arts trustee Misan Harriman, more than 98,000 people have submitted complaints to the UK Independent Press Standards Organisation in Harriman's defense, marking the highest-ever amount of complaints over a single issue ever made to the watchdog organization.",
+      "question": "Rewrite this sentence in your own words, capturing its essential meaning.",
+      "options": null,
+      "answer": null,
+      "paraphrase_keywords": [
+        "antisemitism accusations",
+        "widespread public support",
+        "record complaints",
+        "media regulator",
+        "defense response"
+      ]
+    }
+  ]
+}
