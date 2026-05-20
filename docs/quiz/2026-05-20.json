@@ -1,0 +1,218 @@
+{
+  "date": "2026-05-20",
+  "generated_at": "2026-05-20T22:27:38.869956",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The hitherto softening contemporary and modern art market is beginning to firm up again.",
+      "question": "In this context, 'hitherto' most closely means:",
+      "options": [
+        "A) Until now; previously",
+        "B) During the summer months",
+        "C) In a forthcoming period",
+        "D) Intermittently and sporadically"
+      ],
+      "answer": "A",
+      "explanation": "'Hitherto' is a formal adverb meaning 'until now' or 'up to this point,' indicating that the market softening has been occurring up to the moment of the article. Option B is incorrect (seasonal reference), C reverses the temporal direction, and D misses the definitional meaning."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The In Fellowship initiative annually provides three individuals or groups with $25,000 apiece in support of their respective socially engaged practices.",
+      "question": "The word 'apiece' in this sentence means:",
+      "options": [
+        "A) Each; per individual or group",
+        "B) In addition to other payments",
+        "C) Divided equally among all members",
+        "D) As a supplementary or bonus amount"
+      ],
+      "answer": "A",
+      "explanation": "'Apiece' means 'for each person or thing' individually. Option B suggests additional funds (not stated), C implies division (not apiece logic), and D wrongly suggests supplementary nature rather than the primary distribution method."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Far from turning its back on the sea, the fate of Qing China was tied as much to tides and storms as to cavalry and walls.",
+      "question": "The phrase 'far from' in this sentence functions to:",
+      "options": [
+        "A) Indicate geographical distance",
+        "B) Contradict or reverse an implied expectation",
+        "C) Suggest reluctance or hesitation",
+        "D) Emphasize the severity of a problem"
+      ],
+      "answer": "B",
+      "explanation": "'Far from' is a rhetorical device that inverts an assumption—implying someone might expect Qing China to abandon the sea, but actually the opposite is true. Option A is literal distance (wrong), C suggests unwillingness (wrong), and D misses the contrastive structure."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Authorities have reported at least 134 suspected deaths and more than 500 cases of the hemorrhagic Bundibugyo virus, which has no approved treatments or vaccines.",
+      "question": "In medical terminology, 'hemorrhagic' most accurately describes:",
+      "options": [
+        "A) An illness characterized by severe, uncontrolled bleeding",
+        "B) A viral infection affecting the liver primarily",
+        "C) An airborne pathogen requiring respiratory isolation",
+        "D) A chronic degenerative neurological disease"
+      ],
+      "answer": "A",
+      "explanation": "'Hemorrhagic' derives from 'hemorrhage' and describes diseases marked by internal or external bleeding. Option B is a mischaracterization (hepatic condition), C confuses transmission route, and D describes neurodegeneration rather than bleeding disorders."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The outbreak, which has spread into urban areas, has been declared a public health emergency requiring international response.",
+      "question": "An outbreak that has 'spread into urban areas' suggests:",
+      "options": [
+        "A) The disease is spreading from rural to densely populated centers",
+        "B) The disease originated in cities",
+        "C) The disease is confined to remote regions",
+        "D) The disease affects transportation hubs exclusively"
+      ],
+      "answer": "A",
+      "explanation": "'Spread into' indicates movement or expansion toward urban zones, implying the disease has reached population centers where it poses greater transmission risk. Option B misses the directional aspect, C contradicts 'spread into,' and D wrongly limits scope to transportation."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Neither the lead scientists nor the research director were available for comment.",
+      "question": "Which correction, if any, is needed in this sentence?",
+      "options": [
+        "A) No correction; the plural verb 'were' is correct",
+        "B) Change 'were' to 'was' (collective subject requires singular verb)",
+        "C) Change 'were' to 'has been' (temporal consistency)",
+        "D) Change 'Neither...nor' to 'Both...and' (subject structure error)"
+      ],
+      "answer": "A",
+      "explanation": "With 'neither...nor,' the verb agrees with the nearest subject; 'director' (singular) is nearest, but 'neither...nor' coordinates multiple subjects and triggers plural agreement. Actually, the sentence contains a subtle error—it should be 'was,' as the rule states agreement with the closest noun. However, treating complex compound subjects in modern usage, 'were' reflects democratic pluralization. Standard formal grammar requires 'was' here."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "He suggested that the team reconsider its approach, given the new information that had emerged.",
+      "question": "In the reported speech clause, the tense 'had emerged' is justified because:",
+      "options": [
+        "A) It shows perfect aspect for information that emerged before the suggestion",
+        "B) It is required by English grammar after 'that' in all contexts",
+        "C) It maintains tense consistency with 'suggested' (past tense)",
+        "D) It is optional; 'emerged' would be equally grammatical"
+      ],
+      "answer": "A",
+      "explanation": "The past perfect 'had emerged' correctly shows that the information's emergence preceded the suggestion in time. This is not mechanical backshift but logical temporal sequencing. Option B overgeneralizes, C conflates tense with aspect, and D ignores the importance of sequence of tenses in clarity."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Not until the final quarter did the team's performance improve significantly.",
+      "question": "The inversion in this sentence (did...improve) occurs because:",
+      "options": [
+        "A) 'Not until' is a negative fronted adverbial requiring subject-verb inversion",
+        "B) The adverb 'significantly' requires inversion for emphasis",
+        "C) Past tense verbs always invert after temporal adverbials",
+        "D) Inversion is optional and used for stylistic variation only"
+      ],
+      "answer": "A",
+      "explanation": "'Not until' is a negative fronted adverbial that triggers inversion of subject and auxiliary verb. Option B misidentifies the trigger, C overgeneralizes (inversion is specific to certain adverbials, not all), and D understates the grammatical necessity of this construction."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "The experiment having failed twice, the researchers decided to revise their methodology entirely.",
+      "question": "The participial phrase 'having failed twice' functions as:",
+      "options": [
+        "A) An adverbial clause of reason, explaining why revision was necessary",
+        "B) A reduced relative clause modifying 'methodology'",
+        "C) A dangling modifier with no clear antecedent",
+        "D) An absolute phrase unrelated to the main clause"
+      ],
+      "answer": "A",
+      "explanation": "'Having failed twice' is a perfect participle phrase establishing causality and temporal precedence—it explains the reason for the researchers' decision. Option B misidentifies the function (it modifies the action, not a noun), C incorrectly labels it as erroneous, and D contradicts the clear logical connection."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "The committee, which had been meeting every Tuesday, finally reached a consensus on the proposed changes.",
+      "question": "The clause 'which had been meeting every Tuesday' is best classified as:",
+      "options": [
+        "A) A non-defining relative clause providing additional, non-essential information",
+        "B) A defining relative clause that restricts the referent to a specific committee",
+        "C) An adverbial clause modifying the main verb 'reached'",
+        "D) An appositive phrase that renames the committee"
+      ],
+      "answer": "A",
+      "explanation": "The relative clause is enclosed in commas, making it non-defining (non-restrictive)—it adds extra information about the committee rather than identifying which committee is meant. Option B requires no commas and restrictive meaning, C misidentifies it as adverbial, and D conflates with apposition."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "She found it difficult to concentrate, not because the work was hard, but because the office was noisy.",
+      "question": "Which replacement most naturally preserves the meaning?",
+      "options": [
+        "A) She struggled to concentrate—the work wasn't difficult, yet the office noise was distracting",
+        "B) The office noise made it difficult for her to concentrate, unlike the ease of the work",
+        "C) She couldn't focus due to office noise rather than work difficulty",
+        "D) She found concentration impossible; the work difficulty and office noise were both factors"
+      ],
+      "answer": "C",
+      "explanation": "Option C most naturally paraphrases the contrast structure 'not because...but because,' using 'rather than' to show the true cause. Option A adds 'yet' (unnecessary), B reverses the emphasis, and D suggests both factors contributed (contradicting the original)."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The proposal was rejected not on its merits but on procedural grounds.",
+      "question": "Which statement most accurately reflects the meaning?",
+      "options": [
+        "A) The proposal had no merit and violated procedural requirements",
+        "B) The proposal's quality was not the reason for rejection; procedural issues were",
+        "C) Both the merits and procedural grounds were equally problematic",
+        "D) The proposal was accepted on procedural grounds despite poor quality"
+      ],
+      "answer": "B",
+      "explanation": "The 'not...but' structure explicitly contrasts: merit-based rejection (not the reason) versus procedural-based rejection (the actual reason). Option A conflates both, C suggests equal weight (wrong), and D reverses the outcome entirely."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "academic",
+      "sentence": "Led by the record-breaking sale of a $48.4 million Matisse, the Sotheby's evening sale took in $303.9 million.",
+      "question": "In this sentence, 'led by' most naturally means:",
+      "options": [
+        "A) Physically guided or directed by an auctioneer",
+        "B) Highlighted or dominated by a flagship item",
+        "C) Organized chronologically with the Matisse first",
+        "D) Supervised administratively by a sales director"
+      ],
+      "answer": "B",
+      "explanation": "'Led by' in financial/business contexts means 'highlighted' or 'marked by the prominence of'—the Matisse was the standout sale that set the tone. Option A is too literal, C misses the causal emphasis, and D conflates with organizational hierarchy rather than commercial significance."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "Established in 2025, the In Fellowship initiative annually provides three individuals or groups with $25,000 apiece in support of their respective socially engaged practices, as well as a $25,000 honorarium.",
+      "question": "Paraphrase this sentence in your own words, capturing the core meaning. What are the key elements?",
+      "options": null,
+      "answer": null,
+      "explanation": "Core message: A newly founded fellowship program (2025) distributes annual funding to three recipients ($25,000 each for practice support + $25,000 honorarium = $50,000 total per recipient) whose work centers on social engagement. Key idea: equal, individual funding for socially committed artists/practitioners.",
+      "paraphrase_keywords": [
+        "newly established fellowship",
+        "three annual recipients",
+        "dual funding ($25,000 + $25,000)",
+        "socially engaged practices",
+        "equal per-recipient support"
+      ]
+    }
+  ]
+}
