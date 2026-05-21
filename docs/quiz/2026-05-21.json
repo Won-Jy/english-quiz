@@ -1,0 +1,217 @@
+{
+  "date": "2026-05-21",
+  "generated_at": "2026-05-21T22:25:16.077041",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The word 'rememory' was coined to define a memory that remains in the world, no matter how hidden or repressed.",
+      "question": "In this context, 'repressed' most closely means:",
+      "options": [
+        "A. Deliberately suppressed or kept from conscious awareness",
+        "B. Physically compressed or squeezed",
+        "C. Expressed with strong emotion",
+        "D. Permanently erased from all records"
+      ],
+      "answer": "A",
+      "explanation": "In psychological and literary contexts, 'repressed' refers to memories or feelings pushed into the unconscious mind. Option B is a literal physical meaning irrelevant here; C is the opposite of the word's meaning; D suggests complete erasure, whereas repression implies the memory still exists but is hidden."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The luxury fashion house Chanel and Paris's Centre Pompidou announced a strategic partnership in support of the contemporary art museum's significant phase of renovations.",
+      "question": "The word 'phase' in this sentence best refers to:",
+      "options": [
+        "A. A distinct stage or period within a longer process",
+        "B. The alignment of celestial bodies",
+        "C. A temporary emotional state",
+        "D. A visual appearance or aspect"
+      ],
+      "answer": "A",
+      "explanation": "In formal contexts, 'phase' denotes a distinct stage of development or a planned period within a larger project. The other options represent less common meanings: B is astronomical, C is colloquial, and D is archaic usage."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "It's marketed as a holiday destination, but the true meaning of Hawai'i lies in the connections between land and people.",
+      "question": "In this passage, 'connections' implies:",
+      "options": [
+        "A. Relationships or bonds of interdependence and cultural significance",
+        "B. Communication links or technological infrastructure",
+        "C. Flight routes or transportation networks",
+        "D. Casual social interactions without deeper meaning"
+      ],
+      "answer": "A",
+      "explanation": "Here, 'connections' refers to deep relationships between indigenous people and their land, reflecting cultural and spiritual ties. B, C, and D miss the profundity of the intended meaning—the passage contrasts superficial tourism with authentic cultural significance."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The fiercest political battle of our age needs less moral drama and more hard thinking about numbers and fair tradeoffs.",
+      "question": "The phrase 'hard thinking' suggests:",
+      "options": [
+        "A. Rigorous, objective, evidence-based analysis",
+        "B. Thinking that is difficult to understand",
+        "C. Aggressive or confrontational reasoning",
+        "D. Thinking performed under difficult circumstances"
+      ],
+      "answer": "A",
+      "explanation": "'Hard thinking' in formal discourse means rigorous, quantitative, pragmatic analysis rather than emotional or ideological arguments. B misinterprets 'hard' as 'difficult'; C wrongly associates 'hard' with aggression; D confuses the metaphor with literal conditions."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Emmanuel Macron has said reparations for France's role in hundreds of years of enslavement of African people is an issue that should be addressed, but he stopped short of making clear proposals.",
+      "question": "'Stopped short of' most accurately means:",
+      "options": [
+        "A. Failed to reach the full extent or completion of something",
+        "B. Abruptly halted a physical journey",
+        "C. Was prevented by external forces from acting",
+        "D. Deliberately refused to acknowledge a problem"
+      ],
+      "answer": "A",
+      "explanation": "'Stopped short of' is an idiom meaning to fall shy of a goal or full action without completing it. B is literal and inappropriate; C suggests external barriers when the choice was volitional; D implies willful denial, whereas the phrase indicates partial but incomplete action."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The researchers, having conducted three preliminary studies, were confident their methodology was sound.",
+      "question": "The participle clause 'having conducted' functions to:",
+      "options": [
+        "A. Show a completed action prior to the main clause action",
+        "B. Indicate simultaneous actions occurring at the same time",
+        "C. Express a condition that must be fulfilled",
+        "D. Describe an ongoing process still in progress"
+      ],
+      "answer": "A",
+      "explanation": "The perfect participle 'having conducted' denotes an action completed before the main verb 'were confident.' This temporal precedence distinguishes it from simple participles, which show simultaneity (B). Options C and D misrepresent the function of participle clauses."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The museum director had the entire collection catalogued by an external firm rather than undertaking the task internally.",
+      "question": "The structure 'had the collection catalogued' demonstrates:",
+      "options": [
+        "A. Causative 'have' where the subject arranges for someone else to perform the action",
+        "B. Passive voice indicating the collection was accidentally catalogued",
+        "C. Perfect tense showing completion before another past action",
+        "D. An obligation or requirement imposed on the museum"
+      ],
+      "answer": "A",
+      "explanation": "Causative 'have' + object + past participle means the subject arranges for another agent to perform an action. B ignores causation; C conflates two grammatical structures; D overstates the meaning as mere obligation rather than arranged action."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The witness stated that he had seen the suspect fleeing the scene and that the police should be notified immediately.",
+      "question": "Which change is required when converting this to reported speech from present tense original?",
+      "options": [
+        "A. Both 'has seen' and 'should notify' undergo tense backshift to past tenses",
+        "B. 'Had seen' remains unchanged as it is already past perfect",
+        "C. 'Should be notified' remains unchanged because modal verbs do not shift tense",
+        "D. Both B and C are correct"
+      ],
+      "answer": "D",
+      "explanation": "In reported speech, past perfect verbs ('had seen') do not shift further; modals like 'should' remain constant. The original likely contained 'sees' and 'should be notified,' which backshift to 'had seen' and maintain 'should.' Option A incorrectly suggests further shifting is needed; B and C are individually correct but D captures both principles."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "The committee, which had been meeting every Tuesday, finally reached a consensus on the proposed changes.",
+      "question": "The relative clause 'which had been meeting every Tuesday' is non-defining because:",
+      "options": [
+        "A. It provides additional, non-essential information about the committee and is set off by commas",
+        "B. It uses 'which' instead of 'that' and the verb is in past progressive",
+        "C. It describes a temporary action rather than an inherent characteristic",
+        "D. The information would be necessary to identify which committee is meant"
+      ],
+      "answer": "A",
+      "explanation": "Non-defining relative clauses add supplementary information without restricting the noun's reference; they require commas and typically use 'which' for things. B conflates pronoun choice with clause function; C confuses aspect with clause type; D describes defining clauses, which narrow down reference."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The university has mandated that every student complete a sustainability module before graduation.",
+      "question": "The verb 'complete' appears in its base form rather than '-s' form because:",
+      "options": [
+        "A. The subjunctive mood is used after 'mandated that' to express necessity or recommendation",
+        "B. The student is the active subject performing the action, so no subject-verb agreement is needed",
+        "C. 'Complete' refers to a future action and future actions do not inflect in English",
+        "D. The sentence uses British English, which permits uninflected verbs in subordinate clauses"
+      ],
+      "answer": "A",
+      "explanation": "After verbs of command, suggestion, and mandate (e.g., 'mandate that'), English employs the subjunctive mood with the bare infinitive form. B misunderstands agreement rules; C is false—English infinitives don't inflect regardless of tense; D overgeneralizes British conventions."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "If the train had arrived on time, we would have caught the connecting flight to Amsterdam.",
+      "question": "Which expression conveys the same counterfactual meaning most naturally in informal speech?",
+      "options": [
+        "A. Had the train not been delayed, we could've made our connection.",
+        "B. Because the train was late, we didn't catch our flight.",
+        "C. The train being late meant we would miss our flight.",
+        "D. We might have caught the flight if the train had left earlier."
+      ],
+      "answer": "A",
+      "explanation": "Option A maintains the counterfactual conditional structure and uses the same past-time reference. B removes the conditional meaning entirely; C uses a causative structure that sounds more formal and changes the counterfactual tone; D weakens the certainty with 'might' and changes the causal detail."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Despite the rain, she decided to walk to the market rather than take the bus.",
+      "question": "Which alternative phrasing most naturally conveys the same meaning?",
+      "options": [
+        "A. Although it was raining, she preferred to walk to the market instead of taking the bus.",
+        "B. She walked to the market rather than taking the bus despite the rain that fell.",
+        "C. The rain didn't stop her from choosing a walk to the market over the bus.",
+        "D. It rained, but she decided she'd walk to the market, not the bus."
+      ],
+      "answer": "A",
+      "explanation": "Option A directly parallels the original structure with a clear concessive clause and parallel infinitives. B uses awkward postpositioned concessive placement; C changes the focus and sounds colloquial; D creates awkward grammar with incomplete comparison ('not the bus')."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Neither the manager nor the employees were informed of the decision until after it had been implemented.",
+      "question": "What is the most natural way to rephrase this without changing meaning?",
+      "options": [
+        "A. The decision was implemented before either the manager or the employees learned about it.",
+        "B. The manager and the employees didn't know about the decision until it had been implemented.",
+        "C. Not until the decision was implemented did the manager and employees become informed.",
+        "D. They neither informed the manager nor the employees before implementing the decision."
+      ],
+      "answer": "A",
+      "explanation": "Option A preserves the timing relationship (implementation before notification) using active voice with clear parallel structure. B sounds colloquial but acceptable, though A is more formal; C inverts the emphasis; D shifts agency awkwardly with an unspecified 'they.'"
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "The word is drawn from Toni Morrison's 1987 novel Beloved, and was coined to define a memory that remains in the world, no matter how hidden or repressed.",
+      "question": "Rewrite this sentence in your own words, capturing the core meaning. What are the 3-5 key concepts?",
+      "options": null,
+      "answer": null,
+      "paraphrase_keywords": [
+        "Morrison",
+        "concept",
+        "hidden memory",
+        "persistent",
+        "world"
+      ]
+    }
+  ]
+}
