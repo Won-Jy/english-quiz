@@ -1,0 +1,217 @@
+{
+  "date": "2026-05-22",
+  "generated_at": "2026-05-22T22:15:01.510112",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The institution's decision to remove the funder's name was seen as a necessary _____ of its values in response to public pressure.",
+      "question": "Which word best fills the blank?",
+      "options": [
+        "A. affirmation",
+        "B. vindication",
+        "C. assertion",
+        "D. reaffirmation"
+      ],
+      "answer": "C",
+      "explanation": "Assertion means a clear or emphatic statement of a position or claim, fitting the context of the institution publicly stating its values. Affirmation and reaffirmation suggest confirming something already established. Vindication means proving something right after doubt, which doesn't match the meaning here."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The spread of the Ebola outbreak across borders presented a _____ challenge that required coordinated international response.",
+      "question": "Which word best completes the sentence?",
+      "options": [
+        "A. transient",
+        "B. multifaceted",
+        "C. nebulous",
+        "D. ephemeral"
+      ],
+      "answer": "B",
+      "explanation": "Multifaceted means having many different aspects or dimensions, which accurately describes a disease outbreak with medical, political, and social dimensions. Transient and ephemeral both mean temporary, which contradicts the serious nature of the crisis. Nebulous means unclear or vague, which doesn't fit the concrete challenge described."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The asymmetry of power between parents and children _____ throughout adult life, shaping how individuals relate to authority.",
+      "question": "Which word best fits the blank?",
+      "options": [
+        "A. dissipates",
+        "B. reverberates",
+        "C. attenuates",
+        "D. manifests"
+      ],
+      "answer": "B",
+      "explanation": "Reverberates means to continue to have effects or echoes over time, perfectly capturing how childhood power dynamics persist. Dissipates means to disperse or fade away, contradicting the passage's claim that it 'always leaves a trace.' Attenuates means to weaken gradually. Manifests means to appear or become visible, but lacks the sense of ongoing resonance."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Travel restrictions on the DRC were criticized as _____ measures that could exacerbate public health vulnerabilities rather than contain them.",
+      "question": "Which word best completes the sentence?",
+      "options": [
+        "A. counterproductive",
+        "B. obfuscatory",
+        "C. punitive",
+        "D. preemptive"
+      ],
+      "answer": "A",
+      "explanation": "Counterproductive means achieving the opposite of the intended effect, which accurately describes restrictions that critics claimed would worsen the situation. Obfuscatory means deliberately obscuring or confusing. Punitive means inflicting punishment. Preemptive means taking action to prevent something before it happens—while travel bans attempt to be preemptive, they don't achieve that goal and backfire, making counterproductive more precise."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The institution's _____ regarding the funder's ties to criminal activity demonstrated a commitment to ethical accountability.",
+      "question": "Which word best fits the blank?",
+      "options": [
+        "A. obduracy",
+        "B. recusal",
+        "C. intransigence",
+        "D. capitulation"
+      ],
+      "answer": "B",
+      "explanation": "Recusal means the act of withdrawing or disassociating from something, typically applied to removing a name or severing ties. Obduracy and intransigence both refer to stubborn refusal to change, which contradicts the institution's willingness to take action. Capitulation means surrender or giving in, which has a negative tone inappropriate for ethical action."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_____ the proposal twice without success, the committee decided to abandon the project entirely.",
+      "question": "Which participle clause construction is grammatically correct?",
+      "options": [
+        "A. Having rejected",
+        "B. Being rejected",
+        "C. Having been rejecting",
+        "D. To have rejected"
+      ],
+      "answer": "A",
+      "explanation": "Having rejected correctly uses the perfect participle to show that the rejection occurred before the decision to abandon. Being rejected would be passive voice and inappropriate here since the committee actively rejected. Having been rejecting is non-standard. To have rejected is an infinitive, not a participle clause."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "If the travel restrictions _____ been implemented, health officials believe the disease _____ spread less rapidly across the region.",
+      "question": "Which modal and conditional form completes this third conditional correctly?",
+      "options": [
+        "A. had / would have",
+        "B. have / might have",
+        "C. had / could have",
+        "D. would / must have"
+      ],
+      "answer": "C",
+      "explanation": "The third conditional requires 'had' + past participle in the if-clause and would/could/might have + past participle in the main clause. Option C correctly uses 'had been' and 'could have spread.' Option A omits 'not.' Option B uses present perfect instead of past perfect. Option D reverses the clause structures incorrectly."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The activist _____ have known about the connections earlier; the information was publicly available for months before the demands.",
+      "question": "Which modal verb correctly expresses criticism about a past action?",
+      "options": [
+        "A. must",
+        "B. should",
+        "C. might",
+        "D. could"
+      ],
+      "answer": "B",
+      "explanation": "Should have expresses mild criticism or expectation about what someone ought to have done in the past. Must have suggests logical deduction about what definitely happened. Might have and could have suggest possibility rather than criticism. The sentence's context indicates the speaker believes the activist should have known earlier, making should have the correct choice."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "She remembered _____ to the museum as a child, yet she couldn't _____ to go there again despite her busy schedule.",
+      "question": "Which gerund and infinitive pair fits the change in meaning?",
+      "options": [
+        "A. going / going",
+        "B. to go / going",
+        "C. going / to go",
+        "D. to go / to go"
+      ],
+      "answer": "C",
+      "explanation": "Remember + gerund refers to recalling a past event ('she recalled the memory of going'). Remember + infinitive means 'not to forget to do something' (future obligation). The sentence requires these different meanings. Option C correctly shows 'remembered going' (past recollection) and 'manage to go' reinterpreted with the infinitive of effort/ability."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The official stated that the outbreak _____ a public health emergency and that cases _____ dramatically in the past week.",
+      "question": "Which tense combination correctly represents reported speech with backshift?",
+      "options": [
+        "A. is / increased",
+        "B. was / had increased",
+        "C. had been / increased",
+        "D. has been / have increased"
+      ],
+      "answer": "B",
+      "explanation": "In reported speech, present tense shifts to past ('is' becomes 'was') and present perfect shifts to past perfect ('have increased' becomes 'had increased'). Option B correctly applies backshift. Option A lacks backshift. Option C uses past perfect unnecessarily in the first clause. Option D maintains present tenses, which is incorrect for reported speech in past context."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Despite the rain, she decided to walk to the market _____ take the bus.",
+      "question": "Which phrase best completes this sentence naturally?",
+      "options": [
+        "A. in order to not",
+        "B. rather than",
+        "C. instead of to",
+        "D. other than"
+      ],
+      "answer": "B",
+      "explanation": "Rather than is the natural idiomatic expression for showing a preference between two actions. In order to not is awkward and doesn't fit the meaning. Instead of to is grammatically incorrect (should be 'instead of taking'). Other than doesn't convey the sense of preference needed here."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The policy, _____ introduced, proved harder to reverse than its architects had imagined.",
+      "question": "Which word best fills the blank?",
+      "options": [
+        "A. once",
+        "B. being",
+        "C. having been",
+        "D. as it was"
+      ],
+      "answer": "A",
+      "explanation": "Once introduced is a standard adverbial phrase meaning 'after being introduced.' Being introduces is awkward and changes the meaning. Having been is overly formal and unnecessary. As it was suggests a past state assumption rather than sequence. Once is the most natural and concise choice."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "She found it difficult to concentrate, not because the work was hard, _____ because the office was noisy.",
+      "question": "Which word best completes this contrast?",
+      "options": [
+        "A. yet",
+        "B. but",
+        "C. though",
+        "D. however"
+      ],
+      "answer": "B",
+      "explanation": "But correctly introduces a contrasting clause after a negation ('not because...but because...'). Yet introduces weaker contrast or addition. Though suggests concession rather than direct contrast. However is a transition word suitable for new sentences, not for connecting clauses in this structure."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "The outbreak was declared a public health emergency of international concern on Sunday and continues to spread, with a new case reported in the DRC's South Kivu province, an area under the control of armed rebel groups.",
+      "question": "Rewrite this sentence in your own words, capturing the key information: (1) What was declared and when? (2) What is happening now? (3) Where is the new case and why does location matter?",
+      "options": null,
+      "answer": null,
+      "paraphrase_keywords": [
+        "international emergency declaration",
+        "ongoing spread",
+        "new cases",
+        "rebel-controlled territory",
+        "geographic complication"
+      ]
+    }
+  ]
+}
