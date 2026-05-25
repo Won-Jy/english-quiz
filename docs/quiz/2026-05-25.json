@@ -1,0 +1,219 @@
+{
+  "date": "2026-05-25",
+  "generated_at": "2026-05-25T22:14:39.680391",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Flusser's meditations on digital media represent a prescient _______ of contemporary concerns about meaning transmission.",
+      "question": "Which word best completes this sentence?",
+      "options": [
+        "A. anticipation",
+        "B. articulation",
+        "C. augmentation",
+        "D. abbreviation"
+      ],
+      "answer": "B",
+      "explanation": "Articulation means a clear expression or statement of ideas. Anticipation implies predicting future events; augmentation means increasing in size; abbreviation means shortening—none capture the sense of expressing or formulating theoretical concerns. Articulation fits the academic context of a theorist expressing ideas about media."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The legislation's failure to advance reflects the increasingly _______ nature of partisan politics in the legislative process.",
+      "question": "Which word best completes this sentence?",
+      "options": [
+        "A. truncated",
+        "B. acrimonious",
+        "C. nascent",
+        "D. incidental"
+      ],
+      "answer": "B",
+      "explanation": "Acrimonious means bitter or hostile in tone, fitting the context of partisan disagreement and rejection of bills. Truncated means cut short; nascent means just beginning; incidental means minor or unimportant. Only acrimonious captures the contentious atmosphere implied by Democrats rejecting Republican changes."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The natural world is often described in mechanistic terms, yet such _______ fail to account for the complexity of living systems.",
+      "question": "Which word best completes this sentence?",
+      "options": [
+        "A. analogies",
+        "B. anomalies",
+        "C. ambiguities",
+        "D. antecedents"
+      ],
+      "answer": "A",
+      "explanation": "Analogies are comparisons between things; the sentence contrasts mechanistic comparisons (like airplanes) with living systems. Anomalies are irregularities; ambiguities are unclear meanings; antecedents are things that precede others. Only analogies captures the idea of comparing nature to machines."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The WHO director urged neighbouring countries to take _______ action, emphasizing the urgent need to contain the outbreak.",
+      "question": "Which word best completes this sentence?",
+      "options": [
+        "A. precipitate",
+        "B. pellucid",
+        "C. preemptive",
+        "D. profligate"
+      ],
+      "answer": "C",
+      "explanation": "Preemptive means acting in advance to prevent something; the context supports countries taking preventive action before outbreak reaches them. Precipitate means abrupt or hasty; pellucid means clear; profligate means wasteful. Only preemptive aligns with taking action before the disease spreads."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Life on an off-the-grid island requires a _______ commitment to sustainable living and community engagement.",
+      "question": "Which word best completes this sentence?",
+      "options": [
+        "A. superficial",
+        "B. steadfast",
+        "C. sanguine",
+        "D. serendipitous"
+      ],
+      "answer": "B",
+      "explanation": "Steadfast means firm, loyal, and unwavering; it matches the requirement for genuine commitment to island life. Superficial means shallow; sanguine means optimistic; serendipitous means fortunate or lucky. Only steadfast captures the sense of serious, sustained commitment necessary."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_______ data is essential for rigorous research, yet _______ information obtained during fieldwork often proves equally valuable.",
+      "question": "Which articles correctly complete this sentence about abstract and uncountable nouns?",
+      "options": [
+        "A. The; the",
+        "B. The; — (zero article)",
+        "C. — (zero article); the",
+        "D. A; an"
+      ],
+      "answer": "C",
+      "explanation": "Abstract/uncountable nouns like 'data' and 'information' take zero article when used generically (first blank). The second blank uses 'the' because 'information obtained during fieldwork' is a specific, defined subset of information, making it require the definite article."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The researcher claimed that the results _______ more ambiguous than originally anticipated, and she maintained that they _______ not support the initial hypothesis.",
+      "question": "Which verb forms correctly demonstrate reported speech with backshift of tenses?",
+      "options": [
+        "A. were; did",
+        "B. had been; would",
+        "C. are; do",
+        "D. would be; could"
+      ],
+      "answer": "A",
+      "explanation": "In reported speech from past tense ('claimed'), present tense shifts to past: 'are' becomes 'were' and 'do' becomes 'did.' Options B and D over-shift to past perfect and conditional; option C fails to backshift at all, maintaining present tense incorrectly."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Neither the director nor his team members _______ willing to compromise on the project's core objectives.",
+      "question": "Which verb form agrees with this inverted subject structure?",
+      "options": [
+        "A. was",
+        "B. were",
+        "C. has been",
+        "D. am"
+      ],
+      "answer": "B",
+      "explanation": "With 'neither...nor,' the verb agrees with the nearest subject noun: 'team members' is plural, requiring 'were.' Option A incorrectly treats the subject as singular; option C incorrectly uses present perfect; option D (am) is wrong for third person."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The agency _______ have anticipated the outbreak, but it certainly _______ have prepared more thoroughly given the earlier warnings.",
+      "question": "Which modal verb forms correctly express degrees of certainty and criticism?",
+      "options": [
+        "A. could; should",
+        "B. might; would",
+        "C. may; can",
+        "D. must; may"
+      ],
+      "answer": "A",
+      "explanation": "'Could have' expresses possibility in the past (what was possible but didn't happen); 'should have' criticizes an obligation not met. Option B (might/would) is too weak for obligation; C and D are incorrect forms for this context of retrospective possibility and moral criticism."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The team _______ on this problem since 2020, yet they _______ significant progress only in the last six months.",
+      "question": "Which tense forms correctly contrast perfect and past simple?",
+      "options": [
+        "A. have worked; made",
+        "B. has worked; have made",
+        "C. worked; had made",
+        "D. have been working; have made"
+      ],
+      "answer": "A",
+      "explanation": "Present perfect 'have worked' (since 2020) shows an action spanning to present; past simple 'made' pinpoints a specific time period (last six months). Option B incorrectly uses singular; option C uses simple past for both, losing the connection to present; option D is grammatically possible but less direct."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The results were more ambiguous than the researchers had initially anticipated.",
+      "question": "What is the most natural way to express this in everyday speech?",
+      "options": [
+        "A. The findings turned out to be less clear than expected.",
+        "B. The outcomes were vaguer than what they'd thought beforehand.",
+        "C. The data proved more unclear than the researchers had foreseen.",
+        "D. The results showed themselves to be more indeterminate than initially supposed."
+      ],
+      "answer": "A",
+      "explanation": "Option A uses natural, conversational language with 'turned out' and 'clear.' Option B (vaguer) is awkward; option C (data/foreseen) mixes formal and informal inappropriately; option D is overly complex and stilted."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Rarely had the team faced such a complex set of competing demands.",
+      "question": "What is the most natural way to rephrase this?",
+      "options": [
+        "A. The team seldom encountered such complicated competing demands.",
+        "B. Such complex competing demands were something the team rarely faced before.",
+        "C. The team had rarely faced anything as complex as this set of competing demands.",
+        "D. Seldom did the team face such complicated competing demands as these."
+      ],
+      "answer": "C",
+      "explanation": "Option C preserves the meaning while using standard word order and everyday English. Option A loses the emphasis of inversion; option B is awkward with 'before'; option D maintains formal inversion ('Seldom did...'), which is less natural in everyday speech."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Neither the manager nor the employees were informed of the decision until after it had been implemented.",
+      "question": "Which phrasing most naturally expresses this in everyday conversation?",
+      "options": [
+        "A. No one—not the manager or the employees—found out about the decision before it was put into effect.",
+        "B. The manager and employees alike weren't told about the decision until it was already in place.",
+        "C. Neither of the parties (manager and employees) received notification before implementation occurred.",
+        "D. Until the decision was already implemented, the manager and employees had not been made aware of it."
+      ],
+      "answer": "A",
+      "explanation": "Option A uses natural parenthetical structure and simple past. Option B is slightly casual but acceptable; option C is overly formal with 'parties' and 'implementation'; option D has awkward word order with 'until...had not been.'"
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "Legislation aimed at advancing the construction of the Smithsonian American Women's History Museum in Washington, DC, failed in the House on May 21 after Democrats rejected changes added to the bill by Republicans in March.",
+      "question": "Rewrite this sentence in your own words, using no more than 20 words.",
+      "options": null,
+      "answer": null,
+      "explanation": "The key concepts are: legislation failed / House vote / Democrat rejection / Republican amendments / Women's History Museum bill / timing (May, March).",
+      "paraphrase_keywords": [
+        "failed legislation",
+        "House vote",
+        "Democrats rejected amendments",
+        "Republican changes",
+        "museum bill",
+        "May/March"
+      ]
+    }
+  ]
+}
