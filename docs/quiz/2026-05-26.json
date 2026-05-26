@@ -1,0 +1,218 @@
+{
+  "date": "2026-05-26",
+  "generated_at": "2026-05-26T22:26:30.831398",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The Bergen Assembly has just announced the 'convenors' of its 2028 edition: frequent collaborators Lucia Pietroiusti and Filipa Ramos.",
+      "question": "In this context, 'convenors' most closely means:",
+      "options": [
+        "A. Organizers or coordinators who bring together participants",
+        "B. Attendees who gather to observe proceedings",
+        "C. Critics who evaluate artistic merit",
+        "D. Sponsors who provide financial backing"
+      ],
+      "answer": "A",
+      "explanation": "A 'convenor' is someone who convenes or assembles people for a specific purpose. In art and academic contexts, convenors orchestrate platforms and facilitate collaboration. Options B, C, and D misrepresent the active, coordinative role implied by the term."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The UN's special rapporteurs are experts charged with a singular mandate: to monitor the world's worst human rights abuses.",
+      "question": "The word 'rapporteurs' refers to:",
+      "options": [
+        "A. Investigative reporters who work for news agencies",
+        "B. Officials appointed to report on and investigate specific issues",
+        "C. Defense lawyers representing accused parties",
+        "D. Diplomats who negotiate international treaties"
+      ],
+      "answer": "B",
+      "explanation": "A rapporteur is an official, typically within an international organization, tasked with investigating matters and reporting findings. The context of 'charged with a singular mandate' reinforces this investigative and reporting function. Options A, C, and D describe different professional roles with different responsibilities."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "A Russian military strike on Kyiv damaged the National Art Museum of Ukraine and other cultural heritage sites, in addition to several schools and many residential buildings.",
+      "question": "The phrase 'cultural heritage sites' is best understood as:",
+      "options": [
+        "A. Recently constructed buildings of architectural interest",
+        "B. Places of historical, artistic, or cultural significance preserved for future generations",
+        "C. Government-owned properties with restricted public access",
+        "D. Archaeological excavation zones under international protection"
+      ],
+      "answer": "B",
+      "explanation": "Cultural heritage sites are locations of enduring historical, artistic, or cultural value that communities seek to preserve. The reference to museums and national institutions in the source confirms this meaning. Options A (recent construction), C (restricted access), and D (excavation focus) are either too narrow or inaccurate."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Life on this small, off-the-grid island offers closeness to land and community for those willing, and able, to work for it.",
+      "question": "An 'off-the-grid' location implies:",
+      "options": [
+        "A. A place that is geographically isolated from modern infrastructure and utilities",
+        "B. An area that has no telephone or postal services",
+        "C. A region that is politically independent from national government",
+        "D. A territory that is unmapped and uncharted"
+      ],
+      "answer": "A",
+      "explanation": "'Off-the-grid' refers to places disconnected from centralized utilities such as electricity, water, and internet. The phrase emphasizes self-sufficiency and independence from modern conveniences. Options B (telephone/mail only), C (political independence), and D (unmapped) are too specific or inaccurate."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The WHO's director-general urged neighbouring countries to take immediate action, stating that the epidemic is outpacing response efforts.",
+      "question": "When an epidemic is described as 'outpacing' response efforts, it means:",
+      "options": [
+        "A. The disease is spreading faster than authorities can respond to it",
+        "B. The number of healthcare workers is insufficient for treatment",
+        "C. Public communication about the disease is lagging behind scientific discovery",
+        "D. The epidemic has crossed international borders despite quarantine measures"
+      ],
+      "answer": "A",
+      "explanation": "'Outpacing' means moving faster than something else or exceeding it in rate. Here, the epidemic spreads more rapidly than health organizations can mount an effective response. Options B (workforce), C (communication lag), and D (border crossing) describe related but distinct problems."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_____ the museum from the missile strike, the curators immediately began cataloguing the damage to priceless artifacts.",
+      "question": "Which option correctly completes the sentence using a participle clause?",
+      "options": [
+        "A. Having surveyed",
+        "B. Being surveyed",
+        "C. Surveying",
+        "D. Having been surveyed"
+      ],
+      "answer": "D",
+      "explanation": "The curators surveyed the museum after the strike; the action is passive and completed before 'began.' 'Having been surveyed' correctly expresses a completed passive action preceding the main verb. Option A (active, completed) reverses the logical sequence; B and C fail to indicate completion or passivity."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The committee demands that she _____ a formal written apology to all affected parties within two weeks.",
+      "question": "Which option correctly completes the sentence using the subjunctive mood?",
+      "options": [
+        "A. submits",
+        "B. submit",
+        "C. will submit",
+        "D. is submitting"
+      ],
+      "answer": "B",
+      "explanation": "After 'demands that,' the subjunctive mood requires the base form of the verb without -s or auxiliary verbs. 'Submit' is correct. Option A (indicative), C (future), and D (progressive) do not reflect the mandatory, hypothetical tone required by subjunctive structures."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "If the government had invested in infrastructure earlier, the country _____ far better equipped to handle the crisis today.",
+      "question": "Which option correctly completes this third conditional sentence?",
+      "options": [
+        "A. would be",
+        "B. will be",
+        "C. would have been",
+        "D. is"
+      ],
+      "answer": "A",
+      "explanation": "This sentence mixes third conditional (past hypothetical: 'had invested') with a present-time consequence. The correct form is 'would be' (present hypothetical result). Option C (would have been) would create an impossible all-past structure; B and D are indicative, not conditional."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_____ the local opposition been anticipated, the project might have proceeded without delay.",
+      "question": "Which option correctly completes the sentence using inversion after a negative adverbial?",
+      "options": [
+        "A. Had",
+        "B. Has",
+        "C. Hardly",
+        "D. If"
+      ],
+      "answer": "A",
+      "explanation": "Inversion after 'Had' (understood negative adverbial in conditional context) moves the auxiliary before the subject: 'Had the opposition been anticipated.' This mimics the word order of conditional clauses to express a counterfactual. Option B (present perfect), C (different negative adverbial that doesn't fit), and D (conjunction, no inversion) are incorrect."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The museum, _____ contains priceless Renaissance paintings, was damaged in the strike. The museum _____ contains ancient sculptures is in a safer location.",
+      "question": "Which options correctly distinguish between defining and non-defining relative clauses?",
+      "options": [
+        "A. which / that",
+        "B. that / which",
+        "C. which / which",
+        "D. that / that"
+      ],
+      "answer": "A",
+      "explanation": "The first clause (non-defining, set apart by commas) provides extra information about an already-identified museum and uses 'which.' The second clause (defining, no commas) specifies which museum is meant and requires 'that.' Non-defining clauses use 'which'; defining clauses use 'that.' Options B, C, and D reverse or confuse these conventions."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Despite the rain, she decided to walk to the market rather than take the bus.",
+      "question": "What does this sentence most naturally convey?",
+      "options": [
+        "A. She preferred walking even though weather conditions were unfavorable",
+        "B. She could not afford bus fare and had to walk instead",
+        "C. She walked because the bus service had been suspended due to rain",
+        "D. She was in a hurry and walking was faster than waiting for a bus"
+      ],
+      "answer": "A",
+      "explanation": "'Despite' signals that the rain presented an obstacle she overcame by choosing to walk. The phrase 'rather than take the bus' indicates a deliberate preference. Options B (affordability), C (bus suspension), and D (speed) introduce unsupported assumptions not conveyed by the sentence structure."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The policy, once introduced, proved harder to reverse than its architects had imagined.",
+      "question": "This sentence suggests that:",
+      "options": [
+        "A. The policy's designers underestimated the difficulty of changing course",
+        "B. The policy was poorly designed and required immediate replacement",
+        "C. Political opposition prevented the policy's initial introduction",
+        "D. The policy's architects deliberately concealed its complexities"
+      ],
+      "answer": "A",
+      "explanation": "'Proved harder to reverse than its architects had imagined' explicitly compares the actual difficulty to the architects' expectations, implying they underestimated it. Options B (poor design), C (initial opposition), and D (concealment) are not supported by the sentence's comparative structure."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "She found it difficult to concentrate, not because the work was hard, but because the office was noisy.",
+      "question": "This sentence's primary function is to:",
+      "options": [
+        "A. Clarify the actual cause of her difficulty and rule out an alternative explanation",
+        "B. Criticize both the work and the office environment",
+        "C. Explain why she chose to work in a noisy office",
+        "D. Demonstrate that concentration requires both simple tasks and quiet"
+      ],
+      "answer": "A",
+      "explanation": "The 'not because...but because' structure explicitly distinguishes between two possible reasons and identifies the true cause. This is a clarification and exclusion of alternatives. Options B (criticism), C (choice justification), and D (requirement demonstration) mischaracterize the sentence's logical function."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "A Russian military strike on Kyiv and the surrounding area killed four people and did significant damage to one of the country's oldest museums, the National Art Museum of Ukraine (NAMU), as well as the Ukrainian National Chernobyl Museum, and other cultural heritage sites, in addition to several schools and many residential buildings.",
+      "question": "Paraphrase this sentence in your own words, capturing the core meaning in 2-3 sentences. Focus on what happened, what was damaged, and the scope of the destruction.",
+      "options": null,
+      "answer": null,
+      "explanation": null,
+      "paraphrase_keywords": [
+        "military strike",
+        "civilian casualties",
+        "cultural institutions damaged",
+        "infrastructure destruction",
+        "widespread impact"
+      ]
+    }
+  ]
+}
