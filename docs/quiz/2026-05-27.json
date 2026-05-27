@@ -1,0 +1,233 @@
+{
+  "date": "2026-05-27",
+  "generated_at": "2026-05-27T22:46:51.895969",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The National Parks Service _______ the statue on Friday, marking a controversial moment in the public discourse surrounding historical monuments.",
+      "question": "Which word best fills the blank?",
+      "options": [
+        "A) installed",
+        "B) positioned",
+        "C) erected",
+        "D) mounted"
+      ],
+      "answer": "A",
+      "explanation": "While all options are technically possible, 'installed' is the most precise term used in the source text and best conveys the formal, deliberate act of placing a public monument. 'Erected' is more commonly used for buildings; 'positioned' and 'mounted' suggest temporary or casual placement."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The UN's special rapporteurs are experts _______ with a singular mandate to monitor the world's worst human rights abuses.",
+      "question": "Which word best completes the phrase?",
+      "options": [
+        "A) charged",
+        "B) burdened",
+        "C) saddled",
+        "D) tasked"
+      ],
+      "answer": "A",
+      "explanation": "'Charged' is the precise academic term used in the source and means 'formally assigned or entrusted with responsibility.' 'Tasked' is more informal; 'burdened' and 'saddled' carry negative connotations unsuitable for this formal context."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Selinna's journey from Nigeria to Italy was as _______ as it was transformative, exposing her to dangers she had never imagined.",
+      "question": "Which word best fits the blank?",
+      "options": [
+        "A) perilous",
+        "B) risky",
+        "C) hazardous",
+        "D) treacherous"
+      ],
+      "answer": "A",
+      "explanation": "'Perilous' is the exact term from the source and carries literary weight appropriate to the serious subject matter. 'Risky' is too colloquial; 'hazardous' is more technical; 'treacherous' implies deliberate betrayal rather than inherent danger."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Tedros Adhanom Ghebreyesus warned of a '_______ collision of disease and conflict' in the eastern Democratic Republic of the Congo.",
+      "question": "Which word best completes the quote?",
+      "options": [
+        "A) catastrophic",
+        "B) disastrous",
+        "C) ruinous",
+        "D) devastating"
+      ],
+      "answer": "A",
+      "explanation": "'Catastrophic' is the precise term from the source and best captures the scale of simultaneous crises. While 'disastrous' and 'devastating' are similar, 'catastrophic' emphasizes the magnitude and systemic nature of the combined threats; 'ruinous' focuses more on economic destruction."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The White House confirmed that the US was setting up a facility in Kenya to _______ Americans after Ebola exposure in the Democratic Republic of the Congo.",
+      "question": "Which word best fills the blank?",
+      "options": [
+        "A) quarantine",
+        "B) isolate",
+        "C) confine",
+        "D) detain"
+      ],
+      "answer": "A",
+      "explanation": "'Quarantine' is the precise medical term for separating exposed individuals to prevent disease transmission. 'Isolate' is too general; 'confine' and 'detain' carry connotations of punishment or imprisonment rather than health precaution."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "It is essential that the government _______ a clear plan to address the public health crisis before it escalates further.",
+      "question": "Which verb form correctly completes the sentence?",
+      "options": [
+        "A) develops",
+        "B) develop",
+        "C) will develop",
+        "D) developed"
+      ],
+      "answer": "B",
+      "explanation": "After 'It is essential that,' the subjunctive mood requires the base form of the verb without inflection. 'Develop' is correct because the subjunctive expresses necessity or recommendation. 'Develops' (indicative present), 'will develop' (future), and 'developed' (past) all violate the subjunctive requirement."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "I suggest that she _______ her strategy immediately, as the current approach is no longer effective.",
+      "question": "Which form is grammatically correct?",
+      "options": [
+        "A) revise",
+        "B) revises",
+        "C) will revise",
+        "D) has revised"
+      ],
+      "answer": "A",
+      "explanation": "The subjunctive mood follows 'I suggest that' and requires the base verb form. 'Revise' is correct. 'Revises' is third-person indicative; 'will revise' is future tense; 'has revised' is present perfect—none are subjunctive."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_______ knowledge of law and philosophy is crucial for understanding Habermas's critical theory, particularly regarding justice and discourse.",
+      "question": "Which article correctly completes the sentence?",
+      "options": [
+        "A) A",
+        "B) An",
+        "C) The",
+        "D) ∅ (no article)"
+      ],
+      "answer": "D",
+      "explanation": "Uncountable abstract nouns like 'knowledge' do not require an article in English when discussed in general terms. 'A' or 'an' cannot modify uncountable nouns; 'the' would indicate specific, previously mentioned knowledge. Zero article is correct here."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The researchers _______ have conducted the experiment more carefully; their negligence in data collection invalidated the entire study.",
+      "question": "Which modal verb phrase correctly expresses criticism for a past action?",
+      "options": [
+        "A) must have",
+        "B) should have",
+        "C) needn't have",
+        "D) might have"
+      ],
+      "answer": "B",
+      "explanation": "'Should have' expresses mild regret or criticism about a past action—the researchers failed to meet an expected standard. 'Must have' suggests logical deduction; 'needn't have' implies unnecessary action; 'might have' indicates possibility. Only 'should have' conveys justified criticism."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_______ had the conference ended when delegates began drafting recommendations for the next summit.",
+      "question": "Which adverbial phrase correctly completes this inverted sentence?",
+      "options": [
+        "A) Scarcely",
+        "B) No sooner",
+        "C) Not until",
+        "D) Hardly ever"
+      ],
+      "answer": "B",
+      "explanation": "'No sooner' correctly triggers inversion of auxiliary and subject ('had the conference') and means the second action followed immediately after the first. 'Scarcely' and 'Hardly ever' can invert but create awkward syntax here; 'Not until' inverts differently and emphasizes delay rather than immediacy."
+    },
+    {
+      "id": 11,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Rarely _______ such a comprehensive investigation into historical monuments and their ethical implications been undertaken by a major institution.",
+      "question": "Complete the inverted construction after 'Rarely.'",
+      "options": [
+        "A) has",
+        "B) have",
+        "C) is",
+        "D) was"
+      ],
+      "answer": "B",
+      "explanation": "Inversion after the negative adverbial 'Rarely' requires the auxiliary verb to precede the subject. 'Have' agrees with the plural subject 'investigation...been undertaken' (passive voice, present perfect). 'Has' is singular; 'is' and 'was' are present/past simple, not present perfect."
+    },
+    {
+      "id": 12,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "She stopped _______ the report halfway through because she realized her analysis was fundamentally flawed.",
+      "question": "Which form correctly completes the sentence with a change in meaning?",
+      "options": [
+        "A) writing",
+        "B) to write",
+        "C) having written",
+        "D) to have written"
+      ],
+      "answer": "A",
+      "explanation": "'Stop + gerund' means to cease an ongoing action (she was writing and then quit). 'Stop + infinitive' means to pause in order to do something new. Here, 'writing' is correct because she ended the writing process. The infinitive would suggest she paused for a different purpose."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "By the time she arrived at the conference, most of the morning sessions had already concluded. Which of the following is the MOST natural continuation?",
+      "question": "Choose the most natural next sentence.",
+      "options": [
+        "A) She was disappointed but decided to attend the afternoon panel discussions.",
+        "B) The morning sessions were, by that time, concluded already.",
+        "C) Having already concluded, the morning sessions were no longer available.",
+        "D) The sessions which were morning had been concluded prior to her arrival."
+      ],
+      "answer": "A",
+      "explanation": "Option A is natural, conversational English that acknowledges the situation and moves the narrative forward logically. B, C, and D use awkward word order, redundancy, or archaic phrasing that would not naturally follow the initial sentence."
+    },
+    {
+      "id": 14,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "He had been working on the project for three weeks before he realized a fundamental error in his approach. Which continuation is most natural?",
+      "question": "Choose the most natural next sentence.",
+      "options": [
+        "A) By that time, such an error was already realized by him in his approach.",
+        "B) The error was fundamental, which he realized before three weeks.",
+        "C) He had to start over from scratch, wasting all his previous effort.",
+        "D) Three weeks of his work were rendered useless due to the error he found."
+      ],
+      "answer": "C",
+      "explanation": "Option C flows naturally and expresses the logical consequence of discovering a fundamental error after extended work. A uses awkward passive voice unnecessarily; B contradicts the timeline; D is grammatically awkward with its word order and prepositional phrase placement."
+    },
+    {
+      "id": 15,
+      "type": "paraphrase",
+      "source": "general",
+      "sentence": "Tedros Adhanom Ghebreyesus warns of 'catastrophic collision of disease and conflict', as Uganda closes border with DRC to prevent the spread of Ebola.",
+      "question": "Paraphrase this sentence in your own words, capturing the core meaning. What are the key concepts?",
+      "options": null,
+      "answer": null,
+      "paraphrase_keywords": [
+        "warns",
+        "simultaneous disease and conflict crisis",
+        "Uganda border closure",
+        "disease containment",
+        "Ebola prevention"
+      ],
+      "explanation": "The sentence conveys multiple interconnected ideas: (1) a warning about the convergence of health and security crises, (2) the specific case of Ebola outbreak, and (3) a regional response (border closure) to mitigate spread. An effective paraphrase should capture the idea of overlapping crises and the consequent preventive action taken by neighboring countries."
+    }
+  ]
+}
