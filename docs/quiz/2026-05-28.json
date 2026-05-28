@@ -1,0 +1,218 @@
+{
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28T22:43:37.346158",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Tiwani Contemporary, the London-and Lagos-based gallery known for bringing attention to art of the African diaspora, has announced that it is closing after fifteen years in business.",
+      "question": "In this context, 'diaspora' most closely means:",
+      "options": [
+        "A. A collection of artworks displayed in multiple locations",
+        "B. The scattering of people of a common origin across different countries",
+        "C. A movement in contemporary art that emerged in the 1970s",
+        "D. A network of galleries specializing in African art"
+      ],
+      "answer": "B",
+      "explanation": "Diaspora refers to the dispersion of an ethnic, national, or religious group across different regions or countries. Option A confuses gallery operations with cultural dispersion; C and D are too specific and incorrect."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "François-Henri Pinault was appointed Chairman and Non-Executive Director of the auction house's U.K. outpost, as per a May 22 announcement from the firm.",
+      "question": "The word 'outpost' in this sentence suggests:",
+      "options": [
+        "A. A temporary office used during renovation",
+        "B. A remote or subsidiary branch of an organization",
+        "C. A competing business location",
+        "D. The headquarters of the main company"
+      ],
+      "answer": "B",
+      "explanation": "An outpost is a branch or office located away from the main center, often implying distance or subsidiary status. Option A suggests impermanence without basis; C contradicts the context of appointment to leadership; D is directly opposite in meaning."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The Enlightenment can only be saved through use of its greatest legacy: permanent critique.",
+      "question": "In this academic context, 'legacy' most accurately means:",
+      "options": [
+        "A. A sum of money left in a will",
+        "B. Something passed down or inherited as a valued tradition",
+        "C. A historical document or artifact",
+        "D. A controversial aspect of the past"
+      ],
+      "answer": "B",
+      "explanation": "Legacy refers to something valuable or meaningful passed down from predecessors—here, the critical thinking tradition of the Enlightenment. Option A refers strictly to inheritance of money; C is too narrow; D ignores the positive connotation implied by 'greatest.'"
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "In the early 1970s, genetic engineers launched the most controversial revolution in science since the atomic bomb.",
+      "question": "The phrase 'launched...revolution' is best paraphrased as:",
+      "options": [
+        "A. Published research findings",
+        "B. Initiated a major, transformative development",
+        "C. Started a political movement",
+        "D. Released controversial weapons technology"
+      ],
+      "answer": "B",
+      "explanation": "To 'launch a revolution' means to initiate a fundamental and dramatic change. Option A is too literal; C conflates scientific advancement with politics; D misinterprets the comparison to the atomic bomb as similarity rather than analogy."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Parents face anxious wait for updates after blaze tears through Utumishi girls academy in Gilgil.",
+      "question": "The word 'blaze' in this headline refers to:",
+      "options": [
+        "A. A bright flash of light",
+        "B. A rapidly spreading fire",
+        "C. An explosion caused by chemical reaction",
+        "D. A violent storm with lightning"
+      ],
+      "answer": "B",
+      "explanation": "Blaze is a synonym for a large, intense fire spreading quickly. Option A refers to light without destruction; C specifies a mechanism not supported by the context; D conflates fire with weather phenomena."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "Neither the manager nor the employees _____ informed of the decision until after it had been implemented.",
+      "question": "Which verb form correctly completes this sentence?",
+      "options": [
+        "A. was",
+        "B. were",
+        "C. has been",
+        "D. have been"
+      ],
+      "answer": "B",
+      "explanation": "With 'neither...nor,' the verb agrees with the nearest subject. Here, 'employees' (plural) is closer than 'manager' (singular), requiring 'were.' Options A and C are singular; D is plural but uses the wrong tense for the past narrative context."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_____ had the report been submitted than the committee requested significant revisions.",
+      "question": "Which expression correctly completes this inverted negative adverbial construction?",
+      "options": [
+        "A. No sooner",
+        "B. Not until",
+        "C. Hardly ever",
+        "D. Scarcely always"
+      ],
+      "answer": "A",
+      "explanation": "After 'No sooner...than,' inversion occurs and the structure indicates immediate succession of events. 'Not until' requires different syntax (not until X did Y happen); 'hardly ever' changes the meaning; 'scarcely always' is contradictory and ungrammatical."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "She prefers _____ the documents rather than _____ them verbally.",
+      "question": "Which pair of verb forms is grammatically correct?",
+      "options": [
+        "A. to review / discuss",
+        "B. reviewing / discussing",
+        "C. to review / discussing",
+        "D. reviewing / to discuss"
+      ],
+      "answer": "B",
+      "explanation": "After 'prefers,' both parts of the 'rather than' construction require parallel gerunds (reviewing...discussing). Options A, C, and D create inconsistency between the infinitive and gerund forms, violating parallel structure rules."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "She has worked at the gallery since it opened in 2008, whereas her colleague _____ there for only three years.",
+      "question": "Which verb phrase correctly completes this comparison?",
+      "options": [
+        "A. works",
+        "B. has worked",
+        "C. worked",
+        "D. had worked"
+      ],
+      "answer": "B",
+      "explanation": "Both clauses describe continuous duration from a past point to the present, requiring present perfect (has worked) for parallelism. Option A (simple present) suggests current action without duration; C and D are past tenses inappropriate for ongoing situations."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The gallery's success depends on _____ commitment from both staff and donors to sustain _____ support for emerging artists.",
+      "question": "Which article combination correctly fills these blanks?",
+      "options": [
+        "A. a / the",
+        "B. the / zero article",
+        "C. a / a",
+        "D. zero article / the"
+      ],
+      "answer": "D",
+      "explanation": "Uncountable abstract nouns ('commitment' and 'support') typically take zero article when used generically, particularly after prepositions. Option A incorrectly uses 'a' with an uncountable noun; B mixes incorrectly; C uses 'a' twice, which is wrong for uncountable nouns."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The policy, once introduced, proved harder to reverse than its architects had imagined.",
+      "question": "What does this sentence most naturally suggest about the policy's designers?",
+      "options": [
+        "A. They deliberately made the policy difficult to change",
+        "B. They underestimated how entrenched the policy would become",
+        "C. They intended the policy to be temporary",
+        "D. They had previous experience reversing similar policies"
+      ],
+      "answer": "B",
+      "explanation": "The phrase 'harder than imagined' indicates that the difficulty of reversal exceeded their expectations. Option A suggests intentional obstruction without textual support; C contradicts the focus on difficulty; D is not implied by the comparison."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "It was not until she reread the letter that she understood what had really been meant.",
+      "question": "What does this sentence imply about her initial reading?",
+      "options": [
+        "A. She deliberately ignored the letter's true meaning",
+        "B. She failed to grasp the intended meaning on first reading",
+        "C. The letter was poorly written and unclear",
+        "D. She understood the meaning but chose to reinterpret it later"
+      ],
+      "answer": "B",
+      "explanation": "The structure 'not until...that she understood' shows that comprehension only occurred upon rereading, implying initial incomprehension. Options A and D suggest intentional misunderstanding; C blames the writer rather than the reader's first attempt."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "If the train had arrived on time, we would have caught the connecting flight to Amsterdam.",
+      "question": "What actually happened in this situation?",
+      "options": [
+        "A. The train arrived on time and they caught the flight",
+        "B. The train was delayed and they missed the flight",
+        "C. They decided not to take the connecting flight",
+        "D. They arrived in Amsterdam but missed their connection"
+      ],
+      "answer": "B",
+      "explanation": "This counterfactual conditional (if...had...would have) indicates that the condition was not met—the train was not on time—and therefore the result did not occur. Options A contradicts the conditional structure; C and D introduce information not implied by the sentence."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "Tiwani Contemporary, the London-and Lagos-based gallery known for bringing attention to art of the African diaspora, has announced that it is closing after fifteen years in business.",
+      "question": "Paraphrase this sentence in your own words, capturing its essential meaning.",
+      "options": null,
+      "answer": null,
+      "paraphrase_keywords": [
+        "gallery",
+        "African diaspora art",
+        "closure announcement",
+        "15 years operation",
+        "London and Lagos"
+      ],
+      "explanation": "Your paraphrase should convey that a two-location gallery specializing in diaspora art is shutting down after operating for 15 years. Accept varied wording that preserves these core ideas."
+    }
+  ]
+}
