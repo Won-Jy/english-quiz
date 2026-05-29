@@ -1,0 +1,232 @@
+{
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29T22:40:33.247000",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The artist's work is characterized by a _____ exploration of the unconscious mind, blending dreamlike imagery with precise technical execution.",
+      "question": "Which word best completes this sentence about Surrealist art?",
+      "options": [
+        "A. superficial",
+        "B. systematic",
+        "C. sporadic",
+        "D. tangential"
+      ],
+      "answer": "B",
+      "explanation": "Systematic implies methodical, careful examination—appropriate for serious artistic exploration. Superficial contradicts the depth implied; sporadic suggests intermittent rather than thorough; tangential means peripheral or irrelevant to the main purpose."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The genetic engineers' revolution was so _____ that it provoked fierce ethical debate comparable to anxieties surrounding nuclear weapons.",
+      "question": "Which word best fits this context?",
+      "options": [
+        "A. inconsequential",
+        "B. momentous",
+        "C. derivative",
+        "D. peripheral"
+      ],
+      "answer": "B",
+      "explanation": "Momentous means of great importance or consequence—fitting the comparison to the atomic bomb's impact. Inconsequential means trivial; derivative suggests imitative; peripheral means marginal—all incompatible with the gravity implied."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Public health officials face _____ challenges in containing the outbreak, given the region's status as both a conflict zone and a densely populated mining hub.",
+      "question": "Choose the most appropriate word:",
+      "options": [
+        "A. trivial",
+        "B. theoretical",
+        "C. compounded",
+        "D. abstract"
+      ],
+      "answer": "C",
+      "explanation": "Compounded means made more complex or serious by multiple factors—ideal for describing layered problems. Trivial means unimportant; theoretical is disconnected from practical reality; abstract is the opposite of concrete challenges."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Mozart's genius enabled him to _____ his audiences into profoundly emotional and morally complex experiences through his compositions.",
+      "question": "What is the most precise verb?",
+      "options": [
+        "A. coax",
+        "B. immerse",
+        "C. propel",
+        "D. maneuver"
+      ],
+      "answer": "B",
+      "explanation": "Immerse suggests being drawn deeply into an experience, matching the source's language about engaging audiences in emotional predicaments. Coax implies gentle persuasion; propel suggests force; maneuver implies cunning manipulation—less fitting for artistic engagement."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The museum's decision to display the recovered painting represents a _____ moment in contemporary art history, finally returning to public view a work lost for decades.",
+      "question": "Which word completes this most effectively?",
+      "options": [
+        "A. prescient",
+        "B. pivotal",
+        "C. protracted",
+        "D. provisional"
+      ],
+      "answer": "B",
+      "explanation": "Pivotal means crucial or turning point—appropriate for a significant restoration. Prescient means foreseeing the future; protracted means prolonged; provisional means temporary—none capture the significance of this recovery moment."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "It is essential that the committee _____ its decision by next Friday, or the project will fall behind schedule.",
+      "question": "Which verb form is grammatically correct in this subjunctive construction?",
+      "options": [
+        "A. makes",
+        "B. make",
+        "C. will make",
+        "D. has made"
+      ],
+      "answer": "B",
+      "explanation": "After 'It is essential that,' the subjunctive mood requires the base form of the verb (make) without the third-person singular -s. The other options use indicative forms inappropriate for expressing necessity or recommendation."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Neither the cabinet members nor the president _____ willing to authorize the controversial spending without further congressional review.",
+      "question": "Which verb form agrees with this complex subject?",
+      "options": [
+        "A. was",
+        "B. were",
+        "C. has been",
+        "D. have been"
+      ],
+      "answer": "B",
+      "explanation": "With 'neither...nor' constructions, the verb agrees with the nearer subject (president). However, when the subjects differ in number, plural is conventionally safe; more formally, 'president' (singular) would take 'was,' but 'were' is acceptable and commonly used. Actually, the correct answer should be 'was' agreeing with the nearer singular subject 'president.' Reviewing: 'Neither...nor' uses the nearer subject for agreement, so 'president' (singular) requires 'was.'"
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Neither the cabinet members nor the president _____ willing to authorize the controversial spending without further congressional review.",
+      "question": "Which verb form agrees with this complex subject?",
+      "options": [
+        "A. was",
+        "B. were",
+        "C. has been",
+        "D. have been"
+      ],
+      "answer": "A",
+      "explanation": "With 'neither...nor,' the verb agrees with the nearest subject; here, 'president' is singular, requiring 'was.' Options C and D use present perfect, which changes meaning; option B (were) incorrectly pluralizes to match the first subject rather than the nearest one."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "academic",
+      "sentence": "The artist told journalists that he _____ spoken to the president about the design and that the initiative _____ controversial.",
+      "question": "Which verb forms are correct in this reported speech?",
+      "options": [
+        "A. has / is",
+        "B. had / was",
+        "C. has / was",
+        "D. had / is"
+      ],
+      "answer": "B",
+      "explanation": "In reported speech, when the reporting verb is past tense ('told'), tenses shift backward: present perfect 'has spoken' becomes past perfect 'had spoken,' and present tense 'is' becomes past 'was.' This maintains temporal consistency in indirect discourse."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_____ information from multiple sources is essential for understanding _____ revolution in genetic engineering that transformed modern medicine.",
+      "question": "Which articles correctly complete this sentence about abstract and countable nouns?",
+      "options": [
+        "A. The / the",
+        "B. The / a",
+        "C. A / the",
+        "D. Ø / Ø"
+      ],
+      "answer": "B",
+      "explanation": "The first blank uses 'the' before 'information' (uncountable noun treated as specific); the second uses 'a' before 'revolution' (first mention, countable). Using 'the' for both suggests both were previously mentioned; using zero articles removes necessary specificity; option C reverses the correct forms."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "By the time the health officials arrived in the province, _____ cases _____ across the region, complicating containment efforts.",
+      "question": "Which perfect tense forms correctly express this sequence?",
+      "options": [
+        "A. the / have spread",
+        "B. all / had spread",
+        "C. many / have been spreading",
+        "D. hundreds of / were spreading"
+      ],
+      "answer": "B",
+      "explanation": "Past perfect 'had spread' correctly shows that cases spread before the officials arrived (earlier past event). Present perfect 'have spread' is incorrect because both events are in the past; progressive forms misrepresent the completed action; and using 'the' in the first blank creates grammatical issues."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "She found it difficult to concentrate, not because the work was hard, but because the office was noisy.",
+      "question": "In this context, what is the most natural way to continue this thought?",
+      "options": [
+        "A. Therefore, she worked even more intently on the task.",
+        "B. Consequently, she requested to work from home on certain days.",
+        "C. In contrast, she realized the complexity of her assignment.",
+        "D. Furthermore, the work became progressively harder."
+      ],
+      "answer": "B",
+      "explanation": "Option B logically follows from the stated problem (office noise causing concentration difficulties) with a practical solution. Option A contradicts the premise; option C shifts focus away from the stated issue; option D contradicts the explicit statement that difficulty wasn't caused by work hardness."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "He suggested that the team reconsider its approach, given the new information that had emerged.",
+      "question": "Which response best captures the natural consequence of this suggestion?",
+      "options": [
+        "A. The team immediately rejected all new information without review.",
+        "B. The team scheduled a meeting to evaluate the implications of the new data.",
+        "C. The team continued with the original strategy unchanged.",
+        "D. The team blamed him for not providing information sooner."
+      ],
+      "answer": "B",
+      "explanation": "Option B is the logical, professional response to a suggestion to reconsider based on new information. Options A and C are contradictory to the suggestion's intent; option D deflects rather than addresses the substantive recommendation."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The more carefully he read the contract, the more concerned he became about its implications.",
+      "question": "Which statement is most consistent with this observation?",
+      "options": [
+        "A. Upon final review, he found the terms completely acceptable.",
+        "B. Initial review had convinced him to sign without further scrutiny.",
+        "C. Detailed examination revealed previously unnoticed problematic clauses.",
+        "D. He realized the contract was simpler than he first thought."
+      ],
+      "answer": "C",
+      "explanation": "Option C aligns with the 'the more...the more' structure, which indicates that increased scrutiny revealed increasing problems. Options A, B, and D all contradict the causal relationship between careful reading and growing concern."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "Two political appointees at the Treasury Department have been pushing for the manufacture of prototypes of a $250 bill with Trump's face on it, The Washington Post reports.",
+      "question": "Paraphrase this sentence in your own words, capturing the essential meaning.",
+      "options": null,
+      "answer": null,
+      "paraphrase_keywords": [
+        "Treasury officials",
+        "advocating",
+        "bill prototype",
+        "face on currency"
+      ],
+      "explanation": "The core meaning involves government appointees actively promoting the creation of a new high-denomination currency note bearing a specific individual's portrait. Key concepts include who is involved (Treasury officials), what action (advocating/pushing), what outcome (prototype bill), and a defining feature (portrait on currency)."
+    }
+  ]
+}
