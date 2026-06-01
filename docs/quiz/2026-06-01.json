@@ -1,0 +1,218 @@
+{
+  "date": "2026-06-01",
+  "generated_at": "2026-06-01T23:05:26.997275",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Art world figure Hilde Lynn Helphenstein gained notoriety with pithy, irreverent gossip and commentary delivered under the pseudonym Jerry Gogosian.",
+      "question": "In this context, 'pithy' most closely means:",
+      "options": [
+        "A) Concise and forcefully expressive",
+        "B) Bitter and resentful in tone",
+        "C) Detailed and thoroughly researched",
+        "D) Humorous but ultimately meaningless"
+      ],
+      "answer": "A",
+      "explanation": "Pithy refers to language that is brief yet meaningful and impactful. In the context of gossip and commentary, it emphasizes the sharp, concentrated nature of her remarks. Option B misses the neutral descriptive sense, C contradicts the brevity implied, and D conflates humor with lack of substance."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The British Museum elected to postpone the event due to concerns that the talk might be disrupted by protests.",
+      "question": "The phrase 'elected to postpone' most accurately suggests:",
+      "options": [
+        "A) Made a deliberate choice to delay",
+        "B) Was forced by legal obligation to delay",
+        "C) Reluctantly accepted the need to delay",
+        "D) Voted among board members to delay"
+      ],
+      "answer": "A",
+      "explanation": "'Elected to' is a formal phrase meaning 'chose to' or 'decided to,' emphasizing agency and deliberation rather than compulsion. Option B incorrectly implies coercion, C adds an emotional tone not present in the original, and D, while voting is an election, is too narrow an interpretation of this phrase."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Mozart's genius lay in writing music of such power that he could draw his audience into morally wrenching predicaments.",
+      "question": "The word 'wrenching' in this context primarily conveys:",
+      "options": [
+        "A) Physically painful and violent",
+        "B) Emotionally distressing and deeply affecting",
+        "C) Confused and disoriented",
+        "D) Repetitive and exhausting"
+      ],
+      "answer": "B",
+      "explanation": "Wrenching describes something that causes deep emotional pain or disturbance. In reference to moral predicaments, it emphasizes the psychological and ethical anguish Mozart's music evokes. Option A focuses on physical pain, C on confusion, and D on repetition—none capturing the emotional intensity of the moral dilemma."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "In the early 1970s, genetic engineers launched the most controversial revolution in science since the atomic bomb.",
+      "question": "To 'launch' a revolution most accurately means to:",
+      "options": [
+        "A) Initiate and set in motion publicly",
+        "B) Complete the final stages of",
+        "C) Successfully defend against opposition to",
+        "D) Formally announce plans for in advance"
+      ],
+      "answer": "A",
+      "explanation": "To launch means to begin and set something in motion, often with visible impact or momentum. In this historical context, genetic engineering's dramatic emergence is being launched into public consciousness. Option B refers to completion, C to defense, and D to mere announcement without action—all miss the sense of initiating something transformative."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Ghana's LGBTQ community is living in fear after the country's parliament approved a sweeping bill that criminalises the promotion of LGBTQ+ activities.",
+      "question": "A 'sweeping' bill most accurately refers to one that is:",
+      "options": [
+        "A) Comprehensive in scope and broad in application",
+        "B) Hastily drafted without proper review",
+        "C) Ceremonially passed with unanimous support",
+        "D) Designed to remove accumulated legal debris"
+      ],
+      "answer": "A",
+      "explanation": "Sweeping describes legislation that covers a wide range of cases and has extensive impact, affecting many aspects of a domain. In this context, the bill broadly criminalizes multiple LGBTQ+ expressions. Option B implies carelessness, C misses the breadth, and D confuses the metaphorical use of 'sweeping' with its literal meaning."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "It is essential that the committee _______ the proposal before the deadline.",
+      "question": "Which form correctly completes this subjunctive mood sentence?",
+      "options": [
+        "A) reviews",
+        "B) review",
+        "C) has reviewed",
+        "D) will review"
+      ],
+      "answer": "B",
+      "explanation": "After 'It is essential that,' the subjunctive mood requires the base form of the verb without -s ending, even with a singular subject. Option A uses indicative mood (present tense), C uses perfect aspect which is not required here, and D uses future tense, all of which are grammatically incorrect in subjunctive clauses."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_______ the new evidence, the investigators decided to reopen the case.",
+      "question": "Which participial phrase best completes this sentence?",
+      "options": [
+        "A) Having discovered",
+        "B) Being discovered",
+        "C) To discover",
+        "D) Discovering of"
+      ],
+      "answer": "A",
+      "explanation": "The perfect participle 'Having discovered' correctly expresses that the action (discovering evidence) was completed before the main action (deciding to reopen). Option B uses passive voice unnecessarily, C is an infinitive not a participle, and D is ungrammatical. The perfect participle shows temporal precedence."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "She remembered _______ the document, so she was confident she had not forgotten it.",
+      "question": "Which option best completes this sentence and preserves its meaning?",
+      "options": [
+        "A) to sign",
+        "B) signing",
+        "C) to have signed",
+        "D) having to sign"
+      ],
+      "answer": "B",
+      "explanation": "Remember + gerund means the action actually occurred; remember + infinitive suggests intention or expectation about a future action. Since she was confident she had not forgotten, the gerund 'signing' is correct. Option A (infinitive) would imply she was supposed to sign, C adds unneeded perfective aspect, and D changes the meaning."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "Neither the manager nor the employees _______ informed of the decision until after it had been implemented.",
+      "question": "Which verb form correctly agrees with this subject?",
+      "options": [
+        "A) was",
+        "B) were",
+        "C) has been",
+        "D) have been"
+      ],
+      "answer": "B",
+      "explanation": "With 'neither...nor,' the verb agrees with the nearest noun, which is 'employees' (plural), requiring 'were.' Option A agrees with 'manager' (singular), which is incorrect. Options C and D introduce perfect aspect not indicated by the sentence structure and context."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "If she had studied more consistently, she _______ passed the examination with ease.",
+      "question": "Which option correctly completes this third conditional sentence?",
+      "options": [
+        "A) would pass",
+        "B) will have passed",
+        "C) would have passed",
+        "D) had passed"
+      ],
+      "answer": "C",
+      "explanation": "Third conditional sentences require 'would have + past participle' in the main clause when the condition uses 'had + past participle.' Option A is second conditional form, B is future perfect, and D is an additional past perfect that creates a non-standard construction."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Despite the rain, she decided to walk to the market rather than take the bus.",
+      "question": "Which phrasing is most natural in everyday conversation?",
+      "options": [
+        "A) Despite the rain, she decided to walk to the market rather than take the bus.",
+        "B) In spite of the rain, she decided to walk to the market instead of to take the bus.",
+        "C) Although it was raining, she decided to walk to the market instead of taking the bus.",
+        "D) Notwithstanding the rain, she decided to walk to the market rather than the bus-taking."
+      ],
+      "answer": "A",
+      "explanation": "Option A uses natural parallel structure with 'rather than' + base verb. Option B incorrectly mixes 'instead of' with 'to take,' C uses 'instead of' with a gerund (correct but more formal), and D's construction is awkward and overly formal."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The proposal was rejected not on its merits but on procedural grounds.",
+      "question": "Which alternative expresses this same idea most naturally?",
+      "options": [
+        "A) The proposal was rejected not because of its merits but because of procedural grounds.",
+        "B) The proposal was rejected not for its merits but for procedural grounds.",
+        "C) They rejected the proposal not on its merits but on procedural grounds.",
+        "D) The proposal's rejection was not on its merits but on procedural grounds."
+      ],
+      "answer": "B",
+      "explanation": "Option B maintains parallel structure with 'not...but' using 'for' consistently. Option A is awkward ('because of its merits'), C shifts from passive to active unnecessarily, and D creates awkward nominalization that disrupts natural flow."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The results were more ambiguous than the researchers had initially anticipated.",
+      "question": "Which phrasing conveys the same meaning most naturally?",
+      "options": [
+        "A) The results were more ambiguous than initially anticipated by the researchers.",
+        "B) The results turned out to be more ambiguous than the researchers initially anticipated.",
+        "C) The results, more ambiguous than the researchers initially anticipated, were problematic.",
+        "D) More ambiguous than anticipated initially by the researchers, the results created difficulty."
+      ],
+      "answer": "B",
+      "explanation": "Option B uses natural word order and 'turned out to be' for a common conversational pattern about expectations versus reality. Option A is awkwardly passive, C adds an unnecessary clause, and D inverts the structure unnaturally and adds interpretive meaning not in the original."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "The British Museum elected to postpone a Jewish Culture Month event that was scheduled to take place last Thursday, May 28th due to concerns that the talk—a lecture on Ancient Israel and Judah—might be disrupted by protests.",
+      "question": "Rewrite this sentence in your own words, capturing the essential meaning.",
+      "options": null,
+      "answer": null,
+      "paraphrase_keywords": [
+        "British Museum",
+        "postponed",
+        "Jewish Culture event",
+        "May 28",
+        "fears of protest disruption"
+      ],
+      "explanation": "The core meaning involves: who (British Museum) took what action (postponement) on which event (Jewish Culture Month talk), when scheduled (May 28), and why (concerns about protest interference). Accept paraphrases that preserve these elements while using different phrasing, such as: 'The British Museum delayed its Jewish Culture Month lecture about Ancient Israel and Judah to avoid potential disruption from protesters' or 'To prevent possible protests from interrupting a scheduled talk on Jewish history, the British Museum rescheduled its cultural event.'"
+    }
+  ]
+}
