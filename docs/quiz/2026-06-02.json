@@ -1,0 +1,233 @@
+{
+  "date": "2026-06-02",
+  "generated_at": "2026-06-02T23:06:03.448910",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The proposed 'earnings test' would put many graduate arts programs at risk by measuring their financial return on investment.",
+      "question": "In this context, 'proposed' most nearly means:",
+      "options": [
+        "A. Suggested formally for consideration or acceptance",
+        "B. Romantically asked someone to marry",
+        "C. Positioned in front of something",
+        "D. Assumed without evidence"
+      ],
+      "answer": "A",
+      "explanation": "In academic contexts, 'proposed' refers to formally suggesting a policy, plan, or idea for implementation. Option B is a colloquial meaning unrelated to policy; C and D are semantic stretches that don't fit the context of educational policy."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "More than 100 prominent French artists have signed an open letter calling for the termination of a partnership between Centre Pompidou and Hanwha Group.",
+      "question": "The word 'termination' in this sentence most closely refers to:",
+      "options": [
+        "A. The deliberate ending or conclusion of an agreement",
+        "B. A railway station's final stop",
+        "C. A person's employment being forcibly ended",
+        "D. The final word in a sentence"
+      ],
+      "answer": "A",
+      "explanation": "'Termination' in legal and business contexts means the formal ending of a contract or agreement. While C is a legitimate use of 'termination,' the broader and most accurate definition in this formal context is A. Options B and D are unrelated technical uses."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Mozart's genius lay in writing music of such power that he could draw his audience into morally wrenching predicaments.",
+      "question": "The phrase 'morally wrenching' most accurately describes:",
+      "options": [
+        "A. Ethically painful or emotionally distressing situations",
+        "B. Physically damaging circumstances",
+        "C. Logically inconsistent arguments",
+        "D. Musically discordant passages"
+      ],
+      "answer": "A",
+      "explanation": "'Wrenching' means to cause severe emotional or psychological pain; 'morally wrenching' therefore describes situations that create ethical or moral distress. B misses the emotional dimension; C and D are incorrect interpretations of the modifiers."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "In the early 1970s, genetic engineers launched the most controversial revolution in science since the atomic bomb.",
+      "question": "In this passage, 'launched' most nearly means:",
+      "options": [
+        "A. Set a boat into water",
+        "B. Began or initiated an enterprise or movement",
+        "C. Threw with force",
+        "D. Announced publicly for the first time"
+      ],
+      "answer": "B",
+      "explanation": "In contexts describing scientific or historical movements, 'launched' is a metaphorical verb meaning to begin or initiate something significant. A refers to nautical use; C is the literal meaning; D is too narrow—'launched' implies more than mere announcement, suggesting actual implementation of something revolutionary."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The proposed earnings test is designed to measure the financial return on investment in graduate arts programs.",
+      "question": "The term 'financial return' in academic policy contexts refers to:",
+      "options": [
+        "A. Money physically brought back to an office",
+        "B. The monetary benefit or profit gained relative to resources invested",
+        "C. A document sent back to a government agency",
+        "D. Annual salary increases for university faculty"
+      ],
+      "answer": "B",
+      "explanation": "'Financial return' is an economic term measuring profit or benefit relative to investment—commonly abbreviated as ROI (return on investment). A is too literal; C confuses 'return' as a procedural document; D is too specific and doesn't capture the broader meaning of measuring value."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_____ the controversial partnership agreement, the French artists decided to take public action.",
+      "question": "Which participle clause correctly completes this sentence?",
+      "options": [
+        "A. Having terminated",
+        "B. Having been disappointed by",
+        "C. Being signed in 2023",
+        "D. Done by the Centre Pompidou"
+      ],
+      "answer": "B",
+      "explanation": "A perfect participle clause ('having been disappointed by') correctly expresses a completed action that precedes the main clause. Option A creates a contradiction (they didn't terminate it; they opposed it). Option C uses a present participle inappropriately for a past event. Option D is a reduced relative clause, not a participle clause form."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "He would have applied for the position _____ about it earlier.",
+      "question": "Which conditional clause correctly completes this third conditional sentence?",
+      "options": [
+        "A. if he knew",
+        "B. had he known",
+        "C. if he would know",
+        "D. unless he had known"
+      ],
+      "answer": "B",
+      "explanation": "Third conditional requires 'had + past participle' in the if-clause (or inverted form). Option A uses simple past, which marks second conditional. Option C incorrectly uses 'would' in the condition; D changes the logical relationship to exclusion rather than condition."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "If the Department of Education _____ the earnings test by 2026, many arts programs will face closure.",
+      "question": "Which verb form correctly completes this second conditional sentence?",
+      "options": [
+        "A. implemented",
+        "B. implements",
+        "C. should implement",
+        "D. will implement"
+      ],
+      "answer": "C",
+      "explanation": "Second conditional uses 'if + were/should + verb' in the condition clause and 'would + verb' in the result. Option C ('should implement') is grammatically correct for a conditional scenario. Option A is past tense; B is present; D incorrectly places the future form in the if-clause rather than the consequence clause."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The Centre Pompidou _____ a new gallery in a partnership with an international business group.",
+      "question": "Which passive/causative construction correctly completes this sentence?",
+      "options": [
+        "A. had built",
+        "B. had built itself",
+        "C. had built made",
+        "D. had a new gallery built"
+      ],
+      "answer": "D",
+      "explanation": "The causative 'have/get + object + past participle' expresses that someone caused an action to happen rather than doing it themselves. Option A uses simple passive, which is less precise about causation. Option B is reflexive and awkward; C is grammatically malformed."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Either the Centre Pompidou's leadership or the artists _____ taking responsibility for the partnership dispute.",
+      "question": "Which verb form correctly agrees with this subject?",
+      "options": [
+        "A. is",
+        "B. are",
+        "C. was",
+        "D. have been"
+      ],
+      "answer": "B",
+      "explanation": "With 'either...or' constructions, the verb agrees with the nearest noun; 'artists' is plural, so 'are' is correct. Option A incorrectly treats the compound subject as singular. Option C is past tense, which doesn't fit the context; D changes the aspect unnecessarily."
+    },
+    {
+      "id": 11,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The partnership, which the Centre Pompidou signed in 2023, has become controversial. The partnership, which lasted four years, created significant division among artists.",
+      "question": "Which sentence correctly uses a non-defining relative clause to combine these ideas?",
+      "options": [
+        "A. The partnership which was signed in 2023 and lasted four years has become controversial and created division.",
+        "B. The partnership, which was signed in 2023 and lasted four years, has become controversial and created division.",
+        "C. The partnership signed in 2023, lasting four years, became controversial and created division among artists.",
+        "D. The partnership that was signed in 2023 and lasted four years has become controversial, creating division."
+      ],
+      "answer": "B",
+      "explanation": "Non-defining relative clauses require commas and provide additional information about a specific noun. Option B correctly uses commas around 'which was signed in 2023 and lasted four years' to show this is extra information about an already-identified partnership. Option A omits commas, making it defining; C and D use participles instead of a relative clause structure."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "She asked whether the documents _____ by all the relevant parties.",
+      "question": "Which phrasing sounds most natural in everyday English?",
+      "options": [
+        "A. had been signed",
+        "B. have been signed",
+        "C. were signed",
+        "D. would be signed"
+      ],
+      "answer": "A",
+      "explanation": "In reported speech asking about a past action, 'had been signed' is the natural choice, shifting the present perfect 'have been signed' backward in time to match the past tense of 'asked.' Option B retains present tense inappropriately; C is simple past, which doesn't capture the 'up to now' quality needed; D projects into the future, contradicting the context."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The more carefully he read the contract, _____.",
+      "question": "Which completion sounds most natural?",
+      "options": [
+        "A. the more he will worry about it",
+        "B. the more concerned he became about its implications",
+        "C. the more concerned he is becoming",
+        "D. he became more and more concerned"
+      ],
+      "answer": "B",
+      "explanation": "The parallel structure 'the more...the more' requires matching tense and grammatical form. Option B maintains past tense ('became') parallel to the past tense in the first clause and uses the adjective 'concerned' appropriately. Option A switches to future; C uses present progressive, breaking parallelism; D abandons the 'the more...the more' construction entirely."
+    },
+    {
+      "id": 14,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Rarely had the team faced _____.",
+      "question": "Which continuation is most natural?",
+      "options": [
+        "A. such a complex set of competing demands before",
+        "B. such complexity of demands like that",
+        "C. demands that were so complex and competing",
+        "D. such competing and complex demands in their history"
+      ],
+      "answer": "A",
+      "explanation": "After the inverted structure 'Rarely had,' the most natural continuation uses the comparative phrase 'such a complex set of competing demands' with temporal marking 'before,' emphasizing the rarity of the experience. Option B is awkward ('complexity of demands like that'); C is wordy and awkwardly punctuated; D adds unnecessary redundancy with 'in their history.'"
+    },
+    {
+      "id": 15,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "A proposed 'earnings test' in the works at the Department of Education would put many graduate arts programs in the United States at risk by measuring the financial return on investment these programs generate for their students.",
+      "question": "Rewrite this sentence in your own words, capturing its core meaning in 1-2 sentences.",
+      "options": null,
+      "answer": null,
+      "explanation": "The student should convey that: (1) the Department of Education is developing an earnings test, (2) this test would evaluate graduate arts programs based on graduates' financial outcomes, and (3) this poses a threat to arts programs that may not generate high immediate earnings. Accept paraphrases that preserve these core ideas while using different vocabulary and structure.",
+      "paraphrase_keywords": [
+        "earnings test",
+        "arts programs",
+        "financial outcomes",
+        "risk",
+        "return on investment"
+      ]
+    }
+  ]
+}
