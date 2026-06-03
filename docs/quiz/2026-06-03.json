@@ -1,0 +1,218 @@
+{
+  "date": "2026-06-03",
+  "generated_at": "2026-06-03T23:09:18.953724",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Sculptor Alan Saret's nebulous, three-dimensional wire works seemed to pulse with life.",
+      "question": "In this context, 'nebulous' most nearly means:",
+      "options": [
+        "A. Cloudy, hazy, or lacking clear definition",
+        "B. Extremely fragile and delicate",
+        "C. Related to space or astronomy",
+        "D. Transparent or translucent"
+      ],
+      "answer": "A",
+      "explanation": "Nebulous means vague, hazy, or unclear in form—perfectly describing abstract wire sculptures with organic, cloudlike shapes. While 'nebulous' can relate to astronomy (nebulae), that is not the primary meaning here. Options B and D are too specific and miss the essential sense of formlessness conveyed in the text."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The temporary installation drapes an inflatable printed canvas resembling a craggy, snow-covered rock face.",
+      "question": "The word 'craggy' in this sentence refers to:",
+      "options": [
+        "A. Smooth and polished surfaces",
+        "B. Rough, jagged, and irregularly rocky terrain",
+        "C. Covered with snow or ice",
+        "D. Tall and imposing in appearance"
+      ],
+      "answer": "B",
+      "explanation": "'Craggy' describes terrain with sharp, jagged rocks and uneven surfaces, often associated with cliffs and mountains. The sentence uses it to describe the visual texture of the artwork. Option C confuses it with the accompanying 'snow-covered' modifier, while A is the opposite meaning."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Mozart's genius lay in writing music of such power that he could draw his audience into morally wrenching predicaments.",
+      "question": "'Wrenching' in this context most closely means:",
+      "options": [
+        "A. Physically painful or damaging",
+        "B. Emotionally distressing or deeply disturbing",
+        "C. Logically contradictory or confusing",
+        "D. Gradually intensifying in difficulty"
+      ],
+      "answer": "B",
+      "explanation": "'Wrenching' describes an emotional state of being torn or deeply disturbed. The phrase 'morally wrenching predicaments' refers to ethically difficult situations that cause emotional distress. While 'wrenching' can involve physical pulling, the context here is clearly psychological and moral."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "In the early 1970s, genetic engineers launched the most controversial revolution in science since the atomic bomb.",
+      "question": "The phrase 'launched the most controversial revolution' suggests that the genetic engineering movement was:",
+      "options": [
+        "A. Carefully planned and universally approved",
+        "B. Initiated with significant public debate and concern",
+        "C. Completely rejected by all scientific communities",
+        "D. Slowly developed over centuries without notice"
+      ],
+      "answer": "B",
+      "explanation": "'Controversial' means the development was disputed and provoked strong disagreement. The comparison to 'the atomic bomb'—itself a transformative and ethically complex technology—reinforces that this was a major, contested scientific shift. Option A contradicts 'controversial,' while C and D are too extreme."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Dr Tedros Adhanom Ghebreyesus also said the response was being hindered by blanket travel restrictions.",
+      "question": "'Blanket' travel restrictions most likely refers to:",
+      "options": [
+        "A. Temporary restrictions that last only one season",
+        "B. Universal, comprehensive restrictions applied without exception",
+        "C. Restrictions that affect only border regions",
+        "D. Loosely enforced guidelines rather than strict rules"
+      ],
+      "answer": "B",
+      "explanation": "'Blanket' in policy contexts means comprehensive, sweeping, and applied uniformly across all cases without differentiation. This usage suggests the restrictions were overly broad and indiscriminate. Option A misses the sense of universality, C is too geographically specific, and D contradicts the firmness implied by 'blanket.'"
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "No sooner had the artist completed the installation than the storm damaged it severely.",
+      "question": "Which of the following demonstrates correct inversion after a negative adverbial?",
+      "options": [
+        "A. No sooner had the artist completed the installation than the storm damaged it severely.",
+        "B. No sooner the artist completed the installation than the storm damaged it severely.",
+        "C. No sooner did the artist completed the installation than the storm damaged it severely.",
+        "D. No sooner the artist had completed the installation than the storm damaged it severely."
+      ],
+      "answer": "A",
+      "explanation": "With negative adverbials like 'No sooner' at the sentence start, subject-auxiliary inversion is required: 'had the artist' (not 'the artist had'). Option B omits the auxiliary entirely. Option C uses 'did' instead of 'had,' which changes the tense. Option D reverses the required inversion pattern."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "It is essential that the museum director approve the conservation plan before implementation.",
+      "question": "Which sentence correctly uses the subjunctive mood?",
+      "options": [
+        "A. It is essential that the museum director approves the conservation plan before implementation.",
+        "B. It is essential that the museum director approve the conservation plan before implementation.",
+        "C. It is essential that the museum director approved the conservation plan before implementation.",
+        "D. It is essential that the museum director will approve the conservation plan before implementation."
+      ],
+      "answer": "B",
+      "explanation": "After expressions of urgency like 'it is essential that,' the subjunctive mood requires the base form of the verb without the third-person -s: 'approve' (not 'approves'). Option A uses indicative mood. Options C and D shift to past or future tense, which are inappropriate in subjunctive contexts."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The artist had finished the sculptures before the gallery opened, which is why the exhibition was ready on time.",
+      "question": "Which sentence correctly distinguishes between past perfect and simple past?",
+      "options": [
+        "A. The artist finished the sculptures before the gallery opened, which is why the exhibition was ready on time.",
+        "B. The artist has finished the sculptures before the gallery opened, which is why the exhibition was ready on time.",
+        "C. The artist had finished the sculptures before the gallery opened, which is why the exhibition was ready on time.",
+        "D. The artist finishes the sculptures before the gallery opened, which is why the exhibition was ready on time."
+      ],
+      "answer": "C",
+      "explanation": "The past perfect ('had finished') correctly shows that one action was completed before another past action ('opened'). It establishes a clear sequence of events in the past. Option A uses simple past for both, losing the sense of prior completion. Options B and D use present perfect and simple present, which are inappropriate for this wholly past narrative."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The sculpture was carefully restored by the conservation team, and the artist had the damaged sections repaired by specialists.",
+      "question": "Which sentence correctly uses both passive voice and the causative 'have'?",
+      "options": [
+        "A. The sculpture was carefully restored by the conservation team, and the artist had the damaged sections repaired by specialists.",
+        "B. The conservation team restored the sculpture carefully, and the artist had repaired the damaged sections by specialists.",
+        "C. The sculpture was carefully restored by the conservation team, and the artist repaired the damaged sections by specialists.",
+        "D. The sculpture has been carefully restored by the conservation team, and the artist had the specialists to repair the damaged sections."
+      ],
+      "answer": "A",
+      "explanation": "Option A correctly combines passive voice ('was restored') with causative 'have' structure ('had...repaired by specialists'), showing both the passive action and the artist's causation of repairs. Option B mixes active and incomplete structures. Option C omits the causative structure. Option D uses an awkward infinitive construction rather than the causative 'have + past participle' form."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "She said that she would submit the report the next day, but she didn't.",
+      "question": "Which sentence demonstrates correct backshift of tenses in reported speech?",
+      "options": [
+        "A. She said that she will submit the report tomorrow.",
+        "B. She said that she would submit the report the next day.",
+        "C. She said that she submits the report the next day.",
+        "D. She said that she had submitted the report the next day."
+      ],
+      "answer": "B",
+      "explanation": "When the reporting verb is in past tense ('said'), the reported speech must shift: 'will' becomes 'would,' and 'tomorrow' becomes 'the next day.' Option A fails to backshift the tense or adverbial. Option C uses simple present, which is incorrect after a past reporting verb. Option D shifts to past perfect, which contradicts the future-oriented original statement."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The teacher suggested that the students revise their essays before submitting them.",
+      "question": "Which phrasing most naturally conveys the teacher's recommendation?",
+      "options": [
+        "A. The teacher suggested that the students revise their essays before submitting them.",
+        "B. The teacher suggested the students to revise their essays before submitting them.",
+        "C. The teacher suggested for the students to revise their essays before submitting them.",
+        "D. The teacher suggested the students revising their essays before submitting them."
+      ],
+      "answer": "A",
+      "explanation": "With 'suggest,' the that-clause with subjunctive ('that the students revise') is the most formal and grammatically correct structure. Option B incorrectly uses 'suggest + object + infinitive,' which is not standard. Option C uses an unnecessary 'for' phrase. Option D uses a gerund, which changes the meaning."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Either the committee or the board members are responsible for finalizing the proposal.",
+      "question": "Which sentence most naturally handles subject-verb agreement with correlative conjunctions?",
+      "options": [
+        "A. Either the committee or the board members are responsible for finalizing the proposal.",
+        "B. Either the committee or the board members is responsible for finalizing the proposal.",
+        "C. Either the committee or the board member are responsible for finalizing the proposal.",
+        "D. Either the committee or the board members has been responsible for finalizing the proposal."
+      ],
+      "answer": "A",
+      "explanation": "When using 'either...or,' the verb agrees with the nearest subject: 'board members' (plural) requires 'are.' Option B incorrectly agrees with 'committee,' making the verb singular. Option C changes the noun. Option D shifts to present perfect, which is less natural for this ongoing situation."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Despite the weather, she decided to walk to the market rather than take the bus.",
+      "question": "Which phrasing most naturally expresses her choice?",
+      "options": [
+        "A. She decided to walk to the market rather than take the bus despite the weather.",
+        "B. She decided to walk to the market instead of to take the bus despite the weather.",
+        "C. She decided for walking to the market rather than to take the bus despite the weather.",
+        "D. She decided to walk to the market rather than taking the bus despite the weather."
+      ],
+      "answer": "A",
+      "explanation": "The infinitive structure 'rather than + bare infinitive' (take, not 'to take') is idiomatic and most natural. Option B is awkward with 'instead of to take.' Option C uses 'decided for walking,' which is unnatural. Option D breaks parallel structure by mixing 'rather than taking' with the preceding infinitive 'to walk.'"
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "Saret's anti-forms, whose cloudlike organic shapes responded to Minimalism with a nature-attuned spirit, merged abstract sculptural innovation with environmental consciousness.",
+      "question": "Rewrite this sentence in your own words, capturing its essential meaning:",
+      "options": null,
+      "answer": null,
+      "paraphrase_keywords": [
+        "Saret's sculptures",
+        "abstract forms",
+        "minimalism response",
+        "nature-inspired",
+        "environmental awareness"
+      ],
+      "explanation": "Your paraphrase should convey that Saret created abstract sculptures (anti-forms) with organic, cloudlike shapes that both engaged with the Minimalist movement and expressed a deep connection to nature. The key idea is that his work bridged artistic abstraction with environmental sensitivity, rejecting pure minimalism in favor of nature-inspired forms."
+    }
+  ]
+}
