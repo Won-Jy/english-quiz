@@ -1,0 +1,218 @@
+{
+  "date": "2026-06-04",
+  "generated_at": "2026-06-04T22:26:16.997365",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Philippe Vergne will join the institution as its artistic director in a newly created position.",
+      "question": "In this context, 'newly created position' most closely means:",
+      "options": [
+        "A. A role that has just been established for the first time",
+        "B. A job that requires constant renovation",
+        "C. A temporary post lasting only one season",
+        "D. A position previously held by someone else"
+      ],
+      "answer": "A",
+      "explanation": "A 'newly created position' refers to a role that did not exist before and has been established specifically for this person. Option B misses the sense of establishment, C introduces unnecessary temporality, and D contradicts 'newly created' by implying prior existence."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Marjane Satrapi's work introduced the Western world to the precarity of everyday life in the wake of the Islamic Revolution.",
+      "question": "The word 'precarity' in this sentence most accurately refers to:",
+      "options": [
+        "A. The state of being precarious; uncertainty and instability",
+        "B. The historical accuracy of events",
+        "C. The artistic precision of visual narratives",
+        "D. The cultural separation between nations"
+      ],
+      "answer": "A",
+      "explanation": "'Precarity' is a noun form of 'precarious,' meaning vulnerability and lack of stability. Option B confuses it with 'precision,' C misidentifies its meaning entirely, and D introduces an unrelated concept not supported by the sentence's context."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Mozart's genius lay in writing music of such power that he could draw his audience into morally wrenching predicaments.",
+      "question": "What does 'morally wrenching' most closely mean?",
+      "options": [
+        "A. Deeply disturbing to one's ethical sensibilities",
+        "B. Mechanically difficult to perform",
+        "C. Historically inaccurate in representation",
+        "D. Overly complicated in musical structure"
+      ],
+      "answer": "A",
+      "explanation": "'Morally wrenching' combines 'moral' (ethical) with 'wrenching' (causing emotional distress). This describes situations that disturb our sense of right and wrong. Options B, C, and D describe different qualities entirely unrelated to moral or ethical dimensions."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Genetic engineers launched the most controversial revolution in science since the atomic bomb.",
+      "question": "In this context, 'launched' most closely means:",
+      "options": [
+        "A. Officially initiated or set in motion",
+        "B. Physically propelled into the air",
+        "C. Introduced a new product to market",
+        "D. Escaped from a dangerous situation"
+      ],
+      "answer": "A",
+      "explanation": "'Launched' here uses the metaphorical sense of beginning or initiating a major movement or initiative. While C can be valid in business contexts, A is the most appropriate for describing the start of a scientific revolution. B and D are literal meanings irrelevant to this academic context."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Opposition leaders embedded with militias set up positions in their clan strongholds.",
+      "question": "The phrase 'embedded with' most accurately conveys:",
+      "options": [
+        "A. Positioned firmly within or as an integral part of",
+        "B. Separated physically but allied diplomatically",
+        "C. Recently recruited and poorly trained",
+        "D. Stationed temporarily without permanent commitment"
+      ],
+      "answer": "A",
+      "explanation": "'Embedded with' indicates deep integration within a group or structure, often used in journalism (embedded reporters) and military contexts. Option B contradicts the closeness implied by 'embedded,' C adds unsupported detail, and D misses the sense of integral connection."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The museum director had the new exhibition space redesigned by a renowned architect.",
+      "question": "Which sentence correctly uses the causative 'have'?",
+      "options": [
+        "A. The museum director had the new exhibition space redesigned by a renowned architect.",
+        "B. The museum director had a renowned architect to redesign the new exhibition space.",
+        "C. The museum director was having the new exhibition space redesigned by a renowned architect.",
+        "D. The museum director had redesigned the new exhibition space with a renowned architect."
+      ],
+      "answer": "A",
+      "explanation": "The causative 'have + object + past participle' (Option A) correctly expresses that someone caused another person to perform an action. Option B uses an infinitive incorrectly, C uses progressive aspect unnecessarily, and D makes the director perform the action rather than having it performed."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The researchers should have anticipated the ambiguous results in their preliminary study.",
+      "question": "What does 'should have anticipated' express?",
+      "options": [
+        "A. A logical obligation in the present",
+        "B. A past obligation that was not fulfilled, implying criticism",
+        "C. A future possibility that may occur",
+        "D. A present recommendation for future action"
+      ],
+      "answer": "B",
+      "explanation": "'Should have + past participle' expresses a past obligation that was not met, often with a tone of criticism or regret. The speaker implies the researchers failed to do what they ought to have done. Options A, C, and D describe different modal meanings unrelated to this structure."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The student needn't have rewritten the entire essay; the professor only requested minor revisions.",
+      "question": "What is the function of 'needn't have' in this sentence?",
+      "options": [
+        "A. It expresses that something was not necessary, and the action was not performed",
+        "B. It expresses that something was not necessary, but the action was performed anyway",
+        "C. It expresses a prohibition in the past that was violated",
+        "D. It expresses a lack of permission to perform an action"
+      ],
+      "answer": "B",
+      "explanation": "'Needn't have + past participle' means an action was unnecessary but was performed anyway—the student rewrote unnecessarily. Option A incorrectly suggests the action wasn't performed, C confuses this with prohibition, and D refers to permission rather than necessity."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The committee discussed _____ new regulations to improve workplace safety.",
+      "question": "Which article and noun form correctly complete this sentence?",
+      "options": [
+        "A. the implementation of",
+        "B. implementing",
+        "C. an implementation of",
+        "D. implementations of"
+      ],
+      "answer": "A",
+      "explanation": "Abstract nouns like 'implementation' typically use 'the' when referring to a specific instance of the concept (here, the particular regulations being implemented). Option B changes the grammar entirely, C uses the indefinite article incorrectly, and D pluralizes unnecessarily, weakening the specific reference."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "It is essential that all staff members _____ the new safety protocols before the facility opens.",
+      "question": "Which verb form correctly completes the subjunctive construction?",
+      "options": [
+        "A. understand",
+        "B. understands",
+        "C. will understand",
+        "D. understood"
+      ],
+      "answer": "A",
+      "explanation": "In subjunctive mood following 'It is essential that,' the base form of the verb is used regardless of person (here: all staff = plural, so no -s). Options B adds an incorrect -s, C uses future tense inappropriately, and D uses past tense contrary to subjunctive mood."
+    },
+    {
+      "id": 11,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The researcher regrets not attending the conference, but she regrets to inform us that the results were inconclusive.",
+      "question": "Which statement best explains the difference in meaning between these two uses of 'regret'?",
+      "options": [
+        "A. Both mean the same thing; the construction difference is purely stylistic",
+        "B. 'Regret + gerund' refers to regretting a past action; 'regret + infinitive' refers to expressing sorrow about present information",
+        "C. 'Regret + gerund' requires a direct object; 'regret + infinitive' does not",
+        "D. 'Regret + infinitive' refers to past events; 'regret + gerund' refers to future possibilities"
+      ],
+      "answer": "B",
+      "explanation": "Gerunds after 'regret' express regret about actual past experiences, while infinitives (especially 'regret to inform') express regret in delivering unwelcome news in the present. Options A ignores the semantic difference, C confuses grammatical requirements, and D reverses the temporal relationship."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "She found it difficult to concentrate, not because the work was hard, but because the office was noisy.",
+      "question": "Which phrase most naturally conveys the contrast intended here?",
+      "options": [
+        "A. not because...but because",
+        "B. not by reason of...but by reason of",
+        "C. not on account of...but on account of",
+        "D. not on the grounds that...but on the grounds that"
+      ],
+      "answer": "A",
+      "explanation": "'Not because...but because' is the most natural and commonly used construction for expressing contrasts in English. Options B, C, and D are grammatically possible but sound formal and awkward in everyday speech."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "He would have applied for the position had he known about it earlier.",
+      "question": "Which rephrasing most naturally conveys the same meaning?",
+      "options": [
+        "A. If he had known about the position earlier, he would have applied for it",
+        "B. He would apply for the position if he knew about it earlier",
+        "C. Had he known about it earlier, he would have applied for the position",
+        "D. He would have applied for the position if he would have known about it earlier"
+      ],
+      "answer": "A",
+      "explanation": "Option A inverts the conditional to standard English word order while maintaining the counterfactual meaning. Option B shifts to a present conditional, C is grammatically correct but inverts unnecessarily, and D uses a double conditional (would have...would have) which is non-standard."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "Jürgen Habermas, a crucial critical theorist of the twentieth century, has profoundly influenced how we understand communication, power, and democratic discourse in modern societies.",
+      "question": "Rewrite this sentence in your own words while preserving the core meaning.",
+      "options": null,
+      "answer": null,
+      "paraphrase_keywords": [
+        "Habermas",
+        "influential theorist",
+        "communication",
+        "power dynamics",
+        "democratic theory"
+      ],
+      "explanation": "Focus on Habermas's role as an important thinker who shaped our understanding of how communication, authority, and democratic processes function in contemporary societies. Avoid copying the original phrasing while maintaining the emphasis on his theoretical contributions to twentieth-century thought."
+    }
+  ]
+}
