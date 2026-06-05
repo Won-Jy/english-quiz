@@ -1,0 +1,218 @@
+{
+  "date": "2026-06-05",
+  "generated_at": "2026-06-05T22:21:11.056924",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The mystery of the central Stonehenge altar stone has posed a tantalizing question to researchers for decades.",
+      "question": "In this context, 'tantalizing' most nearly means:",
+      "options": [
+        "A. Frustratingly difficult to solve or achieve",
+        "B. Deliberately provocative and offensive",
+        "C. Scientifically verifiable and testable",
+        "D. Historically documented and well-known"
+      ],
+      "answer": "A",
+      "explanation": "Tantalizing refers to something that tempts or teases by appearing desirable but remaining out of reach. Here it describes a mystery that has eluded researchers for decades, thus frustrating their attempts to solve it. Option B is incorrect because tantalizing is not inherently offensive; C and D misrepresent the word's meaning entirely."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The updated layout was developed by Safdie Architects, the same firm that designed the first iteration of the museum in 2012.",
+      "question": "The word 'iteration' in this sentence most closely means:",
+      "options": [
+        "A. A repeated process or version of something",
+        "B. A detailed architectural blueprint",
+        "C. A preliminary proposal or sketch",
+        "D. A collaborative effort between multiple teams"
+      ],
+      "answer": "A",
+      "explanation": "Iteration refers to a version or instance of something that has been revised or repeated. The sentence indicates that Safdie Architects designed both the original museum and now the expanded version, making 'first iteration' equivalent to 'first version.' Option B is too specific to architecture; C and D misrepresent the meaning."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Jürgen Habermas is a crucial critical theorist whose work has shaped contemporary philosophical discourse.",
+      "question": "What does 'crucial' mean in academic contexts?",
+      "options": [
+        "A. Extremely important or critical to understanding something",
+        "B. Difficult or requiring significant effort to understand",
+        "C. Related to a cross or intersection of ideas",
+        "D. Severely critical or harshly judgmental in tone"
+      ],
+      "answer": "A",
+      "explanation": "Crucial means of great importance or essential to a particular matter. In academic writing, calling a theorist 'crucial' emphasizes their significance. Option C plays on the Latin root 'crux' but is not the primary meaning; B and D are incorrect interpretations."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The draft African charter asserts that African values and culture are under attack from foreign ideologies.",
+      "question": "In this sentence, 'asserts' most nearly means:",
+      "options": [
+        "A. States or declares something firmly and confidently",
+        "B. Physically demands recognition or respect",
+        "C. Proves something beyond any doubt",
+        "D. Suggests something indirectly or implicitly"
+      ],
+      "answer": "A",
+      "explanation": "Assert means to state or declare something with confidence and firmness, often as a claim or position. The charter is making a declaration about its values. Option C is too strong—asserting doesn't guarantee proof; B is too literal; D describes implication, the opposite of assertion."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Mozart's genius lay in writing music of such power that he could draw his audience into morally wrenching predicaments.",
+      "question": "The word 'wrenching' in this context suggests:",
+      "options": [
+        "A. Deeply disturbing or emotionally painful",
+        "B. Physically violent or forcefully broken",
+        "C. Logically contradictory or paradoxical",
+        "D. Aesthetically unpleasant or discordant"
+      ],
+      "answer": "A",
+      "explanation": "Wrenching describes something that causes emotional pain or distress, as if one's heart is being twisted or torn. In the context of 'morally wrenching predicaments,' it refers to situations that are deeply troubling to one's conscience. Option B focuses on the literal meaning; C and D misrepresent the emotional dimension."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Neither the director nor the two assistant curators _____ able to attend the opening ceremony due to unexpected scheduling conflicts.",
+      "question": "Which verb form correctly completes this sentence?",
+      "options": [
+        "A. was",
+        "B. were",
+        "C. has been",
+        "D. have been"
+      ],
+      "answer": "B",
+      "explanation": "With a compound subject joined by 'neither...nor,' the verb agrees with the subject closest to it. Here, 'the two assistant curators' (plural) is closest, so the plural verb 'were' is required. Option A incorrectly uses singular agreement; C and D introduce perfect tense unnecessarily and maintain the agreement error."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "I _____ to the museum three times in the past month, and I saw the new exhibition just last week.",
+      "question": "Which verb form correctly completes this sentence?",
+      "options": [
+        "A. have gone",
+        "B. went",
+        "C. had gone",
+        "D. have been going"
+      ],
+      "answer": "A",
+      "explanation": "The first clause requires present perfect ('have gone') because it describes a repeated action from the past to the present with relevance to now ('in the past month'). The second clause uses simple past ('saw') because it refers to a specific, completed past event. Option B doesn't capture the continuation of the action into the present; C suggests prior action before another past event; D is awkward in this context."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The architect insisted that the museum's design _____ altered to accommodate the new exhibition space.",
+      "question": "Which verb form correctly completes this sentence?",
+      "options": [
+        "A. be",
+        "B. is",
+        "C. was",
+        "D. should have been"
+      ],
+      "answer": "A",
+      "explanation": "After verbs like 'insist,' the subjunctive mood is used with the base form 'be.' The sentence requires passive voice ('be altered') in the subjunctive mood. Option B uses present indicative; C uses past indicative; D adds 'should' unnecessarily and uses perfect tense, which changes the meaning to a hypothetical past condition."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The director said that she _____ working on the expansion project for the past two years and _____ almost finished.",
+      "question": "Which verb forms correctly complete this sentence?",
+      "options": [
+        "A. is; was",
+        "B. has been; is",
+        "C. had been; was",
+        "D. has been; has been"
+      ],
+      "answer": "C",
+      "explanation": "In reported speech, tenses backshift to the past when the reporting verb is in past tense ('said'). The present perfect 'has been' becomes past perfect 'had been,' and the present tense 'is' becomes past tense 'was.' Option A fails to backshift the first verb; B doesn't backshift at all; D incorrectly uses two perfect tenses."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_____ had the renovation been completed than the museum announced plans for the next phase of expansion.",
+      "question": "Which word correctly completes this sentence?",
+      "options": [
+        "A. Hardly ever",
+        "B. Scarcely",
+        "C. No sooner",
+        "D. Rarely"
+      ],
+      "answer": "C",
+      "explanation": "When 'No sooner' begins a sentence with inverted word order, the auxiliary verb comes before the subject. The structure 'No sooner + inverted auxiliary + subject + past participle' is correct here. Options A, B, and D do not require the same inversion pattern and would not fit the grammatical structure of this sentence."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The proposal was rejected _____ on its merits but on procedural grounds.",
+      "question": "Which phrase best completes this sentence?",
+      "options": [
+        "A. not exactly",
+        "B. not so much",
+        "C. not quite",
+        "D. not really"
+      ],
+      "answer": "B",
+      "explanation": "'Not so much...but' is the natural idiomatic expression for contrasting two reasons or aspects. It emphasizes that the second reason is the operative one, not the first. Options A and C are awkward in this context; D lacks the parallel structure needed to set up the contrast with 'but.'"
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "He suggested that the team _____ its approach, given the new information that had emerged.",
+      "question": "Which verb phrase best completes this sentence?",
+      "options": [
+        "A. to reconsider",
+        "B. reconsider",
+        "C. should reconsider",
+        "D. will reconsider"
+      ],
+      "answer": "B",
+      "explanation": "After the verb 'suggest' (when not using 'that... should'), the base form without 'to' is used—this is the subjunctive mood. Option A incorrectly includes 'to'; C uses 'should,' which is acceptable but less natural in modern English; D uses future tense, which doesn't match the context of a suggestion."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "_____ lived in three different countries, he was comfortable navigating unfamiliar cultural situations.",
+      "question": "Which phrase best completes this sentence?",
+      "options": [
+        "A. Because he had",
+        "B. Having",
+        "C. He had",
+        "D. Since he had"
+      ],
+      "answer": "B",
+      "explanation": "The participial phrase 'Having lived' correctly introduces a perfect participle expressing the cause of the main clause. This structure is more concise and elegant than the alternatives. Options A and D use subordinate clauses, which are grammatically correct but less stylistically natural; C creates a comma splice."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "The mystery of the central Stonehenge altar stone—a 6 ton, approximately 16-foot-long micaceous sandstone megalith—has posed a tantalizing question to researchers and amateur history buffs for decades: how did such a colossal rock come to rest at the center of the most famous prehistoric monument in England?",
+      "question": "Rewrite the main idea of this sentence in your own words, capturing the key meaning in 2-3 sentences.",
+      "options": null,
+      "answer": null,
+      "paraphrase_keywords": [
+        "mysterious origin",
+        "Stonehenge altar stone",
+        "massive rock",
+        "unsolved puzzle",
+        "centuries of speculation"
+      ],
+      "explanation": "A strong paraphrase should capture that researchers remain uncertain about how such a large stone ended up at the center of Stonehenge, that this question has intrigued people for a long time, and that the stone's origin and transportation remain unexplained. Avoid simply using synonyms; instead, demonstrate genuine understanding of the core question posed by the academic text."
+    }
+  ]
+}
