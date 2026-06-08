@@ -1,0 +1,217 @@
+{
+  "date": "2026-06-08",
+  "generated_at": "2026-06-08T22:43:55.120483",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The auction house wasn't able to attract enough bidders, and the sale failed to launch after the asking price proved too _____ for the market.",
+      "question": "Which word best completes the sentence with an academic tone?",
+      "options": [
+        "A. expensive",
+        "B. prohibitive",
+        "C. costly",
+        "D. dear"
+      ],
+      "answer": "B",
+      "explanation": "Prohibitive is the most academically precise term, meaning 'preventing or discouraging action through being excessively high.' While expensive, costly, and dear all convey high price, prohibitive specifically suggests that the price itself acts as a barrier to purchase—a more sophisticated economic concept appropriate for art market analysis."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The extraordinary challenge of determining the true shape of Earth reveals the deep _____ of measurement to scientific progress.",
+      "question": "What word completes this sentence about the importance of measurement?",
+      "options": [
+        "A. importance",
+        "B. significance",
+        "C. value",
+        "D. primacy"
+      ],
+      "answer": "C",
+      "explanation": "Value is the correct answer as it appears in the original text and fits naturally with the concept of measurement's contribution to scientific progress. While importance and significance are similar, they are less elegant in this context. Primacy would overstate the point by suggesting measurement is the sole or supreme factor."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Armed bandits _____ dozens of villagers whom they had invited to a meeting, authorities said, highlighting the region's worsening security.",
+      "question": "Which verb best captures the action described in this context?",
+      "options": [
+        "A. kidnapped",
+        "B. abducted",
+        "C. seized",
+        "D. apprehended"
+      ],
+      "answer": "B",
+      "explanation": "Abducted is the correct answer as it appears in the original text and is the most precise term for unlawful taking of people, especially in a criminal or political context. Kidnapped and seized are similar but less formal in journalistic writing. Apprehended implies law enforcement action and is therefore inappropriate here."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The campaign group's ultimatum without clear consequences represents a _____ approach to addressing the underlying causes of migration and integration.",
+      "question": "Which word best describes this vague approach?",
+      "options": [
+        "A. nebulous",
+        "B. vague",
+        "C. unclear",
+        "D. ambiguous"
+      ],
+      "answer": "A",
+      "explanation": "Nebulous is the most sophisticated and appropriate academic term, implying something that is hazy, ill-defined, and lacking clear substance. While vague, unclear, and ambiguous all convey imprecision, nebulous carries a more academic weight and suggests not just lack of clarity but also lack of substance in the policy itself."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The science behind the revolutionary engine represents a _____ shift in how humanity approached the problem of energy production.",
+      "question": "What word means a fundamental or pivotal change?",
+      "options": [
+        "A. significant",
+        "B. paradigmatic",
+        "C. major",
+        "D. notable"
+      ],
+      "answer": "B",
+      "explanation": "Paradigmatic is the most precise academic term, meaning a fundamental change in how something is understood or approached. While significant and major convey importance, paradigmatic specifically refers to a shift in the underlying framework or model of thinking—essential for describing revolutionary technological breakthroughs."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The art market _____ significant changes over the past five years, though the 2008 crash _____ a permanent shift in collector behavior.",
+      "question": "Which pair of tenses correctly completes this sentence?",
+      "options": [
+        "A. has experienced / caused",
+        "B. has experienced / has caused",
+        "C. experienced / caused",
+        "D. has been experiencing / had caused"
+      ],
+      "answer": "A",
+      "explanation": "Present perfect 'has experienced' is correct for changes extending into the present, while simple past 'caused' correctly identifies the 2008 crash as a completed past event that resulted in a specific change at that moment. Option B incorrectly treats both actions as part of a continuous timeframe; Option C misses the present relevance of the market changes; Option D uses past perfect incorrectly, as there's no earlier past event."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_____ the bidding competition, the auction house decided to postpone the sale indefinitely.",
+      "question": "Which participial phrase best completes the sentence?",
+      "options": [
+        "A. Having failed to attract",
+        "B. Failed to attract",
+        "C. Failing to attract",
+        "D. Being failed to attract"
+      ],
+      "answer": "A",
+      "explanation": "Having failed to attract is the correct participial construction, using the perfect participle to show that the failure occurred before the decision to postpone. Option B lacks the required participle form; Option C (simple participle) is ambiguous about the timing; Option D is grammatically incorrect as it misuses the passive construction in a participial phrase."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The collector _____ the painting appraised by three independent experts before deciding to consign it to auction.",
+      "question": "Which causative structure is most appropriate?",
+      "options": [
+        "A. had",
+        "B. had been",
+        "C. got",
+        "D. was having"
+      ],
+      "answer": "A",
+      "explanation": "Had the painting appraised is the correct causative structure using have + object + past participle, indicating the collector arranged for others to do the appraisal. Option B (had been) suggests a passive state rather than causation; Option C (got) is too informal for academic contexts; Option D (was having) incorrectly implies an ongoing or incomplete action."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Neither the auction house nor the collector _____ willing to disclose the reserve price to potential bidders.",
+      "question": "Which verb form correctly agrees with this inverted subject?",
+      "options": [
+        "A. were",
+        "B. was",
+        "C. has been",
+        "D. have been"
+      ],
+      "answer": "A",
+      "explanation": "Were is correct because the plural verb agrees with the nearest subject collector in this neither...nor construction; the rule requires agreement with the nearer noun when subjects are joined by neither...nor. Option B (was) incorrectly treats this as singular; Options C and D add unnecessary perfect tense complexity to a simple state of being."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The police officer told the residents that 39 people _____ been seized during the meeting, but some officials believed the number _____ have been as high as 50.",
+      "question": "Which tenses correctly show reported speech backshift?",
+      "options": [
+        "A. have / could",
+        "B. had / might",
+        "C. had / could",
+        "D. would have / might"
+      ],
+      "answer": "B",
+      "explanation": "Had been is the correct backshifted form of has been in reported speech (one step back in time), and might is the correct backshifted modal from may (could would be present-time, not past). Option A fails to backshift have; Option C incorrectly uses could instead of might; Option D adds unnecessary complexity with would have."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "If the train had arrived on time, we would have caught the connecting flight to Amsterdam.",
+      "question": "Which rephrasing sounds most natural in everyday speech?",
+      "options": [
+        "A. Had the train arrived on time, we would have caught the connecting flight to Amsterdam.",
+        "B. Unless the train had arrived on time, we would have caught the connecting flight to Amsterdam.",
+        "C. We would have caught the connecting flight to Amsterdam if the train was on time.",
+        "D. Because the train didn't arrive on time, we wouldn't catch the connecting flight to Amsterdam."
+      ],
+      "answer": "A",
+      "explanation": "Option A is a formal but natural inverted conditional structure common in English. Option B uses unless incorrectly with a past perfect condition; Option C incorrectly mixes simple past with would have; Option D loses the conditional structure entirely and uses wrong tenses."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Despite the rain, she decided to walk to the market rather than take the bus.",
+      "question": "Which alternative preserves the original meaning most naturally?",
+      "options": [
+        "A. Although it was raining, she walked to the market instead of the bus.",
+        "B. She chose to walk to the market despite the rain, not taking the bus.",
+        "C. The rain didn't prevent her from walking to the market rather than taking the bus.",
+        "D. In spite of rain, she was walking to the market, not on the bus."
+      ],
+      "answer": "C",
+      "explanation": "Option C best preserves the original meaning with natural phrasing, showing that the rain created a challenge that she overcame by choosing to walk. Option A omits 'rather than' comparison; Option B is awkwardly phrased; Option D uses incorrect tense (was walking instead of decided to walk)."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Rarely had the team faced such a complex set of competing demands.",
+      "question": "Which everyday rephrasing best conveys the same meaning?",
+      "options": [
+        "A. The team had rarely faced competing demands as complex as these.",
+        "B. The team rarely had faced complex competing demands before.",
+        "C. It was rare for the team to face such complex competing demands.",
+        "D. Never did the team face competing demands this complex."
+      ],
+      "answer": "C",
+      "explanation": "Option C effectively translates the literary inverted structure into conversational English while preserving the meaning of rarity. Option A changes the emphasis; Option B contains a grammatical error (rarely...had faced); Option D uses never, which is stronger and less accurate than rarely."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "The auction house wasn't able to attract enough bidders, and the sale failed to launch after the asking price proved too prohibitive for the market.",
+      "question": "Paraphrase this sentence in your own words, capturing its core meaning.",
+      "options": null,
+      "answer": null,
+      "paraphrase_keywords": [
+        "insufficient bidders",
+        "excessive price",
+        "auction cancelled",
+        "market rejection"
+      ],
+      "explanation": "A strong paraphrase should convey that the high asking price discouraged potential buyers, resulting in a failed auction due to inadequate bidding interest."
+    }
+  ]
+}
