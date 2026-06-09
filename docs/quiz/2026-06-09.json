@@ -1,0 +1,218 @@
+{
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09T22:42:19.368833",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The gallery's decision to shutter its New York branch represents a significant _____ in the contemporary art market.",
+      "question": "Which word best completes this sentence?",
+      "options": [
+        "A. contraction",
+        "B. contrivance",
+        "C. convolution",
+        "D. contention"
+      ],
+      "answer": "A",
+      "explanation": "Contraction means a reduction in size or scope, fitting the context of a gallery closing a branch. Contrivance means an artificial device or scheme; convolution refers to complexity; contention means dispute or disagreement—none align with the closing of a physical space."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The thieves' audacious heist was executed with _____ precision, using dynamite and crowbars to breach the museum's security.",
+      "question": "Which word best fits this sentence?",
+      "options": [
+        "A. meticulous",
+        "B. nonchalant",
+        "C. nascent",
+        "D. nebulous"
+      ],
+      "answer": "A",
+      "explanation": "Meticulous means extremely careful and precise, appropriate for a well-planned heist. Nonchalant suggests carelessness; nascent means newly formed; nebulous means vague or unclear—all inappropriate for describing a coordinated, purposeful criminal act."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "For the autistic mind, the world offers a place of _____ curiosity, where sensory experiences are rich and deeply engaging.",
+      "question": "Which word best completes this sentence?",
+      "options": [
+        "A. cursory",
+        "B. profound",
+        "C. perfunctory",
+        "D. pervasive"
+      ],
+      "answer": "B",
+      "explanation": "Profound means deep and intense, matching the emphasis on deep focus and sensory delight. Cursory and perfunctory both mean superficial or done hastily; pervasive means widespread but doesn't convey the depth implied by 'deep focus.'"
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The police's _____ response to the demonstration revealed mounting tension between authorities and citizens over the proposed facility.",
+      "question": "Which word best fits this sentence?",
+      "options": [
+        "A. measured",
+        "B. preemptive",
+        "C. volatile",
+        "D. calibrated"
+      ],
+      "answer": "C",
+      "explanation": "Volatile suggests unstable and explosive behavior, reflecting the severity of shooting and killing a protester. Measured and calibrated both suggest controlled response; preemptive suggests acting first to prevent something—but the response was reactive to an ongoing protest."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The armed bandits' _____ claim about peace negotiations masked their true intention to abduct villagers.",
+      "question": "Which word best completes this sentence?",
+      "options": [
+        "A. spurious",
+        "B. sanguine",
+        "C. salient",
+        "D. sardonic"
+      ],
+      "answer": "A",
+      "explanation": "Spurious means false or deceptive, perfectly capturing a false pretext. Sanguine means optimistic; salient means prominent or noticeable; sardonic means mockingly bitter—none convey the sense of a false pretense designed to deceive."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Neither the director nor the curators _____ willing to justify the sudden closure of the gallery.",
+      "question": "Which verb form is correct?",
+      "options": [
+        "A. was",
+        "B. were",
+        "C. has been",
+        "D. have been"
+      ],
+      "answer": "B",
+      "explanation": "With 'neither...nor,' the verb agrees with the nearest subject, which is 'curators' (plural), requiring 'were.' This tests the rule that collective subjects linked by 'nor' take plural agreement when the nearest noun is plural. Options A and C/D incorrectly treat 'director' (singular) as the controlling subject."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "It is crucial that the museum _____ all artifacts with enhanced security measures before reopening.",
+      "question": "Which verb form is correct?",
+      "options": [
+        "A. protects",
+        "B. protect",
+        "C. will protect",
+        "D. has protected"
+      ],
+      "answer": "B",
+      "explanation": "After 'It is crucial that,' the subjunctive mood requires the bare infinitive form 'protect,' not the indicative 'protects.' This tests the subjunctive in mandatives expressing necessity or importance. Option A uses indicative mood; C and D use future and perfect tenses, which are incompatible with subjunctive constructions."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The detective said that the suspects _____ arrested the previous day and _____ being held pending trial.",
+      "question": "Which pair of verb forms correctly represents reported speech backshift?",
+      "options": [
+        "A. have been, were",
+        "B. had been, were",
+        "C. were, had been",
+        "D. have been, are"
+      ],
+      "answer": "B",
+      "explanation": "In reported speech, present perfect 'have been arrested' backhifts to past perfect 'had been arrested,' and present progressive 'are being held' backhifts to past progressive 'were being held.' Option A fails to backshift the first verb; C misorders the tenses; D doesn't backshift the second verb appropriately."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "Rarely _____ the team _____ such a challenging situation without external support.",
+      "question": "Which pair of words correctly completes this inverted structure?",
+      "options": [
+        "A. have, faced",
+        "B. has, faced",
+        "C. did, face",
+        "D. had, face"
+      ],
+      "answer": "A",
+      "explanation": "After the negative adverbial 'Rarely,' inversion requires the auxiliary to precede the subject: 'Rarely have the team faced.' The plural subject 'team' requires 'have,' and past participle 'faced' completes the present perfect. Option B uses singular 'has'; C uses do-support incorrectly; D uses past tense without proper inversion parallelism."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The artifacts that were stolen from the museum, which had been unguarded for hours, are now recovered by authorities.",
+      "question": "Which statement about the relative clauses is correct?",
+      "options": [
+        "A. Both are defining clauses restricting the noun",
+        "B. The first is defining; the second is non-defining",
+        "C. The first is non-defining; the second is defining",
+        "D. Both are non-defining clauses providing additional information"
+      ],
+      "answer": "B",
+      "explanation": "'That were stolen' is a defining relative clause essential to identifying which artifacts are being discussed—it restricts the meaning of 'artifacts.' 'Which had been unguarded' is non-defining (set off by comma), providing supplementary information about the museum but not essential to identification. Options A, C, and D misclassify one or both clauses."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Despite the rain, she decided to walk to the market rather than take the bus.",
+      "question": "Which alternative phrasing is most natural?",
+      "options": [
+        "A. She decided to walk to the market instead of taking the bus, notwithstanding the rain.",
+        "B. Despite the rain, she preferred walking to the market over taking the bus.",
+        "C. She chose to walk to the market rather than take the bus, in spite of the rain.",
+        "D. The rain notwithstanding, she elected to walk to the market as opposed to taking the bus."
+      ],
+      "answer": "B",
+      "explanation": "Option B maintains natural flow and parallelism ('walking...taking') while preserving the original meaning. Option A is overly formal with 'notwithstanding'; C uses archaic 'elected'; D is excessively formal with inverted 'notwithstanding' and awkward 'as opposed to.'"
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "It was not until she reread the letter that she understood what had really been meant.",
+      "question": "Which alternative is most natural?",
+      "options": [
+        "A. Only after rereading the letter did she understand what had really been meant.",
+        "B. She didn't understand what had really been meant until she reread the letter.",
+        "C. It took rereading the letter for her to understand what had really been meant.",
+        "D. She was unable to understand what had really been meant except upon rereading the letter."
+      ],
+      "answer": "B",
+      "explanation": "Option B conveys the same meaning with natural, conversational word order. Option A inverts syntax for emphasis, which is grammatically correct but less natural in casual speech. C uses 'took' construction which shifts focus; D sounds archaic with 'except upon.'"
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The proposal was rejected not on its merits but on procedural grounds.",
+      "question": "Which alternative best preserves the original emphasis?",
+      "options": [
+        "A. The proposal was rejected for procedural reasons rather than substantive ones.",
+        "B. They rejected the proposal—not because of its content, but because of procedural issues.",
+        "C. The proposal's rejection was procedurally motivated, not merit-based.",
+        "D. Procedural grounds, not the proposal's merits, led to its rejection."
+      ],
+      "answer": "D",
+      "explanation": "Option D maintains the contrastive emphasis of 'not...but' structure, placing procedural grounds in focal position. Option A loses the emphatic contrast; B uses a dash which de-emphasizes the distinction; C reverses the emphasis by leading with the procedural element."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "Galerie Templon has closed its Chelsea outpost in New York after four years in the location, joining other London-based galleries that have similarly shuttered their New York branches in recent months.",
+      "question": "Paraphrase this sentence in your own words, capturing the core meaning:",
+      "options": null,
+      "answer": null,
+      "paraphrase_keywords": [
+        "Galerie Templon",
+        "closed New York location",
+        "four years",
+        "trend",
+        "London galleries",
+        "withdrawing from New York"
+      ]
+    }
+  ]
+}
