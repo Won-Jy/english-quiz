@@ -1,0 +1,218 @@
+{
+  "date": "2026-06-10",
+  "generated_at": "2026-06-10T22:54:52.931668",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The museum's major shift in accessibility represents a _____ move toward democratizing cultural institutions.",
+      "question": "Which word best completes this sentence?",
+      "options": [
+        "A. paradigmatic",
+        "B. random",
+        "C. temporary",
+        "D. superficial"
+      ],
+      "answer": "A",
+      "explanation": "Paradigmatic means a fundamental shift or model change. The context describes a major policy shift in accessibility, which aligns with paradigmatic change. Random, temporary, and superficial all suggest insignificance, which contradicts the 'major shift' described."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The Gwangju Biennale's _____ lineup of international artists demonstrates the event's growing prestige in the contemporary art world.",
+      "question": "Which word best fits this context?",
+      "options": [
+        "A. illustrious",
+        "B. heterogeneous",
+        "C. prolific",
+        "D. enigmatic"
+      ],
+      "answer": "A",
+      "explanation": "Illustrious means distinguished and renowned, perfectly describing a prestigious art event with celebrated participants. Heterogeneous refers to diversity (which is true but less directly evaluative), prolific means producing much work (not applicable to the lineup as a whole), and enigmatic means mysterious (inconsistent with the descriptive announcement)."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The _____ of smog over Los Angeles in 1943 created widespread panic about a potential enemy attack.",
+      "question": "Which word best completes this sentence?",
+      "options": [
+        "A. dissipation",
+        "B. advent",
+        "C. alleviation",
+        "D. cessation"
+      ],
+      "answer": "B",
+      "explanation": "Advent means the arrival or appearance of something significant. The context describes smog descending or appearing over the city. Dissipation, alleviation, and cessation all imply reduction or disappearance, which is the opposite of what the sentence describes."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The investigation _____ that leading global brands were unknowingly complicit in mineral sourcing from conflict zones.",
+      "question": "Which word best fits this context?",
+      "options": [
+        "A. posits",
+        "B. corroborates",
+        "C. alleges",
+        "D. stipulates"
+      ],
+      "answer": "C",
+      "explanation": "Alleges means to claim or assert without definitive proof, which matches the investigative context where companies are accused but the investigation presents a claim. Posits is too formal for reporting, corroborates means to confirm (but the proof is disputed), and stipulates means to specify as a condition (inappropriate here)."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Climate-driven disasters have _____ vulnerable populations, forcing millions to flee their homelands.",
+      "question": "Which word best completes this sentence?",
+      "options": [
+        "A. exacerbated",
+        "B. ameliorated",
+        "C. circumvented",
+        "D. mitigated"
+      ],
+      "answer": "A",
+      "explanation": "Exacerbated means made worse or intensified, which aligns with the description of climate disasters worsening conditions for vulnerable people. Ameliorated, mitigated, and circumvented all suggest improvement or avoidance, contradicting the sense of worsening displacement described."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "_____ had the team faced such a complex set of competing demands before this project.",
+      "question": "Which option correctly completes this sentence using inversion after negative adverbials?",
+      "options": [
+        "A. Hardly ever",
+        "B. Ever hardly",
+        "C. Not hardly",
+        "D. Hardly never"
+      ],
+      "answer": "A",
+      "explanation": "Inversion after negative adverbials like 'Hardly' requires the auxiliary verb before the subject: 'Hardly had the team...' The phrase 'Hardly ever' is the correct collocation. Option B breaks word order, C uses incorrect negation doubling, and D creates a double negative."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "The policy, _____ several times before, proved harder to implement than expected.",
+      "question": "Which participle clause correctly completes this sentence?",
+      "options": [
+        "A. having been revised",
+        "B. being revised",
+        "C. having revised",
+        "D. to have revised"
+      ],
+      "answer": "A",
+      "explanation": "The perfect participle 'having been revised' expresses that the policy was revised before the main action (proving difficult). This passive construction matches the passive sense that the policy underwent revisions. Option B suggests ongoing revision, C uses active voice incorrectly with the subject, and D is not a valid participle form."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "She _____ have applied for the position; the deadline had not yet passed when she decided against it.",
+      "question": "Which modal verb correctly expresses that the application was possible but unnecessary?",
+      "options": [
+        "A. must have",
+        "B. should have",
+        "C. could have",
+        "D. needn't have"
+      ],
+      "answer": "D",
+      "explanation": "Needn't have expresses that something was not necessary but was done anyway. The context suggests she did not need to apply because time remained. Must have implies certainty about the past, should have implies criticism or advice, and could have merely indicates possibility without addressing necessity."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "If the researchers had discovered the flaw earlier, they _____ months of wasted effort.",
+      "question": "Which modal verb correctly completes this third conditional sentence?",
+      "options": [
+        "A. would avoid",
+        "B. would have avoided",
+        "C. will avoid",
+        "D. could avoid"
+      ],
+      "answer": "B",
+      "explanation": "Third conditional requires 'would have + past participle' in the main clause to express an unreal past situation. The structure 'If they had discovered... they would have avoided...' is correct. Option A uses simple conditional, C uses future tense (incorrect for past context), and D is incomplete without 'have'."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "She _____ to the conference three times; once in 2020, again in 2021, and most recently last month.",
+      "question": "Which tense correctly completes this sentence?",
+      "options": [
+        "A. has attended",
+        "B. attended",
+        "C. had attended",
+        "D. has been attending"
+      ],
+      "answer": "A",
+      "explanation": "Present perfect 'has attended' is correct because it connects past actions to the present moment (the experiences remain relevant to her record). Past simple 'attended' would be used for a completed past time period, past perfect 'had attended' requires a more recent past reference point, and present perfect continuous suggests ongoing attendance rather than completed instances."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "After the meeting, they discussed the proposal in detail. Which expression is most natural here?",
+      "question": "How would you most naturally continue this thought?",
+      "options": [
+        "A. They had discussed it extensively before we departed.",
+        "B. They went over it point by point afterward.",
+        "C. The discussion of it ensued among the participants.",
+        "D. A thorough examination of its contents took place."
+      ],
+      "answer": "B",
+      "explanation": "'Went over it point by point' is the most natural, conversational expression for detailed discussion. Option A uses awkward past perfect with 'before we departed,' C is overly formal and vague, and D is passive and stilted."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The company announced a new policy last week. Which continuation is most natural?",
+      "question": "Which expression most naturally follows this statement?",
+      "options": [
+        "A. It has been received with mixed reactions from stakeholders.",
+        "B. Stakeholders have given it mixed reviews.",
+        "C. A mixed reception by stakeholders has transpired.",
+        "D. The policy has been the subject of mixed commentary."
+      ],
+      "answer": "B",
+      "explanation": "'Stakeholders have given it mixed reviews' is the most direct and naturally spoken expression. Option A is passive and wordy, C uses 'transpired' awkwardly (meaning 'happened'), and D is unnecessarily formal with 'subject of mixed commentary.'"
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The experiment failed twice. How would you most naturally explain what happened next?",
+      "question": "Which expression most naturally describes the researchers' next step?",
+      "options": [
+        "A. The having failed twice, they reconsidered their approach.",
+        "B. Having failed twice, they reworked their methodology.",
+        "C. With it having failed twice, they revised their methods.",
+        "D. The experiment's having failed twice made them change direction."
+      ],
+      "answer": "B",
+      "explanation": "'Having failed twice, they reworked their methodology' is the most natural and grammatically elegant participle clause construction. Option A is ungrammatical ('The having'), C is awkward with 'with it having,' and D is wordy and less direct."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "Donald Trump's immigration crackdown is largely targeting people from the countries most vulnerable to displacement from climate-driven disasters.",
+      "question": "Rewrite this sentence in your own words, capturing the core meaning.",
+      "options": null,
+      "answer": null,
+      "explanation": "Your paraphrase should capture that immigration restrictions disproportionately affect populations from regions experiencing severe climate impacts and forced migration. Key elements: restrictive immigration policy, climate-vulnerable nations, displacement/migration.",
+      "paraphrase_keywords": [
+        "immigration restrictions",
+        "climate-vulnerable populations",
+        "displacement",
+        "disproportionate impact",
+        "climate-driven disasters"
+      ]
+    }
+  ]
+}
