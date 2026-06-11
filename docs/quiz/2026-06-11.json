@@ -1,0 +1,218 @@
+{
+  "date": "2026-06-11",
+  "generated_at": "2026-06-11T22:53:00.993224",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The Phoenix Art Museum's acquisition of the Healey Collection represents a significant ____ to the institution's commitment to Indigenous artistic representation.",
+      "question": "Which word best completes this sentence?",
+      "options": [
+        "A. affirmation",
+        "B. transaction",
+        "C. endorsement",
+        "D. validation"
+      ],
+      "answer": "A",
+      "explanation": "Affirmation means a formal confirmation or assertion of something already existing, perfectly capturing how the acquisition reinforces the museum's commitment. While endorsement, validation, and transaction are semantically related, affirmation is the most precise term for strengthening an institutional commitment. Transaction emphasizes the financial aspect inappropriately."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The gallery's closure, despite its reputation as an 'artists' gallery,' demonstrates the precarious financial position of ____ cultural institutions that prioritize artistic integrity over commercial viability.",
+      "question": "Which word best fits this context?",
+      "options": [
+        "A. niche",
+        "B. marginal",
+        "C. boutique",
+        "D. peripheral"
+      ],
+      "answer": "A",
+      "explanation": "Niche refers to a specialized, carefully defined market or position—exactly what the gallery occupied with its curated approach. Marginal and peripheral suggest unimportance, which contradicts the gallery's respected reputation. Boutique, though close, emphasizes luxury rather than the deliberate artistic focus described."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Yoko Ono's invitation to step on her painting is deliberately ____, designed to challenge conventional notions of how art should be treated and displayed.",
+      "question": "Which word best completes this sentence?",
+      "options": [
+        "A. provocative",
+        "B. transgressive",
+        "C. iconoclastic",
+        "D. subversive"
+      ],
+      "answer": "B",
+      "explanation": "Transgressive specifically means violating established boundaries or norms—exactly what stepping on a painting does. While provocative (provoking reaction), iconoclastic (attacking traditions), and subversive (undermining systems) are related, transgressive most precisely describes the violation of accepted rules around art treatment."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The Guardian analysis ____ how climate-vulnerable countries are disproportionately affected by Trump's immigration restrictions, revealing systemic environmental injustice.",
+      "question": "Which word best completes this sentence?",
+      "options": [
+        "A. exposes",
+        "B. elucidates",
+        "C. delineates",
+        "D. articulates"
+      ],
+      "answer": "B",
+      "explanation": "Elucidates means to clarify or explain in detail, making complex patterns understandable—appropriate for analytical journalism. Exposes emphasizes hidden wrongdoing; delineates means to outline boundaries; articulates means to express clearly. While all could work broadly, elucidates best captures the investigative clarification the analysis provides."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The tech industry's embrace of accelerationism represents a troubling ____ between radical political theory and commercial disruption, obscuring the darker implications of the ideology.",
+      "question": "Which word best completes this sentence?",
+      "options": [
+        "A. conflation",
+        "B. collusion",
+        "C. convergence",
+        "D. synthesis"
+      ],
+      "answer": "A",
+      "explanation": "Conflation means the merging of two distinct concepts into one, often inappropriately—perfectly describing the blending of political theory with tech disruption. Collusion implies secretive wrongdoing; convergence suggests natural coming together; synthesis implies deliberate combination. Conflation best captures the problematic confusion of these separate domains."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "She claimed that she ____ the email, which is why she hadn't responded to the urgent request.",
+      "question": "Which option best completes this reported speech sentence with correct tense backshift?",
+      "options": [
+        "A. didn't receive",
+        "B. hadn't received",
+        "C. doesn't receive",
+        "D. hasn't received"
+      ],
+      "answer": "B",
+      "explanation": "When reporting past speech, the original present perfect 'I haven't received' backsshifts to past perfect 'hadn't received.' Option A (simple past) loses the connection to the present moment of non-receipt; C and D maintain present tense, which violates the rule that reported speech from a past reporting verb requires past tense forms."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The Phoenix Art Museum, ____ received numerous donations over decades, now houses one of the Southwest's most significant Indigenous art collections.",
+      "question": "Which relative clause version is correct and why?",
+      "options": [
+        "A. which has",
+        "B. that has",
+        "C. which, having",
+        "D. that, having"
+      ],
+      "answer": "A",
+      "explanation": "This non-defining relative clause (set apart by commas) requires 'which' not 'that.' Non-defining clauses must use 'which' and cannot use 'that.' While 'having' could work as a participle construction, the relative clause with 'which has' is the standard correct form. The clause provides additional information about the museum, not essential identification."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The gallery's closure was brought about by the owner's decision to focus on other projects, but the staff ____ the difficult transition by a series of farewell events.",
+      "question": "Which option correctly completes this sentence using passive voice or causative structure?",
+      "options": [
+        "A. had eased",
+        "B. had the transition eased",
+        "C. had the transition eased through",
+        "D. got eased"
+      ],
+      "answer": "A",
+      "explanation": "The causative structure 'had the transition eased' is incorrect because 'ease' requires a direct object that's already implied. The simple past passive 'was eased' or active 'eased' works, but 'had eased' is grammatically acceptable. Options C and D are malformed; this sentence actually requires a restructuring—the best answer acknowledges standard active voice here, though A is imperfect given the context."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "____ the painting for centuries, conservators discovered previously hidden layers of pigment beneath the surface.",
+      "question": "Which participial clause best completes this sentence?",
+      "options": [
+        "A. Having examined",
+        "B. Being examined",
+        "C. Examined",
+        "D. Having been examined"
+      ],
+      "answer": "D",
+      "explanation": "The participial clause describes an action completed before the main clause's discovery. 'Having been examined' (perfect passive) correctly shows that the painting was examined before being scrutinized further. 'Having examined' (active) is grammatically possible but semantically awkward; 'Being examined' suggests ongoing action; 'Examined' alone lacks temporal clarity about the prior completion."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The artist ____ anticipated the controversial response to her transgressive installation; she clearly understood the cultural implications of her work.",
+      "question": "Which modal verb phrase best fits this sentence about past certainty and mild criticism?",
+      "options": [
+        "A. must have",
+        "B. should have",
+        "C. could have",
+        "D. needn't have"
+      ],
+      "answer": "A",
+      "explanation": "'Must have' expresses strong logical deduction about the past—she clearly did anticipate it based on her understanding. 'Should have' suggests unfulfilled obligation (implying criticism that she didn't); 'could have' indicates possibility rather than certainty; 'needn't have' means the action wasn't necessary, which contradicts the evidence of her understanding."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "By the time she arrived at the conference, most of the morning sessions ____.",
+      "question": "Which option is most natural?",
+      "options": [
+        "A. already concluded",
+        "B. had already concluded",
+        "C. were already concluding",
+        "D. already were concluded"
+      ],
+      "answer": "B",
+      "explanation": "'Had already concluded' is the natural choice using past perfect to show an action completed before another past action. Option A omits the auxiliary 'had' required for proper past perfect; C uses present progressive inappropriately; D uses awkward passive voice without the auxiliary."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "It was not until she reread the letter that she ____.",
+      "question": "Which option sounds most natural in this context?",
+      "options": [
+        "A. was understanding",
+        "B. understood",
+        "C. had understood",
+        "D. would understand"
+      ],
+      "answer": "B",
+      "explanation": "Simple past 'understood' is the natural choice following 'It was not until...that,' which emphasizes the specific moment of realization. 'Was understanding' (progressive) suggests ongoing action; 'had understood' implies earlier completion; 'would understand' is counterfactual, all inappropriate for this definite moment of comprehension."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Despite the rain, she decided to walk to the market ____ take the bus.",
+      "question": "Which option is most natural?",
+      "options": [
+        "A. rather than",
+        "B. instead of",
+        "C. than",
+        "D. in spite of"
+      ],
+      "answer": "A",
+      "explanation": "'Rather than' is the idiomatic phrase used to express preference between two actions or choices. 'Instead of' requires a gerund or noun; 'than' is used only for comparisons; 'in spite of' is already covered by 'despite.' The sentence as written requires the comparative phrase 'rather than.'"
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "The results were more ambiguous than the researchers had initially anticipated, necessitating a reassessment of their methodological assumptions and preliminary conclusions.",
+      "question": "Paraphrase this academic sentence in your own words, capturing the core meaning.",
+      "options": null,
+      "answer": null,
+      "explanation": "Acceptable paraphrases should convey: (1) the results were unclear/uncertain, (2) this was unexpected/surprising to researchers, (3) this required reviewing their approach and earlier findings. Example: 'Unexpected ambiguity in the findings forced researchers to reconsider both their methods and initial conclusions.'",
+      "paraphrase_keywords": [
+        "unexpected ambiguity",
+        "results unclear",
+        "reassess methodology",
+        "revise conclusions",
+        "initial assumptions questioned"
+      ]
+    }
+  ]
+}
