@@ -1,0 +1,217 @@
+{
+  "date": "2026-06-12",
+  "generated_at": "2026-06-12T22:42:48.171083",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The artist's work was characterized by a _____ approach to color and form, emphasizing sensory pleasure over conceptual abstraction.",
+      "question": "Which word best completes the sentence?",
+      "options": [
+        "A. hedonistic",
+        "B. pragmatic",
+        "C. austere",
+        "D. methodical"
+      ],
+      "answer": "A",
+      "explanation": "Hedonistic means focused on pleasure and enjoyment, which aligns with 'pleasure-suffused paintings.' Pragmatic refers to practical approaches; austere means sparse or stern; methodical means systematic—none capture the emphasis on sensory pleasure."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The public art initiative _____ community engagement by making sculptures accessible across multiple boroughs.",
+      "question": "Which word best fits the meaning?",
+      "options": [
+        "A. circumvented",
+        "B. catalyzed",
+        "C. mitigated",
+        "D. diluted"
+      ],
+      "answer": "B",
+      "explanation": "Catalyzed means triggered or prompted; it fits the context of encouraging community participation. Circumvented means avoided; mitigated means reduced; diluted means weakened—all inappropriate for describing how an initiative promotes engagement."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The council's decision to seize the property was widely seen as a _____ move against high-profile officials who misuse social housing.",
+      "question": "Choose the most appropriate word:",
+      "options": [
+        "A. precipitous",
+        "B. vindictive",
+        "C. timorous",
+        "D. remedial"
+      ],
+      "answer": "D",
+      "explanation": "Remedial means corrective or restorative, fitting an action to address housing policy abuse. Precipitous means hasty; vindictive means revenge-driven; timorous means fearful—none capture the sense of enforcement for public good."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Climate-vulnerable nations face _____ barriers to entry as developed countries restrict immigration under the guise of security concerns.",
+      "question": "Which word best completes the sentence?",
+      "options": [
+        "A. ephemeral",
+        "B. burgeoning",
+        "C. multifaceted",
+        "D. tangential"
+      ],
+      "answer": "C",
+      "explanation": "Multifaceted means having many aspects or dimensions, appropriate for complex immigration barriers. Ephemeral means temporary; burgeoning means growing rapidly; tangential means peripheral—none convey the complexity of interconnected restrictions."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Hockney's _____ of figurative painting in the 1960s represented a significant artistic rebellion against prevailing abstract movements.",
+      "question": "What word completes this sentence?",
+      "options": [
+        "A. repudiation",
+        "B. recuperation",
+        "C. reification",
+        "D. recapitulation"
+      ],
+      "answer": "B",
+      "explanation": "Recuperation means recovery or restoration; the text explicitly states he 'recuperated figurative painting.' Repudiation means rejection; reification means objectification; recapitulation means summarization—all misrepresent the action of restoring figurative art."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The CEO _____ have approved the merger without consulting the board; it was a serious breach of protocol.",
+      "question": "Choose the correct modal verb:",
+      "options": [
+        "A. might",
+        "B. should not",
+        "C. must not",
+        "D. needn't"
+      ],
+      "answer": "B",
+      "explanation": "Should not expresses criticism for a past action; the sentence criticizes the CEO's failure to consult. 'Might have' suggests possibility without judgment; 'must not' implies prohibition rather than criticism; 'needn't' suggests something wasn't necessary but was done—incorrect tense and meaning."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "If she had studied harder, she _____ passed the exam with distinction.",
+      "question": "Complete the third conditional sentence:",
+      "options": [
+        "A. would have",
+        "B. would",
+        "C. will have",
+        "D. had"
+      ],
+      "answer": "A",
+      "explanation": "Third conditionals require 'would have + past participle' in the main clause to describe unrealized past outcomes. 'Would' alone is present conditional; 'will have' is future perfect; 'had' is incomplete—none form a grammatically correct third conditional."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "He regrets not _____ for the position, but _____ about it now won't change anything.",
+      "question": "Choose the correct gerund/infinitive forms:",
+      "options": [
+        "A. applying / worrying",
+        "B. to apply / to worry",
+        "C. applying / to worry",
+        "D. to apply / worrying"
+      ],
+      "answer": "A",
+      "explanation": "Both 'regret' and 'won't change' take gerunds (applying, worrying). Regret + gerund means wishing something had not happened; regret + infinitive suggests disliking the action itself—a change in meaning. 'Won't change' requires a gerund object."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "She said that she _____ finish the report by Friday and that her manager _____ approve it immediately.",
+      "question": "Complete the reported speech with correct backshift:",
+      "options": [
+        "A. will / will",
+        "B. would / would",
+        "C. would / will",
+        "D. will / would"
+      ],
+      "answer": "B",
+      "explanation": "Reported speech requires backshift of future tense 'will' to 'would' when the reporting verb is past. Both clauses need consistent backshift: would finish / would approve. Mixing tenses (C, D) violates reported speech rules; (A) fails to backshift at all."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Neither the director nor the committee members _____ willing to fund the experimental sculpture project.",
+      "question": "Choose the correct verb form:",
+      "options": [
+        "A. were",
+        "B. was",
+        "C. is",
+        "D. are"
+      ],
+      "answer": "A",
+      "explanation": "With 'neither...nor,' the verb agrees with the nearest subject; 'committee members' (plural) requires 'were.' 'Was' incorrectly agrees with singular 'director'; 'is' and 'are' are present tense, but the sentence requires past tense for proper register."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The proposal was rejected not on its merits but on procedural grounds.",
+      "question": "Which expression is closest in meaning?",
+      "options": [
+        "A. The proposal's quality was flawed, so it was rejected.",
+        "B. The proposal itself was sound, but rejected due to how the process was handled.",
+        "C. The procedure was rejected, which led to rejecting the proposal.",
+        "D. The proposal was rejected because no one had merit to discuss it."
+      ],
+      "answer": "B",
+      "explanation": "'On its merits' refers to the proposal's quality; 'procedural grounds' means process-related reasons. The sentence emphasizes that quality wasn't the issue—the process was. A incorrectly focuses on merit; C reverses causality; D misunderstands 'merit.'"
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Despite the rain, she decided to walk to the market rather than take the bus.",
+      "question": "What does this sentence most naturally imply?",
+      "options": [
+        "A. She preferred walking because the bus wasn't available.",
+        "B. She chose walking as the better option even though conditions were unfavorable.",
+        "C. The rain prevented the bus from operating.",
+        "D. Walking was cheaper than taking the bus."
+      ],
+      "answer": "B",
+      "explanation": "'Despite the rain' introduces an obstacle; 'rather than take the bus' shows she chose walking despite this difficulty. A misses the contrast established by 'despite'; C misrepresents causality; D assumes cost without textual support."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "She found it difficult to concentrate, not because the work was hard, but because the office was noisy.",
+      "question": "Which explanation best captures the intended contrast?",
+      "options": [
+        "A. Difficult work and noise both contributed equally to her lack of focus.",
+        "B. The work's difficulty was the main reason, with noise as a secondary factor.",
+        "C. Environmental factors, not task complexity, were the actual cause of her difficulty.",
+        "D. She could concentrate only when both work difficulty and noise were low."
+      ],
+      "answer": "C",
+      "explanation": "The structure 'not...but' explicitly contrasts two causes, ruling out the first as the reason and establishing the second. A ignores the contrast; B inverts the intended emphasis; D adds unwarranted conditions not stated in the sentence."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "Hockney in the 1960s recuperated figurative painting and, more specifically, the human form, both of which had been previously rejected by the abstract movement.",
+      "question": "Rewrite this sentence in your own words, capturing the essential meaning:",
+      "options": null,
+      "answer": null,
+      "paraphrase_keywords": [
+        "Hockney",
+        "1960s",
+        "restored figurative painting",
+        "human form",
+        "rejected abstract movement"
+      ]
+    }
+  ]
+}
