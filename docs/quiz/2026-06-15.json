@@ -1,0 +1,218 @@
+{
+  "date": "2026-06-15",
+  "generated_at": "2026-06-15T23:06:40.651212",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The Frank Bowling Foundation will operate as a charity with the support of a substantial gift comprising paintings, sculpture, and archival material spanning his professional endeavors.",
+      "question": "In this context, 'endeavors' most closely means:",
+      "options": [
+        "A. attempts or efforts undertaken to achieve a goal",
+        "B. financial investments or business ventures",
+        "C. physical objects or tangible assets",
+        "D. periods of time or historical eras"
+      ],
+      "answer": "A",
+      "explanation": "Endeavors refers to sustained efforts or undertakings, particularly professional ones. Option B is incorrect because endeavors are not inherently financial; C conflates the artworks with the efforts that created them; D misses the purposeful, goal-oriented nature of endeavor."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The monastery, which dates to the eleventh century, is part of a UNESCO World Heritage Site recognized for its cultural significance.",
+      "question": "The phrase 'dates to' in this sentence means:",
+      "options": [
+        "A. arranges social meetings",
+        "B. originates from or was built in a particular period",
+        "C. calculates the age of an object scientifically",
+        "D. records information about past events"
+      ],
+      "answer": "B",
+      "explanation": "In this context, 'dates to' means originates from or can be traced back to a specific time period. Option A refers to romantic meetings; C refers specifically to scientific dating methods; D is too vague and doesn't capture the temporal meaning."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The accomplished musician, who recorded over 70 albums during his career, was widely acclaimed for his innovative approach to jazz composition.",
+      "question": "Which word could best replace 'accomplished' without changing the meaning?",
+      "options": [
+        "A. completed",
+        "B. skilled and successful",
+        "C. expensive",
+        "D. historical"
+      ],
+      "answer": "B",
+      "explanation": "Accomplished means highly skilled and achieving success, often through talent and dedication. Option A focuses on completion rather than quality; C refers to cost, not ability; D relates to age or historical significance rather than personal achievement."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Wealth can be a poison if not carefully managed, and the rich must reckon with its costs to recover their humanity.",
+      "question": "The word 'reckon with' in this sentence means:",
+      "options": [
+        "A. calculate or count mathematically",
+        "B. have a conversation or agreement",
+        "C. face and deal seriously with consequences",
+        "D. remember or recall past events"
+      ],
+      "answer": "C",
+      "explanation": "To reckon with something means to acknowledge and deal with its serious consequences or implications. Option A refers to numerical calculation; B suggests negotiation; D involves memory, whereas the text emphasizes confronting difficult truths about wealth."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Attacks on education globally have surged by 40%, with incidents reported across 83 countries, including high incidences in conflict zones.",
+      "question": "The verb 'surged' most accurately conveys:",
+      "options": [
+        "A. gradually increased over many years",
+        "B. rose suddenly and dramatically in volume or intensity",
+        "C. fluctuated unpredictably between high and low",
+        "D. stabilized at an expected level"
+      ],
+      "answer": "B",
+      "explanation": "Surge implies a sudden, powerful increase—here emphasizing the dramatic 40% rise. Option A suggests gradual growth; C implies instability without clear direction; D indicates stability, contradicting the sense of alarm in the passage."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The cathedral was damaged by a drone strike, and the repairs are being carried out by a specialized restoration team.",
+      "question": "Which sentence uses the causative construction correctly to convey that someone arranged for repairs?",
+      "options": [
+        "A. The monastery had the repairs carried out by specialists.",
+        "B. The monastery had carried out the repairs by specialists.",
+        "C. The monastery had specialists carrying out the repairs them.",
+        "D. The monastery had to be the repairs carried out."
+      ],
+      "answer": "A",
+      "explanation": "The causative 'have + object + past participle' (have the repairs carried out) correctly expresses that someone arranged for an action to be performed. Option B uses the wrong verb form; C is ungrammatical; D distorts the causative structure entirely."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The museum acquired several artifacts for its collection.",
+      "question": "Which sentence correctly uses articles with abstract and uncountable nouns?",
+      "options": [
+        "A. The museum valued the cultural heritage and the historical significance of the items.",
+        "B. Museum valued cultural heritage and historical significance of items.",
+        "C. Museum valued the cultural heritage and historical significance of the items.",
+        "D. The museum valued a cultural heritage and a historical significance of the items."
+      ],
+      "answer": "A",
+      "explanation": "Abstract uncountable nouns like 'cultural heritage' and 'historical significance' typically require the definite article 'the' when made specific by context. Option B omits necessary articles; C inconsistently uses articles (missing 'the' before 'cultural'); D incorrectly uses 'a' with uncountable nouns."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "He stopped playing chess because he lost interest in the game.",
+      "question": "Which sentence demonstrates a change in meaning between gerund and infinitive?",
+      "options": [
+        "A. He remembered to call his mother, so he called her immediately.",
+        "B. He stopped smoking and quit the habit entirely.",
+        "C. He remembered calling his mother, so he didn't call again.",
+        "D. He began to study harder than before."
+      ],
+      "answer": "C",
+      "explanation": "The gerund 'remember calling' means to recall a past action already completed; 'remember to call' (infinitive) means to recall a future obligation. Option C shows this semantic difference—remembering a past call means not needing to make it again. Options A and B lack the meaning shift; D doesn't show gerund-infinitive contrast."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The Frank Bowling Foundation, which celebrates the artist's legacy, is launching in 2026.",
+      "question": "Which sentence correctly distinguishes defining and non-defining relative clauses?",
+      "options": [
+        "A. The artists who created innovative work are often remembered, and sculptors who broke traditional forms are celebrated.",
+        "B. The artist Frank Bowling, who created over 70 works, is celebrated posthumously in his legacy.",
+        "C. The foundation that celebrates Bowling's legacy operates as a charity, which provides support.",
+        "D. The sculptures which are abstract express the artist's vision more clearly than the paintings that are figurative."
+      ],
+      "answer": "B",
+      "explanation": "Non-defining clauses (set off by commas) add extra information about a specific person already identified: 'Frank Bowling, who created over 70 works' provides additional detail about a known individual. Option A uses defining clauses (without commas) which are correct but doesn't isolate non-defining usage; C mixes clause types confusingly; D uses only defining clauses."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Having examined the documents thoroughly, the lawyer advised against signing the contract.",
+      "question": "Which sentence correctly uses a participle clause?",
+      "options": [
+        "A. Being damaged by the fire, the cathedral required extensive restoration work.",
+        "B. The cathedral being damaged by fire, extensive restoration work was required.",
+        "C. The cathedral, being damaged by fire, required extensive restoration work and was closed.",
+        "D. Having been damaged, the cathedral needed restoration, it was closed immediately."
+      ],
+      "answer": "C",
+      "explanation": "The participle clause 'being damaged by fire' correctly modifies the cathedral in a non-defining construction (set off by commas). Option A uses the participle but creates ambiguity about agency; B is awkwardly inverted; D creates a comma splice between two independent clauses."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "She asked whether the documents had been signed by all the relevant parties.",
+      "question": "Which phrasing would be most natural in informal spoken English?",
+      "options": [
+        "A. She inquired as to whether the documents had been signed by all relevant parties.",
+        "B. She asked if all the parties had signed the documents.",
+        "C. She questioned whether or not the documents had been signed by all relevant parties.",
+        "D. She desired to know if the documents were signed by the relevant parties."
+      ],
+      "answer": "B",
+      "explanation": "Option B is the most natural and concise phrasing for informal speech, using 'if' instead of 'whether' and active voice. Option A is overly formal ('inquired as to'); C is wordy and repetitive ('whether or not'); D uses awkward phrasing ('desired to know')."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Rarely had the team faced such a complex set of competing demands.",
+      "question": "Which sentence conveys the same meaning in a more natural, conversational way?",
+      "options": [
+        "A. The team had rarely faced such complex and competing demands.",
+        "B. Such complex competing demands are rarely faced by the team.",
+        "C. It was rare for the team to face such complex and competing demands.",
+        "D. The team rarely had faced such demanding and complex requirements."
+      ],
+      "answer": "A",
+      "explanation": "Option A maintains the meaning while using natural word order (subject-verb-object). The original uses fronted adverbial inversion for emphasis. Option B uses passive voice unnecessarily; C is less concise; D has an awkward tense combination ('rarely had faced')."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The more carefully he read the contract, the more concerned he became about its implications.",
+      "question": "Which option best expresses this relationship in everyday language?",
+      "options": [
+        "A. As he read the contract more carefully, his level of concern increased proportionally.",
+        "B. Reading the contract carefully made him very concerned about its implications.",
+        "C. The contract's implications concerned him more the more he read it carefully.",
+        "D. He became increasingly concerned about the contract's implications as he read it more carefully."
+      ],
+      "answer": "D",
+      "explanation": "Option D naturally captures the parallel structure of increasing actions and increasing emotional response. Option A is awkward ('proportionally'); B loses the comparative escalation; C has clumsy word order and doesn't parallel the original structure."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "Attacks on education globally have surged by 40%, with incidents reported across 83 countries, including high incidences in conflict zones such as Colombia, the Democratic Republic of the Congo, Ethiopia, Haiti, Palestine and Ukraine.",
+      "question": "Rewrite this sentence in your own words, capturing its essential meaning.",
+      "options": null,
+      "answer": null,
+      "explanation": "This sentence should convey: (1) a dramatic recent increase in violence targeting education worldwide; (2) geographic scope across multiple continents; (3) concentration in specific regions experiencing armed conflict or instability. Acceptable paraphrases should mention the percentage increase, the number of countries affected, and identify regions as conflict-affected.",
+      "paraphrase_keywords": [
+        "dramatic increase",
+        "attacks on education",
+        "global scale",
+        "conflict zones",
+        "80+ countries"
+      ]
+    }
+  ]
+}
