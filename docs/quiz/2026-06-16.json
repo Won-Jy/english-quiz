@@ -1,0 +1,218 @@
+{
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T22:56:14.965339",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The Widad Kawar Collection comprises nearly 600 textiles that _____ to daily life across the Levant region.",
+      "question": "Which word best completes the sentence?",
+      "options": [
+        "A. testify",
+        "B. attest",
+        "C. corroborate",
+        "D. validate"
+      ],
+      "answer": "B",
+      "explanation": "While all options mean 'provide evidence for,' 'attest' is the correct word used in the original academic text and is the most idiomatic choice when discussing artifacts serving as evidence of historical practices. 'Testify' typically refers to spoken testimony; 'corroborate' means confirm existing evidence; 'validate' emphasizes legitimacy rather than evidential witness."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The foundation's decision to _____ $4.5 million to visual arts organizations demonstrates unprecedented commitment to the climate initiative.",
+      "question": "Which word best completes the sentence?",
+      "options": [
+        "A. allocate",
+        "B. disburse",
+        "C. dispense",
+        "D. apportion"
+      ],
+      "answer": "B",
+      "explanation": "'Disburse' is the most precise term for distributing funds in large grant cycles; it appears in formal financial and philanthropic contexts. 'Allocate' is slightly too general; 'dispense' suggests smaller, individual distributions; 'apportion' implies dividing something already assigned rather than the act of distributing."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The strange new rocks of the Anthropocene _____ the traditional boundaries between natural and artificial geological formations.",
+      "question": "Which word best completes the sentence?",
+      "options": [
+        "A. transgress",
+        "B. infringe",
+        "C. violate",
+        "D. contravene"
+      ],
+      "answer": "A",
+      "explanation": "'Transgress' is the most elegant and precise choice for crossing or exceeding conceptual boundaries in academic discourse. 'Infringe' and 'violate' imply breaking rules with legal/formal consequences; 'contravene' emphasizes opposition to established law rather than boundary-crossing."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The _____ of feral peacocks in suburban Arcadia has created conflict between residents who view them as either wildlife to be embraced or pests to be controlled.",
+      "question": "Which word best completes the sentence?",
+      "options": [
+        "A. proliferation",
+        "B. abundance",
+        "C. prevalence",
+        "D. infestation"
+      ],
+      "answer": "C",
+      "explanation": "'Prevalence' most neutrally describes the widespread presence of the peacocks while acknowledging different community perspectives. 'Proliferation' suggests rapid, unchecked growth; 'infestation' carries negative connotation inappropriate for neutral academic reporting; 'abundance' lacks the sense of extent across a region."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Attacks on education have _____ by 40%, with incidents recorded across 83 countries, representing a critical humanitarian concern.",
+      "question": "Which word best completes the sentence?",
+      "options": [
+        "A. escalated",
+        "B. surged",
+        "C. mounted",
+        "D. intensified"
+      ],
+      "answer": "B",
+      "explanation": "'Surged' appears in the original source text and is the most forceful verb conveying sudden, dramatic increase in a short timeframe. 'Escalated' suggests gradual progression; 'mounted' is less dynamic; 'intensified' implies growing severity rather than increasing frequency/quantity."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_____ over 70 albums in his prolific career, Abdullah Ibrahim became one of South Africa's most celebrated jazz musicians.",
+      "question": "Which participle clause correctly completes the sentence?",
+      "options": [
+        "A. Having recorded",
+        "B. Recording",
+        "C. Having been recorded",
+        "D. Being recorded"
+      ],
+      "answer": "A",
+      "explanation": "'Having recorded' is a perfect participle clause showing that Ibrahim's recording activity occurred before his recognition as celebrated. 'Recording' alone suggests simultaneous action; 'having been recorded' incorrectly uses passive voice; 'being recorded' is progressive passive and contextually wrong."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "She asked whether the documents _____. The original statement was: 'The documents have been signed by all relevant parties.'",
+      "question": "Which reported speech form correctly completes the sentence?",
+      "options": [
+        "A. had been signed by all relevant parties",
+        "B. have been signed by all relevant parties",
+        "C. were signed by all relevant parties",
+        "D. would be signed by all relevant parties"
+      ],
+      "answer": "A",
+      "explanation": "When reporting a statement with 'have been signed' (present perfect), backshift requires 'had been signed' (past perfect) because the reporting verb 'asked' is in past tense. 'Have been signed' violates the backshift rule; 'were signed' is wrong tense sequence; 'would be signed' suggests future/conditionality not in the original."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "If the foundation _____ more resources to emerging artists, the climate initiative could _____ significantly more organizations.",
+      "question": "Which conditional forms correctly complete the sentence?",
+      "options": [
+        "A. allocated / could support",
+        "B. would allocate / could support",
+        "C. allocates / will support",
+        "D. had allocated / could have supported"
+      ],
+      "answer": "A",
+      "explanation": "This is a second conditional (hypothetical present situation), requiring: 'if' + past tense ('allocated') + 'could/would' + base verb ('support'). Option B uses would in the if-clause (error); option C is first conditional (likely future); option D is third conditional (past impossibility)."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "He stopped _____ his work midway because he realized a fundamental error. This contrasts with: 'He stopped to _____ his supervisor about the error.'",
+      "question": "Which gerund/infinitive forms show the correct difference in meaning?",
+      "options": [
+        "A. doing / inform",
+        "B. to do / inform",
+        "C. doing / to inform",
+        "D. do / informing"
+      ],
+      "answer": "C",
+      "explanation": "'Stop + gerund' means to cease an ongoing action; 'stop + infinitive' means to pause in order to do something. Only option C preserves this semantic distinction. Options A and B fail to show the difference in meaning; option D uses incorrect verb forms entirely."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The foundation, _____ announced the latest grants on Tuesday, represents the largest funding cycle to date. Compare: The foundation _____ announced the latest grants represents the organization's commitment to climate action.",
+      "question": "Which relative clause correctly completes both sentences (with appropriate commas)?",
+      "options": [
+        "A. which has / that has",
+        "B. which / that",
+        "C. that has / which",
+        "D. whose / of which"
+      ],
+      "answer": "A",
+      "explanation": "The first sentence requires a non-defining relative clause (with commas, using 'which') because 'the foundation' is already specific; the second is a defining clause (no commas, using 'that') because it identifies which foundation. Option A correctly matches both: 'which' for non-defining + 'that' for defining, both with the verb form 'has announced.'"
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The manager explained that the project deadline could not be moved, and she expected everyone to understand the reasoning.",
+      "question": "Which expression is most natural in everyday professional communication?",
+      "options": [
+        "A. The manager elucidated the immovability of the project deadline.",
+        "B. The manager made it clear that the deadline was non-negotiable.",
+        "C. The manager demonstrated the irrevocable nature of the deadline.",
+        "D. The manager articulated the fixity of the temporal constraint."
+      ],
+      "answer": "B",
+      "explanation": "'Make it clear that X is non-negotiable' is the most natural, direct, and commonly used phrase in professional settings. Options A, C, and D are overly formal, awkward, or use unnecessarily complex vocabulary for a straightforward workplace communication."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "I found it difficult to concentrate because there was too much noise in the office.",
+      "question": "Which expression is most natural in everyday speech?",
+      "options": [
+        "A. The acoustic environment compromised my cognitive capacity.",
+        "B. Auditory disturbances impeded my attentional resources.",
+        "C. I couldn't focus with all the noise going on.",
+        "D. The office cacophony rendered concentration impossible."
+      ],
+      "answer": "C",
+      "explanation": "'Couldn't focus with all the noise going on' uses simple, conversational vocabulary and structure typical of everyday speech. Options A and B use needlessly technical language; option D, though vivid, is too literary and exaggerated for casual conversation."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "After working for three weeks without finding the error in his approach, he finally realized the mistake.",
+      "question": "Which expression is most natural in everyday narrative?",
+      "options": [
+        "A. Post a triweekly labor investment, the methodological flaw materialized in his consciousness.",
+        "B. He'd been at it for three weeks before it finally clicked that something was wrong with his approach.",
+        "C. Following three hebdomadal periods of labor, the fundamental conceptual inadequacy became manifest.",
+        "D. The protracted investigative phase ultimately yielded recognition of procedural insufficiency."
+      ],
+      "answer": "B",
+      "explanation": "'He'd been at it for three weeks before it finally clicked that something was wrong' is natural, conversational, and uses simple vocabulary and contractions typical of everyday storytelling. The other options are either pedantic, overly technical, or artificially formal."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "The Widad Kawar Collection, comprising nearly 600 textiles, accessories, garments and other objects that attest to daily life across the Levant region and West Asia, has now found a home at the Royal Ontario Museum in Toronto, Canada.",
+      "question": "Paraphrase this sentence in your own words, capturing its core meaning.",
+      "options": null,
+      "answer": null,
+      "explanation": "A strong paraphrase should convey: (1) the collection's composition (artifacts related to daily life), (2) its geographic scope (Levant/West Asia), (3) its size (600+ items), and (4) its new institutional location (ROM Toronto). Acceptable paraphrases might begin: 'The ROM in Toronto now houses a major collection of 600+ cultural artifacts assembled by Widad Kawar, documenting everyday life in the Levant and West Asia.' Ensure you mention the collection's size, contents, origin, and destination.",
+      "paraphrase_keywords": [
+        "600 artifacts",
+        "daily life evidence",
+        "Levant and West Asia",
+        "ROM Toronto",
+        "Widad Kawar collection"
+      ]
+    }
+  ]
+}
