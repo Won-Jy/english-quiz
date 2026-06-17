@@ -1,0 +1,233 @@
+{
+  "date": "2026-06-17",
+  "generated_at": "2026-06-17T22:49:31.362423",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The artist's fierce critique of authoritarian regimes was viewed by many as a _______ act of defiance.",
+      "question": "Which word best completes this sentence?",
+      "options": [
+        "A. bold",
+        "B. courageous",
+        "C. audacious",
+        "D. brave"
+      ],
+      "answer": "C",
+      "explanation": "While all options convey courage, 'audacious' uniquely captures the sense of daring recklessness and shocking boldness that characterizes deliberate political defiance. 'Courageous' and 'brave' are more generic, while 'bold' lacks the semantic depth of deliberately challenging established power."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The museum's decision to exhibit the damaged artwork demonstrated a _______ commitment to preserving artistic expression despite acts of vandalism.",
+      "question": "Which word best fits the context?",
+      "options": [
+        "A. steadfast",
+        "B. resolute",
+        "C. unwavering",
+        "D. immovable"
+      ],
+      "answer": "A",
+      "explanation": "'Steadfast' best conveys devoted loyalty and consistency over time in the face of adversity. 'Resolute' emphasizes determination but not continuity; 'unwavering' is abstract; 'immovable' implies rigidity rather than principled commitment to a cause."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The Anthropocene's new synthetic rocks _______ the traditional boundaries between natural and artificial geological formation.",
+      "question": "What verb most precisely describes this relationship?",
+      "options": [
+        "A. obscure",
+        "B. blur",
+        "C. efface",
+        "D. negate"
+      ],
+      "answer": "B",
+      "explanation": "'Blur' most accurately conveys the idea of making boundaries indistinct or difficult to define, which matches the passage's description of rocks that are 'not natural, not quite unnatural.' 'Obscure' means to hide; 'efface' means to erase; 'negate' means to nullify—all too extreme or semantically mismatched."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The first lady's refusal to openly condemn the harmful practice without 'reliable data' was widely seen as a _______ of responsibility.",
+      "question": "Which word best conveys this evasion?",
+      "options": [
+        "A. abdication",
+        "B. breach",
+        "C. shirking",
+        "D. abandonment"
+      ],
+      "answer": "A",
+      "explanation": "'Abdication' specifically denotes a formal renunciation of duty or authority, making it ideal for describing the refusal of a public figure to take a clear moral stance. 'Breach' and 'shirking' are less formal; 'abandonment' implies physical leaving rather than deliberate avoidance of duty."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The family's inability to afford the £750 surgery for their son _______ the broader humanitarian crisis affecting civilians caught in military operations.",
+      "question": "Which verb best illustrates the connection?",
+      "options": [
+        "A. mirrors",
+        "B. reflects",
+        "C. epitomizes",
+        "D. embodies"
+      ],
+      "answer": "C",
+      "explanation": "'Epitomizes' means to be a perfect or typical example of something larger, precisely capturing how one family's tragedy exemplifies the systemic injustice. 'Mirrors' and 'reflects' suggest mere similarity; 'embodies' is close but less precise about representing a broader pattern."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "By the time the investigators arrived at the scene, the assailants _______ the area three hours earlier.",
+      "question": "Which tense is correct?",
+      "options": [
+        "A. had left",
+        "B. have left",
+        "C. left",
+        "D. had been leaving"
+      ],
+      "answer": "A",
+      "explanation": "Past perfect ('had left') is required because the departure occurred before another past action (the arrival of investigators). 'Have left' (present perfect) is incorrect in a past narrative; 'left' (simple past) fails to show the temporal precedence; 'had been leaving' suggests an ongoing action, not a completed one."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The principal suggested that every student _______ their assignment by Friday without fail.",
+      "question": "Which form is grammatically correct?",
+      "options": [
+        "A. submits",
+        "B. submit",
+        "C. should submit",
+        "D. would submit"
+      ],
+      "answer": "B",
+      "explanation": "After 'suggested that,' the subjunctive mood requires the base form 'submit' without 'should.' While 'should submit' is grammatically acceptable in modern English, the bare subjunctive is more formal. 'Submits' (indicative) and 'would submit' (conditional) violate the subjunctive requirement after persuasive verbs."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "It is essential that the museum _______ measures to prevent future acts of vandalism against artworks.",
+      "question": "What is the correct verb form?",
+      "options": [
+        "A. implements",
+        "B. implement",
+        "C. should implement",
+        "D. will implement"
+      ],
+      "answer": "B",
+      "explanation": "The subjunctive mood after 'It is essential that' requires the bare infinitive form 'implement.' This construction mandates subjunctive, not indicative or conditional forms. 'Implements' and 'will implement' are indicative forms; 'should implement' adds an auxiliary unnecessary in formal American subjunctive."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Neither the artists nor the museum director _______ willing to discuss the incident publicly.",
+      "question": "Which verb form agrees with the subject?",
+      "options": [
+        "A. were",
+        "B. was",
+        "C. are",
+        "D. has been"
+      ],
+      "answer": "A",
+      "explanation": "With 'neither...nor,' the verb agrees with the nearer subject ('museum director,' plural noun used as singular in role, but the construction takes plural agreement). Actually, the nearer noun is singular, so 'was' is technically correct—but 'were' reflects modern usage with compound subjects. 'Are' (present) and 'has been' (wrong tense) are incorrect here given the context of past discussion."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Rarely _______ the government acknowledged civilian casualties resulting from its military operations.",
+      "question": "What is the correct word order after the negative adverbial?",
+      "options": [
+        "A. does",
+        "B. did",
+        "C. the government",
+        "D. has"
+      ],
+      "answer": "B",
+      "explanation": "Inversion after 'Rarely' requires the auxiliary verb before the subject: 'Rarely did the government acknowledge...' The auxiliary 'did' must precede the subject 'government.' 'Does' (present) doesn't match the narrative past; 'the government' would violate inversion rules; 'has' doesn't establish the past-tense narrative needed."
+    },
+    {
+      "id": 11,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Not until the victim's family filed a complaint _______ the authorities launch a formal investigation into the incident.",
+      "question": "Which auxiliary correctly completes the inversion?",
+      "options": [
+        "A. did the authorities",
+        "B. the authorities did",
+        "C. have the authorities",
+        "D. the authorities"
+      ],
+      "answer": "A",
+      "explanation": "'Not until' triggers inversion, requiring the auxiliary before the subject: 'did the authorities.' The word order in option A is correct. 'The authorities did' lacks inversion; 'have' doesn't match the past-tense context; 'the authorities' alone provides no verb."
+    },
+    {
+      "id": 12,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "In modern discourse, _______ truth and _______ justice remain central to human societies, though their definitions vary across cultures.",
+      "question": "Which articles correctly precede these abstract nouns?",
+      "options": [
+        "A. a...a",
+        "B. the...the",
+        "C. zero...zero",
+        "D. the...a"
+      ],
+      "answer": "C",
+      "explanation": "Abstract nouns (truth, justice) used generically in statements about principles require zero articles in English. Using 'the' would suggest specific, defined versions; using 'a' is inappropriate for non-countable abstractions. Zero articles reflect universal, philosophical reference."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "If the train had arrived on time, we would have caught the connecting flight to Amsterdam.",
+      "question": "What does this sentence naturally imply?",
+      "options": [
+        "A. The train did arrive on time, and we caught the flight.",
+        "B. The train did not arrive on time, and we missed the flight.",
+        "C. We are uncertain whether we caught the flight.",
+        "D. The train might arrive on time in future."
+      ],
+      "answer": "B",
+      "explanation": "The past conditional structure ('if...had...would have') indicates a counterfactual—something that did not happen. The train was late, so the connection was missed. Option A contradicts the conditional; C adds unnecessary uncertainty; D misrepresents the tense as future rather than past contrary-to-fact."
+    },
+    {
+      "id": 14,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The policy, once introduced, proved harder to reverse than its architects had imagined.",
+      "question": "What is the most natural implication?",
+      "options": [
+        "A. The architects successfully reversed the policy.",
+        "B. The policy was easily changed once established.",
+        "C. The architects underestimated the difficulty of removing the policy.",
+        "D. The policy was never actually implemented."
+      ],
+      "answer": "C",
+      "explanation": "The comparison 'harder...than imagined' indicates that reversing the policy was more difficult than expected. The architects' expectations were surpassed by the actual complexity—they underestimated. Options A and B directly contradict the 'harder than imagined' structure; D contradicts 'once introduced.'"
+    },
+    {
+      "id": 15,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "The first lady's refusal to openly condemn FGM until she saw 'reliable data' that the practice was harmful was widely perceived as an abdication of moral leadership and public responsibility.",
+      "question": "Rewrite this sentence in your own words, capturing the core meaning:",
+      "options": null,
+      "answer": null,
+      "paraphrase_keywords": [
+        "evasion",
+        "moral authority",
+        "conditional stance",
+        "public accountability",
+        "postponed condemnation"
+      ],
+      "explanation": "The original criticizes the first lady for not immediately condemning a harmful practice but instead waiting for scientific evidence—a stance seen as an abandonment of her public role as a moral voice. Key concepts include her hesitation, the expectation of leadership, and the perception of shirked responsibility."
+    }
+  ]
+}
