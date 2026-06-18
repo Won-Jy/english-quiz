@@ -1,0 +1,217 @@
+{
+  "date": "2026-06-18",
+  "generated_at": "2026-06-18T22:59:59.667114",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The historic structure, which has been closed since 2018, will be repurposed for semi-permanent, site-specific commissions.",
+      "question": "In this context, 'repurposed' most nearly means:",
+      "options": [
+        "A. Adapted for a new use or function",
+        "B. Restored to its original condition",
+        "C. Moved to a different geographic location",
+        "D. Divided into smaller units"
+      ],
+      "answer": "A",
+      "explanation": "Repurposed means to give something a new purpose or use. Option B (restored) would refer to returning it to how it was; option C (moved) misses the meaning entirely; option D (divided) is unrelated. The sentence emphasizes that the building will serve a new function—hosting site-specific commissions—rather than its previous use."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "A New York Supreme Court judge gave billionaire dealer David Nahmad thirty days to return Amedeo Modigliani's 1918 painting to the family of Jewish antiques dealer Oscar Stettiner, who left it in his Paris shop as he fled the Nazis during World War II.",
+      "question": "The phrase 'as he fled the Nazis' indicates:",
+      "options": [
+        "A. A temporal relationship showing when the painting was left behind",
+        "B. A causal explanation for why he abandoned his business",
+        "C. A subordinate clause expressing a reason for the ruling",
+        "D. An adverbial phrase of manner describing his departure"
+      ],
+      "answer": "A",
+      "explanation": "The word 'as' here functions as a temporal conjunction meaning 'at the same time that' or 'during the period when.' Option B conflates explanation with temporal meaning; option C incorrectly identifies the clause's relationship to the ruling; option D focuses on manner, but the clause describes timing rather than how he fled. The phrase clarifies when Stettiner left the painting in his shop."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Strong resistance to AI among writers is understandable. But it obscures what we share with the machines: language itself.",
+      "question": "The word 'obscures' in this passage most closely means:",
+      "options": [
+        "A. Makes unclear or hidden",
+        "B. Criticizes harshly",
+        "C. Prevents from being discussed",
+        "D. Reduces in quantity"
+      ],
+      "answer": "A",
+      "explanation": "Obscures means to make something difficult to see or understand; it clouds perception of the underlying truth. Option B (criticizes) doesn't capture the meaning; option C (prevents discussion) is too restrictive; option D (reduces quantity) is incorrect. The author argues that resistance to AI obscures—hides or conceals from view—the shared element of language between humans and machines."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Barbados's prime minister, Mia Mottley, has announced a new manifesto from Caribbean leaders asserting the 'moral, ethical and legal case' for reparations over damage caused by hundreds of years of enslavement.",
+      "question": "In this context, 'asserting' most nearly means:",
+      "options": [
+        "A. Stating or declaring firmly and with confidence",
+        "B. Disputing or challenging a claim",
+        "C. Gradually building support through debate",
+        "D. Requiring compliance from all nations"
+      ],
+      "answer": "A",
+      "explanation": "Asserting means to state or declare something firmly and confidently, often with emphasis. Option B (disputing) is the opposite; option C (gradually building through debate) suggests a process rather than a declaration; option D (requiring compliance) misinterprets the action. The leaders are confidently putting forth their argument for reparations in the manifesto."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The ruling is the latest twist in a complex legal dispute over stolen art.",
+      "question": "The phrase 'latest twist' suggests:",
+      "options": [
+        "A. An unexpected development or surprising turn of events",
+        "B. The most recent conclusion of a matter",
+        "C. A final judgment by the court",
+        "D. A rotation or physical change in the artwork"
+      ],
+      "answer": "A",
+      "explanation": "A 'twist' in narrative or legal contexts refers to an unexpected turn or development that complicates the situation. Option B (conclusion) and C (final judgment) suggest finality, but 'latest' and the word 'ruling' indicate ongoing complexity; option D (physical rotation) is a literal misinterpretation. The phrase indicates a new, surprising development in an already complex case."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "If the museum had known the painting's provenance earlier, it would have rejected the donation immediately.",
+      "question": "Which sentence demonstrates the same grammatical structure (third conditional)?",
+      "options": [
+        "A. If the museum knows the painting's provenance, it will reject the donation.",
+        "B. If the museum knew the painting's provenance, it would reject the donation.",
+        "C. Had the museum known the painting's provenance, it would have rejected the donation.",
+        "D. If the museum should know the painting's provenance, it would reject the donation."
+      ],
+      "answer": "C",
+      "explanation": "The third conditional uses 'had + past participle' (inverted form) or 'if + had + past participle' to express an unreal past situation. Option A uses present/future (first conditional); option B uses present unreal (second conditional); option D uses an inappropriate modal 'should' without proper third conditional form. Option C is the inverted form of the third conditional, expressing the same meaning as the given sentence."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Rarely had the auction house encountered such significant resistance from repatriation advocates.",
+      "question": "What grammatical principle is demonstrated by the word order in this sentence?",
+      "options": [
+        "A. Inversion after a negative adverbial at the beginning of the clause",
+        "B. Normal subject-verb word order with an adverbial modifier",
+        "C. A participle clause expressing simultaneous action",
+        "D. A concessive clause introduced by a subordinating conjunction"
+      ],
+      "answer": "A",
+      "explanation": "When negative or restrictive adverbials like 'Rarely,' 'Hardly,' 'Never,' or 'Not until' begin a clause, the subject and auxiliary verb invert. Normal order would be 'The auction house had rarely encountered.' Option B ignores the inversion; option C refers to participle clauses, which are not present here; option D misidentifies the grammatical structure. This inversion emphasizes the rarity of the event."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The director suggests that the committee reconsider its timeline and provide additional documentation.",
+      "question": "The verb 'reconsider' in this sentence is in which mood?",
+      "options": [
+        "A. Indicative mood, expressing a factual statement",
+        "B. Subjunctive mood, expressing a demand or recommendation",
+        "C. Conditional mood, expressing a hypothetical scenario",
+        "D. Imperative mood, giving a direct command to the committee"
+      ],
+      "answer": "B",
+      "explanation": "After verbs like 'suggest,' 'insist,' 'require,' and 'recommend,' English uses the subjunctive mood with the base form of the verb (without -s ending). Option A (indicative) describes factual statements; option C (conditional) involves would/could/might; option D (imperative) would be a direct command without 'suggest that.' The subjunctive here expresses the director's recommendation or requirement."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "You needn't have contacted the lawyers; the issue had already been resolved before your call.",
+      "question": "What does 'needn't have contacted' indicate about the speaker's judgment?",
+      "options": [
+        "A. The action was necessary and was completed",
+        "B. The action was unnecessary, but it was performed anyway",
+        "C. The action will not be necessary in the future",
+        "D. The action must not be performed under any circumstances"
+      ],
+      "answer": "B",
+      "explanation": "Needn't have + past participle means the action was not necessary but was done anyway. It indicates the speaker judges a completed past action as unnecessary. Option A (was necessary) contradicts the negation; option C refers to future obligation; option D (prohibition) would use 'mustn't have.' This modal construction criticizes or comments on the unnecessary nature of a past action."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Having reviewed all available documentation, the provenance committee determined that the artwork could be safely deaccessioned.",
+      "question": "The phrase 'Having reviewed all available documentation' functions as:",
+      "options": [
+        "A. A reduced relative clause equivalent to 'which had reviewed'",
+        "B. A participial phrase showing a completed action before the main clause action",
+        "C. A conditional clause expressing an unreal scenario",
+        "D. A gerund phrase functioning as the subject of the sentence"
+      ],
+      "answer": "B",
+      "explanation": "A participial phrase with 'having + past participle' (perfect participle) indicates an action completed before the action in the main clause. This structure is more economical than a full clause. Option A confuses it with a relative clause; option C is conditional in nature, not temporal; option D (gerund) functions as a noun, not as an introductory modifier. The phrase shows the sequence of events: reviewing happened first, then determining."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Despite the rain, she decided to walk to the market rather than take the bus.",
+      "question": "Which expression could best replace 'despite the rain' while maintaining the same meaning?",
+      "options": [
+        "A. Because of the rain",
+        "B. In spite of the rain",
+        "C. As a result of the rain",
+        "D. Due to the rain"
+      ],
+      "answer": "B",
+      "explanation": "'Despite' and 'in spite of' are synonymous prepositions expressing contrast or concession. Option A and D (because of, due to) indicate causation, suggesting the rain caused her decision; option C (as a result of) similarly implies the rain motivated her action. Option B preserves the contrast: she walked despite the rain being an obstacle, not because of it."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "He would have applied for the position had he known about it earlier.",
+      "question": "Which sentence conveys the same information in a more natural spoken English register?",
+      "options": [
+        "A. He would apply for the position if he knows about it earlier.",
+        "B. If he knew about it earlier, he would have applied for the position.",
+        "C. He could have applied for the position if he had known earlier.",
+        "D. He applied for the position because he had known about it."
+      ],
+      "answer": "C",
+      "explanation": "Option B uses the same grammatical structure but with inverted word order; while grammatical, it sounds more formal. Option C maintains the third conditional meaning with 'could have' (a natural variant of 'would have') and clearer chronology, making it more conversational. Option A uses incorrect conditional forms (present tense when past is needed); option D changes the meaning entirely to indicative. Option C preserves meaning while sounding more naturally spoken."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The committee, which had been meeting every Tuesday, finally reached a consensus on the proposed changes.",
+      "question": "Which alternative best captures the essential information in the most concise way?",
+      "options": [
+        "A. The committee reached a consensus on the proposed changes after many Tuesday meetings.",
+        "B. Having met every Tuesday, the committee reached a consensus on the proposed changes.",
+        "C. The committee, meeting every Tuesday until finally reaching consensus, considered the proposed changes.",
+        "D. The committee reached a consensus on the proposed changes; they had been meeting every Tuesday."
+      ],
+      "answer": "B",
+      "explanation": "Option B uses a participial phrase ('Having met every Tuesday') to convey the duration of meetings concisely while maintaining the emphasis on the final consensus. Option A is wordy and less direct; option C buries the main point in the middle; option D uses a semicolon creating equal emphasis on both clauses when the consensus is primary. Option B is the most economical and natural while preserving essential information."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "The ruling is the latest twist in a complex legal dispute over stolen art that has persisted for decades.",
+      "question": "Rewrite this sentence in your own words, capturing its core meaning.",
+      "options": null,
+      "answer": null,
+      "explanation": "This sentence should be rewritten to show understanding of: (1) the recent court decision, (2) the ongoing nature of the dispute, (3) the unexpected development, and (4) the central issue of looted artwork. A strong paraphrase might read: 'This court decision represents another unexpected development in a years-long legal battle concerning art that was stolen.' Key concepts include the recency of the ruling, its surprising nature, the longstanding conflict, and the subject matter of disputed artwork.",
+      "paraphrase_keywords": [
+        "court decision",
+        "unexpected development",
+        "longstanding dispute",
+        "stolen artwork"
+      ]
+    }
+  ]
+}
