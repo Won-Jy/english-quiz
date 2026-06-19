@@ -1,0 +1,218 @@
+{
+  "date": "2026-06-19",
+  "generated_at": "2026-06-19T22:11:23.667781",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The historic structure, which has been closed since 2018, will be repurposed for semi-permanent, site-specific commissions.",
+      "question": "In this context, 'repurposed' most closely means:",
+      "options": [
+        "A. Deliberately damaged or altered",
+        "B. Assigned a new function or use",
+        "C. Temporarily sheltered or protected",
+        "D. Officially documented or registered"
+      ],
+      "answer": "B",
+      "explanation": "Repurposed means to give something a new purpose or function different from its original one. Option A suggests damage, C suggests temporary protection, and D suggests documentation—all incorrect interpretations of how the Fresco Building will transition to hosting commissions."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The ruling is the latest twist in a dispute over the provenance and rightful ownership of the artwork.",
+      "question": "The word 'provenance' in art historical contexts refers to:",
+      "options": [
+        "A. The artistic style and technique used in creation",
+        "B. The documented history of ownership and origin",
+        "C. The estimated monetary value at auction",
+        "D. The geographic location where it is displayed"
+      ],
+      "answer": "B",
+      "explanation": "Provenance is a critical art historical term meaning the documented chain of ownership and origin of an artwork. Option A confuses it with artistic method, C with valuation, and D with current location—none of which constitute provenance."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "From a broken life to a broken nail, 'trauma' has been bleached by overuse.",
+      "question": "To say that a word has been 'bleached by overuse' suggests that:",
+      "options": [
+        "A. Its meaning has been diluted or weakened through excessive use",
+        "B. Its spelling has been corrected or standardized",
+        "C. Its emotional impact has been intensified dramatically",
+        "D. Its linguistic origins have been obscured or forgotten"
+      ],
+      "answer": "A",
+      "explanation": "Bleached metaphorically describes how overuse drains a word of its original potency and meaning—it becomes faded or diluted. Option C is the opposite effect, B refers to spelling, and D to etymology, not the impact of overuse."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "A global framework for reparatory justice has been adopted at a conference in Ghana.",
+      "question": "The term 'reparatory' in this context means:",
+      "options": [
+        "A. Relating to the repair of diplomatic relations",
+        "B. Designed to make amends or restore justice for past wrongs",
+        "C. Temporary in nature and subject to review",
+        "D. Exclusively focused on financial compensation"
+      ],
+      "answer": "B",
+      "explanation": "Reparatory justice refers to measures intended to remedy historical injustices and make amends. Option A refers to diplomacy, C to permanence, and D wrongly narrows it to financial compensation alone, when reparatory frameworks include multiple forms of redress."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The continued Ebola outbreak in the DRC comes as Canada, Mexico and the US jointly host the Fifa World Cup, attracting visitors from around the world.",
+      "question": "In epidemiological reporting, to describe a health threat as one that 'required immediate support' emphasizes:",
+      "options": [
+        "A. The emotional distress of affected populations",
+        "B. The urgent need for coordinated intervention and resources",
+        "C. The likelihood of pandemic spread within days",
+        "D. The failure of previous containment strategies"
+      ],
+      "answer": "B",
+      "explanation": "This phrasing stresses the urgent requirement for intervention and allocation of resources. Option A conflates emotional impact with urgency, C makes an unfounded prediction, and D assigns blame rather than describing the need for action."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Hardly had the curator announced the new commission when media inquiries began flooding in.",
+      "question": "Which of the following best demonstrates the same grammar pattern (inversion after negative adverbial)?",
+      "options": [
+        "A. The curator hardly announced the new commission when inquiries began.",
+        "B. Not until the curator announced the commission did inquiries begin flooding in.",
+        "C. When the curator announced the commission, inquiries began flooding in.",
+        "D. The inquiries began flooding in after the curator announced the commission."
+      ],
+      "answer": "B",
+      "explanation": "Both the original and option B use inversion of subject and auxiliary verb after a negative adverbial phrase (Hardly, Not until), creating emphasis. Option A removes inversion, C and D use normal word order, losing the emphatic effect."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The Menil Collection's reopening will focus on commissioning artworks that engage with contemporary philosophical questions.",
+      "question": "Choose the sentence that correctly uses articles with abstract nouns in a similar context:",
+      "options": [
+        "A. The philosophy and art are both forms of human expression.",
+        "B. Philosophy and art are both forms of human expression.",
+        "C. A philosophy and a art are both forms of human expression.",
+        "D. The philosophies and the arts are both forms of human expression."
+      ],
+      "answer": "B",
+      "explanation": "With abstract nouns like philosophy and art used generically, zero article (no article) is correct. Option A incorrectly uses the definite article, C uses 'a' instead of 'an' and incorrectly articles with abstract nouns, and D uses plural forms with definite articles, which is less natural for generic reference."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "If the painting had been authenticated before the legal dispute arose, its restitution would have proceeded without delay.",
+      "question": "Which sentence correctly uses the third conditional and maintains the same meaning?",
+      "options": [
+        "A. Had the painting been authenticated before the dispute arose, its restitution would have proceeded without delay.",
+        "B. If the painting would have been authenticated, its restitution would have been without delay.",
+        "C. Had the painting been authenticated, its restitution would proceed without delay.",
+        "D. If the painting was authenticated before the dispute, restitution would have been without delay."
+      ],
+      "answer": "A",
+      "explanation": "Option A correctly uses third conditional inversion (Had + past participle instead of If + had), maintaining parallel structure and meaning. Option B uses incorrect double modality (would have), C mixes tenses incorrectly (would proceed instead of would have proceeded), and D uses simple past, breaking the conditional mood."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The dealer regretted accepting the disputed artwork without verifying its provenance beforehand.",
+      "question": "In the sentence, 'regretted accepting' shows a change of meaning compared to which alternative?",
+      "options": [
+        "A. The dealer regretted to accept the disputed artwork without verifying its provenance.",
+        "B. The dealer regretted that he had accepted the disputed artwork without verifying provenance.",
+        "C. The dealer regretted having accepted the disputed artwork without verifying its provenance.",
+        "D. The dealer's regret was accepting the disputed artwork without verification of provenance."
+      ],
+      "answer": "A",
+      "explanation": "Regret + gerund (accepting) describes past action and its ongoing regret; regret + infinitive (to accept) would express a futile wish to do something at that moment. Option B changes to a that-clause, C maintains the gerund meaning, and D restructures the sentence without changing the core meaning."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The museum had the disputed painting examined by a team of conservators to determine its authenticity.",
+      "question": "Which sentence uses causative 'have/get' with passive voice correctly in a similar context?",
+      "options": [
+        "A. The museum got the disputed painting examined by a team of conservators to determine its authenticity.",
+        "B. The museum had examined the disputed painting by a team of conservators to determine authenticity.",
+        "C. The museum got to examine the disputed painting by conservators for authenticity determination.",
+        "D. The museum had the disputed painting being examined by conservators to determine authenticity."
+      ],
+      "answer": "A",
+      "explanation": "Both the original and option A correctly use causative constructions (have/get + object + past participle), with 'get' being a slightly more casual variant. Option B omits the passive structure, C changes the meaning to ability, and D uses the continuous form, which is awkward with causative have."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "She asked whether the documents had been signed by all the relevant parties.",
+      "question": "Which rephrasing maintains the most natural and formal tone?",
+      "options": [
+        "A. She inquired if the documents were signed by the relevant parties.",
+        "B. She asked if all the documents had been signed by each of the relevant parties.",
+        "C. She wanted to know whether the documents had all been signed by the relevant parties.",
+        "D. She was asking whether all relevant parties had signed the documents."
+      ],
+      "answer": "C",
+      "explanation": "Option C preserves the formal tone, passive voice, and the completed action aspect (past perfect) while remaining natural. Option A loses the passive emphasis, B is slightly awkward with 'each of,' and D shifts to active voice, altering the formal register."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The proposal was rejected not on its merits but on procedural grounds.",
+      "question": "Which expression best conveys this contrast in everyday professional speech?",
+      "options": [
+        "A. The proposal wasn't rejected because it was bad; it was rejected because of procedure.",
+        "B. The proposal was rejected for reasons of procedure rather than because it lacked merit.",
+        "C. They rejected the proposal, and the reason was procedural, not about how good it was.",
+        "D. It wasn't the proposal's quality that led to rejection, but procedural issues did."
+      ],
+      "answer": "B",
+      "explanation": "Option B captures the contrasting structure (rather than/not...but) and maintains professional register while preserving the logical distinction. Option A is overly casual, C uses awkward phrasing ('how good it was'), and D is somewhat stilted in its construction."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "If the train had arrived on time, we would have caught the connecting flight to Amsterdam.",
+      "question": "Which alternative expresses the same regret about a missed opportunity?",
+      "options": [
+        "A. The train's delay meant we couldn't catch the flight to Amsterdam.",
+        "B. We would have caught the flight if the train was on time.",
+        "C. Had the train not been delayed, we could have made the connection to Amsterdam.",
+        "D. The train was late, so we missed our flight to Amsterdam."
+      ],
+      "answer": "C",
+      "explanation": "Option C uses the third conditional inversion and maintains the counterfactual structure showing what might have happened. Option A uses simple past, losing the conditional sense; B uses wrong tense (was instead of had been), and D, while factually similar, uses simple past and lacks the hypothetical tone of regret."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "The historic structure, which has been closed since 2018, will be repurposed for semi-permanent, site-specific commissions.",
+      "question": "Rewrite this sentence in your own words, capturing its essential meaning. What are the key concepts?",
+      "options": null,
+      "answer": null,
+      "paraphrase_keywords": [
+        "building",
+        "reopened/reused",
+        "temporary exhibitions",
+        "tailored to location",
+        "after closure"
+      ],
+      "explanation": "A successful paraphrase should convey: (1) a historic building, (2) that has been closed, (3) will be given new use/function, (4) involving temporary artworks, (5) designed specifically for that space. Example: 'After closing for several years, the historic building will reopen with rotating art installations created specifically for its unique architectural context.'"
+    }
+  ]
+}
