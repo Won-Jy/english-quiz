@@ -1,0 +1,218 @@
+{
+  "date": "2026-06-22",
+  "generated_at": "2026-06-22T22:51:19.123680",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The National Trust for Historic Preservation nonprofit unanimously elected a new president, the organization announced on Monday.",
+      "question": "In the context of organizational leadership, what does 'unanimously elected' most precisely mean?",
+      "options": [
+        "A) Elected with complete agreement from all voting members",
+        "B) Elected by a simple majority of board members",
+        "C) Elected after extensive deliberation and compromise",
+        "D) Elected by the executive committee alone"
+      ],
+      "answer": "A",
+      "explanation": "Unanimously means with the agreement of all parties involved, without dissent. Option B describes a majority (not unanimous), C implies negotiation rather than full agreement, and D describes a limited selection process. The word signals exceptional consensus."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Police conducting what The Telegraph described as a 'routine narcotics raid' at a suburban Paris home discovered a painting by Pablo Picasso that had been stolen from its Singapore-based owner.",
+      "question": "Which word best captures the meaning of 'routine' as used in this sentence?",
+      "options": [
+        "A) Predictable and unremarkable in nature",
+        "B) Performed with mechanical precision",
+        "C) Following established procedures",
+        "D) Happening frequently and regularly"
+      ],
+      "answer": "A",
+      "explanation": "In this context, 'routine' suggests the raid was ordinary and unremarkable—the journalist's irony being that an extraordinary discovery (a stolen Picasso) occurred during what seemed like a standard operation. Option B focuses on manner rather than expectation, C on procedure, and D on frequency; none capture the sense of ordinariness that makes the discovery surprising."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Woven from memories of her childhood in Iran, an animator recalls her Granny's story of loss, love and friendship.",
+      "question": "The phrase 'woven from memories' suggests which primary quality of the narrative?",
+      "options": [
+        "A) That the story is intricately constructed from recollections",
+        "B) That the memories are fragmented and incomplete",
+        "C) That the animator is fabricating false accounts",
+        "D) That the narrative follows a chronological timeline strictly"
+      ],
+      "answer": "A",
+      "explanation": "'Woven' is a metaphor implying threads (memories) are carefully interlaced to create a unified whole, suggesting intricate construction and integration. Option B implies fragmentation contradicting the weaving metaphor, C suggests dishonesty not implied by the language, and D misses the artistic composition implied by 'woven.'"
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "A global framework for reparatory justice has been adopted at a conference in Ghana, as African and Caribbean leaders demanded formal apologies from countries that benefited from the transatlantic slave trade.",
+      "question": "In this context, 'reparatory justice' most closely refers to:",
+      "options": [
+        "A) Justice aimed at repairing harm and providing restitution for historical wrongs",
+        "B) Legal punishment of individual perpetrators of past crimes",
+        "C) The process of repairing damaged diplomatic relationships",
+        "D) Compensation paid only to direct victims of crime"
+      ],
+      "answer": "A",
+      "explanation": "'Reparatory' derives from 'repair' and 'reparation,' focusing on making amends and restoring justice through restitution. Option B implies criminal prosecution of individuals, C misses the historical and systemic focus, and D limits scope to direct victims, whereas the framework addresses collective historical injustice."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "For one day every June, South Africa's searing racial inequality seems to melt away at Comrades race.",
+      "question": "What does 'searing' convey about the nature of the racial inequality described?",
+      "options": [
+        "A) That it is intensely painful and deeply felt",
+        "B) That it is visually apparent in landscape features",
+        "C) That it is gradually disappearing over time",
+        "D) That it is primarily an economic rather than social problem"
+      ],
+      "answer": "A",
+      "explanation": "'Searing' is a metaphor from burning that conveys intense, acute pain and emotional force. Option B misapplies visual meaning, C contradicts the subsequent clause about inequality melting away temporarily, and D restricts the term to economics when it describes the emotional and social impact of inequality."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "Rarely had the team faced such a complex set of competing demands.",
+      "question": "Which grammatical construction is demonstrated by the word order in this sentence?",
+      "options": [
+        "A) Inversion after a negative adverbial for emphasis",
+        "B) Passive voice construction with auxiliary inversion",
+        "C) Past perfect continuous with fronted adverbial",
+        "D) Conditional inversion without an explicit if-clause"
+      ],
+      "answer": "A",
+      "explanation": "Negative adverbials like 'rarely,' 'hardly,' and 'never' trigger subject-verb inversion (auxiliary + subject) for emphatic effect. The normal order would be 'The team had rarely faced...', but fronting 'rarely' requires 'had' before the subject. Option B describes passive voice, not required here; C is incorrect tense analysis; D confuses conditional structures."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "She asked whether the documents had been signed by all the relevant parties.",
+      "question": "Which principle of reported speech is illustrated in the use of 'had been signed' rather than 'were signed'?",
+      "options": [
+        "A) Backshift of tenses: past tense in direct speech becomes past perfect in reported speech",
+        "B) Modal backshift: present modals are replaced by their past equivalents",
+        "C) Subjunctive mood: conditional structures require the past perfect form",
+        "D) Sequence of tenses: perfect aspect must follow past tense reporting verbs"
+      ],
+      "answer": "A",
+      "explanation": "In reported speech, tenses shift backward in time. The original question likely was 'Have the documents been signed?' (present perfect), which becomes 'had been signed' (past perfect) in reported form. Option B concerns modals, C concerns subjunctive mood (not applicable here), and D is imprecise terminology; the specific rule is backshift."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "It is essential that the committee revise its policies before the fiscal year ends.",
+      "question": "What grammatical mood is required after 'It is essential that' in formal English?",
+      "options": [
+        "A) Subjunctive mood (base form without -s): revise",
+        "B) Conditional mood: would revise",
+        "C) Imperative mood: must revise",
+        "D) Indicative mood with modal auxiliary: should revise"
+      ],
+      "answer": "A",
+      "explanation": "After expressions of importance, necessity, and obligation (e.g., 'essential,' 'required,' 'suggested'), the subjunctive mood uses the base verb form without person-marking: 'revise' not 'revises.' Option B indicates hypothetical conditions, C is command-based, and D uses a modal rather than pure subjunctive form, though increasingly common in informal English."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "The experiment having failed twice, the researchers decided to revise their methodology entirely.",
+      "question": "What is the grammatical function of the phrase 'having failed twice' at the beginning of this sentence?",
+      "options": [
+        "A) Participle clause expressing causation and preceding time",
+        "B) Absolute phrase modifying the entire main clause",
+        "C) Reduced relative clause functioning as an adverbial adjunct",
+        "D) Perfect infinitive phrase indicating obligation"
+      ],
+      "answer": "A",
+      "explanation": "The perfect participle form 'having failed' constructs a participial clause that modifies the main clause, indicating the preceding action (causation) and temporal sequence. Option B is partially correct but 'absolute phrase' is less precise terminology than 'participle clause'; C misidentifies the structure; D incorrectly labels it as infinitive."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "He would have applied for the position had he known about it earlier.",
+      "question": "Which conditional structure is exemplified in this sentence?",
+      "options": [
+        "A) Third conditional with inversion of the if-clause",
+        "B) Second conditional with mixed tense backshift",
+        "C) Mixed conditional combining past and present possibilities",
+        "D) Unreal conditional with auxiliary fronting replacing 'if'"
+      ],
+      "answer": "A",
+      "explanation": "This is a third conditional (hypothetical past): 'would have applied' (consequence) with 'had known' (condition), expressing an unrealized past situation. The if-clause is inverted (had he known instead of if he had known) for formal emphasis. Option B refers to present hypotheticals, C implies temporal mixing without consistent tense logic, and D is imprecise about the specific conditional type."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The more carefully he read the contract, the more concerned he became about its implications.",
+      "question": "In this sentence, which construction conveys the relationship between the two actions most naturally?",
+      "options": [
+        "A) Comparative parallelism showing proportional increase",
+        "B) Causal subordination with temporal sequencing",
+        "C) Conditional dependency with counterfactual reasoning",
+        "D) Adversative contrast implying contradiction"
+      ],
+      "answer": "A",
+      "explanation": "The pattern 'the more X, the more Y' is a comparative construction expressing proportional relationship: increased care correlates with increased concern. Option B suggests cause-effect with time ordering, not the parallelism here; C implies hypothetical unreality; D suggests contradiction, which this sentence does not express."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "academic",
+      "sentence": "Brent Leggs, formerly the executive director of the African American Cultural Heritage Action Fund, will become the National Trust's eleventh president since its founding in 1949.",
+      "question": "Which of the following best expresses how the information about Leggs's previous role functions in this sentence?",
+      "options": [
+        "A) It establishes his relevant professional credentials and experience",
+        "B) It indicates why he was chosen over other candidates",
+        "C) It suggests his previous organization was less prestigious",
+        "D) It demonstrates his unfamiliarity with historic preservation"
+      ],
+      "answer": "A",
+      "explanation": "The appositive phrase about his previous role as executive director provides context demonstrating his professional background and qualification. Option B implies causation not stated in the text, C makes an inappropriate prestige comparison, and D contradicts the establishment of his credentials through his prior leadership role."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "academic",
+      "sentence": "Police conducting what The Telegraph described as a 'routine narcotics raid' at a suburban Paris home discovered a painting by Pablo Picasso that had been stolen from its Singapore-based owner.",
+      "question": "Why does the text place 'routine narcotics raid' in quotation marks?",
+      "options": [
+        "A) To indicate direct attribution and to signal irony about an extraordinary discovery",
+        "B) To emphasize that police operations always follow routine procedures",
+        "C) To suggest the raid was illegal or improperly conducted",
+        "D) To clarify that the phrase is technical police terminology"
+      ],
+      "answer": "A",
+      "explanation": "Quotation marks here serve dual purposes: they attribute the phrase to The Telegraph while signaling irony—the raid seemed routine until a $17 million Picasso was found. Option B misses the ironic distance, C implies illegality not suggested by the text, and D overestimates the technical nature of 'routine narcotics raid.'"
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "general",
+      "sentence": "A global framework for reparatory justice has been adopted at a conference in Ghana, as African and Caribbean leaders demanded formal apologies from countries that benefited from the transatlantic slave trade.",
+      "question": "Rewrite this sentence in your own words, capturing its essential meaning. Identify 3-5 keywords that represent the core concept.",
+      "options": null,
+      "answer": null,
+      "explanation": "The sentence reports the adoption of a justice framework addressing historical wrongs (slavery) at an international conference, with participating leaders seeking acknowledgment and restitution from nations that profited from the slave trade. Key concepts include: international coordination, historical accountability, reparation, formal recognition, and systemic injustice.",
+      "paraphrase_keywords": [
+        "international framework",
+        "historical accountability",
+        "reparation/restitution",
+        "formal apologies",
+        "beneficiary nations"
+      ]
+    }
+  ]
+}
