@@ -1,0 +1,218 @@
+{
+  "date": "2026-06-23",
+  "generated_at": "2026-06-23T22:19:57.188843",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Turner Prize–winning artist Helen Cammock has removed her video installation Persistence from display at London's National Portrait Gallery after the work drew complaints that it mischaracterized onetime British prime minister Winston Churchill.",
+      "question": "In this context, 'mischaracterized' most closely means:",
+      "options": [
+        "A) Represented inaccurately or unfairly",
+        "B) Failed to describe in sufficient detail",
+        "C) Deliberately concealed the true nature of",
+        "D) Criticized harshly without evidence"
+      ],
+      "answer": "A",
+      "explanation": "Mischaracterize means to portray or describe someone or something in a way that is misleading or inaccurate. While harsh criticism (D) might occur as a result, the core meaning is about inaccurate representation. Options B and C are too narrow—detail and concealment are not central to the word's meaning."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "What distinguishes this millennia-old city and the franchise cornerstone it spawned is a blind insistence on not changing in the face of everyone moving on.",
+      "question": "The phrase 'blind insistence' suggests:",
+      "options": [
+        "A) A principled commitment to tradition despite surrounding change",
+        "B) A stubborn refusal to adapt that lacks awareness of consequences",
+        "C) An inability to perceive current trends in society",
+        "D) A deliberate attempt to ignore modern innovations"
+      ],
+      "answer": "B",
+      "explanation": "'Blind' in this context means irrational, unreasoning, or done without proper consideration—not literally unable to see (C). The phrase suggests the insistence is stubborn and lacks awareness of its problematic nature. Option A is too generous; option D suggests deliberate intent, whereas 'blind' implies lack of awareness."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Woven from memories of her childhood in Iran, an animator recalls her Granny's story of loss, love and friendship.",
+      "question": "What does 'woven from' imply about the animator's work?",
+      "options": [
+        "A) It is literally constructed using threads and fabric",
+        "B) It is fundamentally integrated with and derived from personal memories",
+        "C) It documents facts about her grandmother's life with precision",
+        "D) It combines various unrelated stories in random order"
+      ],
+      "answer": "B",
+      "explanation": "'Woven from' is a metaphor suggesting that memories are deeply interwoven into the fabric of the work—it's not literal construction (A). The phrase implies intentional integration and derivation, not random combination (D). While the work may be based on real events, 'woven' suggests artistic transformation rather than documentary precision (C)."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The idea that success is deserved has great traction in the world. But Zhuangzi argues that it is a deeply flawed notion.",
+      "question": "In this passage, 'traction' most nearly means:",
+      "options": [
+        "A) Mechanical grip or friction",
+        "B) Popular acceptance and momentum",
+        "C) Critical opposition from scholars",
+        "D) Logical consistency and validity"
+      ],
+      "answer": "B",
+      "explanation": "In academic and general discourse, 'traction' refers to the degree to which an idea gains acceptance or forward momentum. The context—'has great traction'—indicates widespread belief. Option A is the literal meaning but inappropriate here. Options C and D contradict the stated 'great traction.'"
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The British government had received intelligence that Ethiopia appeared to be supporting a genocidal militia in Sudan's civil war but did not go public with the news for fear of upsetting the United Arab Emirates.",
+      "question": "In this context, 'go public' means:",
+      "options": [
+        "A) Invite the public to a government meeting",
+        "B) Disclose information to the media and general population",
+        "C) Attend a public event as a representative",
+        "D) Become a publicly traded government entity"
+      ],
+      "answer": "B",
+      "explanation": "'Go public' is an idiomatic expression meaning to make something widely known or disclose it to the public through media channels. Option A is too literal. Options C and D are incorrect uses of the phrase in this political context."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The curator's decision, which sparked international debate, was ultimately reversed within months.",
+      "question": "Which version correctly uses a non-defining relative clause?",
+      "options": [
+        "A) The curator's decision which sparked international debate was ultimately reversed within months.",
+        "B) The curator's decision, that sparked international debate, was ultimately reversed within months.",
+        "C) The curator's decision, which sparked international debate, was ultimately reversed within months.",
+        "D) The curator's decision what sparked international debate was ultimately reversed within months."
+      ],
+      "answer": "C",
+      "explanation": "Non-defining relative clauses require commas and the relative pronoun 'which' (not 'that'). Option A omits the commas, making it a defining clause—incorrect here because we already know which decision is meant. Options B and D use inappropriate relative pronouns; 'that' requires no comma (defining), and 'what' is not a relative pronoun in this context."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The minister's failure to act on the warnings suggests he should have disclosed the information earlier.",
+      "question": "Which modal construction correctly expresses criticism or regret about a past action?",
+      "options": [
+        "A) He should disclose the information earlier.",
+        "B) He should have disclosed the information earlier.",
+        "C) He must have disclosed the information earlier.",
+        "D) He needn't have disclosed the information earlier."
+      ],
+      "answer": "B",
+      "explanation": "Should have + past participle expresses criticism or regret about an unrealized past action. Option A uses present tense, inappropriate for a past event. Option C (must have) suggests logical deduction about what happened, not criticism. Option D (needn't have) means it wasn't necessary—the opposite of the intended meaning."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The artist said that she had removed the installation because she received complaints.",
+      "question": "Which version correctly uses reported speech with appropriate backshift of tenses?",
+      "options": [
+        "A) The artist said that she removes the installation because she receives complaints.",
+        "B) The artist said that she had removed the installation because she had received complaints.",
+        "C) The artist said that she has removed the installation because she receives complaints.",
+        "D) The artist said that she removed the installation because she received complaints."
+      ],
+      "answer": "B",
+      "explanation": "When reporting past events with 'said,' tenses shift back: present becomes past, past becomes past perfect. Option A maintains original tenses—incorrect for reported speech. Option C mixes tenses illogically. Option D fails to backshift the second past event to past perfect, creating ambiguity about temporal sequence."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Having been criticized for months, the institution finally responded to the public outcry.",
+      "question": "What does the participle clause 'Having been criticized for months' function as?",
+      "options": [
+        "A) A passive perfect participle indicating a completed action prior to the main clause",
+        "B) A present participle describing an ongoing state",
+        "C) An independent clause requiring a semicolon",
+        "D) A relative clause that could use 'which' instead"
+      ],
+      "answer": "A",
+      "explanation": "Having been + past participle is a passive perfect participle clause showing an action completed before the main action (the response). Option B misidentifies the tense as present. Option C is incorrect—participle clauses are not independent. Option D confuses participles with relative clauses; this structure cannot substitute 'which' without major restructuring."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Neither the director nor the curators were available for comment on the controversial decision.",
+      "question": "Which statement about subject-verb agreement is correct?",
+      "options": [
+        "A) 'Neither...nor' requires singular agreement with the nearest noun ('curators'), so 'were' is correct.",
+        "B) 'Neither...nor' requires agreement with both nouns collectively; plural 'were' is correct.",
+        "C) The subject is singular ('neither'), so 'was' would be more standard than 'were.'",
+        "D) With inverted subjects, agreement rules do not apply, so both 'was' and 'were' are acceptable."
+      ],
+      "answer": "A",
+      "explanation": "When 'neither...nor' connects two nouns, the verb agrees with the nearest noun. Here, 'curators' (plural) is nearest, so 'were' is correct. Option B states the rule incorrectly. Option C misidentifies the subject—'neither' is a determiner, not the complete subject. Option D is false; agreement rules always apply, regardless of word order."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "She found it difficult to concentrate, not because the work was hard, but because the office was noisy.",
+      "question": "Which alternative phrasing is most natural in everyday speech?",
+      "options": [
+        "A) She found it difficult to concentrate; the reason being that the office was noisy and not that the work was hard.",
+        "B) The reason she couldn't concentrate was the noisy office, not the difficulty of the work.",
+        "C) It was not the difficulty of the work that made concentration difficult, but rather the noise in the office.",
+        "D) Concentration was difficult for her due to office noise as opposed to work difficulty."
+      ],
+      "answer": "B",
+      "explanation": "Option B uses natural, direct phrasing with active voice and simple structure. Option A is awkward with the participial construction. Option C uses emphatic fronting that sounds more formal and literary. Option D is stilted with prepositional phrases and passive constructions unsuitable for casual speech."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Having lived in three different countries, he was comfortable navigating unfamiliar cultural situations.",
+      "question": "Which rephrasing most naturally captures this idea in conversation?",
+      "options": [
+        "A) Because he had lived in three different countries, he was comfortable navigating unfamiliar cultural situations.",
+        "B) He was comfortable navigating unfamiliar cultural situations given his residence in three different countries.",
+        "C) Three different countries were lived in by him, making him comfortable with unfamiliar cultural situations.",
+        "D) Living in three different countries made him comfortable about navigating unfamiliar cultural situations."
+      ],
+      "answer": "A",
+      "explanation": "Option A converts the participle clause to a clear causal conjunction, natural in speech. Option B uses overly formal language. Option C is passive and awkward. Option D changes 'about' for 'at,' which is less precise, and 'made' is slightly less natural than the causal structure of A."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "It was not until she reread the letter that she understood what had really been meant.",
+      "question": "Which version is most naturally expressed in everyday language?",
+      "options": [
+        "A) Only when she reread the letter did she understand what had really been meant.",
+        "B) She didn't understand what had really been meant until she reread the letter.",
+        "C) Not until rereading the letter did understanding of what had really been meant occur to her.",
+        "D) The letter had to be reread by her before she understood what had really been meant."
+      ],
+      "answer": "B",
+      "explanation": "Option B is the most straightforward and natural for everyday conversation. Option A, while grammatically similar, uses inverted word order that sounds more formal. Option C is awkward with the nominalization 'understanding' and passive construction. Option D uses passive voice unnecessarily."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "What distinguishes this millennia-old city and the franchise cornerstone it spawned is a blind insistence on not changing in the face of everyone moving on.",
+      "question": "Paraphrase this sentence in your own words, capturing its core meaning. (Provide 3-5 keywords that represent the essential idea.)",
+      "options": null,
+      "answer": null,
+      "paraphrase_keywords": [
+        "stubbornly resists change",
+        "refuses adaptation despite surroundings",
+        "distinguishing characteristic",
+        "traditional resistance to modernity",
+        "maintains status quo"
+      ],
+      "explanation": "The sentence describes how an ancient city and the franchise it created are defined by their refusal to modernize or adapt, even as society around them evolves. A good paraphrase should capture the ideas of resistance to change, lack of awareness (blindness), and the contrast with external progress."
+    }
+  ]
+}
