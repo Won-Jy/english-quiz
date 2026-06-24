@@ -1,0 +1,218 @@
+{
+  "date": "2026-06-24",
+  "generated_at": "2026-06-24T22:23:55.975330",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Harriman's resignation comes one month after a slate of virulent criticism from Britain's Telegraph and Daily Mail.",
+      "question": "In this context, 'virulent' most closely means:",
+      "options": [
+        "A. Extremely bitter and hostile",
+        "B. Widely distributed and contagious",
+        "C. Technically accurate but outdated",
+        "D. Mildly disapproving but constructive"
+      ],
+      "answer": "A",
+      "explanation": "Virulent describes intense, bitter, and caustic criticism. While the word can describe disease transmission (option B), here it modifies 'criticism' and means severely damaging and hostile. Options C and D are semantically opposite to the intended meaning."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Australian artist Jane Allan is facing allegations that she mimicked the work of neo-expressionist Jean-Michel Basquiat.",
+      "question": "Which word best replaces 'mimicked' to convey stronger artistic misconduct?",
+      "options": [
+        "A. Imitated",
+        "B. Plagiarized",
+        "C. Referenced",
+        "D. Adapted"
+      ],
+      "answer": "B",
+      "explanation": "Plagiarized carries the legal and ethical weight of claiming others' work as one's own, which fits the context of 'allegations' and prize-winning paintings. Imitated and referenced are neutral; adapted suggests legitimate transformation. The context demands the most serious term."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Woven from memories of her childhood in Iran, an animator recalls her Granny's story of loss, love and friendship.",
+      "question": "The phrase 'woven from' metaphorically suggests:",
+      "options": [
+        "A. Physically constructed using textile methods",
+        "B. Deliberately falsified or invented",
+        "C. Intricately interlaced and blended together",
+        "D. Chronologically arranged in sequence"
+      ],
+      "answer": "C",
+      "explanation": "'Woven' is a metaphor for how memories are intricately combined and blended into a coherent narrative. It doesn't mean physically made of cloth (A), falsified (B), or simply sequential (D). The metaphor emphasizes the artistic integration of multiple emotional threads."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The first case of Ebola has been confirmed in France, the country's health ministry has said, in a doctor who had returned from a humanitarian mission to an area affected by the outbreak.",
+      "question": "In medical reporting, 'confirmed' most precisely means:",
+      "options": [
+        "A. Suspected or preliminary diagnosis",
+        "B. Definitively diagnosed through laboratory testing",
+        "C. Informally reported by witnesses",
+        "D. Likely based on clinical symptoms alone"
+      ],
+      "answer": "B",
+      "explanation": "In medical and official contexts, 'confirmed' indicates laboratory or definitive verification, not mere suspicion or clinical likelihood. The distinction matters in health communication because confirmed cases warrant immediate public health response. Options A, C, and D represent weaker forms of evidence."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Autobiographical work Free Me aims to encourage victims to speak out in country where violence against women is rising.",
+      "question": "The term 'autobiographical' distinguishes this work from:",
+      "options": [
+        "A. Any theatrical performance with dialogue",
+        "B. Fictional or invented narratives about invented characters",
+        "C. Documentary films with archival footage",
+        "D. Plays written by committee or collaborative teams"
+      ],
+      "answer": "B",
+      "explanation": "Autobiographical means based on the author's own life experiences, distinguishing it from purely fictional works. While it may use theatrical techniques (A), include documentary elements (C), or be co-written (D), the defining feature is that it draws from the creator's actual lived experience, not invented characters."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Neither the director nor the committee members _____ willing to approve the budget without further review.",
+      "question": "Which verb form correctly agrees with the compound subject?",
+      "options": [
+        "A. were",
+        "B. was",
+        "C. have been",
+        "D. has been"
+      ],
+      "answer": "A",
+      "explanation": "With 'neither...nor' constructions, the verb agrees with the nearest noun (committee members, plural), requiring 'were'. Option B incorrectly uses singular agreement. Options C and D introduce perfect tense where simple past is required."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "She _____ in Paris for three years now, and she still _____ French fluently.",
+      "question": "Which pair of verbs correctly distinguishes between present perfect and habitual action?",
+      "options": [
+        "A. lived / speaks",
+        "B. has lived / speaks",
+        "C. lives / has spoken",
+        "D. has been living / spoke"
+      ],
+      "answer": "B",
+      "explanation": "Present perfect 'has lived' expresses duration from past to present with 'for three years now'. The simple present 'speaks' describes a habitual ability. Option A uses simple past (incorrect for present relevance); option C confuses the timeframes; option D incorrectly uses past tense for current ability."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The report, which revealed significant accounting irregularities, _____ submitted to the board last month.",
+      "question": "Identify the sentence with correct non-defining relative clause punctuation and verb agreement:",
+      "options": [
+        "A. The report which revealed significant accounting irregularities was submitted to the board last month.",
+        "B. The report, which revealed significant accounting irregularities, was submitted to the board last month.",
+        "C. The report, which revealed significant accounting irregularities was submitted to the board last month.",
+        "D. The report which, revealed significant accounting irregularities, was submitted to the board last month."
+      ],
+      "answer": "B",
+      "explanation": "Non-defining relative clauses require commas both before and after the clause. Option A omits both commas, making it defining (incorrect). Option C has only one comma (incomplete). Option D incorrectly places the comma within the relative clause verb phrase. Only B correctly isolates the non-essential clause."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_____ the contract, the partners discovered several ambiguous clauses that required immediate clarification.",
+      "question": "Which participle clause opening correctly introduces the sentence?",
+      "options": [
+        "A. Having reviewed",
+        "B. Being reviewed",
+        "C. To review",
+        "D. Reviewed"
+      ],
+      "answer": "A",
+      "explanation": "'Having reviewed' is a perfect participle indicating the review occurred before the discovery of ambiguities, establishing proper chronological sequence. Option B (being reviewed, passive) suggests ongoing action; option C (infinitive) changes the sentence structure; option D (past participle alone) is grammatically incomplete without 'having'."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The witness told the detective that she _____ the suspect near the station three hours before the robbery _____ reported.",
+      "question": "Which pair of verbs correctly applies tense backshift in reported speech?",
+      "options": [
+        "A. saw / was",
+        "B. has seen / is",
+        "C. had seen / had been",
+        "D. sees / will be"
+      ],
+      "answer": "C",
+      "explanation": "In reported speech with a past reporting verb ('told'), both reported verbs must backshift: 'had seen' (past perfect, from present perfect) and 'had been reported' (past perfect passive, from present simple). Option A lacks proper backshift; option B doesn't backshift at all; option D uses forward time markers inappropriate for past reported speech."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "She asked whether the documents had been signed by all the relevant parties.",
+      "question": "In this sentence, the most natural interpretation of 'relevant parties' is:",
+      "options": [
+        "A. Only the most important signatories",
+        "B. All people or organizations whose agreement is legally or officially required",
+        "C. People attending the same social event",
+        "D. Individuals who disagree with the document's terms"
+      ],
+      "answer": "B",
+      "explanation": "In formal and legal contexts, 'relevant parties' means those whose involvement or signature is necessary or appropriate to the matter at hand. Option A suggests arbitrary selectivity; option C misinterprets the formal register; option D contradicts the sense of requirement."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "If the train had arrived on time, we would have caught the connecting flight to Amsterdam.",
+      "question": "This sentence suggests:",
+      "options": [
+        "A. The train arrived late and we successfully caught the flight",
+        "B. The train was late, and we missed the connecting flight",
+        "C. We are uncertain whether the train will be on time",
+        "D. We deliberately chose not to take the connecting flight"
+      ],
+      "answer": "B",
+      "explanation": "The mixed conditional (if past perfect, would have + past participle) indicates an unfulfilled past condition. The train did not arrive on time (contrary to fact), so we did not catch the flight. Option A contradicts the conditional structure; options C and D misrepresent the sentence's factual implication."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "It was not until she reread the letter that she understood what had really been meant.",
+      "question": "The structure 'it was not until...that' emphasizes:",
+      "options": [
+        "A. The letter was unclear from the first reading",
+        "B. She deliberately avoided reading the letter initially",
+        "C. Understanding required the specific action of rereading",
+        "D. The letter's meaning was obscure to everyone"
+      ],
+      "answer": "C",
+      "explanation": "'It was not until...that' stresses the point in time or condition necessary for something to occur. Here, rereading was the necessary action for understanding. Option A suggests inherent clarity; option B implies intentional avoidance; option D generalizes beyond the context of she and her interpretation."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "Harriman's resignation comes one month after a slate of virulent criticism from Britain's Telegraph and Daily Mail which labeled the photographer and entrepreneur antisemitic, which in turn encouraged more than 100,000 people to take action.",
+      "question": "Paraphrase this sentence in your own words, capturing the causal chain and key actors.",
+      "options": null,
+      "answer": null,
+      "explanation": null,
+      "paraphrase_keywords": [
+        "Harriman resigned",
+        "public accusations of antisemitism",
+        "media outlets Telegraph and Daily Mail",
+        "intense criticism triggered public response",
+        "100,000 people mobilized"
+      ]
+    }
+  ]
+}
