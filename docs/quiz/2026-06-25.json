@@ -1,0 +1,218 @@
+{
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T22:26:48.635808",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "On what turned out to be a record-breaking night, Sotheby's London achieved spectacular success with its Wednesday evening auction of treasures from the collection of billionaire Joe Lewis, ultimately bringing in £296.3 million ($392.6 million).",
+      "question": "In this context, 'canonical' artists most likely refers to those who are:",
+      "options": [
+        "A. Widely recognized as exemplary or authoritative in their field",
+        "B. Currently the most commercially valuable in the market",
+        "C. Working exclusively in religious or ecclesiastical themes",
+        "D. Members of an exclusive international gallery association"
+      ],
+      "answer": "A",
+      "explanation": "Canonical refers to artists who are considered foundational, authoritative, or exemplary in art history—the established masters whose work is universally acknowledged as significant. Option B is incorrect because commercial value doesn't define canonicity; C incorrectly links it to religious art; D invents a false criterion."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "This portrait of a life reimagined is a meditation on identity, happiness and the balance between freedom and conformity.",
+      "question": "The word 'meditation' in this sentence most closely means:",
+      "options": [
+        "A. A spiritual practice involving focused breathing",
+        "B. A deep, reflective exploration or contemplation of a theme",
+        "C. A peaceful moment of rest and relaxation",
+        "D. A judicial proceeding to resolve disputes"
+      ],
+      "answer": "B",
+      "explanation": "In literary and academic contexts, 'meditation' refers to an extended, thoughtful examination of ideas rather than physical/spiritual practice. Option A refers to mindfulness practice; C confuses it with tranquility; D refers to legal mediation—none match the context of a portrait exploring themes."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "From remote farmhouses to oncology clinics, a secret world of French healers works in parallel with conventional medicine.",
+      "question": "Which word best captures the meaning of 'in parallel with' as used here?",
+      "options": [
+        "A. Identical to",
+        "B. Competing against",
+        "C. Existing alongside but separate from",
+        "D. Subordinate to"
+      ],
+      "answer": "C",
+      "explanation": "'In parallel with' suggests two things existing and operating simultaneously but independently, neither dependent on the other. Option A suggests sameness; B implies opposition/conflict; D suggests hierarchy—all misrepresent the phrase's meaning of coexistence."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Zimbabwe is on the brink of amending its constitution to give the president more time in office, a change that the government says will bring stability but that opponents have labelled a 'constitutional coup'.",
+      "question": "The phrase 'on the brink of' most precisely means:",
+      "options": [
+        "A. Having already completed",
+        "B. At the edge of occurring; very close to happening",
+        "C. Considering the possibility of",
+        "D. Gradually moving toward over time"
+      ],
+      "answer": "B",
+      "explanation": "'On the brink of' indicates an imminent point of occurrence—the moment is at hand. Option A contradicts the meaning; C is too tentative; D suggests slow gradual change rather than imminent action. The metaphor of 'brink' suggests a critical threshold about to be crossed."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The first case of Ebola has been confirmed in France, the country's health ministry has said, in a doctor who had returned from a humanitarian mission to an area affected by the outbreak in the Democratic Republic of the Congo.",
+      "question": "In medical/public health reporting, 'affected by the outbreak' means:",
+      "options": [
+        "A. Emotionally disturbed by reports of the disease",
+        "B. Having been struck or impacted by the spread of disease",
+        "C. Showing personal symptoms of infection",
+        "D. Responsible for causing the disease to spread"
+      ],
+      "answer": "B",
+      "explanation": "'Affected by' in this context means regions/populations experiencing the impact or presence of the disease outbreak. Option A conflates emotional with epidemiological impact; C suggests only symptomatic individuals; D implies causation rather than impact—none capture the public health meaning."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The artist who painted the mural, which won international acclaim, has retired from public life.",
+      "question": "Which statement correctly identifies the relative clauses?",
+      "options": [
+        "A. Both clauses are defining; both provide essential information to identify the noun",
+        "B. 'Who painted the mural' is defining (identifies which artist); 'which won international acclaim' is non-defining (adds extra information about the mural)",
+        "C. Both clauses are non-defining; both provide additional information without changing the core meaning",
+        "D. 'Which won international acclaim' is defining; 'who painted the mural' is non-defining"
+      ],
+      "answer": "B",
+      "explanation": "The relative clause 'who painted the mural' is defining because it specifies which artist we're discussing—without it, we wouldn't know which person retired. 'Which won international acclaim' is non-defining (set off by commas) as it adds background information about the mural but doesn't identify it. Option A incorrectly classifies the second clause; C and D reverse the functions."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "If I had known about the auction earlier, I would have submitted a bid; if the painting becomes available next month, I will certainly purchase it.",
+      "question": "Which sentence correctly identifies the conditional structures?",
+      "options": [
+        "A. The first clause is second conditional; the second is third conditional",
+        "B. The first clause is third conditional; the second is second conditional",
+        "C. Both clauses are second conditional, expressing equal probability",
+        "D. The first is past perfect conditional; the second is mixed conditional"
+      ],
+      "answer": "B",
+      "explanation": "The first clause is third conditional: 'had known' (past perfect) + 'would have submitted' (would have + past participle)—expresses an imaginary past situation. The second is second conditional: 'becomes' (simple present) + 'will purchase' (simple future)—expresses a hypothetical present/future situation. Options A and D reverse these; C misidentifies both."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "She regrets to tell him the news. / She regrets telling him the news.",
+      "question": "What is the difference in meaning between these two sentences?",
+      "options": [
+        "A. Both sentences mean the same thing; the choice of infinitive or gerund is purely stylistic",
+        "B. 'Regrets to tell' emphasizes a future/imminent action and implies politeness; 'regrets telling' refers to something already done and expresses genuine remorse",
+        "C. 'Regrets telling' is more formal; 'regrets to tell' is more casual",
+        "D. 'Regrets to tell' is grammatically incorrect; only the gerund form is acceptable"
+      ],
+      "answer": "B",
+      "explanation": "These gerunds/infinitives create different meanings: 'regret to tell' suggests an upcoming action ('I must tell you something regrettable'), while 'regret telling' refers to a completed action with remorse about having done it. Option A ignores the semantic difference; C gets the register backwards; D is factually wrong—both are grammatically correct."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "I have lived in this city for ten years. / I lived in this city for ten years.",
+      "question": "Which statement best explains the grammatical and temporal difference?",
+      "options": [
+        "A. Both sentences are identical in meaning; 'have lived' is simply a more modern way of speaking",
+        "B. 'Have lived' (present perfect) indicates I still live here now; 'lived' (past simple) suggests I no longer live here, implying the period is complete",
+        "C. 'Have lived' emphasizes the duration; 'lived' emphasizes the starting point",
+        "D. 'Lived' is more emphatic and formal; 'have lived' is colloquial"
+      ],
+      "answer": "B",
+      "explanation": "Present perfect 'have lived' connects past action to the present—I started ten years ago and still live here now. Past simple 'lived' situates the action entirely in the past, implying the period is finished and I no longer live there. Options A and D confuse the register/modernity; C misidentifies what each tense emphasizes."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Hardly had the meeting begun when the fire alarm sounded. / The meeting had hardly begun when the fire alarm sounded.",
+      "question": "What is the grammatical difference, and which sentence is more formal?",
+      "options": [
+        "A. Both are identical; word order doesn't affect meaning or formality",
+        "B. The first sentence uses inversion after the negative adverbial 'hardly'; this inversion is characteristic of formal or literary English",
+        "C. The second sentence uses inversion; inversion typically appears in casual, everyday speech",
+        "D. The first sentence is grammatically incorrect because adverbs cannot trigger inversion"
+      ],
+      "answer": "B",
+      "explanation": "Negative adverbials like 'hardly,' 'no sooner,' 'not until,' and 'rarely' trigger subject-verb inversion in formal/literary English. 'Hardly had the meeting begun' (inverted: adverbial + auxiliary + subject) is more formal/dramatic than the standard order. Option A ignores the inversion effect; C reverses the register; D is factually incorrect—these adverbials do trigger inversion."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "She asked whether the documents had been signed by all the relevant parties.",
+      "question": "Which alternative phrasing is most natural in everyday speech?",
+      "options": [
+        "A. She asked if all the relevant parties had signed the documents.",
+        "B. She asked whether all the relevant parties did sign the documents.",
+        "C. She was asking to whether the documents were being signed by relevant parties.",
+        "D. She asked the documents whether they were signed by all relevant parties."
+      ],
+      "answer": "A",
+      "explanation": "Option A rearranges the passive construction into active voice, which is more natural in everyday conversation while preserving the meaning. Option B uses incorrect past tense ('did sign'); C has a grammatical error ('was asking to whether'); D is absurd (documents cannot answer questions). Everyday speech prefers active constructions when possible."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Despite the rain, she decided to walk to the market rather than take the bus.",
+      "question": "Which sentence conveys the same meaning in simpler, more casual language?",
+      "options": [
+        "A. Although it was raining, she chose walking to the market over taking the bus.",
+        "B. It was raining, but she wanted to walk to the market instead of getting the bus.",
+        "C. In spite of rainfall, her decision was to walk rather than utilize public transport.",
+        "D. She preferred to walk to the market rather than be driven there by bus."
+      ],
+      "answer": "B",
+      "explanation": "Option B uses simple, conversational language ('wanted,' 'instead of,' 'getting the bus') while preserving the essential meaning. Option A is too formal; C is overly complex ('utilize public transport'); D changes the meaning by introducing a 'driven' comparison. Casual speech favors simpler verbs and contractions/natural phrasing."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The building, having been constructed in the 1920s, required significant renovation before it could be used.",
+      "question": "Which everyday rephrasing best captures this meaning?",
+      "options": [
+        "A. Because the building was built in the 1920s, it needed major renovation before anyone could use it.",
+        "B. The building was constructed in the 1920s, which required it to undergo significant renovation before usage.",
+        "C. The building, which was constructed in the 1920s and required significant renovation, could not be used.",
+        "D. Constructed in the 1920s, the building's requirement was significant renovation before it could be used."
+      ],
+      "answer": "A",
+      "explanation": "Option A uses simple, everyday structures ('because,' 'was built,' 'needed,' 'before anyone could use it') and connects cause and effect naturally. Option B awkwardly uses 'which' to modify the renovation; C is unclear about causation; D is awkwardly constructed ('the building's requirement was'). Everyday speech prefers simple causal connections."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "general",
+      "sentence": "Zimbabwe is on the brink of amending its constitution to give the president more time in office, a change that the government says will bring stability but that opponents have labelled a 'constitutional coup'.",
+      "question": "Rewrite this sentence in your own words, capturing the core meaning.",
+      "options": null,
+      "answer": null,
+      "explanation": "Student responses should demonstrate understanding that Zimbabwe is about to change its constitution to extend the president's term, which the government frames as stabilizing but critics view as an illegal power grab.",
+      "paraphrase_keywords": [
+        "constitutional amendment",
+        "extend presidential term",
+        "government claims stability",
+        "opposition views as illegal",
+        "power consolidation"
+      ]
+    }
+  ]
+}
