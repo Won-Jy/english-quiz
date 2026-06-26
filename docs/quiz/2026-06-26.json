@@ -1,0 +1,219 @@
+{
+  "date": "2026-06-26",
+  "generated_at": "2026-06-26T22:20:12.512896",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The annual £120,000 honor is the most prestigious museum prize in the nation and the largest of its kind in the world.",
+      "question": "In this context, 'prestigious' most nearly means:",
+      "options": [
+        "A. Expensive and financially valuable",
+        "B. Widely known and highly respected",
+        "C. Difficult to obtain and rare",
+        "D. Awarded by international committees"
+      ],
+      "answer": "B",
+      "explanation": "Prestigious describes something held in high regard and commanding respect within a field. While museum awards may be expensive and rare, the core meaning of prestigious is the esteem and honor associated with winning. Options A and D conflate related but distinct concepts."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "This obstruction has prompted another order from US district judges.",
+      "question": "The word 'obstruction' in this passage refers to:",
+      "options": [
+        "A. A legal barrier preventing action",
+        "B. Something that blocks or hinders visibility or progress",
+        "C. A deliberate act of defiance",
+        "D. An administrative delay in processing"
+      ],
+      "answer": "B",
+      "explanation": "Obstruction here refers to the tarp physically blocking the view of Trump's name on the building facade. While obstruction can have legal meanings (option A), in this context it describes something physically blocking visibility. Option C introduces intent not supported by the text; option D misses the concrete, physical meaning."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "This portrait of a life reimagined is a meditation on identity, happiness and the balance between freedom and conformity.",
+      "question": "In this context, 'meditation' most nearly means:",
+      "options": [
+        "A. A religious or spiritual practice",
+        "B. A calm state of mental relaxation",
+        "C. A deep, thoughtful exploration or reflection",
+        "D. A type of therapeutic treatment"
+      ],
+      "answer": "C",
+      "explanation": "Here, meditation describes the work as offering deep reflection and contemplation on themes of identity and freedom. While meditation can refer to spiritual practices or mental states, the context indicates a work of art exploring complex ideas thoughtfully. Options A, B, and D miss the intellectual dimension of artistic exploration."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Every society depends on violence workers, but what makes young men take a job that risks their lives and harms others?",
+      "question": "The phrase 'violence workers' most likely refers to:",
+      "options": [
+        "A. Activists who protest against violent crime",
+        "B. Professionals in occupations involving physical danger or harm (soldiers, police, etc.)",
+        "C. Social workers specializing in conflict resolution",
+        "D. Researchers studying the causes of violence"
+      ],
+      "answer": "B",
+      "explanation": "Violence workers refers to those employed in professions that inherently involve danger, physical confrontation, or harm—such as military, law enforcement, or security personnel. The question asks why young men accept such risky work, implying occupational hazard. Options A, C, and D describe roles that address violence secondarily, not as a core job function."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Fears over 'huge community transmission' as modelling predicts thousands of deaths in DRC by September.",
+      "question": "In epidemiological contexts, 'community transmission' refers to:",
+      "options": [
+        "A. The spread of disease within a local population without clear origin tracing",
+        "B. Public awareness campaigns about disease prevention",
+        "C. The movement of infected individuals between countries",
+        "D. Hospital protocols for isolating infectious patients"
+      ],
+      "answer": "A",
+      "explanation": "Community transmission describes disease spread within a population when health officials cannot trace the infection to its source, indicating widespread circulation. This is a technical epidemiological term distinct from general disease spread. Options B and D describe preventive or institutional measures; option C describes cross-border transmission specifically."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "He regrets telling her the secret immediately, but he remembers to tell her about the promotion.",
+      "question": "Which of the following best explains the grammatical difference between 'regrets telling' and 'remembers to tell'?",
+      "options": [
+        "A. Both use gerunds and convey the same meaning; the difference is stylistic only",
+        "B. 'Regrets telling' means he is sorry about a past action; 'remembers to tell' means he succeeds in performing an action",
+        "C. 'Regrets telling' focuses on obligation; 'remembers to tell' focuses on repeated behavior",
+        "D. They are grammatically identical and the sentence contains an error"
+      ],
+      "answer": "B",
+      "explanation": "Regret + gerund describes being sorry about a completed action; remember + infinitive describes successfully recalling and executing an action. These verbs change meaning based on their complement form. Option A misses the semantic shift; options C and D misidentify the grammatical structures and their functions."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "She said that she was taking the train yesterday, but now she claims she took the bus.",
+      "question": "Identify the error in reported speech backshift:",
+      "options": [
+        "A. 'Was taking' should be 'had been taking' to show past habit",
+        "B. 'Taking' should be 'took' because the main clause is in past tense",
+        "C. 'Yesterday' should be changed to 'the day before' when reporting speech",
+        "D. The sentence is grammatically correct"
+      ],
+      "answer": "C",
+      "explanation": "In reported speech, temporal adverbials must shift perspective: 'yesterday' should become 'the day before' from the reporter's viewpoint. While backshift of tense also occurs (said + was instead of said + am), the primary error here is the temporal reference. Option A confuses aspect with reported speech rules; option B incorrectly applies tense backshift to an already-past time reference."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "It was not until she reread the letter that she understood what had really been meant.",
+      "question": "This sentence uses inversion with a negative adverbial. Which of the following would NOT be a grammatically correct rewrite of the same structure?",
+      "options": [
+        "A. Not until she reread the letter did she understand what had really been meant.",
+        "B. Hardly had she reread the letter when she understood what had really been meant.",
+        "C. No sooner did she reread the letter than she understood what had really been meant.",
+        "D. Only after she reread the letter she understood what had really been meant."
+      ],
+      "answer": "D",
+      "explanation": "Option D violates the inversion rule with 'only after'—the auxiliary must invert: 'Only after she reread the letter did she understand.' Options A, B, and C all correctly employ subject-auxiliary inversion following negative or restrictive adverbials (not until, hardly, no sooner). Option D places the adverbial but fails to invert the auxiliary verb."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "She should have studied more carefully; she must have made careless errors on the exam.",
+      "question": "What is the difference in meaning between 'should have studied' and 'must have made'?",
+      "options": [
+        "A. Both express obligation, with 'must' indicating stronger obligation than 'should'",
+        "B. 'Should have studied' expresses advisability about a past action; 'must have made' expresses logical certainty about what happened",
+        "C. 'Should have studied' is stronger criticism; 'must have made' is a suggestion",
+        "D. Both modals express probability with identical force"
+      ],
+      "answer": "B",
+      "explanation": "'Should have' expresses what would have been advisable in the past (mild criticism or regret); 'must have' expresses logical deduction about a past event (high certainty based on evidence). These modals serve different functions: one prescriptive, one epistemic. Options A and C incorrectly assign them equivalent strength or reverse their functions; option D misses their semantic distinction."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Either the senator or the representatives was expected to attend the conference.",
+      "question": "Which of the following correctly explains the subject-verb agreement in this sentence?",
+      "options": [
+        "A. The verb 'was' is incorrect; 'were' is required because there are two subjects",
+        "B. The verb 'was' is correct because the nearest subject 'representatives' is plural but the conjunction 'or' makes the sentence grammatically singular",
+        "C. The verb 'was' is correct because 'either...or' requires agreement with the first element 'senator'",
+        "D. The sentence should use 'have been expected' instead of 'was expected'"
+      ],
+      "answer": "C",
+      "explanation": "With 'either...or' and subjects of different numbers, the verb agrees with the nearest subject. Here, 'senator' (singular) is nearest, so 'was' is correct. However, when the nearer subject is plural, the verb must be plural: 'Either the representatives or the senator were expected.' Option A reverses the correct rule; option B misidentifies which subject governs agreement; option D changes voice unnecessarily."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Despite the rain, she decided to walk to the market rather than take the bus.",
+      "question": "In everyday English, which phrase is most naturally similar in meaning to 'rather than'?",
+      "options": [
+        "A. in spite of the fact that she could",
+        "B. instead of taking",
+        "C. as opposed to having taken",
+        "D. regardless of whether she took"
+      ],
+      "answer": "B",
+      "explanation": "'Rather than' expresses choice and preference between two options; 'instead of' carries the same meaning in this context. Option A adds unnecessary concession; option C uses incorrect aspect; option D introduces conditionality not present in the original."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The experiment having failed twice, the researchers decided to revise their methodology entirely.",
+      "question": "Which of the following most naturally conveys the same relationship as the absolute phrase 'the experiment having failed'?",
+      "options": [
+        "A. Because the experiment failed twice",
+        "B. The experiment was failing twice",
+        "C. When the experiment would fail twice",
+        "D. If the experiment failed twice"
+      ],
+      "answer": "A",
+      "explanation": "The absolute phrase 'the experiment having failed twice' introduces the reason or cause for the decision to revise. 'Because' best captures this causal relationship. Option B uses progressive aspect not supported by the original; option C suggests futurity contradicted by context; option D introduces conditionality rather than established fact."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "She found it difficult to concentrate, not because the work was hard, but because the office was noisy.",
+      "question": "Which statement most naturally paraphrases the contrast in this sentence?",
+      "options": [
+        "A. She had trouble focusing due to both the work's difficulty and noise",
+        "B. The noise, rather than task difficulty, was the reason for her lack of concentration",
+        "C. She found concentration difficult despite the work being easy",
+        "D. The hard work made concentration impossible, and the noise was secondary"
+      ],
+      "answer": "B",
+      "explanation": "The sentence structure 'not because X, but because Y' establishes that Y is the actual reason, not X. The noise, not work difficulty, explains her concentration problems. Option A conflates both factors; option C misses the explicit contrast; option D reverses the causation."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "The humanitarian crisis amid the conflict in the affected areas means more than 1 million people are living in camps to which health workers have no access.",
+      "question": "Rewrite this sentence in your own words, capturing its core meaning:",
+      "options": null,
+      "answer": null,
+      "explanation": "This sentence should convey: (1) there is both conflict and humanitarian crisis in certain areas; (2) over 1 million people are displaced in camps; (3) health workers cannot reach these camps. A strong paraphrase maintains these three elements while altering structure and vocabulary.",
+      "paraphrase_keywords": [
+        "humanitarian crisis",
+        "conflict zones",
+        "displaced population",
+        "camps",
+        "lack of access",
+        "health services"
+      ]
+    }
+  ]
+}
