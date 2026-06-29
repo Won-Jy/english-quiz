@@ -1,0 +1,218 @@
+{
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T22:16:06.074774",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Terry Winters is a New York City-based chronicler of botanical eccentricities and mathematical patterns.",
+      "question": "In this context, 'chronicler' most nearly means:",
+      "options": [
+        "A) A person who records and documents historical or contemporary events",
+        "B) A person who criticizes artistic movements",
+        "C) A person who collects rare botanical specimens",
+        "D) A person who teaches mathematics and science"
+      ],
+      "answer": "A",
+      "explanation": "A chronicler is someone who records events or phenomena systematically over time. Option B misses the documentary aspect; C is too narrow and specific; D conflates the subject matter with the role. The word 'chronicler' emphasizes Winters' role as an observer and documenter of patterns and eccentricities."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The Vatican Museums have assembled a team of twenty experts to restore Raphael's Loggia, an epic fresco cycle depicting fifty-two scenes from the Old and New Testaments.",
+      "question": "The word 'inaugurated' in 'inaugurated a major restoration' most nearly means:",
+      "options": [
+        "A) Formally began or officially launched",
+        "B) Ceremonially opened to the public",
+        "C) Invited distinguished guests to witness",
+        "D) Scheduled for completion within a specific timeframe"
+      ],
+      "answer": "A",
+      "explanation": "To inaugurate means to officially begin or initiate a project or program. While B suggests public opening, the focus here is on the formal initiation of the restoration work itself. C and D are secondary implications, not the core meaning of the verb."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Human prosperity depends on nature, but no global metric has captured this relationship with precision.",
+      "question": "In this context, 'metric' most nearly means:",
+      "options": [
+        "A) A system of measurement or standard",
+        "B) A poetic device used in literature",
+        "C) A musical rhythm or beat",
+        "D) A numerical coefficient in mathematics"
+      ],
+      "answer": "A",
+      "explanation": "In academic and scientific writing, 'metric' refers to a quantifiable measurement or system of evaluation. Option B refers to poetry; C refers to music; D is too narrowly mathematical. The sentence uses 'metric' to describe a framework for measuring the nature-prosperity relationship."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The humanitarian crisis amid the conflict in the affected areas means more than 1 million people are living in camps to which health workers have no access.",
+      "question": "The phrase 'amid the conflict' most nearly means:",
+      "options": [
+        "A) In the middle of or surrounded by the conflict",
+        "B) As a result of the conflict",
+        "C) Despite the existence of the conflict",
+        "D) Alongside preparations to resolve the conflict"
+      ],
+      "answer": "A",
+      "explanation": "'Amid' indicates a situation occurring within or surrounded by specific circumstances. Option B suggests causation rather than spatial/temporal placement; C contradicts the meaning; D is too specific. 'Amid' establishes that the humanitarian crisis coexists with and is embedded in the conflict situation."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The Nature Relationship Index aims to capture with precision what has long remained ambiguous in global sustainability discourse.",
+      "question": "Which word best captures the essence of 'discourse' in academic contexts?",
+      "options": [
+        "A) A formal conversation between two people",
+        "B) Structured written or spoken communication on a specific topic, often within academic or professional fields",
+        "C) A speech delivered at a formal event",
+        "D) An interruption or digression from the main topic"
+      ],
+      "answer": "B",
+      "explanation": "In academic contexts, 'discourse' refers to the body of communication, discussion, and conceptual frameworks surrounding a particular field or topic. Option A is too restrictive; C is a speech, not discourse; D misrepresents the meaning. Discourse involves sustained, structured engagement with ideas."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The experts have the fresco cleaned by specialists who use advanced techniques.",
+      "question": "Which revision correctly uses causative 'have' to express that experts cause the fresco to be cleaned?",
+      "options": [
+        "A) The experts have the fresco cleaned by specialists who use advanced techniques.",
+        "B) The experts have cleaned the fresco by specialists who use advanced techniques.",
+        "C) The experts are having the fresco cleaned by specialists who use advanced techniques.",
+        "D) The experts have the fresco to be cleaned by specialists who use advanced techniques."
+      ],
+      "answer": "C",
+      "explanation": "Causative 'have' with the meaning 'to arrange for someone to do something' requires the continuous form 'are having' when expressing an ongoing action. Option A lacks the auxiliary 'are'; B incorrectly positions 'cleaned' as past participle rather than causative structure; D uses an ungrammatical infinitive construction. Option C correctly shows present continuous causative."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The acquisition demonstrates the importance of art, preservation, and innovation in contemporary society.",
+      "question": "Which sentence correctly uses articles with abstract and uncountable nouns?",
+      "options": [
+        "A) The acquisition demonstrates the importance of art, the preservation, and innovation in contemporary society.",
+        "B) The acquisition demonstrates importance of art, preservation, and innovation in contemporary society.",
+        "C) The acquisition demonstrates the importance of art, preservation, and innovation in contemporary society.",
+        "D) The acquisition demonstrates a importance of art, preservation, and innovation in contemporary society."
+      ],
+      "answer": "C",
+      "explanation": "Abstract and uncountable nouns (art, preservation, innovation, importance) typically use zero article when used generically or take the definite article 'the' when referring to specific instances. Option A incorrectly adds 'the' before 'preservation'; B removes the article before 'importance'; D uses the indefinite article 'a' incorrectly with an abstract noun. Option C correctly maintains zero articles for the generic nouns in a parallel series."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "She claimed that she had never visited the Metropolitan Museum, though her colleagues insisted she was there last year.",
+      "question": "Which sentence correctly uses the past perfect to show the relationship between two past events?",
+      "options": [
+        "A) She claimed that she has never visited the Metropolitan Museum, though her colleagues insisted she was there last year.",
+        "B) She claimed that she had never visited the Metropolitan Museum, though her colleagues insisted she was there last year.",
+        "C) She claimed that she never visited the Metropolitan Museum, though her colleagues insisted she had been there last year.",
+        "D) She claimed that she visited the Metropolitan Museum, though her colleagues insisted she was there last year."
+      ],
+      "answer": "B",
+      "explanation": "The past perfect ('had never visited') must be used in reported speech to indicate that the event occurred before the moment of reporting in the past. Option A incorrectly uses present perfect after a past reporting verb; C uses simple past instead of past perfect; D removes the negation and changes the meaning entirely. Option B correctly maintains the past perfect to show the prior event."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The director announced that the restoration _____ on schedule despite the initial setbacks.",
+      "question": "Which verb form correctly completes the reported speech sentence?",
+      "options": [
+        "A) would proceed",
+        "B) proceeds",
+        "C) is proceeding",
+        "D) will proceed"
+      ],
+      "answer": "A",
+      "explanation": "In reported speech with a past reporting verb ('announced'), future reference requires backshift to the conditional form 'would proceed.' Option B uses simple present, which is inappropriate for future time in reported speech; C uses continuous present; D uses simple future, which would only be correct in direct speech. Option A correctly applies tense backshift to past conditional."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "No sooner _____ the team completed the first assessment _____ they discovered a critical flaw in their approach.",
+      "question": "Which inverted structure correctly follows 'No sooner'?",
+      "options": [
+        "A) had / than",
+        "B) have / when",
+        "C) had / when",
+        "D) have / than"
+      ],
+      "answer": "A",
+      "explanation": "'No sooner' is a negative adverbial that requires inversion and must be paired with 'than' (not 'when'). The verb form must be past perfect ('had completed') because it denotes a complete past action that precedes another past action. Option B uses present perfect, which is incorrect; C pairs 'had' with 'when' instead of 'than'; D uses present perfect and 'than.' Option A correctly combines past perfect with 'than' after 'No sooner.'"
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "After the first match, everyone was talking about Cape Verde.",
+      "question": "Which phrase most naturally replaces 'After the first match'?",
+      "options": [
+        "A) Following the completion of the first match",
+        "B) In the aftermath of the first match",
+        "C) Right after the first match",
+        "D) Once the first match had concluded"
+      ],
+      "answer": "C",
+      "explanation": "In casual, conversational contexts, 'Right after the first match' maintains the natural, everyday tone of the original. Option A is overly formal; B is more literary; D is grammatically correct but more formal than the original sentence. Option C preserves the conversational style appropriate to a human interest story about Cape Verde's World Cup participation."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The building, having been constructed in the 1920s, required significant renovation.",
+      "question": "Which rephrasing is most natural in everyday speech?",
+      "options": [
+        "A) The building, which had been constructed in the 1920s, required significant renovation.",
+        "B) The building was constructed in the 1920s and required significant renovation.",
+        "C) Because the building was constructed in the 1920s, it required significant renovation.",
+        "D) Since being constructed in the 1920s, the building required significant renovation."
+      ],
+      "answer": "B",
+      "explanation": "Option B uses simple, direct coordination with 'and' that reflects everyday speech. Option A preserves the absolute phrase but sounds formal; C adds causal interpretation not present in the original; D maintains the participial structure, which is less natural in conversational English. Option B breaks the information into two simple clauses, typical of everyday communication."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "He suggested that the team reconsider its approach, given the new information that had emerged.",
+      "question": "Which version is most naturally used in casual workplace conversation?",
+      "options": [
+        "A) He suggested that the team reconsider its approach, given the new information that had emerged.",
+        "B) He suggested the team reconsider their approach in light of new information.",
+        "C) He suggested that the team should reconsider their approach because new information had emerged.",
+        "D) He proposed that the team's approach be reconsidered given the emergence of new information."
+      ],
+      "answer": "B",
+      "explanation": "Option B uses informal 'their' (instead of formal 'its'), the infinitive construction without 'that,' and 'in light of' as a natural, casual replacement for the more formal 'given.' Option A is the original, more formal version; C adds 'should,' which is unnecessary in casual speech; D uses formal 'proposed' and passive voice construction. Option B best reflects natural workplace conversation tone."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "The Menil Collection's acquisition of more than seventy works by Terry Winters, a chronicler of botanical eccentricities and mathematical patterns, represents a significant commitment to preserving the artistic output of an artist whose work has been exhibited at major institutions including the Whitney Museum and the Metropolitan Museum of Art.",
+      "question": "Rewrite this sentence in your own words, preserving the main ideas. What are the core meanings?",
+      "options": null,
+      "answer": null,
+      "explanation": "This paraphrase task asks students to extract and rephrase the essential information: the Menil Collection acquired a large number of Winters' artworks; Winters creates art exploring botanical and mathematical themes; his work is recognized by major museums. The rewrite should maintain these core concepts while using different sentence structure and vocabulary.",
+      "paraphrase_keywords": [
+        "acquisition",
+        "preserved",
+        "major artist",
+        "seventy works",
+        "recognized institutions"
+      ]
+    }
+  ]
+}
