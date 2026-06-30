@@ -1,0 +1,218 @@
+{
+  "date": "2026-06-30",
+  "generated_at": "2026-06-30T22:19:32.435848",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Three Swiss museums have collectively returned eighteen courtly and religious objects from the Republic of Benin.",
+      "question": "In this context, 'courtly' most nearly means:",
+      "options": [
+        "A) Polite and refined in manner",
+        "B) Relating to royal courts and nobility",
+        "C) Suitable for legal proceedings",
+        "D) Modest and unpretentious"
+      ],
+      "answer": "B",
+      "explanation": "While 'courtly' can mean polite and refined (A), in the context of museum objects and looted artifacts, it specifically refers to items belonging to royal courts and palaces. Options C and D are semantically unrelated to the word's primary meaning in art history discourse."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Kallmann has for the past nine years waged a legal battle involving Paris's Musée d'Orsay.",
+      "question": "The verb 'waged' in this sentence most accurately conveys:",
+      "options": [
+        "A) Paid wages to lawyers",
+        "B) Carried on persistently and determinedly",
+        "C) Bet money on a legal outcome",
+        "D) Threatened to take action"
+      ],
+      "answer": "B",
+      "explanation": "'Waged' means to carry on or conduct (typically a conflict, campaign, or struggle) with sustained effort. Option A misinterprets the word literally, C suggests gambling, and D implies threat rather than action. The metaphorical use of 'wage' is common with battles, campaigns, and legal struggles."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The costs of transformative innovations are immediately clear: it's the longterm gains that are hardest to understand.",
+      "question": "'Transformative' in this context best means:",
+      "options": [
+        "A) Capable of being translated into another form",
+        "B) Causing a marked change in someone or something",
+        "C) Relating to geometric transformation",
+        "D) Temporary or provisional in nature"
+      ],
+      "answer": "B",
+      "explanation": "'Transformative' refers to innovations that fundamentally change systems or perspectives, not mere translation (A) or geometric concepts (C). Option D contradicts the sense of lasting impact implied in the passage. The word emphasizes profound, lasting change."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "A priceless collection of thousands of artworks which were looted from the ancient kingdoms.",
+      "question": "The term 'looted' most precisely indicates:",
+      "options": [
+        "A) Borrowed without permission but intended to return",
+        "B) Stolen or taken forcibly, especially during conflict or disorder",
+        "C) Purchased at unfair prices",
+        "D) Catalogued and inventoried systematically"
+      ],
+      "answer": "B",
+      "explanation": "'Looted' carries connotations of forcible theft, typically during warfare, colonialism, or civil unrest. Option A downplays the severity and illegality; C refers to economic unfairness rather than theft; D is an administrative action entirely unrelated to the term's meaning."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "In the coastal city of Durban, where violence had been expected, the streets were unusually quiet and shops were shuttered as tension hung thick in the air.",
+      "question": "'Shuttered' in this passage means:",
+      "options": [
+        "A) Protected with protective devices",
+        "B) Photographed with a camera",
+        "C) Closed off with metal or wooden covers",
+        "D) Temporarily suspended from operating"
+      ],
+      "answer": "C",
+      "explanation": "In this context, 'shuttered' describes shops that have physically closed their protective window coverings as a precaution against violence. While D might seem close, it's less precise; the visual detail of physical closure is essential to the passage's imagery of heightened tension and precaution."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "If the museum _____ the cultural significance of the objects, they would never have agreed to return them.",
+      "question": "Which option correctly completes this third conditional sentence?",
+      "options": [
+        "A) had not understood",
+        "B) would not understand",
+        "C) did not understand",
+        "D) will not understand"
+      ],
+      "answer": "A",
+      "explanation": "The third conditional requires past perfect (had not understood) in the if-clause to express a hypothetical past situation with present/past consequences. Option B uses second conditional (incorrect tense); C and D use present or future forms, which cannot express counterfactual past events."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "I strongly suggest that the government _____ a comprehensive policy on artifact repatriation before further disputes arise.",
+      "question": "Which form is grammatically correct after the subjunctive trigger?",
+      "options": [
+        "A) develops",
+        "B) develop",
+        "C) should develop",
+        "D) would develop"
+      ],
+      "answer": "B",
+      "explanation": "After 'suggest that,' the subjunctive mood requires the base form 'develop' without -s ending, even with singular subjects. Option A is indicative mood (incorrect); C and D introduce modal auxiliaries that weaken the subjunctive force. British and American formal English both require this construction."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The researcher had the laboratory technician _____ multiple samples to verify the findings.",
+      "question": "Which causative structure is grammatically correct?",
+      "options": [
+        "A) test",
+        "B) testing",
+        "C) to test",
+        "D) tested"
+      ],
+      "answer": "A",
+      "explanation": "The causative 'have + object + bare infinitive' (had...test) is the standard structure. Option B uses a gerund, which is grammatically incorrect with causative 'have'; C adds 'to' unnecessarily; D uses past participle, which conveys passive meaning rather than causative intention."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "She regretted _____ the opportunity to study the collection firsthand.",
+      "question": "Which structure has a different meaning than the other options?",
+      "options": [
+        "A) missing",
+        "B) to miss",
+        "C) having missed",
+        "D) not having taken"
+      ],
+      "answer": "B",
+      "explanation": "Gerund + verb (missing, having missed, not having taken) expresses regret about a completed action. The infinitive 'to miss' (B) shifts meaning to general regret about the tendency to miss opportunities, or hypothetical regret. All others express specific past regret, making B fundamentally different."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "_____ the experiment twice without success, the team decided to abandon the original hypothesis.",
+      "question": "Which participle clause correctly completes this sentence?",
+      "options": [
+        "A) Being failed",
+        "B) Having failed",
+        "C) Having been failed",
+        "D) Failing"
+      ],
+      "answer": "B",
+      "explanation": "'Having failed' (present perfect participle) correctly expresses the completion of the action before the main clause action. Option A uses progressive passive (grammatically awkward for completed actions); C is redundantly passive; D (simple participle) doesn't clearly convey the prior completion of multiple attempts."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "By the time she arrived at the conference, most of the morning sessions had already concluded.",
+      "question": "In everyday conversation, which rephrase sounds most natural?",
+      "options": [
+        "A) She arrived at the conference, and most morning sessions had concluded before she got there.",
+        "B) By her arrival at the conference, most morning sessions had already finished.",
+        "C) Most morning sessions were over by the time she showed up.",
+        "D) The morning sessions' conclusion had preceded her arrival at the conference."
+      ],
+      "answer": "C",
+      "explanation": "Option C uses colloquial 'showed up' and simple past, which is how speakers naturally express this sequence informally. A is verbose and awkward; B preserves the original passivity; D is overly formal and awkward. C captures the natural conversational register while maintaining meaning."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The more carefully he read the contract, the more concerned he became about its implications.",
+      "question": "Which option best captures this idea in everyday speech?",
+      "options": [
+        "A) The careful reading of the contract increased his concerns about its implications.",
+        "B) He became increasingly concerned as he read the contract more carefully.",
+        "C) His careful reading correlated with his increasing concern regarding implications.",
+        "D) Reading the contract carefully led to his concern about its implications."
+      ],
+      "answer": "B",
+      "explanation": "Option B maintains the causal progression and the natural register of everyday conversation while preserving the escalation dynamic. A and C are more formal or awkward in construction; D sounds stiff and uses 'led to' rather than capturing the proportional escalation expressed in the original."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Despite the rain, she decided to walk to the market rather than take the bus.",
+      "question": "Which alternative most naturally conveys the same meaning?",
+      "options": [
+        "A) She opted to walk despite the rain, preferring this to taking the bus.",
+        "B) Rain notwithstanding, she chose walking over the bus to the market.",
+        "C) Instead of taking the bus, she walked to the market even though it was raining.",
+        "D) The rain did not deter her from walking to the market; she rejected the bus option."
+      ],
+      "answer": "C",
+      "explanation": "Option C uses accessible vocabulary and natural sentence flow while preserving all elements. A is slightly formal with 'opted'; B uses archaic 'notwithstanding'; D is clunky with 'rejected the bus option.' C most closely mirrors everyday speech patterns and word choice."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "The costs of transformative innovations are immediately clear: it's the longterm gains that are hardest to understand.",
+      "question": "Paraphrase this sentence in your own words, capturing the core meaning.",
+      "options": null,
+      "answer": null,
+      "explanation": "Expected keywords should include: immediate/short-term costs, transformative innovations, long-term benefits/gains, difficulty understanding/recognizing, contrast/paradox. Acceptable paraphrase: 'While the short-term expenses of breakthrough innovations are obvious and visible, it is much harder to recognize or predict their future advantages.'",
+      "paraphrase_keywords": [
+        "immediate costs",
+        "transformative innovations",
+        "long-term gains",
+        "difficult to understand",
+        "contrast between visible and hidden benefits"
+      ]
+    }
+  ]
+}
