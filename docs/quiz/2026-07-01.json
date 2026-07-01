@@ -1,0 +1,218 @@
+{
+  "date": "2026-07-01",
+  "generated_at": "2026-07-01T22:23:42.825192",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The removals took place thanks to an intervention from the Manhattan District Attorney's office, which altogether has seized dozens of ancient artifacts.",
+      "question": "In this context, what does 'intervention' most precisely mean?",
+      "options": [
+        "A. A diplomatic negotiation between two countries",
+        "B. Official action taken to stop or prevent something",
+        "C. A medical procedure to treat a condition",
+        "D. A casual discussion among colleagues"
+      ],
+      "answer": "B",
+      "explanation": "Intervention here refers to purposeful official action by a legal authority to seize the artifacts. Options A and C are alternate meanings of intervention in different contexts. Option D misses the formal, authoritative nature implied by 'District Attorney's office.'"
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Following the removal of layers of overpaint in preparation for a Sotheby's auction, a bearded man in the frame was discovered to be wearing a turban instead.",
+      "question": "What does 'uncovered' mean in the phrase 'has uncovered a previously hidden context'?",
+      "options": [
+        "A. Physically removed a covering material",
+        "B. Revealed or discovered something previously unknown",
+        "C. Exposed to public view for the first time",
+        "D. Stripped away layers of protection"
+      ],
+      "answer": "B",
+      "explanation": "In academic contexts, 'uncovered' is used metaphorically to mean 'revealed' or 'discovered.' While A and D describe literal physical actions related to restoration, they miss the broader sense of intellectual discovery. Option C is too narrow; the focus is on discovering hidden meaning, not just public exposure."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The costs of transformative innovations are immediately clear: it's the longterm gains that are hardest to understand.",
+      "question": "Which word best captures the meaning of 'transformative' in this sentence?",
+      "options": [
+        "A. Challenging",
+        "B. Rapid",
+        "C. Fundamentally changing or revolutionary",
+        "D. Expensive"
+      ],
+      "answer": "C",
+      "explanation": "'Transformative' means causing fundamental change or revolution. While innovations may be challenging (A), rapid (B), or expensive (D), these miss the core meaning that emphasizes systemic change with long-term implications."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Report accuses paramilitary force of crimes including ethnic cleansing in systemic campaign against civilians.",
+      "question": "In this context, 'systemic' most closely means:",
+      "options": [
+        "A. Related to computer systems",
+        "B. Organized and embedded within a structure; methodical and widespread",
+        "C. Difficult to treat or cure",
+        "D. Accidental or unintentional"
+      ],
+      "answer": "B",
+      "explanation": "'Systemic' here describes crimes that are organized, intentional, and widespread as part of an overall campaign. Option A refers to computers, option C to medical conditions, and option D contradicts the accusatory tone implying deliberate action."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Fears of resurgence of HIV/Aids amid loss of access to PrEP drugs as at least 40 people arrested in 'toxic' climate.",
+      "question": "What does 'resurgence' mean in this headline?",
+      "options": [
+        "A. A sudden increase or reappearance of something previously declined",
+        "B. A complete elimination of a disease",
+        "C. A temporary fluctuation in case numbers",
+        "D. A surgical intervention to treat patients"
+      ],
+      "answer": "A",
+      "explanation": "'Resurgence' means a strong return or reappearance, particularly of something that had been declining. Option B is opposite in meaning. Option C understates the significance implied by 'fears of.' Option D misapplies a medical term."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "It is essential that the laboratory _____ strict protocols to ensure the validity of results.",
+      "question": "Which verb form correctly completes this sentence using the subjunctive mood?",
+      "options": [
+        "A. follows",
+        "B. follow",
+        "C. will follow",
+        "D. is following"
+      ],
+      "answer": "B",
+      "explanation": "After 'It is essential that,' the subjunctive mood requires the bare infinitive form without -s (follow, not follows). This is a mandatory subjunctive construction in formal English. Options A, C, and D use indicative moods inappropriate for expressing demands or recommendations after such phrases."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Hardly _____ the restoration begun when the museum director announced the discovery to the press.",
+      "question": "Which word order correctly completes this sentence with inversion after a negative adverbial?",
+      "options": [
+        "A. had the work",
+        "B. the work had",
+        "C. has the work",
+        "D. the work has"
+      ],
+      "answer": "A",
+      "explanation": "Negative adverbials like 'Hardly' require subject-verb inversion: 'Hardly had the work begun.' Option B lacks the inversion. Options C and D use present perfect, which doesn't match the past context established by 'announced.'"
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "She remembered _____ the artifact before; she had seen it years ago at another institution.",
+      "question": "Which form correctly completes this sentence, given the change of meaning between gerunds and infinitives?",
+      "options": [
+        "A. to see",
+        "B. seeing",
+        "C. to have seen",
+        "D. having seen"
+      ],
+      "answer": "B",
+      "explanation": "'Remember + gerund' means to recall an experience that already happened. 'Remember + infinitive' means to not forget to do something in the future. Since she recalls an actual past visit, 'seeing' (option B) is correct. Options A and C suggest a future intention, which contradicts the context."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "You _____ attended the conference; it would have been invaluable for your research.",
+      "question": "Which modal verb expresses the speaker's criticism that something was not done?",
+      "options": [
+        "A. might have",
+        "B. could have",
+        "C. should have",
+        "D. needn't have"
+      ],
+      "answer": "C",
+      "explanation": "'Should have' expresses that something was advisable but was not done, conveying mild criticism. 'Might have' and 'could have' express possibility, not obligation. 'Needn't have' suggests something was done unnecessarily, implying the opposite situation."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "If the museum had discovered the hidden detail earlier, _____ publicized the finding immediately.",
+      "question": "Which option correctly completes this third conditional sentence?",
+      "options": [
+        "A. it would publicize",
+        "B. it will have publicized",
+        "C. it would have publicized",
+        "D. it publicizes"
+      ],
+      "answer": "C",
+      "explanation": "Third conditional sentences require 'would have + past participle' in the main clause to match the 'had + past participle' in the if-clause. This form expresses an unreal past situation. Options A, B, and D use wrong tenses inappropriate for counterfactual past scenarios."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "He suggested that the team reconsider its approach, given the new information that had emerged.",
+      "question": "Which alternative phrasing would be most natural in the same context?",
+      "options": [
+        "A. He suggested the team should reconsider its approach",
+        "B. He suggested that the team reconsiders its approach",
+        "C. He insisted the team will reconsider its approach",
+        "D. He proposed the team to reconsider its approach"
+      ],
+      "answer": "A",
+      "explanation": "Option A is naturally equivalent, using 'should' instead of the subjunctive to express a suggestion. Option B uses present tense incorrectly. Option C changes the meaning to insistence rather than suggestion. Option D is grammatically incorrect; 'propose + object + to infinitive' is not valid English."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The building, having been constructed in the 1920s, required significant renovation before it could be used.",
+      "question": "Which rephrasing captures the same meaning most naturally?",
+      "options": [
+        "A. Because it was constructed in the 1920s, the building required significant renovation",
+        "B. Although constructed in the 1920s, the building required significant renovation",
+        "C. Constructing the building in the 1920s, it required significant renovation",
+        "D. The building that constructed in the 1920s required significant renovation"
+      ],
+      "answer": "A",
+      "explanation": "Option A preserves the causal relationship (age causes need for renovation) implied by the original. Option B introduces contrast incorrectly. Option C has a dangling modifier. Option D is grammatically incorrect with 'that constructed.'"
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Having lived in three different countries, he was comfortable navigating unfamiliar cultural situations.",
+      "question": "Which alternative is most equivalent in meaning?",
+      "options": [
+        "A. Because he lived in three different countries, he was comfortable navigating unfamiliar cultural situations",
+        "B. He lived in three different countries, so he was comfortable with navigating unfamiliar cultural situations",
+        "C. He lived in three different countries, which made him comfortable navigating unfamiliar cultural situations",
+        "D. Although he had lived in three different countries, he was comfortable navigating unfamiliar cultural situations"
+      ],
+      "answer": "B",
+      "explanation": "Option B preserves the causal logic: experience in multiple countries leads to comfort with cultural unfamiliarity. Option A is slightly awkward with 'Because + past tense.' Option C adds unnecessary formality. Option D introduces unwarranted contrast with 'Although.'"
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "Following the removal of layers of overpaint in preparation for a Sotheby's auction, a bearded man in the frame was discovered to be wearing a turban instead of his originally painted headpiece.",
+      "question": "Rewrite this sentence in your own words, capturing the core meaning.",
+      "options": null,
+      "answer": null,
+      "explanation": "A strong paraphrase should convey: restoration/cleaning revealed a hidden or altered detail (the turban); this discovery contradicted the original artistic intent or later changes; it happened during preparation for sale.",
+      "paraphrase_keywords": [
+        "restoration",
+        "hidden detail",
+        "turban",
+        "original painting",
+        "discovered alteration"
+      ]
+    }
+  ]
+}
