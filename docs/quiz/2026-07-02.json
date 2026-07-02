@@ -1,0 +1,216 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T22:14:41.156013",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The gallery's closure marked the end of an era, as it had been a _____ force in championing emerging artists.",
+      "question": "Which word best completes this sentence about the gallery's impact?",
+      "options": [
+        "A. formidable",
+        "B. random",
+        "C. trivial",
+        "D. neutral"
+      ],
+      "answer": "A",
+      "explanation": "Formidable means impressive or commanding respect, fitting the gallery's role as a champion of emerging talent. Random, trivial, and neutral all contradict the notion of significant cultural impact described in the source text."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "In the _____ aftermath of war, Sartre's lecture on freedom resonated with urgent relevance to his audience.",
+      "question": "What word describes the state following war as presented in the source?",
+      "options": [
+        "A. shattered",
+        "B. prosperous",
+        "C. organized",
+        "D. peaceful"
+      ],
+      "answer": "A",
+      "explanation": "Shattered directly appears in the source and conveys destruction and chaos following conflict. Prosperous, organized, and peaceful contradict the devastation implied by 'aftermath of war.'"
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The virus remained _____ beneath public awareness, spreading silently while authorities focused on other outbreaks.",
+      "question": "Which word best describes a threat that develops quietly and undetected?",
+      "options": [
+        "A. dormant",
+        "B. smouldering",
+        "C. extinct",
+        "D. prominent"
+      ],
+      "answer": "B",
+      "explanation": "Smouldering (from the source) means burning slowly or developing quietly without immediate attention. Dormant suggests complete inactivity; extinct means gone; prominent contradicts the 'under the radar' concept."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The government's decision to scrap the philosophy program was met with considerable _____ from the academic community.",
+      "question": "What is the most appropriate word for strong disagreement or criticism?",
+      "options": [
+        "A. approbation",
+        "B. acrimony",
+        "C. benediction",
+        "D. malaise"
+      ],
+      "answer": "B",
+      "explanation": "Acrimony means bitterness and harsh feeling, appropriate for strong opposition to a decision. Approbation means approval (opposite meaning); benediction means blessing; malaise suggests vague discomfort rather than vocal opposition."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The authorities' failure to identify the virus source created a _____ situation in which both human and wildlife populations remained vulnerable.",
+      "question": "Which word describes a situation lacking clear resolution or solution?",
+      "options": [
+        "A. pellucid",
+        "B. palpable",
+        "C. precarious",
+        "D. prescient"
+      ],
+      "answer": "C",
+      "explanation": "Precarious means dangerously uncertain or unstable, fitting a situation where risk remains undefined. Pellucid means transparent/clear (opposite meaning); palpable means easily perceived; prescient means foreseeing the future."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "_____ in the 1920s, the building required significant renovation before occupancy.",
+      "question": "Which option correctly uses a participle clause to describe the building's origin?",
+      "options": [
+        "A. Having been constructed",
+        "B. Being constructed",
+        "C. To have been constructed",
+        "D. Constructed"
+      ],
+      "answer": "A",
+      "explanation": "Having been constructed (perfect passive participle) correctly indicates a past action completed before the main clause's action. Being constructed would suggest ongoing action during renovation; 'to have been' is not a participle form; while 'constructed' alone is acceptable, 'having been constructed' is more emphatic about the completed prior action."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "The committee, which had been meeting every Tuesday, _____ a consensus on the proposed changes.",
+      "question": "Which verb form correctly agrees with the subject in this sentence?",
+      "options": [
+        "A. have reached",
+        "B. has reached",
+        "C. are reaching",
+        "D. were reaching"
+      ],
+      "answer": "B",
+      "explanation": "The subject is 'the committee' (singular collective noun), requiring the singular verb 'has reached.' The relative clause 'which had been meeting every Tuesday' is nondefining and doesn't change subject agreement; treating committee as plural (have reached) is incorrect in formal usage."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "The building, _____, required significant renovation.",
+      "question": "Which relative clause version is non-defining (providing additional information) rather than defining (restricting meaning)?",
+      "options": [
+        "A. that was constructed in the 1920s",
+        "B. which was constructed in the 1920s",
+        "C. constructed in the 1920s",
+        "D. which had been constructed in the 1920s"
+      ],
+      "answer": "B",
+      "explanation": "Which (with commas indicating non-defining) correctly adds extra information about an already-identified building. That introduces defining clauses (restricting which building); the participle form omits the marking; D is also non-defining but B best demonstrates the standard which/non-defining distinction."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The researchers _____ have discovered the virus source months ago, given the available evidence.",
+      "question": "Which modal correctly expresses criticism about a past action that didn't happen?",
+      "options": [
+        "A. must",
+        "B. might",
+        "C. should",
+        "D. could"
+      ],
+      "answer": "C",
+      "explanation": "Should have expresses mild criticism or advisability in retrospect ('they should have done it'). Must have expresses certainty about the past; might/could express possibility, not criticism."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The authorities _____ have issued immediate warnings; the delay was unnecessary given the outbreak severity.",
+      "question": "Which modal expresses that an action was unnecessary or not required?",
+      "options": [
+        "A. must",
+        "B. needn't",
+        "C. couldn't",
+        "D. shouldn't"
+      ],
+      "answer": "B",
+      "explanation": "Needn't have means an action was not necessary but was performed anyway. Must implies obligation; shouldn't implies inadvisability (opposite of needed); couldn't implies impossibility."
+    },
+    {
+      "id": 11,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "By the time the conference began, most of the morning sessions _____ already concluded.",
+      "question": "Which perfect tense correctly shows an action completed before another past action?",
+      "options": [
+        "A. have",
+        "B. had",
+        "C. have been",
+        "D. are"
+      ],
+      "answer": "B",
+      "explanation": "Had (past perfect) correctly expresses an action completed before the conference began. Have indicates present perfect (wrong time frame); 'have been' is present perfect continuous; 'are' is simple present."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The more carefully he read the contract, _____.",
+      "question": "Which continuation most naturally completes this thought?",
+      "options": [
+        "A. the more he was reading it",
+        "B. the more concerned he became",
+        "C. the more it was concerning to him",
+        "D. the more concerning it seemed"
+      ],
+      "answer": "B",
+      "explanation": "The more...the more construction requires parallel structure with 'the more concerned he became,' which is clear and active. Option A repeats the action; C and D are awkwardly constructed or passive."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Rarely _____ the team faced such demanding conditions.",
+      "question": "Which auxiliary verb correctly completes this inverted question structure?",
+      "options": [
+        "A. had",
+        "B. has",
+        "C. have",
+        "D. would"
+      ],
+      "answer": "A",
+      "explanation": "Inversion with 'rarely' (a negative adverbial) requires past perfect 'had faced,' not present perfect or simple past forms. The source example demonstrates this inverted structure."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "The gallery's closure marked the end of an era, as it had been a formidable force in championing emerging artists and possessed an acute discernment for identifying latent talent within the art world.",
+      "question": "Rewrite this sentence in your own words, capturing the core meaning about the gallery's significance and its role.",
+      "options": null,
+      "answer": null,
+      "paraphrase_keywords": [
+        "gallery closure",
+        "significant impact",
+        "supported emerging artists",
+        "recognized talent"
+      ]
+    }
+  ]
+}
