@@ -1,0 +1,218 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T22:11:49.754726",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Contemporary art practices increasingly engage with questions of institutional critique and the politics of display.",
+      "question": "In this context, 'institutional critique' most closely means:",
+      "options": [
+        "A) A formal evaluation of how well an institution is managed",
+        "B) A critical examination of an institution's power structures, authority, and role in society",
+        "C) A negative review of an institution's artistic output",
+        "D) An official complaint filed against an institution"
+      ],
+      "answer": "B",
+      "explanation": "Institutional critique is a specific art movement and theoretical approach that questions how institutions (museums, galleries, governments) shape meaning and exercise power. Option A is too narrow and administrative; C misses the theoretical dimension; D confuses critique with formal complaint."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The testimonies of Ukraine's war widows reveal the mortal risk of love and the possibility of dying while alive: a black pain.",
+      "question": "The phrase 'dying while alive' suggests a state of:",
+      "options": [
+        "A) Physical illness and medical deterioration",
+        "B) Emotional devastation and existential despair despite physical survival",
+        "C) Suicidal ideation requiring intervention",
+        "D) Literal medical coma or unconsciousness"
+      ],
+      "answer": "B",
+      "explanation": "This is a poetic, metaphorical expression describing profound grief and loss of will to live emotionally while remaining biologically alive. A and D are overly literal; C misreads the context as clinical rather than emotional and literary."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Indian prime minister has a habit of collecting awards on his travels, some as their first and only recipient.",
+      "question": "Which word best captures the implied criticism in calling Modi an award 'collector'?",
+      "options": [
+        "A) Accumulator—emphasizing quantity without quality",
+        "B) Curator—celebrating his careful selection of honors",
+        "C) Recipient—acknowledging his rightful honors",
+        "D) Custodian—praising his stewardship of recognition"
+      ],
+      "answer": "A",
+      "explanation": "'Collector' carries a pejorative connotation suggesting the gathering of items for their number rather than merit, implying the awards may lack genuine significance. B, C, and D all frame the situation positively, missing the subtle criticism in the original phrasing."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Authorities say rainy season getting deadlier, with Ghana reporting 13 dead and floods hitting Benin, Togo and Nigeria.",
+      "question": "In journalistic reporting, 'deadlier' functions as:",
+      "options": [
+        "A) A comparative adjective indicating increased fatality rates compared to previous years",
+        "B) An adverb modifying the verb 'getting'",
+        "C) A noun referring to a person who causes death",
+        "D) A superlative form indicating the most dangerous situation"
+      ],
+      "answer": "A",
+      "explanation": "The comparative form 'deadlier' compares current flood conditions to some previous baseline (earlier rainy seasons), making it an adjective. B is grammatically incorrect; C is a misreading of form; D confuses comparative with superlative."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "original",
+      "sentence": "The government's obfuscation of the environmental report angered climate scientists who demanded transparency.",
+      "question": "'Obfuscation' most accurately means:",
+      "options": [
+        "A) Deliberate obscuring or making something unclear",
+        "B) Formal denial or public rejection of findings",
+        "C) Accidental misplacement of important documents",
+        "D) Translation into overly technical language"
+      ],
+      "answer": "A",
+      "explanation": "Obfuscation means intentionally making something obscure, confusing, or difficult to understand—often to hide information. B implies explicit denial rather than obscuring; C suggests accident rather than intent; D describes a linguistic issue but not deliberate hiding."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "It is essential that he _____ the deadline, or the entire project will be postponed.",
+      "question": "Which verb form correctly completes this sentence using the subjunctive mood?",
+      "options": [
+        "A) meets",
+        "B) meet",
+        "C) will meet",
+        "D) would meet"
+      ],
+      "answer": "B",
+      "explanation": "After expressions like 'It is essential that,' the subjunctive mood requires the bare infinitive form without the 's' ending, even with third-person singular subjects. A uses indicative mood; C and D use conditional forms inappropriate for this context."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_____ knowledge of local customs is important for successful diplomatic missions.",
+      "question": "Which article correctly completes this sentence with abstract and uncountable nouns?",
+      "options": [
+        "A) The",
+        "B) A",
+        "C) An",
+        "D) Ø (zero article)"
+      ],
+      "answer": "D",
+      "explanation": "When referring to abstract or uncountable nouns in a general sense, no article is used. 'Knowledge' is abstract and uncountable, and we speak of it generally, not a specific instance. Options A-C inappropriately add articles to a noun that should be zero-articled in this context."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "The building, _____ in the 1920s, required significant renovation before it could be used.",
+      "question": "Which participial clause correctly completes this sentence?",
+      "options": [
+        "A) having been constructed",
+        "B) being constructed",
+        "C) to be constructed",
+        "D) constructing"
+      ],
+      "answer": "A",
+      "explanation": "The perfect passive participle 'having been constructed' correctly shows that the construction occurred before the renovation need arose. B suggests ongoing construction; C indicates future intent; D misplaces the action onto the building."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "If I were offered the promotion, I _____ accept it immediately.",
+      "question": "Which verb form correctly completes this second conditional sentence?",
+      "options": [
+        "A) will accept",
+        "B) would accept",
+        "C) shall accept",
+        "D) would have accepted"
+      ],
+      "answer": "B",
+      "explanation": "Second conditional sentences (hypothetical present situations) require 'would' + infinitive in the main clause to match the subjunctive 'were' in the if-clause. A and C use indicative mood; D is third conditional form."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "If she had completed the training last month, she _____ eligible for promotion now.",
+      "question": "Which verb form correctly completes this third conditional sentence?",
+      "options": [
+        "A) would be",
+        "B) would have been",
+        "C) will be",
+        "D) has been"
+      ],
+      "answer": "A",
+      "explanation": "Third conditional main clauses expressing present results from past hypothetical actions use 'would + be.' Though the if-clause is past perfect, the main clause reflects the present consequence. B is purely past; C and D are indicative forms."
+    },
+    {
+      "id": 11,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "She _____ the architects redesign the building to include more natural light.",
+      "question": "Which causative form correctly completes this sentence?",
+      "options": [
+        "A) had",
+        "B) got",
+        "C) made",
+        "D) let"
+      ],
+      "answer": "A",
+      "explanation": "'Have' in causative structure (have + object + past participle) is most formal and appropriate for directing professional services. 'Got' (got them to redesign) requires 'to'; 'made' suggests force; 'let' suggests permission, not direction."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "He had been working on the project for three weeks before he realized a fundamental error in his approach.",
+      "question": "Which expression most naturally continues this thought?",
+      "options": [
+        "A) so he scrapped everything and started over",
+        "B) which meant he had wasted significant time and effort",
+        "C) to the point where the deadline was at risk",
+        "D) but he kept going regardless"
+      ],
+      "answer": "B",
+      "explanation": "The discovery of a fundamental error after three weeks of work naturally implies wasted effort, making B the most logical continuation. A is possible but overstates his reaction; C doesn't follow from the setup; D contradicts the seriousness of discovering a 'fundamental' error."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The proposal was rejected not on its merits but on procedural grounds.",
+      "question": "This sentence suggests that:",
+      "options": [
+        "A) the proposal itself was weak and the process was also flawed",
+        "B) the proposal had value but was dismissed due to technical or administrative reasons",
+        "C) both the proposal and the procedure were equally problematic",
+        "D) the merits of the proposal were never properly evaluated"
+      ],
+      "answer": "B",
+      "explanation": "The structure 'not...but' creates a contrast: the proposal wasn't rejected because it was bad (merits), but because of how it was submitted or processed. This implies the actual content might have been acceptable. A suggests both were flawed; C is redundant; D contradicts the distinction being made."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "Contemporary art practices increasingly engage with questions of institutional critique and the politics of display.",
+      "question": "Rewrite this sentence in your own words, capturing its essential meaning.",
+      "options": null,
+      "answer": null,
+      "paraphrase_keywords": [
+        "contemporary art",
+        "institutional power",
+        "exhibition",
+        "critical examination",
+        "authority"
+      ],
+      "explanation": "A strong paraphrase should acknowledge that modern artists are increasingly questioning how institutions (museums, galleries) exercise power through what they choose to show and how they present it. Keywords should capture: the contemporary focus, the critical perspective, the institutional dimension, and the concept of display/exhibition."
+    }
+  ]
+}
