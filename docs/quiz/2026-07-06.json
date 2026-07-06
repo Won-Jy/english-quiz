@@ -1,0 +1,217 @@
+{
+  "date": "2026-07-06",
+  "generated_at": "2026-07-06T22:20:23.424384",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The report accused the museum of 'extreme political activism' and _____ its leadership for adopting an ideological framework.",
+      "question": "Which word best completes this sentence?",
+      "options": [
+        "A. lambasted",
+        "B. supported",
+        "C. mentioned",
+        "D. noted"
+      ],
+      "answer": "A",
+      "explanation": "Lambasted means to criticize harshly or scold severely, matching the critical tone of the sentence. Supported contradicts the context; mentioned and noted are too neutral for the severe criticism implied by 'extreme political activism.'"
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Kauffmann's painting is her first history painting in oils to become part of a current U.K. national collection, representing a significant _____ in recognition of her work.",
+      "question": "What word fits best in this context?",
+      "options": [
+        "A. accolade",
+        "B. challenge",
+        "C. setback",
+        "D. modification"
+      ],
+      "answer": "A",
+      "explanation": "Accolade means an award or honor, fitting the context of institutional recognition. Challenge and setback are negative, contradicting the positive achievement; modification is too neutral and doesn't capture the significance of acquisition by a major institution."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The _____ of jazz and animation in this 1949 film creates an abstract visual experience that challenges conventional artistic boundaries.",
+      "question": "Which word best fills this blank?",
+      "options": [
+        "A. melding",
+        "B. separation",
+        "C. conflict",
+        "D. arrangement"
+      ],
+      "answer": "A",
+      "explanation": "Melding means blending or merging together, which perfectly describes the fusion of two art forms. Separation and conflict suggest division rather than combination; arrangement lacks the sense of creative fusion implied by 'blur your senses.'"
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The archaeological discovery _____ details of daily life, urban development, and economic activities in the fourth-century Byzantine settlement.",
+      "question": "What verb best completes this sentence?",
+      "options": [
+        "A. reveals",
+        "B. obscures",
+        "C. constructs",
+        "D. assumes"
+      ],
+      "answer": "A",
+      "explanation": "Reveals means to uncover or make known, matching the context of an archaeological discovery. Obscures means to hide; constructs implies creation rather than discovery; assumes means to suppose, none of which fit the factual nature of archaeological findings."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The aid volunteer's decision to remain _____ reflects legitimate fears of state reprisal for criticizing the conflict.",
+      "question": "Which word completes this sentence most appropriately?",
+      "options": [
+        "A. anonymous",
+        "B. apathetic",
+        "C. anonymous",
+        "D. skeptical"
+      ],
+      "answer": "A",
+      "explanation": "Anonymous means unnamed or unidentified, which directly relates to changing one's name 'for fear of retribution.' Apathetic means unconcerned; skeptical means doubtful—neither captures the security concern expressed in the context."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "Neither the manager nor the employees _____ informed of the decision until after it had been implemented.",
+      "question": "Which verb form is grammatically correct?",
+      "options": [
+        "A. was",
+        "B. were",
+        "C. have been",
+        "D. has been"
+      ],
+      "answer": "B",
+      "explanation": "With 'neither...nor' constructions, the verb agrees with the nearest noun (employees), which is plural, requiring 'were.' Option A (was) incorrectly agrees with 'manager'; options C and D introduce unnecessary perfect aspect."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The impact of social media on adolescent mental health, along with parental concerns about online safety, _____ the focus of recent governmental inquiries.",
+      "question": "Which verb form is correct?",
+      "options": [
+        "A. have become",
+        "B. has become",
+        "C. are becoming",
+        "D. have been becoming"
+      ],
+      "answer": "B",
+      "explanation": "The subject is 'the impact' (singular); the prepositional phrase 'along with parental concerns' is not part of the subject, so the verb must be singular 'has become.' Option A incorrectly pluralizes; C and D introduce unnecessary continuous or perfect aspects."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The scientist was criticized not only for her methodology, _____ also for her failure to acknowledge prior research in the field.",
+      "question": "Which word correctly completes the correlative conjunction?",
+      "options": [
+        "A. but",
+        "B. and",
+        "C. yet",
+        "D. or"
+      ],
+      "answer": "A",
+      "explanation": "'Not only...but also' is the correct correlative conjunction pairing in English. Option B (and) is incorrect grammatically; C and D do not form proper paired conjunctions with 'not only.'"
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The museum, _____ had acquired the painting through a major donation, announced the acquisition at a public ceremony.",
+      "question": "Which clause correctly completes this sentence?",
+      "options": [
+        "A. which",
+        "B. that",
+        "C. what",
+        "D. where"
+      ],
+      "answer": "A",
+      "explanation": "Non-defining relative clauses (set off by commas) require 'which,' not 'that.' The clause provides additional, non-essential information about the museum. Option B (that) is used only in defining relative clauses; C and D are inappropriate relative pronouns for this context."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "_____ the letter that she understood what had really been meant, she expressed her frustration to the author.",
+      "question": "Which participle clause correctly completes this sentence?",
+      "options": [
+        "A. Having reread",
+        "B. Rereading",
+        "C. Being reread",
+        "D. To reread"
+      ],
+      "answer": "A",
+      "explanation": "'Having reread' is the perfect participle form, correctly indicating that rereading occurred before understanding. Option B (simple participle) doesn't clearly convey the sequence; C changes the meaning to passive; D is an infinitive, not a participle clause."
+    },
+    {
+      "id": 11,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The company _____ its employees retrain in digital marketing skills to remain competitive in the modern marketplace.",
+      "question": "Which causative form is most appropriate?",
+      "options": [
+        "A. had",
+        "B. got",
+        "C. made",
+        "D. allowed"
+      ],
+      "answer": "A",
+      "explanation": "'Had' is the most formal and appropriate causative verb in professional/formal contexts, as in 'had its employees retrain.' Option B (got) is more informal; C (made) implies coercion; D (allowed) changes the meaning to permission rather than causation."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "She asked whether the documents _____ by all the relevant parties.",
+      "question": "Which expression is most natural?",
+      "options": [
+        "A. had been signed",
+        "B. were being signed",
+        "C. have been signed",
+        "D. would be signed"
+      ],
+      "answer": "A",
+      "explanation": "Past perfect passive ('had been signed') is most natural when asking about completion of an action prior to a past moment (the asking). Option B suggests ongoing action; C is present perfect, inappropriate for past narrative; D implies future uncertainty."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The building, _____, required significant renovation before it could be used for its new purpose.",
+      "question": "Which expression most naturally describes the building's age and condition?",
+      "options": [
+        "A. being constructed in the 1920s",
+        "B. having been constructed in the 1920s",
+        "C. which was constructed in the 1920s",
+        "D. constructed in the 1920s"
+      ],
+      "answer": "B",
+      "explanation": "The perfect participle 'having been constructed' is most natural in this context as a non-defining participle clause. Option A uses the continuous participle inappropriately; C is a relative clause, more formal; D (simple past participle) could work but is less precise about the temporal relationship."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "The White House report accused the Smithsonian National Museum of American History of 'extreme political activism' and lambasted its leadership for having 'explicitly adopted an ideological framework that no longer treats the American story as a shared national inheritance to be taught or celebrated, but as a political' matter.",
+      "question": "Rewrite this sentence in your own words, capturing the main criticism.",
+      "options": null,
+      "answer": null,
+      "paraphrase_keywords": [
+        "ideological shift",
+        "politicized interpretation",
+        "national narrative",
+        "institutional criticism",
+        "partisan approach"
+      ]
+    }
+  ]
+}
