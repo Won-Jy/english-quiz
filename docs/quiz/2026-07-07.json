@@ -1,0 +1,218 @@
+{
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T22:18:12.286717",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Salvador Salort-Pons revealed a methodology combining archival research and X-ray imaging to authenticate the newly discovered Velázquez portrait.",
+      "question": "In this context, 'methodology' most nearly means:",
+      "options": [
+        "A systematic approach or set of procedures for accomplishing a task",
+        "A collection of historical documents and artifacts",
+        "The study of art history and museum curation",
+        "Advanced technological equipment used in research"
+      ],
+      "answer": "A",
+      "explanation": "Methodology refers to the systematic procedures and methods used to conduct research or solve a problem. Option B confuses methodology with archival materials themselves; C and D are too narrow and miss the procedural meaning central to the sentence."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Ming Dynasty China left us copious texts, but these veil the lives of the vast majority of its people from our view.",
+      "question": "The word 'veil' in this sentence means:",
+      "options": [
+        "To conceal or obscure from understanding",
+        "To decorate with ornamental cloth",
+        "To separate into distinct categories",
+        "To preserve in written form"
+      ],
+      "answer": "A",
+      "explanation": "Here 'veil' is used metaphorically to mean 'hide' or 'obscure'—the texts exist but prevent us from seeing the full picture of ordinary people's lives. Option B refers to literal veils; C and D misunderstand the semantic relationship established by the 'but' clause."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Let this exuberant melding of jazz and animation from 1949 blur your senses as abstract visuals interpret the music.",
+      "question": "The word 'exuberant' most closely means:",
+      "options": [
+        "Lively, enthusiastic, and full of energy",
+        "Rare and difficult to obtain",
+        "Technically complex and innovative",
+        "Nostalgic and historically significant"
+      ],
+      "answer": "A",
+      "explanation": "'Exuberant' describes something overflowing with energy, vigor, and enthusiasm—perfect for describing a creative fusion. Option B suggests scarcity; C and D don't capture the emotional vitality that 'exuberant' conveys."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Researchers testing a cheap, homegrown oil in Uganda found what cats knew all along—it worked as well as the artificial chemical used globally.",
+      "question": "In this passage, 'homegrown' means:",
+      "options": [
+        "Developed or produced locally rather than imported",
+        "Made from plants grown in a domestic garden",
+        "Inferior in quality compared to commercial alternatives",
+        "Requiring minimal scientific research to develop"
+      ],
+      "answer": "A",
+      "explanation": "'Homegrown' indicates something produced or developed locally or informally, contrasting with the 'artificial chemical used globally.' Option B is too literal; C contradicts the context ('just as effective'); D misses the emphasis on local/informal origins."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Experts say cuts have hindered the response to DRC's Ebola outbreak and resulted in 'significant numbers' of deaths.",
+      "question": "The word 'hindered' most nearly means:",
+      "options": [
+        "Created obstacles or delays that prevented effective action",
+        "Reduced the funding allocated to a project",
+        "Distributed resources unevenly among regions",
+        "Failed to predict the severity of a crisis"
+      ],
+      "answer": "A",
+      "explanation": "'Hindered' means to obstruct or create difficulty for progress. Option B is too specific (funding is mentioned separately); C and D don't capture the sense of obstruction that 'hindered' conveys."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "If the train had arrived on time, we would have caught the connecting flight to Amsterdam.",
+      "question": "This sentence uses which conditional structure?",
+      "options": [
+        "Second conditional (hypothetical present)",
+        "Third conditional (unreal past situation)",
+        "Mixed conditional (combining past and present)",
+        "Zero conditional (general facts)"
+      ],
+      "answer": "B",
+      "explanation": "This is a third conditional: 'If + past perfect ... would have + past participle' expresses a hypothetical past situation with a past consequence. The second conditional uses 'if + past simple' for present hypotheticals; zero conditional expresses timeless facts."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "The committee, which had been meeting every Tuesday, finally reached a consensus on the proposed changes.",
+      "question": "The relative clause 'which had been meeting every Tuesday' is:",
+      "options": [
+        "Defining (restricts the meaning; no commas needed)",
+        "Non-defining (provides additional information; correctly uses commas)",
+        "Infinitive clause (uses 'to' form of the verb)",
+        "Reduced relative clause (omits the relative pronoun)"
+      ],
+      "answer": "B",
+      "explanation": "The clause is enclosed in commas and adds extra information about the committee but doesn't identify which committee—it's non-defining. A defining clause would restrict meaning without commas (e.g., 'The committee that met every Tuesday...'). C and D don't apply here."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The architect had the renovation company construct a new façade on the building rather than ___ it himself.",
+      "question": "Which option correctly completes the sentence using causative structure?",
+      "options": [
+        "A have constructed",
+        "B construct",
+        "C having constructed",
+        "D be constructing"
+      ],
+      "answer": "A",
+      "explanation": "The sentence uses 'have + noun + past participle' (causative structure with 'have'). The parallel structure requires 'have constructed' to match 'had the renovation company construct.' Option B breaks the causative pattern; C is gerund form; D is continuous aspect."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The discovery of ___ new evidence transformed ___ scientific consensus about the ancient settlement.",
+      "question": "Which article combination is grammatically correct?",
+      "options": [
+        "A the / a",
+        "B a / the",
+        "C the / zero",
+        "D a / zero"
+      ],
+      "answer": "B",
+      "explanation": "'A new evidence' uses the indefinite article because 'evidence' is being introduced for the first time; 'the scientific consensus' uses the definite article because consensus is being referenced as a specific, known concept. Articles with abstract nouns (evidence, consensus) depend on whether they're introduced (a/an) or previously established (the)."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "She ___ to the same office for twelve years, so her colleagues were surprised when she announced her resignation.",
+      "question": "Which verb form is correct?",
+      "options": [
+        "A has come",
+        "B came",
+        "C had come",
+        "D comes"
+      ],
+      "answer": "A",
+      "explanation": "The present perfect 'has come' indicates an action that began in the past and continues to the present moment (twelve years up to now). Simple past 'came' would suggest a single completed action; past perfect 'had come' implies a prior action; present 'comes' contradicts the context."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "She found it difficult to concentrate, not because the work was hard, but because the office was noisy.",
+      "question": "What is the most natural way to extend this idea?",
+      "options": [
+        "A Consequently, she decided to request a transfer to a quieter department.",
+        "B Nevertheless, she persevered and completed the assignment on time.",
+        "C Moreover, the building was also very cold and uncomfortable.",
+        "D In contrast, other employees seemed unaffected by the noise."
+      ],
+      "answer": "A",
+      "explanation": "Option A logically follows from the cause (noise) with a natural consequence (requesting a transfer). B contradicts the setup with 'Nevertheless'; C shifts focus to temperature (not the established problem); D introduces irrelevant comparison."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Having lived in three different countries, he was comfortable navigating unfamiliar cultural situations.",
+      "question": "Which sentence most naturally continues this idea?",
+      "options": [
+        "A He had spent his entire childhood in one place.",
+        "B His extensive international experience made him an ideal candidate for the diplomatic position.",
+        "C The weather in those countries was quite diverse.",
+        "D He preferred speaking English to other languages."
+      ],
+      "answer": "B",
+      "explanation": "Option B logically extends the established connection between cross-cultural experience and capability. A contradicts the premise; C introduces irrelevant environmental detail; D neither follows from cultural comfort nor strengthens the main idea."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The building, having been constructed in the 1920s, required significant renovation before it could be used.",
+      "question": "What is the most natural continuation?",
+      "options": [
+        "A The original blueprints were discovered in the city archives.",
+        "B The renovation project took three years and cost significantly more than initial estimates.",
+        "C Many buildings from that era have similar structural issues.",
+        "D The architect who designed it was renowned throughout Europe."
+      ],
+      "answer": "B",
+      "explanation": "Option B naturally follows from 'required significant renovation' by describing the actual renovation process and its outcomes. A shifts focus to blueprints rather than the renovation itself; C generalizes unnecessarily; D introduces the architect tangentially rather than the renovation work."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "Salvador Salort-Pons, who is the director of the Detroit Institute of Arts, revealed a methodology combining archival research and X-ray imaging to authenticate the newly discovered Velázquez portrait.",
+      "question": "Rewrite this sentence in your own words using 3-5 keywords that capture its core meaning.",
+      "options": null,
+      "answer": null,
+      "paraphrase_keywords": [
+        "director",
+        "authentication methodology",
+        "archival research",
+        "X-ray imaging",
+        "Velázquez portrait"
+      ],
+      "explanation": "This sentence's core meaning involves: who made the discovery (Salort-Pons, a museum director), what he discovered (a Velázquez painting), and how he verified it (combining document research with scientific imaging). A strong paraphrase should capture the roles of these elements without copying the original structure."
+    }
+  ]
+}
