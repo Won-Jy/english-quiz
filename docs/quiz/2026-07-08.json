@@ -1,0 +1,218 @@
+{
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T22:14:00.368600",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Decades after discovering samples of Native American hair within its collection, the American Museum of Natural History plans to add them to the list of items for repatriation to concerned tribes.",
+      "question": "In this context, 'repatriation' most nearly means:",
+      "options": [
+        "A. Returning objects or remains to their country or people of origin",
+        "B. Restoring damaged artifacts to their original condition",
+        "C. Cataloging and organizing museum collections",
+        "D. Providing financial compensation to affected communities"
+      ],
+      "answer": "A",
+      "explanation": "Repatriation specifically refers to the return of cultural or ancestral materials to their originating communities or nations. Option B confuses restoration; C refers to curation; D refers to compensation—none capture the core meaning of return and ownership transfer."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The cohort will respond to the theme 'Dissident Chorus,' bringing together diverse artistic practices.",
+      "question": "The word 'dissident' in this artistic context suggests:",
+      "options": [
+        "A. Music that creates discord and lacks harmony",
+        "B. Voices or perspectives that challenge dominant ideas or norms",
+        "C. A collective of artists who refuse to work together",
+        "D. Abstract or purely experimental work without meaning"
+      ],
+      "answer": "B",
+      "explanation": "A dissident voice is one that opposes prevailing authority or convention—here applied thematically to diverse artistic voices united in resistance. Option A conflates 'dissident' with sonic discord; C misrepresents collaborative potential; D oversimplifies artistic intent."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Ming Dynasty China left us copious texts, but these veil the lives of the vast majority of its people from our view.",
+      "question": "'Copious' most accurately means:",
+      "options": [
+        "A. Fragmented and difficult to interpret",
+        "B. Ancient and therefore less reliable",
+        "C. Abundant in quantity; plentiful",
+        "D. Written in an ornate or flowery style"
+      ],
+      "answer": "C",
+      "explanation": "Copious means existing in large amounts or abundance. The sentence contrasts the quantity of texts available with the limited perspective they provide, making C the precise meaning. A, B, and D introduce unrelated properties of historical documents."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Researchers testing a cheap, homegrown oil in Uganda found what cats knew all along – it worked as well as the artificial chemical used globally.",
+      "question": "The phrase 'what cats knew all along' is used here to:",
+      "options": [
+        "A. Suggest that animals have superior intelligence to humans",
+        "B. Humorous acknowledgment that the plant's effectiveness was already evident in nature",
+        "C. Criticize scientific research for being unnecessarily complex",
+        "D. Imply that cats were consulted in the research design"
+      ],
+      "answer": "B",
+      "explanation": "This is a colloquial, tongue-in-cheek reference to the fact that cats' attraction to catnip demonstrated the plant's potency long before scientists formally tested it. Option A overstates the claim; C misreads the tone; D takes the phrase literally rather than as rhetorical flourish."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Confronted with the horrifying reality of gendered violence, radically different people unite in resistance and protest.",
+      "question": "In this sentence, 'gendered violence' refers to:",
+      "options": [
+        "A. Physical harm that affects people of all genders equally",
+        "B. Violence that is disproportionately directed at or affects people based on their gender",
+        "C. Aggression expressed through different methods by men versus women",
+        "D. Any form of interpersonal conflict"
+      ],
+      "answer": "B",
+      "explanation": "Gendered violence specifically denotes violence rooted in or perpetuated by gender inequality—typically disproportionately affecting women and minorities. Option A misses the specificity; C narrows it incorrectly; D is too broad and loses the critical concept."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The witness told the journalist that he _____ the suspect several times before the incident occurred.",
+      "question": "Which option correctly completes this sentence using reported speech with appropriate tense backshift?",
+      "options": [
+        "A. had seen",
+        "B. has seen",
+        "C. saw",
+        "D. would see"
+      ],
+      "answer": "A",
+      "explanation": "In reported speech, 'saw' (direct: 'I have seen') must shift to past perfect 'had seen' because the original statement was already in the past and the action occurred before the incident. Option B fails to backshift; C doesn't show the prior action; D suggests futurity, which is inappropriate here."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_____ the new safety protocols, the factory has reported zero accidents this quarter.",
+      "question": "Which participial construction best completes this sentence?",
+      "options": [
+        "A. Having implemented",
+        "B. Being implemented",
+        "C. Implemented",
+        "D. To implement"
+      ],
+      "answer": "A",
+      "explanation": "The perfect participle 'having implemented' correctly shows that the implementation occurred before the result (zero accidents). Option B (passive) misrepresents agency; C (past participle) works but is less precise about sequence; D (infinitive) is structural nonsense here."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Neither the director nor the producers _____ willing to compromise on the budget.",
+      "question": "Which verb form agrees correctly with this complex subject?",
+      "options": [
+        "A. was",
+        "B. were",
+        "C. has been",
+        "D. are being"
+      ],
+      "answer": "B",
+      "explanation": "With 'neither...nor,' the verb agrees with the nearest noun ('producers,' plural), requiring plural 'were.' Option A (singular) incorrectly agrees with 'director'; C and D introduce tense/aspect errors without justification."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "If he _____ studied harder last year, he would have passed the certification exam.",
+      "question": "Which option correctly completes this third conditional sentence?",
+      "options": [
+        "A. had",
+        "B. has",
+        "C. would have",
+        "D. studies"
+      ],
+      "answer": "A",
+      "explanation": "'Had studied' is the correct third conditional form for the past counterfactual: if + past perfect, then + would have + past participle. Option B (present perfect) breaks the conditional structure; C is redundant; D (present) is incompatible with the third conditional."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_____ knowledge of ancient civilizations is essential for understanding human development, yet it remains scarce in many educational curricula.",
+      "question": "Which article correctly precedes the abstract noun in this sentence?",
+      "options": [
+        "A. The",
+        "B. A",
+        "C. An",
+        "D. Zero article (no article)"
+      ],
+      "answer": "D",
+      "explanation": "The abstract noun 'knowledge' in a general, uncountable sense requires zero article when discussing the concept broadly. Option A ('The knowledge') would incorrectly specify a particular instance; B and C are inappropriate for uncountable nouns used generically."
+    },
+    {
+      "id": 11,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "If the city were to invest more heavily in public transportation, traffic congestion _____ significantly within five years.",
+      "question": "Which verb form correctly completes this second conditional sentence?",
+      "options": [
+        "A. would decrease",
+        "B. will decrease",
+        "C. decreases",
+        "D. would have decreased"
+      ],
+      "answer": "A",
+      "explanation": "The second conditional requires: if + past subjunctive, then + would + base verb. 'Would decrease' expresses a hypothetical present/future consequence. Option B (will) ignores the conditional mood; C (simple present) is factual, not hypothetical; D (would have) is third conditional form."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The proposal was rejected not on its merits but on procedural grounds.",
+      "question": "This sentence most naturally suggests:",
+      "options": [
+        "A. The proposal's content was flawed and indefensible",
+        "B. The proposal itself was sound, but the process used to evaluate it was wrong",
+        "C. The procedures in the organization are generally too strict",
+        "D. The decision-makers had no clear reasons for rejection"
+      ],
+      "answer": "B",
+      "explanation": "The contrast ('not...but...') indicates the content wasn't the problem; rather, the procedural framework or process disqualified it. Option A contradicts the sentence; C overgeneralizes; D misreads the specificity of the grounds."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Rarely had the team faced such a complex set of competing demands.",
+      "question": "This inverted structure most naturally emphasizes:",
+      "options": [
+        "A. The team's usual incompetence",
+        "B. The exceptional and unusual nature of the current situation",
+        "C. A historical pattern of similar challenges",
+        "D. The team's tendency to complain"
+      ],
+      "answer": "B",
+      "explanation": "The inversion with 'rarely' front-loads the adverb to stress the exceptional rarity of this particular challenge. Option A introduces judgment; C contradicts 'rarely'; D misreads the objective observation as subjective complaint."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "Ming Dynasty China left us copious texts, but these veil the lives of the vast majority of its people from our view.",
+      "question": "Paraphrase the main idea of this sentence in your own words, capturing its core meaning.",
+      "options": null,
+      "answer": null,
+      "explanation": "Students should recognize that despite abundant written records, they mask or obscure rather than reveal the experiences of most ordinary people—a tension between documentary abundance and historical opacity.",
+      "paraphrase_keywords": [
+        "abundant records",
+        "hidden lives",
+        "majority populations",
+        "obscured history",
+        "documentary gap"
+      ]
+    }
+  ]
+}
