@@ -1,0 +1,218 @@
+{
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T22:38:24.883626",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Post-Fair's expansion to Paris represents a _____ from its highly specific locational origins in Santa Monica.",
+      "question": "Which word best completes this sentence?",
+      "options": [
+        "A. deviation",
+        "B. direction",
+        "C. distinction",
+        "D. division"
+      ],
+      "answer": "A",
+      "explanation": "Deviation means a departure or change from an established pattern or norm, which perfectly captures the idea of moving away from a specific location-based model. Direction refers to a course or aim, distinction means a difference or excellence, and division means separation into parts—none convey the sense of strategic departure."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The investigation was _____ by reports that a fictitious federal entity had received substantial government funding.",
+      "question": "Which word best fits this context?",
+      "options": [
+        "A. precipitated",
+        "B. procured",
+        "C. propagated",
+        "D. persecuted"
+      ],
+      "answer": "A",
+      "explanation": "Precipitated means to cause something to happen suddenly or to trigger an event, matching the causal relationship in the sentence. Procured means obtained or acquired, propagated means spread or promoted, and persecuted means oppressed or harassed—none indicate causation of an investigation."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Cognitive biases are so _____ that even highly educated individuals fall victim to them without conscious awareness.",
+      "question": "Which word best completes this sentence?",
+      "options": [
+        "A. ubiquitous",
+        "B. obtuse",
+        "C. obfuscated",
+        "D. obscure"
+      ],
+      "answer": "A",
+      "explanation": "Ubiquitous means present or found everywhere, emphasizing universal prevalence across all people. Obtuse means slow to understand or intellectually dull, obfuscated means made unclear or obscured, and obscure means not well known or difficult to see—none convey the idea of widespread occurrence."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The forged signatures and official seals were designed to _____ the fictitious agency as legitimate.",
+      "question": "Which word best fits this meaning?",
+      "options": [
+        "A. corroborate",
+        "B. legitimate",
+        "C. authenticate",
+        "D. venerate"
+      ],
+      "answer": "C",
+      "explanation": "Authenticate means to establish or verify as genuine or valid, which is the intent behind using forged official documents. Corroborate means to confirm or support with evidence, legitimate is an adjective meaning lawful, and venerate means to regard with deep respect—none capture the specific act of making something appear genuine."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The cruise ship's passengers faced considerable _____ when their planned stops were cancelled without warning.",
+      "question": "Which word best completes this sentence?",
+      "options": [
+        "A. consternation",
+        "B. congregation",
+        "C. constellation",
+        "D. conservation"
+      ],
+      "answer": "A",
+      "explanation": "Consternation means anxiety, confusion, or dismay caused by something unexpected, perfectly capturing passenger reactions to sudden itinerary changes. Congregation refers to a gathered group or assembly, constellation is a pattern of stars, and conservation refers to preservation—none express emotional disturbance."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_____ the investigation, the government implemented stricter oversight mechanisms to prevent similar fraud.",
+      "question": "Which participle clause best completes this sentence?",
+      "options": [
+        "A. Having completed",
+        "B. Being completed",
+        "C. Completed",
+        "D. Completing"
+      ],
+      "answer": "A",
+      "explanation": "Having completed uses the perfect participle form to show that the investigation occurred before the implementation of new mechanisms, establishing proper temporal sequence. Being completed (passive) and Completed alone lack the agent who completed the investigation, and Completing suggests an ongoing action, not a precedent event."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "By the time she arrived at the conference, most of the morning sessions _____.",
+      "question": "Which verb form best completes this sentence?",
+      "options": [
+        "A. had already concluded",
+        "B. have already concluded",
+        "C. already concluded",
+        "D. were already concluding"
+      ],
+      "answer": "A",
+      "explanation": "Past perfect (had concluded) is required because the sessions ended before her arrival at the conference, establishing a clear sequence of two past events. Present perfect (have) is incorrect because both events are in the past, simple past (concluded) lacks the temporal relationship marker, and past continuous (were concluding) suggests ongoing action, not completion."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The documents _____ forged by the conspirator were used to establish the credibility of the fake agency.",
+      "question": "Which passive construction best completes this sentence?",
+      "options": [
+        "A. being",
+        "B. having been",
+        "C. been",
+        "D. were"
+      ],
+      "answer": "B",
+      "explanation": "Having been forged creates a perfect passive participle, showing that the forgery was completed before the documents were used. Being (continuous passive) indicates ongoing action rather than completed action, been is an incomplete form, and were is a finite verb that disrupts the participial phrase structure."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The cruise ship company _____ the passengers accept alternative ports instead of their originally booked destinations.",
+      "question": "Which causative verb form best completes this sentence?",
+      "options": [
+        "A. got to",
+        "B. had",
+        "C. made",
+        "D. had to"
+      ],
+      "answer": "B",
+      "explanation": "Had (causative have) indicates that the company arranged for passengers to accept alternatives, expressing indirect causation. Got to suggests permission or opportunity rather than causation, made (causative) would mean forcing agreement rather than arranging it, and had to is an obligation marker, not a causative structure."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Given the new evidence, the project _____ have been abandoned earlier to prevent further losses.",
+      "question": "Which modal verb best completes this sentence?",
+      "options": [
+        "A. should",
+        "B. could",
+        "C. might",
+        "D. must"
+      ],
+      "answer": "A",
+      "explanation": "Should expresses a regretted obligation or recommendation in hindsight—what was advisable but didn't happen. Could indicates possibility in the past, might suggests remote possibility, and must denotes necessity or certainty, none of which convey the critical judgment implied by the phrase 'given the new evidence.'"
+    },
+    {
+      "id": 11,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "_____ until she reread the letter carefully did she understand what had really been meant.",
+      "question": "Which inverted structure best completes this sentence?",
+      "options": [
+        "A. Not",
+        "B. Never",
+        "C. Hardly",
+        "D. Scarcely"
+      ],
+      "answer": "A",
+      "explanation": "Not until triggers mandatory inversion (Not until + clause + auxiliary + subject + verb), creating the correct structure. Never, Hardly, and Scarcely can trigger inversion but require different constructions that don't match the 'until' clause structure needed here."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "He suggested that the team _____ its approach, given the new information that had emerged.",
+      "question": "Which expression sounds most natural in this context?",
+      "options": [
+        "A. reconsider",
+        "B. would reconsider",
+        "C. reconsiders",
+        "D. has reconsidered"
+      ],
+      "answer": "A",
+      "explanation": "After suggest, the subjunctive or bare infinitive (reconsider) is standard and natural in formal English. Would reconsider is overly conditional, reconsiders uses present tense inappropriately after a past tense verb, and has reconsidered is perfect tense where a base form is needed."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Despite the rain, she decided to walk to the market _____ take the bus.",
+      "question": "Which expression completes this sentence most naturally?",
+      "options": [
+        "A. rather than",
+        "B. instead of",
+        "C. other than",
+        "D. in favor of"
+      ],
+      "answer": "A",
+      "explanation": "Rather than is followed by a base verb (take) and creates a smooth contrast in formal English. Instead of requires a gerund (taking), other than is used for exceptions or alternatives without implying preference, and in favor of requires a noun, not a verb."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "Post-Fair, an alternative art fair held in a Santa Monica post office that was launched by gallerist Chris Sharp in 2025, will expand to Paris this October.",
+      "question": "Paraphrase this sentence in your own words. What are the core concepts being conveyed?",
+      "options": null,
+      "answer": null,
+      "paraphrase_keywords": [
+        "expansion",
+        "international growth",
+        "art fair",
+        "Paris October",
+        "founded 2025"
+      ],
+      "explanation": "This sentence establishes that an alternative art fair that originated in Santa Monica is now expanding internationally to Paris in autumn. Key concepts include the fair's founding (2025), location origin (Santa Monica), founder (Chris Sharp), venue type (post office), and announced growth to a new city and continent. A strong paraphrase should capture the idea of geographic expansion of a newly-established contemporary art event."
+    }
+  ]
+}
