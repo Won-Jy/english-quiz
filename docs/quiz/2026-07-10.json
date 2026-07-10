@@ -1,0 +1,218 @@
+{
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T22:11:58.479473",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The priceless historical treasure, which will be on display in the British Museum's Sainsbury Exhibitions Gallery from September 10 until July of 2027, was transported with meticulous care.",
+      "question": "In this context, 'meticulous' most closely means:",
+      "options": [
+        "A. hurried and efficient",
+        "B. extremely careful and precise",
+        "C. expensive and elaborate",
+        "D. secretive and cautious"
+      ],
+      "answer": "B",
+      "explanation": "Meticulous describes attention to fine detail and care in execution. Option A is contradictory (hurried contradicts meticulous care), C focuses on cost rather than precision, and D suggests secrecy which is not implied. The transport of a priceless artifact demands the careful precision that meticulous denotes."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Buckingham Palace's Picture Gallery unveiled a surprising new rehang of the palace's collection that harks back to a style popularized at the eighteenth-century Paris salons.",
+      "question": "What does 'harks back to' mean?",
+      "options": [
+        "A. consciously rejects",
+        "B. refers back to or echoes a tradition from the past",
+        "C. makes an audible sound toward",
+        "D. criticizes the methods of"
+      ],
+      "answer": "B",
+      "explanation": "Hark back means to recall or allude to something from the past. Option A is the opposite of the intended meaning. Option C confuses the archaic verb 'hark' (listen) with the phrasal meaning. Option D introduces an unwarranted negative connotation not present in the original sentence."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Trees contain an archive – tales of planetary shifts, cosmic events, historical pivots – that we're only just unlocking.",
+      "question": "In this passage, 'archive' functions as:",
+      "options": [
+        "A. a physical storage facility for documents",
+        "B. a collection of historical records or information stored in nature",
+        "C. a computerized database system",
+        "D. an institution dedicated to preservation"
+      ],
+      "answer": "B",
+      "explanation": "Here, archive is used metaphorically to describe the historical information encoded in tree rings and growth patterns. While A, C, and D are valid definitions of archive in other contexts, this usage treats trees themselves as repositories of environmental and historical data, making B the most appropriate interpretation."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Most developing countries spent less on education than they did repaying debt last year, according to the UN, at the same time as global aid to education is predicted to decline by up to 30%.",
+      "question": "The phrase 'servicing debt' in this context most precisely means:",
+      "options": [
+        "A. managing customer accounts for debt collection agencies",
+        "B. paying interest and principal on borrowed money",
+        "C. organizing debt management systems",
+        "D. requesting extensions on loan payments"
+      ],
+      "answer": "B",
+      "explanation": "In financial contexts, 'servicing debt' specifically refers to making required payments (interest and principal) on borrowed funds. Option A is too narrow and industry-specific. Option C relates to administration rather than payment. Option D refers to requesting delays, not fulfilling obligations."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "A fictitious federal entity that was allocated 1.3bn naira in Nigeria's 2026 budget has precipitated a political storm in Africa's largest democracy.",
+      "question": "What does 'precipitated' mean in this sentence?",
+      "options": [
+        "A. delayed the onset of",
+        "B. caused or triggered something to happen suddenly",
+        "C. separated into distinct phases",
+        "D. removed obstacles to"
+      ],
+      "answer": "B",
+      "explanation": "Precipitate (verb) means to cause something to happen suddenly or abruptly. The scandal 'triggered' or 'caused' the political crisis. Option A suggests delay, the opposite of precipitation. Option C refers to a chemistry term. Option D suggests facilitation rather than causation of a crisis."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The board of directors insisted that the proposal _____ before the fiscal year ended.",
+      "question": "Which option best completes this sentence using the subjunctive mood?",
+      "options": [
+        "A. be approved",
+        "B. is approved",
+        "C. be approving",
+        "D. has been approved"
+      ],
+      "answer": "A",
+      "explanation": "After 'insisted that,' the subjunctive mood requires the base form of the verb without -s endings. 'Be approved' is the correct subjunctive passive form. Option B uses indicative mood (is approved), C uses the progressive form incorrectly, and D uses past participle form which does not express the subjunctive requirement."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_____ the contract carefully, the investor noticed several clauses that contradicted the earlier verbal agreement.",
+      "question": "Which option best completes this sentence using a participle clause?",
+      "options": [
+        "A. Having read",
+        "B. Being read",
+        "C. To read",
+        "D. Reading carefully"
+      ],
+      "answer": "A",
+      "explanation": "The perfect participle 'having read' correctly expresses an action completed before the main clause action. This is the most precise way to indicate the investor read the contract before noticing contradictions. Option B (being read) is passive and incorrect here. Option C (infinitive) changes the meaning to intention rather than completed action. Option D lacks the perfect aspect needed to show temporal priority."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The manager had the report _____ by three independent auditors before submitting it to the board.",
+      "question": "Which option best completes this sentence using the causative structure?",
+      "options": [
+        "A. reviewed",
+        "B. to review",
+        "C. reviewing",
+        "D. been reviewed"
+      ],
+      "answer": "A",
+      "explanation": "The causative 'have + object + past participle' structure requires 'have the report reviewed,' where 'reviewed' is a past participle. Option B (infinitive) is incorrect in causative constructions. Option C (gerund) changes the meaning. Option D includes an unnecessary auxiliary, creating an incorrect form."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "She told her colleagues that she _____ the budget proposal to the director the following week.",
+      "question": "Which tense correctly completes this reported speech sentence?",
+      "options": [
+        "A. would submit",
+        "B. will submit",
+        "C. submits",
+        "D. is submitting"
+      ],
+      "answer": "A",
+      "explanation": "In reported speech after past tense 'told,' future time shifts to 'would + verb' (backshift). Option B (will) belongs in direct speech, not reported. Option C (present simple) fails to show future intention. Option D (present progressive) does not reflect the future time reference that 'the following week' indicates."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "By the time the fire department arrived, the residents _____ the building safely.",
+      "question": "Which perfect tense best completes this sentence?",
+      "options": [
+        "A. had evacuated",
+        "B. have evacuated",
+        "C. evacuated",
+        "D. were evacuating"
+      ],
+      "answer": "A",
+      "explanation": "Past perfect 'had evacuated' correctly shows an action completed before another past action (the fire department's arrival). Option B (present perfect) is inappropriate in a past narrative. Option C (simple past) fails to indicate the prior completion. Option D (past progressive) suggests ongoing action rather than completion before a specific moment."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Neither the manager nor the employees were informed of the decision until after it had been implemented.",
+      "question": "In formal writing, which revision most naturally corrects this sentence?",
+      "options": [
+        "A. Neither the manager nor the employees was informed of the decision until after it had been implemented.",
+        "B. Neither the manager nor the employees have been informed of the decision until after it had been implemented.",
+        "C. Neither the manager nor the employees had been informed of the decision until after it was implemented.",
+        "D. The sentence is correct as written."
+      ],
+      "answer": "A",
+      "explanation": "With 'neither...nor' constructions, the verb agrees with the nearer subject (employees is plural, but in formal grammar, singular 'was' follows the singular 'manager' when it is closer). Actually, this example has a subject-verb disagreement that should be corrected. Option A uses singular agreement, though compound subjects with 'neither...nor' conventionally use plural verbs; the given sentence as written contains the more common modern form. Option B changes the tense incorrectly, and Option C unnecessarily alters tense sequence."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "She had no sooner sat down than the phone rang again.",
+      "question": "Which revision most naturally expresses this situation in everyday speech?",
+      "options": [
+        "A. She had scarcely sat down than the phone rang again.",
+        "B. She had scarcely sat down when the phone rang again.",
+        "C. No sooner had she sat down the phone rang again.",
+        "D. The sentence is correct as written."
+      ],
+      "answer": "D",
+      "explanation": "The construction 'no sooner...than' (or 'scarcely...when') is correct. The original 'had no sooner sat down than' is grammatically correct. Option A switches 'than' for 'scarcely' incorrectly (should use 'when'). Option B corrects the conjunction but uses 'had scarcely' which is valid but different. Option C omits the necessary auxiliary and uses incorrect conjunction."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "He suggested that the team reconsider its approach, given the new information that had emerged.",
+      "question": "Which alternative phrasing is most natural in everyday communication?",
+      "options": [
+        "A. He suggested that the team to reconsider its approach, given the new information that had emerged.",
+        "B. He suggested the team reconsider its approach, given the new information that had emerged.",
+        "C. He was suggesting that the team would reconsider its approach, given the new information that had emerged.",
+        "D. He suggested that the team should reconsider its approach, given the new information that had emerged."
+      ],
+      "answer": "B",
+      "explanation": "Option B omits 'that' and uses the subjunctive base form naturally. The original sentence is also correct but B is more conversational. Option A introduces an incorrect infinitive. Option C changes tense awkwardly. Option D adds 'should,' making it slightly more colloquial but less concise than the cleaner subjunctive structure."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "The Bayeux Tapestry, a massive, 11th century masterwork that depicts the events surrounding the Duke of Normandy's conquest of England, has returned to England for the first time in nearly one thousand years.",
+      "question": "Paraphrase this sentence in your own words, capturing the main ideas.",
+      "options": null,
+      "answer": null,
+      "explanation": "Key points to include: (1) The Bayeux Tapestry is an important medieval artwork, (2) It shows events related to the Norman conquest of England, (3) It has recently returned to England after being absent for approximately 1,000 years. A strong paraphrase might read: 'After nearly a millennium away, the Bayeux Tapestry—an 11th-century artistic masterpiece depicting the Norman conquest of England—has finally returned to English soil.'",
+      "paraphrase_keywords": [
+        "Bayeux Tapestry",
+        "medieval artwork",
+        "Norman conquest",
+        "returned to England",
+        "thousand years"
+      ]
+    }
+  ]
+}
