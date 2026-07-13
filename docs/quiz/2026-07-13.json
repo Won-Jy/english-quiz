@@ -1,0 +1,218 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T22:02:30.235121",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Iranian author Shahrnush Parsipur cloaked uncompromising feminist ideals in stories and novels that glowed with magical realism.",
+      "question": "In this context, 'cloaked' most nearly means:",
+      "options": [
+        "A. covered with a garment or robe",
+        "B. concealed or disguised within a literary form",
+        "C. openly displayed and celebrated",
+        "D. systematically organized"
+      ],
+      "answer": "B",
+      "explanation": "To 'cloak' an idea means to disguise or conceal it, often within another medium or form. Here, Parsipur's feminist ideals were embedded within the magical realist narrative rather than stated explicitly. Option A is too literal, C is antonymous, and D is irrelevant."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "ICOM is a non-governmental body that establishes standards of professional practice for museums globally.",
+      "question": "The word 'standards' in this sentence refers to:",
+      "options": [
+        "A. flags or banners used for identification",
+        "B. established levels of quality or expectation",
+        "C. musical compositions played at official events",
+        "D. geometric measurements or units"
+      ],
+      "answer": "B",
+      "explanation": "In institutional contexts, 'standards' refers to established criteria or benchmarks for professional conduct and quality. Option A refers to a different meaning (physical objects), C is incorrect, and D is unrelated to organizational governance."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "When my most loving co-author ghosted me, my story fractured.",
+      "question": "The phrase 'ghosted me' most closely conveys:",
+      "options": [
+        "A. appeared to me as a supernatural being",
+        "B. suddenly disappeared or ceased communication without explanation",
+        "C. wrote about me anonymously",
+        "D. haunted or troubled my thoughts"
+      ],
+      "answer": "B",
+      "explanation": "'Ghosting' is contemporary slang meaning to suddenly sever contact without explanation. While option D shares the 'ghost' metaphor, it doesn't capture the sudden abandonment implied by the context. Options A and C are literal or incorrect interpretations."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "There is no approved drug to help the medical teams scrabbling to save lives in the Ebola outbreak.",
+      "question": "The word 'scrabbling' suggests:",
+      "options": [
+        "A. working methodically and carefully with precision",
+        "B. struggling desperately and urgently with limited resources",
+        "C. organizing supplies and equipment in an orderly manner",
+        "D. consulting with colleagues to develop a unified strategy"
+      ],
+      "answer": "B",
+      "explanation": "'Scrabbling' implies frantic, desperate effort—clawing or scratching to grasp something out of reach. In this context, it emphasizes the urgency and difficulty of saving lives without approved medications. Option A suggests calm precision, C implies organization, and D is unrelated to the word's connotation."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The multinational food company appointed G4S to guard the farm after the Guardian detailed allegations of brutal assaults.",
+      "question": "The verb 'detailed' in this sentence means:",
+      "options": [
+        "A. assigned workers to specific tasks on a farm",
+        "B. examined something with extreme attention to small features",
+        "C. reported comprehensively with specific facts and information",
+        "D. delayed or postponed a decision"
+      ],
+      "answer": "C",
+      "explanation": "In journalistic contexts, 'detailed' means to report or describe comprehensively with specific information and examples. Option B is a valid definition but inappropriate here (the Guardian reported on, not examined, the incidents). Options A and D are unrelated."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "She _____ to the conference three times before, so she knew exactly where to go.",
+      "question": "Which option correctly completes the sentence?",
+      "options": [
+        "A. has gone",
+        "B. had gone",
+        "C. went",
+        "D. goes"
+      ],
+      "answer": "B",
+      "explanation": "The past perfect 'had gone' is required because this action (attending the conference) occurred before another past action (knowing where to go). Option A (present perfect) is incorrect because both actions are in the past. Options C and D fail to establish the sequence of past events."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The committee's decision to implement _____ new policy was welcomed by the staff.",
+      "question": "Which article or zero article correctly completes the sentence?",
+      "options": [
+        "A. the",
+        "B. a",
+        "C. an",
+        "D. zero article (no article)"
+      ],
+      "answer": "A",
+      "explanation": "The definite article 'the' is required here because 'new policy' refers to a specific, previously mentioned or contextually identifiable policy. Option B and C would introduce an indefinite/new policy, which doesn't match the established reference. Option D (zero article) is inappropriate before a countable noun in this context."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The director strongly recommends that every team member _____ present at the mandatory training session.",
+      "question": "Which verb form correctly completes this subjunctive mood sentence?",
+      "options": [
+        "A. is",
+        "B. be",
+        "C. was",
+        "D. has been"
+      ],
+      "answer": "B",
+      "explanation": "After 'recommends that,' the subjunctive mood requires the base form 'be' (without conjugation). This construction expresses a demand, suggestion, or requirement rather than a fact. Option A uses the indicative mood (statement of fact), C uses past indicative, and D uses present perfect—all incorrect after subjunctive triggers."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Neither the manager nor the employees _____ aware of the policy change until the announcement.",
+      "question": "Which verb form correctly agrees with this complex subject?",
+      "options": [
+        "A. was",
+        "B. were",
+        "C. has been",
+        "D. have been"
+      ],
+      "answer": "B",
+      "explanation": "When two subjects are joined by 'neither...nor,' the verb agrees with the subject closest to it ('employees,' plural), requiring 'were.' Option A incorrectly treats the subject as singular. Options C and D introduce present perfect aspect inappropriately; the context requires simple past tense."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The report, which was completed last month, contained several recommendations. / The report which was completed last month contained several recommendations.",
+      "question": "Which sentence uses a relative clause correctly, and what is the difference?",
+      "options": [
+        "A. Both sentences are identical in meaning and equally correct.",
+        "B. The first sentence uses a non-defining clause (additional information about a specific report); the second uses a defining clause (identifies which report).",
+        "C. The second sentence is more formal and preferred in academic writing.",
+        "D. The first sentence is incorrect because relative clauses require commas."
+      ],
+      "answer": "B",
+      "explanation": "The first sentence with commas signals a non-defining (appositive) relative clause, providing extra information about an already-identified report. The second without commas is a defining clause that restricts/identifies which report is meant. Option A misses this crucial distinction. Options C and D are incorrect; defining clauses don't require commas, and the first is not inherently wrong."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The more carefully he read the contract, the more concerned he became about its implications.",
+      "question": "In everyday conversation, which statement most naturally conveys the same idea?",
+      "options": [
+        "A. He read the contract very carefully and found it concerning.",
+        "B. The more he read, the worse it looked to him.",
+        "C. He became increasingly concerned as he read the contract in detail.",
+        "D. His concern grew proportionally with the care he exercised in reading."
+      ],
+      "answer": "B",
+      "explanation": "Option B captures the escalating relationship between careful reading and growing concern expressed in the original. Option A is too simple and misses the proportional escalation. Option C is close but less colloquial. Option D is overly formal and emphasizes mathematical proportion rather than natural escalation."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Despite the rain, she decided to walk to the market rather than take the bus.",
+      "question": "Which alternative phrasing is most natural and idiomatic?",
+      "options": [
+        "A. In spite of raining, she chose walking to the market over taking the bus.",
+        "B. She walked to the market instead of taking the bus, even though it was raining.",
+        "C. Walking to the market was preferred by her rather than the bus, notwithstanding rain.",
+        "D. The rain notwithstanding, she elected to proceed on foot to market."
+      ],
+      "answer": "B",
+      "explanation": "Option B uses natural, conversational English with clear cause-effect logic and idiomatic phrasing. Option A is awkward ('in spite of raining' is incorrect; use 'rain' or 'the rain'). Option C is overly formal and unnatural. Option D uses archaic phrasing and formal register inappropriate for everyday speech."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "By the time she arrived at the conference, most of the morning sessions had already concluded.",
+      "question": "Which alternative most naturally conveys the same meaning in spoken English?",
+      "options": [
+        "A. When she arrived at the conference, most morning sessions had already finished.",
+        "B. She was late to the conference; most of the morning sessions were already over.",
+        "C. Upon her arrival at the conference, the conclusion of most morning sessions had already occurred.",
+        "D. Most of the morning sessions were done before she showed up at the conference."
+      ],
+      "answer": "D",
+      "explanation": "Option D uses casual, natural spoken English ('were done,' 'showed up') that conveys the same idea. Option A is grammatically correct but slightly formal. Option B is acceptable but inserts a judgmental tone ('late') not in the original. Option C is overly formal and awkward with passive construction."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "ICOM is a non-governmental body that establishes standards of professional practice for museums globally.",
+      "question": "Rewrite this sentence in your own words, capturing its essential meaning.",
+      "options": null,
+      "answer": null,
+      "explanation": "Key elements to preserve: (1) ICOM is an independent organization (not government-run); (2) it creates/sets guidelines or criteria; (3) these apply to museum professionals; (4) the scope is worldwide. Acceptable paraphrases might include: 'ICOM, an independent international organization, develops professional guidelines that museums worldwide must follow' or 'Museums globally follow professional standards established by ICOM, an independent body.'",
+      "paraphrase_keywords": [
+        "independent organization",
+        "establishes guidelines",
+        "professional standards",
+        "museums",
+        "international scope"
+      ]
+    }
+  ]
+}
