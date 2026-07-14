@@ -1,0 +1,218 @@
+{
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14T22:05:57.453611",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The Robert Rauschenberg Foundation has donated three sculptures to Artist Rooms, a collection jointly managed by Tate and the National Galleries of Scotland.",
+      "question": "In this context, 'jointly managed' most nearly means:",
+      "options": [
+        "A. Managed together by multiple parties sharing responsibility",
+        "B. Managed sequentially by different institutions",
+        "C. Managed temporarily until permanent ownership is determined",
+        "D. Managed according to a legal agreement but by one primary party"
+      ],
+      "answer": "A",
+      "explanation": "Jointly means 'together' or 'in partnership.' Option B suggests sequential management, which contradicts the shared, simultaneous nature of joint management. Option C introduces temporality not implied in the text, and option D contradicts the meaning of 'jointly' by suggesting one primary party."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Tech titans claim the genre inspired them. But all they've done is graft their politics onto stories of a better future.",
+      "question": "The word 'graft' in this sentence most likely means:",
+      "options": [
+        "A. To cultivate slowly and organically over time",
+        "B. To attach or insert something foreign onto something else",
+        "C. To obtain money dishonestly through one's position",
+        "D. To work hard to make something succeed"
+      ],
+      "answer": "B",
+      "explanation": "'Graft' as a verb means to attach or implant something, often from an external source. In context, it suggests artificially imposing politics onto pre-existing narratives. Option A is too gradual; option C refers to corruption (a noun usage); option D lacks the sense of imposing something external."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "An aid worker flown to Berlin as the Trump administration bars Americans from traveling to the US on commercial flights.",
+      "question": "The verb 'bars' in this headline most nearly means:",
+      "options": [
+        "A. Installs barriers to prevent physical movement",
+        "B. Prohibits or prevents through official authority",
+        "C. Temporarily delays travel arrangements",
+        "D. Restricts access to certain airports only"
+      ],
+      "answer": "B",
+      "explanation": "'Bars' here is a transitive verb meaning to prohibit or prevent through official action. Option A refers to physical barriers; option C suggests temporary delay rather than prohibition; option D is too specific and limits the scope of the restriction improperly."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Bereaved families and politicians have raised alarm about continued killings on Del Monte's pineapple farm in Kenya despite the company hiring a British security firm.",
+      "question": "The word 'bereaved' most accurately describes:",
+      "options": [
+        "A. People who are angry about corporate practices",
+        "B. People who have suffered the death of a loved one",
+        "C. People who have been unfairly treated by authorities",
+        "D. People who have witnessed violent incidents"
+      ],
+      "answer": "B",
+      "explanation": "'Bereaved' is an adjective specifically referring to those who have lost someone through death. Option A conflates anger with bereavement; option C refers to injustice; option D focuses on witnessing rather than loss. The term has a precise, emotional meaning tied to death."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The pieces will be on view at the Tate Modern later this year, extending 2025's centennial celebration of Rauschenberg's birth.",
+      "question": "The word 'extending' in this context most likely means:",
+      "options": [
+        "A. Stretching the physical space of the gallery",
+        "B. Prolonging or continuing the duration of something",
+        "C. Expanding the scope or reach of the celebration",
+        "D. Both B and C"
+      ],
+      "answer": "D",
+      "explanation": "'Extending' can mean both continuing something in time (prolonging) and broadening its scope (expanding). In this sentence, the donation both lengthens the celebration and broadens its reach by adding new works. Options A is literal rather than figurative; B and C are both valid and complementary meanings here."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The university board has mandated that all faculty members _______ their research findings in peer-reviewed journals.",
+      "question": "Which form is grammatically correct in this sentence requiring subjunctive mood?",
+      "options": [
+        "A. publish",
+        "B. publishes",
+        "C. should publish",
+        "D. will publish"
+      ],
+      "answer": "A",
+      "explanation": "After 'mandated that,' English requires the base subjunctive form without the auxiliary verb. 'Publish' (not 'publishes') is correct because subjunctive mood strips the third-person singular -s ending. Option C is an alternative form sometimes used, but A is the standard formal subjunctive. Options B and D use indicative mood, which contradicts the mandatory requirement."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The architect _______ the contractors _______ the foundation before winter set in.",
+      "question": "Which pair of verbs correctly expresses the causative construction?",
+      "options": [
+        "A. made; to pour",
+        "B. had; pour",
+        "C. got; to pour",
+        "D. made; poured"
+      ],
+      "answer": "B",
+      "explanation": "In causative constructions, 'had' is followed by the base infinitive (without 'to'), so 'had pour' is correct. Option A uses 'made' with infinitive 'to pour,' which is non-standard (made requires bare infinitive). Option C is acceptable in informal speech but less formal than 'had.' Option D uses 'made' with past tense, which is grammatically incorrect for causatives."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The witness reported that the suspect _______ fleeing the scene when police arrived.",
+      "question": "Which verb form correctly represents reported speech with appropriate tense backshift?",
+      "options": [
+        "A. is",
+        "B. was",
+        "C. has been",
+        "D. had been"
+      ],
+      "answer": "B",
+      "explanation": "Reported speech requires backshift of tenses. The original direct speech would be 'is fleeing,' but when reported, the present tense shifts back to past tense 'was.' Option A doesn't backshift; option C introduces present perfect, which doesn't match the backshift requirement; option D uses past perfect, which would be appropriate only if the original implied completion before another past action."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_______ knowledge is essential for success in _______ modern medicine, and _______ errors in diagnosis can be fatal.",
+      "question": "Which article combination is correct for these abstract and uncountable nouns?",
+      "options": [
+        "A. The; the; the",
+        "B. A; a; an",
+        "C. The; a; zero",
+        "D. Zero; zero; zero"
+      ],
+      "answer": "D",
+      "explanation": "Uncountable and abstract nouns like 'knowledge' and 'medicine' typically take zero article when used generically. 'Diagnostic errors' is plural, also taking zero article. Option A overuses the definite article; option B incorrectly uses 'a' with uncountable nouns; option C mixes articles inconsistently. The zero article correctly expresses general, non-specific reference here."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "If the regulations had been stricter last year, the company _______ been able to avoid the scandal.",
+      "question": "Which verb form correctly completes this third conditional sentence?",
+      "options": [
+        "A. would have",
+        "B. would",
+        "C. will have",
+        "D. might have"
+      ],
+      "answer": "A",
+      "explanation": "Third conditionals express impossible past situations and require 'would have' in the main clause (past perfect condition → would have + past participle). Option B uses 'would' without 'have,' making it a second conditional structure. Option C uses future tense, contradicting the past condition. Option D, while grammatically possible, is less standard than A for third conditionals."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The meeting was supposed to start at 9 AM, but _______ the traffic, it began twenty minutes late.",
+      "question": "Which expression is most natural in this everyday context?",
+      "options": [
+        "A. due to",
+        "B. because of",
+        "C. on account of",
+        "D. All are equally natural"
+      ],
+      "answer": "D",
+      "explanation": "All three expressions ('due to,' 'because of,' and 'on account of') are acceptable and natural in everyday speech to explain causation. 'Due to' and 'because of' are most common in modern English, while 'on account of' is slightly more formal but still natural. The question tests recognition that multiple natural alternatives exist."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "I can't come to dinner tonight. I'm _______ with a major deadline at work.",
+      "question": "Which phrasing sounds most natural and idiomatic?",
+      "options": [
+        "A. swamped",
+        "B. overwhelmed",
+        "C. buried",
+        "D. All are equally natural"
+      ],
+      "answer": "D",
+      "explanation": "All three expressions are natural, idiomatic ways to express being overloaded with work in everyday conversation. 'Swamped,' 'overwhelmed,' and 'buried' are all colloquial alternatives. The question tests recognition that multiple equally valid expressions exist in informal contexts."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "She didn't understand the instructions, so her colleague _______ her through the process step by step.",
+      "question": "Which verb phrase is most natural and idiomatic in this context?",
+      "options": [
+        "A. walked",
+        "B. guided",
+        "C. led",
+        "D. talked her through"
+      ],
+      "answer": "D",
+      "explanation": "'Talked her through' is the most idiomatic and natural phrasing in everyday English for explaining a process in detail. 'Walked' (to walk someone through) is also common, but 'guided' and 'led' lack the implication of verbal explanation implied by the context. Option D captures the conversational and instructional tone best."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "Bereaved families and politicians have raised alarm about continued killings on Del Monte's pineapple farm in Kenya despite the company hiring a British security firm to replace its in-house security team after previous deaths were exposed by the Guardian.",
+      "question": "Paraphrase this sentence in your own words, capturing the core meaning. (Identify 3-5 key concepts.)",
+      "options": null,
+      "answer": null,
+      "explanation": "A strong paraphrase should capture: (1) families and politicians expressing concern; (2) ongoing killings on the farm; (3) the company's attempt to address the problem through a security contractor; (4) the exposure of prior deaths; (5) the ineffectiveness of the security measure. Key concepts include concern/alarm, deaths/killings, security response, contractor replacement, and limited success.",
+      "paraphrase_keywords": [
+        "family concern",
+        "continued deaths",
+        "security contractor hired",
+        "previous exposure",
+        "ineffective response"
+      ]
+    }
+  ]
+}
