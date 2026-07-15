@@ -1,0 +1,218 @@
+{
+  "date": "2026-07-15",
+  "generated_at": "2026-07-15T22:08:42.675901",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Big changes are afoot at James Cohan Gallery, which launched its new identity as NORR COHAN on July 15.",
+      "question": "In this context, 'afoot' most closely means:",
+      "options": [
+        "A. On foot or walking",
+        "B. In motion or in progress",
+        "C. At the bottom or foundation",
+        "D. Nearby or in the immediate vicinity"
+      ],
+      "answer": "B",
+      "explanation": "Afoot is an idiomatic expression meaning 'in motion' or 'underway.' While 'on foot' (option A) is a literal interpretation, the context of 'big changes' requires the figurative meaning. Options C and D are distractors that misinterpret the word's etymology."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The auction house attributed these returns, in part, to broadened engagement, some of which was fostered by their move.",
+      "question": "The word 'fostered' in this sentence means:",
+      "options": [
+        "A. Legally adopted or placed in care",
+        "B. Encouraged or promoted the growth of",
+        "C. Nurtured animals on a farm",
+        "D. Created reluctantly or under duress"
+      ],
+      "answer": "B",
+      "explanation": "Fostered here is used metaphorically to mean 'encouraged' or 'promoted.' Option A refers to the literal sense of foster care, while C is a rural usage. Option D misrepresents the tone; fostering suggests active, willing encouragement."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "What does it mean to make art in the age of inexhaustible AIs? An animator ponders his purpose and reclaims some control.",
+      "question": "The word 'inexhaustible' most nearly means:",
+      "options": [
+        "A. Tired or fatigued",
+        "B. Unable to be completely used up or depleted",
+        "C. Thoroughly explained or documented",
+        "D. Difficult to understand or comprehend"
+      ],
+      "answer": "B",
+      "explanation": "Inexhaustible describes something that cannot be exhausted or depleted. Option A confuses the word with 'exhausted.' Options C and D are false cognates that misinterpret the prefix in- and the root exhaust."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "A US national who contracted Ebola in the Democratic Republic of the Congo has arrived in Germany for treatment, weeks after another American infected with Ebola in the DRC was treated in Berlin.",
+      "question": "In medical contexts, 'contracted' means:",
+      "options": [
+        "A. Physically shrank or became smaller",
+        "B. Entered into a formal agreement or deal",
+        "C. Acquired or caught (a disease)",
+        "D. Tensed or tightened muscles"
+      ],
+      "answer": "C",
+      "explanation": "Contracted in medical contexts means 'acquired' or 'caught' a disease. Options A and D refer to the literal or physical meaning of contract. Option B refers to a legal or business context, which is incorrect here."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Bereaved families and politicians have raised alarm about continued killings on Del Monte's pineapple farm in Kenya despite the company hiring a British security firm.",
+      "question": "The word 'bereaved' is used to describe:",
+      "options": [
+        "A. Families who are angry or outraged",
+        "B. Families who have suffered the death of a loved one",
+        "C. Families who are poor or economically disadvantaged",
+        "D. Families who are separated by distance or conflict"
+      ],
+      "answer": "B",
+      "explanation": "Bereaved specifically refers to people who are grieving the death of someone close to them. Option A conflates emotion with the formal definition. Options C and D are unrelated to the word's meaning."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The manager told us that she _____ the project by the following Monday, but we later learned she had misrepresented the timeline.",
+      "question": "Which option correctly completes this sentence using reported speech with appropriate backshift of tenses?",
+      "options": [
+        "A. would have completed",
+        "B. would complete",
+        "C. will complete",
+        "D. has completed"
+      ],
+      "answer": "B",
+      "explanation": "When reporting a past statement, the original future tense 'will complete' must backshift to 'would complete.' Option A uses the conditional perfect, which is inappropriate for simple future contexts. Options C and D fail to backshift the tense, ignoring the rules of reported speech."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "She stopped _____ to the lecture regularly after she realized the content was too advanced for her current level.",
+      "question": "Which gerund or infinitive form best completes this sentence, considering the change of meaning?",
+      "options": [
+        "A. to go",
+        "B. going",
+        "C. to have gone",
+        "D. having gone"
+      ],
+      "answer": "B",
+      "explanation": "Stop + gerund means 'to cease an ongoing action,' while stop + infinitive means 'to halt in order to do something.' Here, the context indicates she ceased the habit of attending, requiring the gerund form. Option A would suggest she stopped (in order) to go to lectures, which contradicts the meaning. Options C and D are overly complex forms that don't fit the context."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Not until the final report was published _____ the extent of the budget shortfall truly become apparent.",
+      "question": "Which option correctly completes this sentence using inversion after a negative adverbial?",
+      "options": [
+        "A. did it",
+        "B. it did",
+        "C. does it",
+        "D. it does"
+      ],
+      "answer": "A",
+      "explanation": "When a negative adverbial (Not until, Hardly, Rarely, No sooner) begins a sentence, the subject and auxiliary verb must be inverted. The correct form is 'did it,' not 'it did.' Options C and D use the present tense, which is inappropriate in a past context. Option B omits the required inversion."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The team _____ the error in their calculations for weeks, but I spotted it immediately upon reviewing the work.",
+      "question": "Which option correctly uses the perfect tenses to show the relationship between the past events?",
+      "options": [
+        "A. had been overlooking",
+        "B. have been overlooking",
+        "C. were overlooking",
+        "D. are overlooking"
+      ],
+      "answer": "A",
+      "explanation": "The past perfect continuous 'had been overlooking' correctly indicates an action that occurred repeatedly over a period before another past event (spotting the error). Option B uses the present perfect, which is inappropriate for events fully in the past. Options C and D use simple past or present, which do not convey the duration or priority of events."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "You _____ brought an umbrella; the weather forecast clearly predicted rain, and you were properly warned.",
+      "question": "Which modal verb phrase correctly expresses criticism about a past obligation?",
+      "options": [
+        "A. should have",
+        "B. must have",
+        "C. needn't have",
+        "D. might have"
+      ],
+      "answer": "A",
+      "explanation": "Should have expresses criticism or mild obligation for past actions that didn't happen. Must have suggests a deduction about what certainly happened. Needn't have means the action occurred but was unnecessary. Might have is tentative speculation. Only 'should have' conveys appropriate criticism for an unfulfilled obligation."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Despite the rain, she decided to walk to the market rather than take the bus.",
+      "question": "Which rephrasing is most natural and retains the original meaning?",
+      "options": [
+        "A. Although raining, she chose walking to the market instead of taking the bus.",
+        "B. In spite of the rain, she preferred to walk to the market rather than ride the bus.",
+        "C. The rain notwithstanding, she elected to walk the market in lieu of the bus.",
+        "D. Raining despite, she decided walking to the market than the bus."
+      ],
+      "answer": "B",
+      "explanation": "Option B is natural and idiomatic, using 'preferred to walk' and 'ride the bus' with parallel structure. Option A is awkward ('Although raining' is ungrammatical). Option C is overly formal and stilted ('in lieu of' is inappropriate for transportation). Option D has grammatical errors and poor word order."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The more carefully he read the contract, the more concerned he became about its implications.",
+      "question": "Which option is the most natural way to express the same idea?",
+      "options": [
+        "A. As he read the contract more carefully, his concern about its implications increased greatly.",
+        "B. Reading the contract carefully caused him to become more and more concerned about its implications.",
+        "C. He became increasingly concerned about the contract's implications as he read more carefully.",
+        "D. The careful reading of the contract made him concern about its implications more."
+      ],
+      "answer": "A",
+      "explanation": "Option A naturally captures the parallel structure of proportional increase ('the more...the more'). Option B is wordy and shifts emphasis. Option C is grammatical but less elegant. Option D has an awkward construction ('made him concern') and is less natural than the parallel structure."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The experiment having failed twice, the researchers decided to revise their methodology entirely.",
+      "question": "Which option uses the most natural phrasing for everyday communication?",
+      "options": [
+        "A. The experiment having failed twice, the researchers decided to revise their methodology entirely.",
+        "B. Because the experiment had failed twice, the researchers decided to revise their methodology entirely.",
+        "C. The experiment failed twice; therefore, the researchers decided to revise their methodology entirely.",
+        "D. Failing twice, the experiment caused the researchers to decide to revise their methodology entirely."
+      ],
+      "answer": "B",
+      "explanation": "Option B is the most natural and clear for everyday writing, using a straightforward causal relationship. Option A uses an absolute phrase, which is grammatically correct but more formal. Option C uses a semicolon and is acceptable but less direct. Option D awkwardly attributes intention to the experiment rather than the researchers."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "On Tuesday Sotheby's announced that they had logged their highest-ever numbers in sales between January and June of 2026, an astonishing $4.4 billion, representing a 58 percent increase in sales from the first half of 2025.",
+      "question": "Paraphrase the core meaning of this sentence in your own words.",
+      "options": null,
+      "answer": null,
+      "explanation": "A strong paraphrase should capture: (1) Sotheby's announced record sales figures; (2) the period was January-June 2026; (3) the total was $4.4 billion; (4) this represented a significant increase (58%) compared to the same period in 2025. Keywords to include: record, announcement, sales revenue, growth/increase, comparison to previous year.",
+      "paraphrase_keywords": [
+        "record sales",
+        "Sotheby's announcement",
+        "$4.4 billion",
+        "58% increase",
+        "first half 2026"
+      ]
+    }
+  ]
+}
