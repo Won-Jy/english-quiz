@@ -1,0 +1,218 @@
+{
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16T22:10:09.951863",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The satirical artist collective's creation serves as a _____ commentary on military interventions.",
+      "question": "Which word best completes this sentence?",
+      "options": [
+        "A) scathing",
+        "B) pleasant",
+        "C) neutral",
+        "D) factual"
+      ],
+      "answer": "A",
+      "explanation": "Scathing means harshly critical or severe. In context, a satirical work criticizing war participation would be scathing. Pleasant, neutral, and factual all fail to capture the biting, critical tone implied by satire."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The oyster shell restoration project demonstrates an _____ approach to addressing coastal erosion.",
+      "question": "Which word best fits this context?",
+      "options": [
+        "A) ineffective",
+        "B) ingenious",
+        "C) destructive",
+        "D) outdated"
+      ],
+      "answer": "B",
+      "explanation": "Ingenious means cleverly inventive and original. The source text explicitly describes the project as ingenious. The other options contradict the positive portrayal of a successful restoration solution."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The foreign aid cuts have prompted _____ concerns among international observers about the UK's commitment to development.",
+      "question": "Which word best completes the sentence?",
+      "options": [
+        "A) trivial",
+        "B) substantive",
+        "C) irrelevant",
+        "D) minimal"
+      ],
+      "answer": "B",
+      "explanation": "Substantive means significant and having real importance. Cuts of up to 90% warrant substantive concerns. Trivial, irrelevant, and minimal all suggest the concerns are unimportant, which contradicts the severity of the aid reductions described."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The WHO's requirement of a 42-day monitoring period serves as a _____ mechanism to ensure disease eradication before declaring a country free of the outbreak.",
+      "question": "Which word best fits this context?",
+      "options": [
+        "A) superficial",
+        "B) punitive",
+        "C) precautionary",
+        "D) arbitrary"
+      ],
+      "answer": "C",
+      "explanation": "Precautionary means designed to prevent risk or ensure safety. The waiting period is a safety measure to prevent premature declarations. Superficial ignores the seriousness; punitive wrongly suggests punishment; arbitrary suggests no logical reason, contradicting the medical rationale."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The philosophy institute raid _____ broader tensions between academic freedom and government oversight.",
+      "question": "Which word best completes this sentence?",
+      "options": [
+        "A) obscures",
+        "B) epitomizes",
+        "C) resolves",
+        "D) ignores"
+      ],
+      "answer": "B",
+      "explanation": "Epitomizes means to be a perfect example of something. A government raid on a philosophy institute exemplifies the conflict between academic freedom and state control. Obscures and ignores suggest the raid hides such tensions; resolves wrongly implies the issue is settled."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "If the government _____ consulted stakeholders before implementing the policy, the backlash would have been less severe.",
+      "question": "Which verb form correctly completes this third conditional sentence?",
+      "options": [
+        "A) had consulted",
+        "B) would have consulted",
+        "C) consulted",
+        "D) would consult"
+      ],
+      "answer": "A",
+      "explanation": "Third conditional requires 'had + past participle' in the if-clause to express an unrealized past condition. Option B incorrectly places the auxiliary verb in the if-clause; option C uses simple past, which is incorrect; option D is second conditional form."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "It is essential that the director _____ immediate action to prevent further delays in the project.",
+      "question": "Which verb form correctly completes this subjunctive sentence?",
+      "options": [
+        "A) takes",
+        "B) take",
+        "C) took",
+        "D) has taken"
+      ],
+      "answer": "B",
+      "explanation": "After 'it is essential that,' the subjunctive mood requires the base form of the verb without -s. Option A uses indicative mood (wrong); option C is past tense (wrong); option D is present perfect (wrong). The subjunctive expresses necessity or importance."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The CEO had the entire report _____ by an external auditor to ensure transparency.",
+      "question": "Which option correctly completes this causative construction?",
+      "options": [
+        "A) reviewed",
+        "B) review",
+        "C) reviewing",
+        "D) reviews"
+      ],
+      "answer": "A",
+      "explanation": "With causative 'have,' the past participle is used to show that the CEO caused someone else to do the action. Option B (base form) is incorrect; option C (gerund) is wrong; option D (third person singular) doesn't fit the causative structure."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_____ philosophy has influenced intellectual movements across Europe, from Vienna's coffeehouses to Belgrade's kafanas.",
+      "question": "Which article/determiner correctly completes this sentence about abstract nouns?",
+      "options": [
+        "A) The",
+        "B) A",
+        "C) An",
+        "D) Zero article"
+      ],
+      "answer": "D",
+      "explanation": "When discussing abstract nouns in a general, uncountable sense (philosophy as a field of study), zero article is used. Option A (definite article) would be used only if referring to a specific philosophy; options B and C are incorrect for abstract nouns in this context."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The restoration project, which has transformed oyster shells into coastal defenses, represents an innovative approach to environmental protection.",
+      "question": "Which revision correctly changes this to a defining relative clause?",
+      "options": [
+        "A) The restoration project that has transformed oyster shells into coastal defenses represents an innovative approach to environmental protection.",
+        "B) The restoration project, that has transformed oyster shells into coastal defenses, represents an innovative approach to environmental protection.",
+        "C) The restoration project, which has transformed oyster shells into coastal defenses, which represents an innovative approach to environmental protection.",
+        "D) The restoration project whose shells have been transformed into coastal defenses represents an innovative approach to environmental protection."
+      ],
+      "answer": "A",
+      "explanation": "Defining relative clauses identify which specific thing is being discussed and use 'that' (or 'which' without commas). Option B incorrectly uses commas with 'that'; option C awkwardly doubles the relative clause; option D changes the meaning with 'whose.' Only option A correctly removes commas and changes to a defining clause."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "She asked whether the documents had been signed by all the relevant parties.",
+      "question": "Which alternative phrasing is most natural in this context?",
+      "options": [
+        "A) She asked if all the relevant parties had signed the documents.",
+        "B) She asked whether or not all the relevant parties had signed the documents.",
+        "C) She asked whether all the relevant parties had signed the documents or not.",
+        "D) She asked to know whether the documents were signed by all the relevant parties."
+      ],
+      "answer": "A",
+      "explanation": "Option A uses more direct, natural phrasing with active voice. Option B is redundant (whether already implies a choice); option C is awkward with 'or not' at the end; option D is wordy with 'to know.' The simple inversion of subject-verb order in option A is clearest."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Neither the manager nor the employees were informed of the decision until after it had been implemented.",
+      "question": "Which alternative expresses the same idea most naturally?",
+      "options": [
+        "A) The manager and the employees were not informed of the decision until after it had been implemented.",
+        "B) The manager, along with the employees, was not informed of the decision until after it had been implemented.",
+        "C) Neither the manager nor the employees was informed of the decision until after it had been implemented.",
+        "D) The decision was not communicated to the manager or employees until after it had been implemented."
+      ],
+      "answer": "D",
+      "explanation": "Option D is the most natural rephrasing, using passive voice with clearer agent focus. Option A changes the meaning slightly; option B changes plural to singular incorrectly; option C has incorrect subject-verb agreement (neither...nor with plural noun requires plural verb). Option D conveys the same information more directly."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The more carefully he read the contract, the more concerned he became about its implications.",
+      "question": "Which alternative expresses the same relationship most naturally?",
+      "options": [
+        "A) As he read the contract more carefully, his concerns about its implications increased.",
+        "B) The more he read the contract carefully, the more his concerns grew about its implications.",
+        "C) In reading the contract more carefully, he became increasingly concerned about its implications.",
+        "D) He read the contract carefully, and because of this, he became more and more concerned about its implications."
+      ],
+      "answer": "A",
+      "explanation": "Option A captures the 'the more...the more' parallel structure naturally with 'as...increased.' Option B is awkwardly worded; option C loses the proportional relationship; option D is too casual and loses the elegant structure. Option A maintains both grammatical accuracy and natural flow."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "While Vienna's coffeehouses bred modernism, in Belgrade's kafanas grew conspiracy and rage. Their clash consumed Europe.",
+      "question": "Rewrite this sentence in your own words, capturing the core meaning.",
+      "options": null,
+      "answer": null,
+      "explanation": "This sentence contrasts two European café cultures: Vienna's progressive intellectual spaces versus Belgrade's spaces of suspicion and anger. The clash between these opposing forces had continent-wide consequences.",
+      "paraphrase_keywords": [
+        "Vienna coffeehouses",
+        "intellectual modernism",
+        "Belgrade kafanas",
+        "conspiracy and anger",
+        "European conflict"
+      ]
+    }
+  ]
+}
