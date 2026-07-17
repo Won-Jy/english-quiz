@@ -1,0 +1,218 @@
+{
+  "date": "2026-07-17",
+  "generated_at": "2026-07-17T22:00:23.882316",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The new law represents a victory for the right-wing government and subjects those found guilty of defiling national symbols to severe penalties.",
+      "question": "In this context, 'defiling' most nearly means:",
+      "options": [
+        "A. Treating with disrespect or contempt",
+        "B. Physically separating into components",
+        "C. Publicly displaying in museums",
+        "D. Documenting in legal records"
+      ],
+      "answer": "A",
+      "explanation": "Defiling means to treat something sacred or important with disrespect, which aligns with the law's concern about national symbols. Option B (separating) is too literal and technical. Option C contradicts the punitive nature of the law. Option D is unrelated to the verb's meaning."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The plaintiffs allege that the painting was stolen from their family nearly fifty years ago, as first reported by Crain's New York.",
+      "question": "The word 'allege' in legal contexts means:",
+      "options": [
+        "A. To claim or assert without proof",
+        "B. To prove conclusively in court",
+        "C. To deny vehemently",
+        "D. To document officially"
+      ],
+      "answer": "A",
+      "explanation": "Allege means to claim or assert something without having proven it yet—a crucial distinction in legal language. Option B contradicts the meaning because allegation precedes proof. Options C and D are unrelated to the word's definition."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Every 122 years, Venus crosses the Sun as a black and fleeting teardrop, kindling the awe of all those who dare to know.",
+      "question": "The word 'kindling' most nearly means:",
+      "options": [
+        "A. Igniting or evoking emotion",
+        "B. Burning wood for fire",
+        "C. Arranging in order",
+        "D. Diminishing gradually"
+      ],
+      "answer": "A",
+      "explanation": "Kindling here is a metaphorical use meaning to ignite or awaken emotion (awe). While kindling literally refers to dry wood for starting fires (Option B), the context clearly indicates an emotional awakening. Options C and D are irrelevant to the passage's meaning."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "In an ingenious restoration project, the humble oyster shell is transformed into a powerful tool to halt coastal erosion.",
+      "question": "The adjective 'ingenious' suggests that the restoration project is:",
+      "options": [
+        "A. Cleverly invented and creative",
+        "B. Made with expensive materials",
+        "C. Approved by government agencies",
+        "D. Implemented over many years"
+      ],
+      "answer": "A",
+      "explanation": "Ingenious means cleverly designed or inventive, emphasizing creativity and originality. Option B confuses ingenious with expensive or luxurious. Options C and D describe practical aspects but miss the meaning of the adjective itself."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The aid workers are the first known people to quarantine at the facility, which has sparked huge opposition in Kenya and is at the heart of a legal case in which a court has ordered the work to be suspended.",
+      "question": "The phrase 'at the heart of' means:",
+      "options": [
+        "A. Central to or fundamental to",
+        "B. Physically located inside",
+        "C. Emotionally distressing to",
+        "D. Secretly hidden within"
+      ],
+      "answer": "A",
+      "explanation": "At the heart of means central to or forming the core of something. Option B is overly literal. Options C and D misrepresent the idiom's meaning—it refers to importance or centrality, not emotion or secrecy."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The committee members, along with the director, _____ unanimous in their decision to postpone the announcement.",
+      "question": "Which modal or auxiliary form correctly completes this sentence about subject-verb agreement?",
+      "options": [
+        "A. was",
+        "B. were",
+        "C. has been",
+        "D. have been"
+      ],
+      "answer": "B",
+      "explanation": "The subject is 'committee members' (plural), and the prepositional phrase 'along with the director' does not change the subject's number. Plural subjects require 'were.' Option A treats the subject as singular. Options C and D introduce unnecessary perfect aspect that doesn't fit the context."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "She _____ studied the contract more carefully; she would have noticed the problematic clause.",
+      "question": "Which modal verb phrase correctly expresses justified criticism about her past action?",
+      "options": [
+        "A. should have",
+        "B. must have",
+        "C. might have",
+        "D. needn't have"
+      ],
+      "answer": "A",
+      "explanation": "Should have expresses justified criticism or a missed obligation in the past. Must have implies certainty about what actually happened, not criticism. Might have suggests possibility without judgment. Needn't have means the action was unnecessary, which doesn't fit the context of legitimate criticism."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_____ completed the paperwork, the applicants were instructed to submit their portfolios online.",
+      "question": "Which participle clause correctly completes this sentence?",
+      "options": [
+        "A. Having",
+        "B. Having been",
+        "C. Being",
+        "D. Been"
+      ],
+      "answer": "A",
+      "explanation": "Having completed (perfect participle) shows the applicants' action is completed before the main clause action. Option B (having been completed) would be passive and incorrect here. Option C (being) suggests ongoing action. Option D is incomplete and ungrammatical."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Not until the evidence was presented _____ the jury begin to reconsider their initial conclusions.",
+      "question": "Which verb form correctly completes this inverted sentence after the negative adverbial?",
+      "options": [
+        "A. did",
+        "B. does",
+        "C. has",
+        "D. have"
+      ],
+      "answer": "A",
+      "explanation": "Inversion after 'Not until' requires auxiliary inversion: 'did the jury begin.' The past tense 'did' matches the past tense 'was presented' in the dependent clause. Option B (present tense does) breaks tense agreement. Options C and D are wrong aspect forms."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "It is essential that the director _____ present at all board meetings to ensure accountability.",
+      "question": "Which verb form is required after 'it is essential that' (subjunctive mood)?",
+      "options": [
+        "A. is",
+        "B. be",
+        "C. will be",
+        "D. should be"
+      ],
+      "answer": "B",
+      "explanation": "The subjunctive mood requires the base form 'be' after expressions like 'it is essential that.' Option A uses the indicative mood, which is incorrect. Options C and D add unnecessary modal or future tense markers that contradict subjunctive requirements."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The more carefully he read the contract, the more concerned he became about its implications.",
+      "question": "Which phrase best captures the intended meaning of this sentence?",
+      "options": [
+        "A. His concern increased in proportion to his careful reading",
+        "B. His careful reading made him worry about all legal documents",
+        "C. He became concerned only after reading the entire contract",
+        "D. His worry prevented him from reading the contract carefully"
+      ],
+      "answer": "A",
+      "explanation": "The correlative construction 'the more... the more' expresses a proportional relationship: increased careful reading led to increased concern. Option B overgeneralizes beyond the contract. Option C ignores the proportional aspect. Option D reverses the cause-effect relationship."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "He would have applied for the position had he known about it earlier.",
+      "question": "This sentence most naturally expresses:",
+      "options": [
+        "A. A hypothetical situation in the future",
+        "B. A regret about a missed opportunity in the past",
+        "C. A definite intention that will happen later",
+        "D. A uncertain condition that might still occur"
+      ],
+      "answer": "B",
+      "explanation": "The conditional past construction 'would have applied' + 'had he known' expresses regret about an unrealized past event. Option A confuses conditional with future meaning. Option C misreads the past perfect tense. Option D underestimates the certainty implied by the past conditional."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The committee, which had been meeting every Tuesday, finally reached a consensus on the proposed changes.",
+      "question": "The phrase 'finally reached a consensus' most suggests that:",
+      "options": [
+        "A. The committee had previously disagreed but now agrees",
+        "B. The committee discovered an unexpected answer quickly",
+        "C. The committee will continue to meet every Tuesday",
+        "D. The committee consists of people who rarely disagree"
+      ],
+      "answer": "A",
+      "explanation": "The word 'finally' indicates that after repeated meetings (the ongoing past action), they succeeded in agreeing. Option B contradicts 'finally' (which implies extended effort). Option C relates to the past arrangement, not the resolution. Option D is not supported by the sentence structure."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "The new law, which represents a victory for the right-wing government of Prime Minister Sanae Takaichi, subjects those found guilty of defiling or disrespecting national symbols to criminal penalties.",
+      "question": "Rewrite the sentence in your own words, capturing the core meaning in 2-3 sentences.",
+      "options": null,
+      "answer": null,
+      "explanation": "Student should convey: (1) the government passed legislation, (2) it benefits the right-wing administration, (3) it punishes people who disrespect national symbols. Acceptable responses vary but must preserve these essential elements.",
+      "paraphrase_keywords": [
+        "legislation",
+        "right-wing government",
+        "punishes",
+        "national symbols",
+        "disrespect"
+      ]
+    }
+  ]
+}
