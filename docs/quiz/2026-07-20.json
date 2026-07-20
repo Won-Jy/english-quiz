@@ -1,0 +1,232 @@
+{
+  "date": "2026-07-20",
+  "generated_at": "2026-07-20T22:07:55.814261",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The biennale, which is a member of the International Biennial Association (IBA), and among the most influential art exhibitions in Asia, is set to open in November 2027.",
+      "question": "In this context, 'set to open' means the exhibition is _____ to open.",
+      "options": [
+        "A. scheduled or arranged",
+        "B. prepared mentally",
+        "C. placed on a platform",
+        "D. determined by fate"
+      ],
+      "answer": "A",
+      "explanation": "The phrase 'set to' as a phrasal verb means 'scheduled or arranged to happen soon.' While 'set' has multiple meanings, in an institutional context discussing a future date, it refers to a planned event. Option B relates to mental preparation, C to physical placement, and D to destiny—all incorrect readings of the idiomatic expression.",
+      "paraphrase_keywords": []
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "David Zwirner has closed its outpost at 34 East Sixty-Ninth Street in New York.",
+      "question": "An 'outpost' in the context of a gallery most closely means a _____ location or branch.",
+      "options": [
+        "A. remote or secondary",
+        "B. fortified military",
+        "C. temporary exhibition",
+        "D. underground storage"
+      ],
+      "answer": "A",
+      "explanation": "'Outpost' refers to a branch or satellite office away from the main headquarters, often in a secondary location. While the word originates from military language (Option B), in business it simply denotes a subsidiary operation. Option C and D are incorrect uses of the term.",
+      "paraphrase_keywords": []
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Hand-painted works are often wildly unfaithful to the movies they portray – reinterpretations that sometimes resulted in threats, insults and even physical attacks from viewers who felt duped.",
+      "question": "To be 'unfaithful to' a source material means to be _____ to the original.",
+      "options": [
+        "A. disloyal or inaccurate",
+        "B. emotionally distant",
+        "C. physically separated",
+        "D. commercially unsuccessful"
+      ],
+      "answer": "A",
+      "explanation": "'Unfaithful to' means failing to represent or stick closely to an original work, rendering it inaccurate or distorted. Option B refers to emotional distance, which is not the meaning here. Options C and D are irrelevant meanings of 'unfaithful.'",
+      "paraphrase_keywords": []
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "A dramatic shift in perspective is producing a much bigger, broader and more exciting view of 'the ancient world'.",
+      "question": "In this sentence, 'shift' suggests a _____ change or movement.",
+      "options": [
+        "A. sudden or significant",
+        "B. circular or rotational",
+        "C. mechanical or forced",
+        "D. temporary or reversible"
+      ],
+      "answer": "A",
+      "explanation": "'Shift' in the context of perspective refers to a meaningful, often sudden change in viewpoint. Option B refers to literal rotation, Option C to mechanical force, and Option D implies temporariness, whereas a 'dramatic shift' suggests a significant transformation that is likely sustained.",
+      "paraphrase_keywords": []
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Voters in São Tomé and Príncipe go to the polls for a presidential election as one of Africa's least populous countries seeks to burnish its democratic credentials.",
+      "question": "To 'burnish' one's democratic credentials means to _____ them.",
+      "options": [
+        "A. polish or enhance the reputation of",
+        "B. legally register or verify",
+        "C. publicly criticize or challenge",
+        "D. formally document or certify"
+      ],
+      "answer": "A",
+      "explanation": "'Burnish' literally means to polish metal; figuratively, it means to enhance or improve the appearance or reputation of something. Option B refers to registration, C to criticism, and D to documentation—none of which capture the polishing/enhancing sense of the word.",
+      "paraphrase_keywords": []
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The professor announced that the deadline _____ moved to the following week.",
+      "question": "Choose the correct form to complete the reported speech with backshift of tenses: 'The professor announced that the deadline _____ moved to the following week.'",
+      "options": [
+        "A. has been",
+        "B. had been",
+        "C. would be",
+        "D. is"
+      ],
+      "answer": "C",
+      "explanation": "When reporting what someone announced in the past, the original verb 'will be moved' must backshift to 'would be' in reported speech. Option A (present perfect) and D (present simple) do not perform backshift. Option B (past perfect) is too remote a tense for this context.",
+      "paraphrase_keywords": []
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "She regrets _____ the opportunity, but she is grateful _____ the lessons she learned from rejection.",
+      "question": "Which pair of forms (gerund or infinitive) correctly completes both blanks?",
+      "options": [
+        "A. missing / to have gained",
+        "B. to miss / gaining",
+        "C. missing / for gaining",
+        "D. to have missed / for gaining"
+      ],
+      "answer": "A",
+      "explanation": "'Regret' takes a gerund when expressing past actions (she regrets missing it). 'Grateful' is followed by 'for' + gerund or 'to' + infinitive to express reason; here 'grateful to have gained' is most idiomatic, meaning she is grateful for the experience of gaining those lessons. Option B uses wrong forms; C and D use incorrect prepositions or forms.",
+      "paraphrase_keywords": []
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Neither the curator nor the assistant _____ willing to compromise on the exhibition's aesthetic vision.",
+      "question": "Which verb form agrees correctly with the complex subject?",
+      "options": [
+        "A. are",
+        "B. is",
+        "C. was",
+        "D. have been"
+      ],
+      "answer": "B",
+      "explanation": "With 'neither...nor' constructions, the verb agrees with the nearest subject, which is 'the assistant' (singular), requiring the singular verb 'is.' Option A uses plural agreement, C uses past tense, and D uses plural perfect—all incorrect.",
+      "paraphrase_keywords": []
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "Rarely _____ the team faced such a complex set of competing demands.",
+      "question": "Complete this sentence with inversion after the negative adverbial 'Rarely':",
+      "options": [
+        "A. had",
+        "B. have",
+        "C. has",
+        "D. did"
+      ],
+      "answer": "A",
+      "explanation": "After negative adverbials like 'Rarely,' the subject and auxiliary must invert. The sentence requires 'Rarely had the team faced...' using past perfect to indicate a rare past event. Option B (present perfect) and C (present simple singular) ignore the past context. Option D uses simple past without the appropriate aspect.",
+      "paraphrase_keywords": []
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "You _____ have left the keys on the table; I found them there this morning.",
+      "question": "Which modal best expresses that the action was unnecessary but likely occurred?",
+      "options": [
+        "A. must",
+        "B. should",
+        "C. needn't",
+        "D. couldn't"
+      ],
+      "answer": "C",
+      "explanation": "'Needn't have' + past participle expresses an unnecessary past action (you didn't need to leave them, but you did). 'Must have' (A) suggests certainty. 'Should have' (B) implies criticism. 'Couldn't have' (D) suggests impossibility—none convey unnecessary action.",
+      "paraphrase_keywords": []
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Despite the rain, she decided to walk to the market rather than take the bus.",
+      "question": "In this everyday context, which is the most natural alternative expression?",
+      "options": [
+        "A. Although it was raining, she preferred walking to the market over taking the bus.",
+        "B. The rain did not prevent her from walking to the market instead of the bus.",
+        "C. In spite of the downpour, she chose to walk the market route rather than catch a bus.",
+        "D. She walked to the market in rain avoidance of the bus."
+      ],
+      "answer": "A",
+      "explanation": "Option A preserves the natural flow and conciseness of the original, using 'Although' (equivalent to 'Despite') and 'preferred...over' (equivalent to 'rather than'). Option B is awkward and verbose. Option C uses unusual phrasing ('walk the market route'). Option D is grammatically incorrect.",
+      "paraphrase_keywords": []
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "By the time she arrived at the conference, most of the morning sessions had already concluded.",
+      "question": "Which rephrasing most naturally conveys the same meaning in everyday speech?",
+      "options": [
+        "A. When she got to the conference, the morning sessions were mostly finished already.",
+        "B. She arrived at the conference, and the morning sessions concluded.",
+        "C. Most morning sessions had concluded before she could arrive at the conference.",
+        "D. The conference's morning sessions ended prior to her arrival, therefore."
+      ],
+      "answer": "A",
+      "explanation": "Option A uses natural everyday language ('got to,' 'were mostly finished') while maintaining the time relationship. Option B omits the temporal emphasis ('by the time'). Option C is stiff and incomplete. Option D is overly formal with unnecessary 'therefore.'",
+      "paraphrase_keywords": []
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "He suggested that the team reconsider its approach, given the new information that had emerged.",
+      "question": "Which expression best replaces this in casual conversation?",
+      "options": [
+        "A. He said the team should think again about how they're doing things, since new info came up.",
+        "B. He recommended the team reconsider their approach in light of emerging information.",
+        "C. Given the new information, he suggested reconsidering the team's approach.",
+        "D. The team's approach needed reconsideration, he suggested, because information emerged."
+      ],
+      "answer": "A",
+      "explanation": "Option A uses conversational language ('said,' 'think again,' 'new info came up') while preserving the meaning. Option B is too formal for casual speech. Option C repeats the original order without simplification. Option D is awkwardly structured.",
+      "paraphrase_keywords": []
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "On July 1, an announcement named Argentinian curator Ferran Barenblit as the chief curator of the 16th edition of the Shanghai Art Biennale.",
+      "question": "Rewrite this sentence in your own words, capturing the key information.",
+      "options": null,
+      "answer": null,
+      "explanation": "A strong paraphrase should convey: (1) the date (July 1), (2) Ferran Barenblit's nationality (Argentinian), (3) his new role (chief curator), (4) the event (Shanghai Art Biennale), (5) which edition (16th). Example: 'Ferran Barenblit, an Argentinian curator, was appointed on July 1 to lead the 16th Shanghai Art Biennale as chief curator.'",
+      "paraphrase_keywords": [
+        "Ferran Barenblit",
+        "Argentinian curator",
+        "chief curator",
+        "Shanghai Art Biennale",
+        "16th edition",
+        "appointed"
+      ]
+    }
+  ]
+}
