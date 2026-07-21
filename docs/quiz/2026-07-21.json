@@ -1,0 +1,218 @@
+{
+  "date": "2026-07-21",
+  "generated_at": "2026-07-21T22:08:38.765356",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Yuko Kikuchi resigned from her post after writing a letter describing 'racist' and 'culturally insensitive' conduct she said she experienced from other museum staffers.",
+      "question": "In this context, what does 'culturally insensitive' most closely mean?",
+      "options": [
+        "A. Lacking awareness of or respect for the values and practices of different cultures",
+        "B. Unable to hear or perceive cultural differences in music and art",
+        "C. Unwilling to travel to countries with unfamiliar customs",
+        "D. Too sensitive to criticism about one's own cultural background"
+      ],
+      "answer": "A",
+      "explanation": "Culturally insensitive refers to behavior that shows lack of awareness or consideration for different cultural perspectives and values. Option B conflates 'sensitive' with sensory perception; C and D misinterpret the meaning by introducing travel and personal emotional sensitivity, which are not the intended sense."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The report shows that 2.69 billion people cannot afford a diverse diet that meets their energy and nutrient needs, prompting calls for urgent action on food affordability.",
+      "question": "Which word best replaces 'afford' in this context?",
+      "options": [
+        "A. manage the cost of",
+        "B. provide time for",
+        "C. allocate resources towards",
+        "D. supply enough quantity of"
+      ],
+      "answer": "A",
+      "explanation": "'Afford' here means to have sufficient financial resources to purchase or sustain something. Option B introduces a time element not present in the original; C and D shift the focus to resource allocation and supply rather than personal purchasing power."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Jean Meslier argued that religion is designed to produce subjects who will automatically obey.",
+      "question": "In this passage, 'subjects' most likely means:",
+      "options": [
+        "A. topics of academic study",
+        "B. people under the authority or control of a ruler or institution",
+        "C. individuals who participate in scientific experiments",
+        "D. students enrolled in an educational program"
+      ],
+      "answer": "B",
+      "explanation": "In the context of Meslier's critique of religion and obedience, 'subjects' refers to people governed by or subordinate to authority. Option A refers to academic topics; C and D introduce experimental and educational contexts not supported by the sentence's argument about religious control."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "According to the National Election Commission, about 142,000 people are registered to vote in the tiny African state's elections, approximately 15% of whom live in the diaspora.",
+      "question": "What does 'diaspora' refer to in this sentence?",
+      "options": [
+        "A. citizens who have emigrated and live abroad",
+        "B. regions with diverse ethnic populations",
+        "C. remote areas with limited access to voting centers",
+        "D. communities that speak multiple languages"
+      ],
+      "answer": "A",
+      "explanation": "'Diaspora' specifically refers to a group of people from the same country who have dispersed to live in different parts of the world. Option B conflates diversity with diaspora; C introduces geographical isolation not implied by the term; D focuses on language rather than displacement and settlement abroad."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The annual report from five UN agencies warned that it will take 'immense' amounts of work to achieve the global target of zero hunger by 2030.",
+      "question": "Which phrase best captures the meaning of 'immense' here?",
+      "options": [
+        "A. vast and difficult to measure or comprehend",
+        "B. immediate and requiring urgent response",
+        "C. impossible and beyond realistic achievement",
+        "D. indirect and requiring multiple approaches"
+      ],
+      "answer": "A",
+      "explanation": "'Immense' means extremely large in size, extent, or degree, suggesting something overwhelming in scale. Option B introduces urgency not inherent to 'immense'; C overstates by implying impossibility; D introduces indirectness which is not the meaning of the word."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The museum director had the renovation completed ahead of schedule.",
+      "question": "Which sentence uses the causative 'have' in a way that changes the meaning?",
+      "options": [
+        "A. The museum director had the renovation completed ahead of schedule.",
+        "B. The museum director had completed the renovation ahead of schedule.",
+        "C. The museum director got the renovation completed ahead of schedule.",
+        "D. The museum director was having the renovation completed ahead of schedule."
+      ],
+      "answer": "B",
+      "explanation": "Option B uses 'had completed' in the active voice, meaning the director personally completed the work; this changes the meaning from causative (having someone else do it). Options A and C both maintain the causative meaning with 'have' and 'get' respectively. Option D is still causative but uses continuous aspect."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "You should have informed me before making that decision.",
+      "question": "What does 'should have' express in this sentence?",
+      "options": [
+        "A. past obligation that was fulfilled",
+        "B. past obligation that was not fulfilled, with implicit criticism",
+        "C. future recommendation with certainty",
+        "D. present conditional obligation"
+      ],
+      "answer": "B",
+      "explanation": "'Should have' + past participle expresses that an obligation existed in the past but was not met, often implying that the speaker is critical of this failure. Option A is opposite in meaning; C and D refer to future and present contexts respectively, not past."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "No sooner had the meeting begun than the fire alarm went off.",
+      "question": "What grammatical structure is demonstrated in 'No sooner had the meeting begun'?",
+      "options": [
+        "A. Subject-auxiliary inversion after a negative adverbial",
+        "B. Passive voice construction with negative modality",
+        "C. Conditional subjunctive with negative operator",
+        "D. Emphatic auxiliary stress on the verb 'had'"
+      ],
+      "answer": "A",
+      "explanation": "The negative adverbial 'No sooner' requires inversion of the subject and auxiliary verb, resulting in 'had the meeting' instead of 'the meeting had.' Option B incorrectly identifies the structure as passive; C conflates this with conditional subjunctive; D misidentifies the function as mere emphasis rather than inversion-triggering syntax."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "It is essential that the team reconsider its strategy in light of new evidence.",
+      "question": "Which sentence correctly uses the subjunctive mood in the same context?",
+      "options": [
+        "A. It is essential that the team reconsiders its strategy in light of new evidence.",
+        "B. It is essential that the team reconsider its strategy in light of new evidence.",
+        "C. It is essential that the team will reconsider its strategy in light of new evidence.",
+        "D. It is essential that the team should reconsider its strategy in light of new evidence."
+      ],
+      "answer": "B",
+      "explanation": "After expressions of importance like 'it is essential that,' the subjunctive mood requires the base form of the verb without -s ending: 'reconsider,' not 'reconsiders.' Option A adds -s, violating subjunctive form; C uses future 'will,' which is not subjunctive; D uses 'should,' which is a modal and not pure subjunctive in formal English."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The research, which was funded by the National Science Foundation, revealed new insights into climate change. The research that was funded by the National Science Foundation revealed new insights into climate change.",
+      "question": "Which relative clause is non-defining and could be removed without changing the sentence's core meaning?",
+      "options": [
+        "A. The first one ('which was funded...') is non-defining because it uses 'which'",
+        "B. The second one ('that was funded...') is non-defining because it uses 'that'",
+        "C. Both are defining clauses because they contain essential information",
+        "D. Neither can be classified as non-defining because both specify which research is meant"
+      ],
+      "answer": "A",
+      "explanation": "Non-defining relative clauses add extra information about an already-identified noun and are set off by commas; they typically use 'which' in formal English. The first sentence uses commas and 'which,' making it non-defining; it can be removed and the sentence still identifies 'the research' clearly. The second uses 'that' without commas, making it defining—it narrows down which research is meant."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Despite the rain, she decided to walk to the market rather than take the bus.",
+      "question": "Which expression is most naturally used in this everyday context?",
+      "options": [
+        "A. She opted to walk to the market in preference to taking the bus despite inclement weather.",
+        "B. She chose to walk to the market instead of the bus, even though it was raining.",
+        "C. In spite of the meteorological precipitation, she preferred ambulation to public transit.",
+        "D. The rain notwithstanding, she elected to perambulate to the market as opposed to the omnibus."
+      ],
+      "answer": "B",
+      "explanation": "Option B uses natural, conversational language appropriate for everyday speech ('chose,' 'instead of,' 'even though,' 'raining'). Option A is formal but sounds overly stilted; C uses unnecessarily complex vocabulary (meteorological precipitation, ambulation); D uses archaic and pretentious language (notwithstanding, perambulate, omnibus)."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "He would have applied for the position had he known about it earlier.",
+      "question": "Which phrasing expresses the same meaning in a more casual register?",
+      "options": [
+        "A. He would've applied for the position if he'd known about it earlier.",
+        "B. If he had possessed prior knowledge of the position's existence, he would have submitted an application.",
+        "C. He might have considered applying had he become aware of the opportunity in advance.",
+        "D. The position's earlier availability would have resulted in his application submission."
+      ],
+      "answer": "A",
+      "explanation": "Option A uses contractions ('would've,' 'he'd') typical of casual, everyday speech while preserving the conditional meaning. Option B is overly formal with unnecessarily complex phrasing; C weakens the certainty with 'might have considered'; D is awkward and bureaucratic."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The proposal was rejected not on its merits but on procedural grounds.",
+      "question": "Which version sounds most natural in a professional but conversational context?",
+      "options": [
+        "A. The proposal was rejected not because of its merits but because of procedural issues.",
+        "B. The proposal underwent rejection predicated not upon substantive merit but upon procedural technicalities.",
+        "C. They rejected the proposal, not for its merits but for procedural reasons.",
+        "D. The proposal's rejection was occasioned by procedural considerations rather than meritorious evaluation."
+      ],
+      "answer": "C",
+      "explanation": "Option C uses natural professional language with clear subject ('they') and conversational phrasing. Option A is acceptable but slightly more formal; B uses unnecessarily complex vocabulary (predicated, technicalities); D is overly academic and awkwardly constructed (occasioned, meritorious evaluation)."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "Global hunger declined for the third year in a row in 2025 but experts call for action to bring down costs of fruit, vegetables and dairy as report shows 2.69bn people can't afford to eat well.",
+      "question": "Rewrite this sentence in your own words, capturing the core meaning in 2-3 sentences.",
+      "options": null,
+      "answer": null,
+      "explanation": "The key idea is that while global hunger metrics improved, a significant portion of humanity still lacks access to nutritious food due to affordability, requiring urgent intervention on food pricing and availability.",
+      "paraphrase_keywords": [
+        "hunger reduction",
+        "affordability crisis",
+        "nutritious diet access",
+        "billions unable to afford",
+        "policy action needed"
+      ]
+    }
+  ]
+}
