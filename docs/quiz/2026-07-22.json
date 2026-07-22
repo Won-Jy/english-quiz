@@ -1,0 +1,217 @@
+{
+  "date": "2026-07-22",
+  "generated_at": "2026-07-22T22:11:49.114667",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The Advisory Council on Historic Preservation has submitted an internal draft outlining proposed revisions to longstanding policy.",
+      "question": "In this context, 'longstanding' most nearly means:",
+      "options": [
+        "A) Recently established and still being tested",
+        "B) In effect for a long time and well-established",
+        "C) Controversial and widely disputed",
+        "D) Temporary and subject to frequent revision"
+      ],
+      "answer": "B",
+      "explanation": "Longstanding means established or existing for a long period. Option A contradicts the meaning (recent vs. long). Option C introduces an unwarranted connotation; long-standing policies need not be controversial. Option D contradicts the sense of durability implied by 'longstanding.'"
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Nine months after a brazen jewel heist left the Louvre scrambling, the museum has finally reopened the Apollo Gallery.",
+      "question": "The word 'brazen' in this sentence suggests:",
+      "options": [
+        "A) Executed with bold disregard for law or consequences",
+        "B) Made primarily of brass or copper",
+        "C) Executed with extreme caution and stealth",
+        "D) Poorly planned and ultimately unsuccessful"
+      ],
+      "answer": "A",
+      "explanation": "Brazen means showing lack of respect or caution; audacious. Option B is the literal material meaning, inappropriate here. Option C contradicts the sense of boldness. Option D mischaracterizes the outcome; the heist was clearly successful in stealing items."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Jean Meslier argued that religion is designed to produce subjects who will automatically obey.",
+      "question": "Which word best replaces 'produce' without changing the meaning?",
+      "options": [
+        "A) manufacture",
+        "B) generate",
+        "C) create or shape",
+        "D) yield or harvest"
+      ],
+      "answer": "C",
+      "explanation": "In this context, 'produce' means to bring about or cause to exist a certain type of person. 'Create or shape' captures this metaphorical sense most accurately. Options A and D are too literal or material. Option B (generate) is close but less precise for intentional formation."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "One in three people cannot afford to eat a healthy diet, a new report has found, prompting calls for urgent action on food affordability.",
+      "question": "The phrase 'afford to eat well' is best paraphrased as:",
+      "options": [
+        "A) have the financial means to purchase nutritious food",
+        "B) possess the skill to cook healthy meals",
+        "C) have access to restaurants serving healthy options",
+        "D) understand the importance of good nutrition"
+      ],
+      "answer": "A",
+      "explanation": "Afford means to be able to pay for something; in this context it refers to economic access to nutritious food. Option B conflates cooking ability with purchasing power. Option C misses the emphasis on personal economic capacity. Option D addresses knowledge rather than economic capacity."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "A UK resident was medically evacuated from the Democratic Republic of the Congo where the worker had been treating patients with the disease.",
+      "question": "The verb 'evacuate' in a medical context most precisely means:",
+      "options": [
+        "A) to abandon a location due to danger",
+        "B) to remove someone from a place for health or safety reasons",
+        "C) to empty completely the contents of something",
+        "D) to withdraw military personnel from a combat zone"
+      ],
+      "answer": "B",
+      "explanation": "Medically evacuate means to remove a person from a location for protective health reasons. Option A is too general and lacks the medical specification. Option C refers to emptying objects, not people. Option D applies to military contexts, not medical emergencies."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Neither the director nor the museum staff _____ prepared for the magnitude of the restoration required after the heist.",
+      "question": "Which verb form correctly completes this sentence?",
+      "options": [
+        "A) was",
+        "B) were",
+        "C) has been",
+        "D) have been"
+      ],
+      "answer": "B",
+      "explanation": "With a compound subject joined by 'nor,' the verb agrees with the nearest subject noun. Here, 'staff' is plural and nearest to the verb, requiring 'were.' Option A incorrectly uses singular. Options C and D introduce the perfect aspect unnecessarily, though D would be grammatically acceptable; B is the most straightforward correct answer."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The museum director had the damaged artifacts _____ by specialized conservators rather than attempting repairs in-house.",
+      "question": "Which option correctly completes this causative construction?",
+      "options": [
+        "A) restored",
+        "B) be restored",
+        "C) to be restored",
+        "D) being restored"
+      ],
+      "answer": "A",
+      "explanation": "The causative 'have' takes a bare infinitive or past participle form. Here, 'have + past participle' expresses the passive idea that someone else performed the action. Option B (be restored) is incorrect after 'have.' Option C (to be restored) follows 'get' but not 'have.' Option D (being restored) doesn't fit the causative structure."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "_____ lived in three different countries, he was comfortable navigating unfamiliar cultural situations.",
+      "question": "Which participle clause construction correctly begins this sentence?",
+      "options": [
+        "A) Having lived",
+        "B) Being lived",
+        "C) Lived",
+        "D) Having been lived"
+      ],
+      "answer": "A",
+      "explanation": "A perfect participle ('having lived') is required to show that his residence in multiple countries occurred before his current comfort with cultural navigation. Option B (being lived) is passive and inappropriate. Option C (lived) lacks the perfect aspect needed for anteriority. Option D is passive and awkward."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The Advisory Council recommends that the Secretary of the Interior _____ the proposed amendments before implementing them.",
+      "question": "Which verb form correctly completes this subjunctive construction?",
+      "options": [
+        "A) reviews",
+        "B) review",
+        "C) should review",
+        "D) will review"
+      ],
+      "answer": "B",
+      "explanation": "After 'recommends that,' the subjunctive mood requires the base form (infinitive without 'to'). Option A (reviews) uses indicative mood, inappropriate for subjunctive. Option C introduces 'should,' which is sometimes used but the pure subjunctive form is preferred. Option D (will review) is future indicative, not subjunctive."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The museum director stated that the Apollo Gallery _____ reopen within six months and that previously stolen items _____ recovered by then.",
+      "question": "Which pair of verb forms correctly reports the director's claims with appropriate tense backshift?",
+      "options": [
+        "A) would reopen / would be",
+        "B) will reopen / will be",
+        "C) would reopen / had been",
+        "D) reopens / are"
+      ],
+      "answer": "A",
+      "explanation": "In reported speech with a past reporting verb ('stated'), future tenses backshift to conditional ('would'). Option B uses present future, inappropriate after a past reporting verb. Option C uses past perfect for the second clause, incorrect since recovery was future from the statement's moment. Option D fails to backshift at all."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Rarely had the team faced such a complex set of competing demands.",
+      "question": "This sentence is most naturally used in which context?",
+      "options": [
+        "A) A text message to a colleague: 'Hey, the team rarely faced such complex demands'",
+        "B) A formal report or literary narrative emphasizing the exceptional difficulty of the situation",
+        "C) A casual conversation: 'You know, the team doesn't usually face demands like that'",
+        "D) A tweet expressing surprise: 'OMG, complex demands happening now!'"
+      ],
+      "answer": "B",
+      "explanation": "The inverted structure (adverb-auxiliary-subject) is a marked, literary form used in formal writing to emphasize gravity. Option A reflects the normal word order inappropriately. Option C is conversational but loses the rhetorical weight. Option D captures informality but not the analytical register appropriate here."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "He had been working on the project for three weeks before he realized a fundamental error in his approach.",
+      "question": "Which alternative most naturally conveys the same meaning in everyday speech?",
+      "options": [
+        "A) Before he realized the error, he'd already been working for three weeks",
+        "B) He was working on it for three weeks, then he found the mistake",
+        "C) After three weeks of work, he found out he'd made a basic mistake",
+        "D) For three weeks he worked, and then the error became apparent"
+      ],
+      "answer": "C",
+      "explanation": "Option C preserves the causal relationship and the sense that the error discovery interrupted extended work. Option A is passive and reverses emphasis. Option B uses simple past, losing the continuous aspect and the implication that error preceded discovery. Option D is awkward and formal."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The building, once introduced, proved harder to reverse than its architects had imagined.",
+      "question": "What is most natural to say here instead of 'once introduced'?",
+      "options": [
+        "A) once constructed",
+        "B) once standing",
+        "C) once erected",
+        "D) All options are equally natural"
+      ],
+      "answer": "A",
+      "explanation": "'Introduced' is semantically odd for a building; we introduce policies or people, not physical structures. Option A (constructed) is the most natural term for a building's creation. Options B and C are less common in contemporary usage. Option D is incorrect because 'introduced' is genuinely inappropriate."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "The Advisory Council on Historic Preservation, a federal organization largely staffed by recent Trump appointees, has submitted an internal draft outlining proposed revisions to longstanding policy.",
+      "question": "Rewrite this sentence in your own words, capturing the core meaning:",
+      "options": null,
+      "answer": null,
+      "explanation": "Core idea: A federal council with newly appointed staff has drafted changes to established preservation rules. Key elements: organization identity, recent staffing changes, the draft status, and the intent to modify long-established guidelines.",
+      "paraphrase_keywords": [
+        "federal council",
+        "new appointments",
+        "proposed changes",
+        "established preservation policy"
+      ]
+    }
+  ]
+}
