@@ -1,0 +1,218 @@
+{
+  "date": "2026-07-23",
+  "generated_at": "2026-07-23T22:10:18.551165",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The new institution will be named the Jen-Hsun and Lori Huang College of Art, Architecture and Design, pending the university's approval.",
+      "question": "In this context, what does 'pending' mean?",
+      "options": [
+        "Awaiting decision or resolution",
+        "Hanging down from above",
+        "Previously decided and confirmed",
+        "Rejected by administrative review"
+      ],
+      "answer": "A",
+      "explanation": "Pending means awaiting a decision or the outcome of something; it describes a state of suspension. Option B is an archaic or literal meaning. Options C and D contradict the meaning—pending indicates something has not yet been finalized."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Wellen is chief curator at the Hammer, having arrived to the institution just months ago from London's Tate Modern, where he was senior curator of international art.",
+      "question": "Which word best replaces 'curator' in this sentence?",
+      "options": [
+        "Guardian or steward of cultural works",
+        "Financial investor in art projects",
+        "Marketing specialist for exhibitions",
+        "Security officer for the museum"
+      ],
+      "answer": "A",
+      "explanation": "A curator is a guardian and steward of cultural collections who selects, organizes, and presents artistic works. Option B describes a patron or sponsor, not a curator. Options C and D describe different museum roles entirely."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Rooted in Brazilian modernism, anthropophagy devours and transforms culture, subverting colonial fears of cannibalism.",
+      "question": "What does 'subverting' mean in this academic context?",
+      "options": [
+        "Undermining or challenging established assumptions",
+        "Physically destroying cultural artifacts",
+        "Supporting and reinforcing traditional beliefs",
+        "Translating concepts into different languages"
+      ],
+      "answer": "A",
+      "explanation": "Subverting means to undermine, weaken, or challenge something established, often by acting against it from within. Option C is the opposite meaning. Options B and D are too literal or incorrect."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Kenyan lawmakers had sought changes to give local authorities greater powers to hold British soldiers accountable for any offences committed in the country.",
+      "question": "In legal contexts, 'accountability' most closely means:",
+      "options": [
+        "Responsibility to answer for one's actions and face consequences",
+        "The ability to count or calculate financial records",
+        "Public announcement of mistakes or errors",
+        "Agreement to participate in joint training exercises"
+      ],
+      "answer": "A",
+      "explanation": "Accountability refers to being responsible and answerable for one's actions, with potential consequences. Option B confuses 'account' as a financial term. Options C and D misrepresent the concept."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "To the trained eye, the personalised homes of Queens, NYC, evoke everything from a Venetian streetscape to a Chinese temple.",
+      "question": "What does 'evoke' mean in this aesthetic context?",
+      "options": [
+        "Call forth or bring to mind (images, emotions, memories)",
+        "Physically construct or build structures",
+        "Formally request permission or approval",
+        "Expel or force out unwanted elements"
+      ],
+      "answer": "A",
+      "explanation": "Evoke means to bring forth or call to mind mental images, emotions, or memories through something aesthetic. Option B suggests construction. Option C refers to formal requests. Option D has a different meaning entirely."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "It is essential that the board _____ the proposal before the fiscal year ends.",
+      "question": "Which verb form correctly completes this sentence using the subjunctive mood?",
+      "options": [
+        "approves",
+        "approve",
+        "will approve",
+        "has approved"
+      ],
+      "answer": "B",
+      "explanation": "After 'It is essential that,' the subjunctive mood requires the base form of the verb without -s or other inflections. 'Approve' is correct. Option A uses indicative mood. Options C and D use future and perfect tenses, which don't fit the subjunctive structure."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Either the director or the assistant curators _____ responsible for organizing the exhibition materials.",
+      "question": "Which verb form agrees with this complex subject?",
+      "options": [
+        "is",
+        "are",
+        "has been",
+        "have been"
+      ],
+      "answer": "B",
+      "explanation": "With 'either...or,' the verb agrees with the nearest noun, which is 'curators' (plural), requiring 'are.' Option A would agree if 'director' were nearest. Options C and D introduce unnecessary perfect tenses."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The research suggests that _____ courage and _____ determination are required to challenge institutional norms.",
+      "question": "Which article combination correctly precedes these abstract nouns?",
+      "options": [
+        "a / a",
+        "the / the",
+        "a / zero article",
+        "zero article / zero article"
+      ],
+      "answer": "D",
+      "explanation": "Abstract nouns like 'courage' and 'determination' typically use zero article when referring to the quality in general. Option A incorrectly adds indefinite articles to abstract concepts. Option B treats them as countable. Option C is inconsistent."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_____ had the architects anticipated the political resistance to their reform initiative.",
+      "question": "Which negative adverbial correctly inverts the subject and auxiliary verb?",
+      "options": [
+        "Rarely",
+        "Hardly",
+        "Not until later",
+        "Never before"
+      ],
+      "answer": "A",
+      "explanation": "Negative adverbials like 'Rarely' require inversion of subject and auxiliary. 'Rarely had the architects anticipated...' is correct. Options B and D require different structures. Option C doesn't create the same inversion pattern as strong negative adverbials."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "By the time the committee issued its final report, the regulations _____ substantially since the initial proposal was drafted.",
+      "question": "Which perfect tense correctly shows the chronological relationship?",
+      "options": [
+        "have changed",
+        "had changed",
+        "will have changed",
+        "are changing"
+      ],
+      "answer": "B",
+      "explanation": "Past perfect 'had changed' shows that the regulations changed before the report was issued (both past events). Option A (present perfect) incorrectly suggests connection to the present. Option C is future. Option D is present continuous."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Despite the rain, she decided to walk to the market rather than take the bus.",
+      "question": "Which expression conveys the same relationship between circumstances?",
+      "options": [
+        "She took the bus because of the rain instead of walking.",
+        "She chose walking over the bus, even though it was raining.",
+        "The rain forced her to take the bus rather than walk.",
+        "She walked to the market, and then the rain came."
+      ],
+      "answer": "B",
+      "explanation": "Option B captures the idea that despite the unfavorable condition (rain), she made the deliberate choice to walk. Option A reverses her decision. Option C contradicts her actual choice. Option D suggests timing unrelated to causation."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The policy, once introduced, proved harder to reverse than its architects had imagined.",
+      "question": "Which phrasing best expresses this idea naturally?",
+      "options": [
+        "The architects easily reversed the policy after introducing it.",
+        "Once the policy was put in place, it became more difficult to undo than expected.",
+        "The architects imagined the policy would be easy to reverse.",
+        "Reversing policies is always harder than introducing them."
+      ],
+      "answer": "B",
+      "explanation": "Option B accurately reflects the temporal sequence and the unexpected difficulty. Option A contradicts the original meaning. Option C reverses the architects' expectations. Option D overgeneralizes beyond the specific policy."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The building, having been constructed in the 1920s, required significant renovation before it could be used.",
+      "question": "Which statement best paraphrases this construction method?",
+      "options": [
+        "The building was constructed quickly in the 1920s and needed no renovation.",
+        "Built in the 1920s, the building needed substantial updating before it was operational.",
+        "The building is still being constructed and requires renovation.",
+        "Renovation happened before the building was constructed in the 1920s."
+      ],
+      "answer": "B",
+      "explanation": "Option B correctly identifies the past construction date and the necessary renovation. Option A contradicts 'significant renovation.' Option C wrongly suggests ongoing construction. Option D reverses the temporal sequence."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "The San Francisco campus of Vanderbilt University has received a landmark $75 million donation from NVIDIA CEO Jensen Huang and his wife Lori to set up a new art college.",
+      "question": "Rewrite this sentence in your own words, capturing the essential information.",
+      "options": null,
+      "answer": null,
+      "paraphrase_keywords": [
+        "Vanderbilt University",
+        "San Francisco campus",
+        "donation",
+        "Jensen Huang",
+        "new art college"
+      ],
+      "explanation": "A strong paraphrase should identify: (1) the recipient institution and location, (2) the donor(s), (3) the amount, (4) the purpose (establishing an art college). Retain accuracy while varying sentence structure and vocabulary from the original."
+    }
+  ]
+}
