@@ -1,0 +1,219 @@
+{
+  "date": "2026-07-24",
+  "generated_at": "2026-07-24T22:12:20.350488",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The Buffalo AKG Art Museum has named Cathleen Chaffee as its new artistic director and Jillian Jones as its new executive director.",
+      "question": "In this context, 'promoted from within' most nearly means:",
+      "options": [
+        "A) Advanced to higher positions within the same organization",
+        "B) Publicly advertised their credentials to external audiences",
+        "C) Transferred to different departments for career development",
+        "D) Temporarily elevated in rank pending external review"
+      ],
+      "answer": "A",
+      "explanation": "The phrase 'promoted from within' refers to internal advancement: employees already working at an institution are elevated to more senior roles. Option B confuses promotion with marketing; C suggests lateral movement rather than advancement; D incorrectly suggests the promotion is temporary."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The Ecuadorian Ministry of Education, Sports and Culture on July 19 named a team led by Japanese architecture firm SANAA as the winners of the competition to design the new National Museum of Ecuador.",
+      "question": "The word 'collectively' in this passage suggests:",
+      "options": [
+        "A) Together as a unified group with shared responsibility",
+        "B) In separate, independent capacities",
+        "C) With reluctance or disagreement among members",
+        "D) According to collective historical precedent"
+      ],
+      "answer": "A",
+      "explanation": "'Collectively' means acting or considered together as a single entity, emphasizing the collaborative nature of the design team. Option B contradicts the term's meaning; C introduces an emotional tone unsupported by the text; D misapplies the word to historical context rather than group composition."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "To the trained eye, the personalised homes of Queens, NYC, evoke everything from a Venetian streetscape to a Chinese temple.",
+      "question": "The verb 'evoke' as used here primarily means to:",
+      "options": [
+        "A) Call forth or bring to mind vivid images and associations",
+        "B) Legally challenge the validity of a property claim",
+        "C) Gradually change appearance over an extended period",
+        "D) Invoke supernatural or mystical forces"
+      ],
+      "answer": "A",
+      "explanation": "'Evoke' means to elicit or conjure up memories, images, or emotions in the viewer's mind. Option B confuses it with 'revoke'; C suggests gradual transformation rather than emotional/cognitive response; D refers to a specialized, archaic usage unrelated to architectural perception."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Allan Basbaum has spent 50 years searching the nervous system for the places where pain begins – and where it can be stopped.",
+      "question": "In scientific contexts, to 'search' a biological system most nearly means to:",
+      "options": [
+        "A) Systematically investigate and examine its structures and functions",
+        "B) Look around randomly without specific methodology",
+        "C) Request information about undiscovered areas",
+        "D) Hunt for tangible objects hidden within tissues"
+      ],
+      "answer": "A",
+      "explanation": "In academic usage, 'search' implies systematic investigation and exploration of biological mechanisms. Option B suggests lack of rigor; C misinterprets the verb as requesting information; D takes a literal rather than metaphorical interpretation of searching a system."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Kenyan lawmakers had sought changes to give local authorities greater powers to hold British soldiers accountable for any offences committed in the country.",
+      "question": "To 'hold someone accountable' means to:",
+      "options": [
+        "A) Make them legally responsible and answerable for their actions",
+        "B) Physically restrain them from committing further offences",
+        "C) Provide them with financial compensation for damages",
+        "D) Publicly criticize their behavior without formal consequences"
+      ],
+      "answer": "A",
+      "explanation": "'Hold accountable' means to establish legal or moral responsibility and require justification for actions. Option B confuses accountability with physical detention; C introduces compensation which isn't inherent to accountability; D suggests informal criticism rather than formal responsibility."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The project manager ___ have consulted the team before implementing the new protocol; the lack of input caused significant delays.",
+      "question": "Which modal verb best completes this sentence, expressing justified criticism about a past action?",
+      "options": [
+        "A) must",
+        "B) should have",
+        "C) might have",
+        "D) could have"
+      ],
+      "answer": "B",
+      "explanation": "'Should have' expresses that a past action was advisable or recommended but wasn't done—perfect for expressing regret or criticism. 'Must' suggests absolute obligation; 'might have' and 'could have' express possibility rather than advisability or justified blame for what should have happened."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The architect ___ the museum's design reviewed by an independent panel of experts before submission.",
+      "question": "Which option correctly completes this causative construction?",
+      "options": [
+        "A) had been getting",
+        "B) was having",
+        "C) got",
+        "D) had the design reviewed"
+      ],
+      "answer": "D",
+      "explanation": "The causative structure 'had the design reviewed' correctly expresses that the architect caused someone else to perform the review. Option A uses passive incorrectly; B is incomplete; C lacks the object of the causative verb, which must be the thing being acted upon."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The committee recommended that the proposal ___ revised before the board meeting.",
+      "question": "Which verb form correctly completes this subjunctive mood construction?",
+      "options": [
+        "A) be",
+        "B) is",
+        "C) was",
+        "D) would be"
+      ],
+      "answer": "A",
+      "explanation": "Subjunctive mood after 'recommend that' requires the base form 'be' without auxiliary verbs. Options B and C use indicative mood (ordinary past/present); D adds 'would,' which is conditional mood rather than subjunctive, which expresses hypothetical or necessary conditions without would."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "If the British army ___ the bilateral agreement more carefully, the training exercise in Kenya would not have been cancelled.",
+      "question": "Which verb form correctly completes this third conditional sentence?",
+      "options": [
+        "A) negotiated",
+        "B) had negotiated",
+        "C) would have negotiated",
+        "D) would negotiate"
+      ],
+      "answer": "B",
+      "explanation": "Third conditional requires 'had + past participle' in the if-clause to express an unreal past condition. Option A uses simple past, which is second conditional; C and D use 'would,' which belongs in the result clause, not the if-clause."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The architectural firms, which had collaborated successfully on previous projects, were selected for the museum design competition. The architectural firms that had collaborated successfully on previous projects were selected.",
+      "question": "The difference between these two sentences is:",
+      "options": [
+        "A) The first adds essential information; the second makes it non-essential",
+        "B) The first uses a non-defining relative clause; the second uses a defining one",
+        "C) Both sentences are grammatically identical in meaning",
+        "D) The first is passive voice; the second is active voice"
+      ],
+      "answer": "B",
+      "explanation": "The first sentence uses 'which' with commas (non-defining), meaning the prior collaboration is additional information about an already-identified group. The second uses 'that' without commas (defining), meaning the prior collaboration identifies which firms were selected—essential information. Option A reverses this; C ignores the grammatical distinction; D confuses relative clause type with voice."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "If I had known the museum was closed on Mondays, I would have visited on Tuesday instead.",
+      "question": "In casual conversation, which response most naturally expresses agreement with the regret?",
+      "options": [
+        "A) Yes, you should have researched the opening hours beforehand.",
+        "B) That's unfortunate, though at least you can go next Tuesday.",
+        "C) You needn't have checked online; most museums are open Mondays.",
+        "D) If only you had been more careful with your planning."
+      ],
+      "answer": "B",
+      "explanation": "Option B acknowledges the speaker's regret while offering a pragmatic resolution—natural conversational flow. Option A sounds judgmental; C contradicts the speaker's point about the museum being closed; D repeats the regretful sentiment without adding conversational value."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The documents have been signed by all relevant parties.",
+      "question": "Which follow-up statement most naturally continues this exchange?",
+      "options": [
+        "A) Great! When will they be distributed to stakeholders?",
+        "B) That's interesting that the documents were signed.",
+        "C) The documents must have been signed yesterday.",
+        "D) I believe someone will sign the documents soon."
+      ],
+      "answer": "A",
+      "explanation": "Option A naturally builds on the completed action by asking the next logical step. Option B sounds awkward and restates obvious information; C contradicts the present perfect tense with speculation; D ignores the completed action and moves to future hypothetical."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Having lived in three different countries, he was comfortable navigating unfamiliar cultural situations.",
+      "question": "Which statement most naturally paraphrases this relationship?",
+      "options": [
+        "A) Because of his extensive international experience, he adapted easily to new cultural environments.",
+        "B) He lived in three countries and was therefore comfortable navigating unfamiliar cultural situations.",
+        "C) His experience living in three countries made unfamiliar cultural situations less comfortable.",
+        "D) He was comfortable navigating cultures because he had lived in only three countries."
+      ],
+      "answer": "A",
+      "explanation": "Option A captures the causal relationship: prior experience (having lived abroad) created comfort with cultural navigation. Option B is technically accurate but less natural; C reverses the relationship (more experience should increase comfort); D contradicts the logic by suggesting limited experience builds comfort."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "The Ecuadorian Ministry of Education, Sports and Culture on July 19 named a team led by Japanese architecture firm SANAA as the winners of the competition to design the new National Museum of Ecuador in the capital city.",
+      "question": "Paraphrase the core meaning of this sentence in your own words, capturing the essential information about what happened, who was involved, and when.",
+      "options": null,
+      "answer": null,
+      "paraphrase_keywords": [
+        "ministry announcement",
+        "Japanese firm SANAA",
+        "design competition",
+        "National Museum",
+        "Ecuador",
+        "July 19"
+      ],
+      "explanation": "Your paraphrase should identify: (1) what action occurred (a ministry announcement of competition winners), (2) who won (SANAA-led team), (3) what they won the right to do (design a museum), (4) where (Ecuador's capital), and (5) when (July 19). Accept concise restatements that preserve these core elements without necessarily maintaining the sentence's structure."
+    }
+  ]
+}
