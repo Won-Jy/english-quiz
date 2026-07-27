@@ -1,0 +1,218 @@
+{
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T22:13:27.576798",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The president's executive order represents a marked _____ in his sustained attack on the institution.",
+      "question": "Which word best completes this sentence from the Smithsonian article?",
+      "options": [
+        "A. escalation",
+        "B. modification",
+        "C. consideration",
+        "D. interruption"
+      ],
+      "answer": "A",
+      "explanation": "Escalation means a significant increase in intensity or severity, which matches the context of a 'marked' (noticeable) intensification of the president's attack. Modification suggests change rather than intensification; consideration and interruption are semantically inappropriate."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The gallery will be _____ to celebrating modern and contemporary art from Southeast Asia.",
+      "question": "What is the most appropriate word for this sentence about Muara Arts?",
+      "options": [
+        "A. devoted",
+        "B. obligated",
+        "C. assigned",
+        "D. inclined"
+      ],
+      "answer": "A",
+      "explanation": "Devoted means committed or dedicated to a purpose, which is the correct collocation with institutions and their missions. Obligated implies unwilling duty; assigned and inclined carry different semantic weight and do not form the standard institutional phrasing."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The cassowary plays an _____ role in maintaining its rainforest ecosystem.",
+      "question": "Which word best captures the meaning conveyed in this passage?",
+      "options": [
+        "A. outsized",
+        "B. redundant",
+        "C. peripheral",
+        "D. documented"
+      ],
+      "answer": "A",
+      "explanation": "Outsized means disproportionately large or important relative to the creature's physical size, matching the paradox described in the source. Redundant means unnecessary; peripheral means marginal; documented is factual but misses the evaluative meaning."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The crisis has been _____ for months, with crop failures and drought steadily worsening conditions.",
+      "question": "What word best describes the developing nature of the emergency?",
+      "options": [
+        "A. building",
+        "B. surfacing",
+        "C. emerging",
+        "D. accumulating"
+      ],
+      "answer": "A",
+      "explanation": "Building (as in 'a crisis has been building') is the exact phrasing used in the source and means gradually developing or intensifying. Surfacing suggests sudden appearance; emerging is close but less commonly used with 'crisis'; accumulating emphasizes quantity rather than progressive severity."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Black philosophers are now featured on Western curricula, but this often _____ their radical ideas into reassuring narratives.",
+      "question": "Which word captures the meaning of reducing or toning down their radicalism?",
+      "options": [
+        "A. diminishes",
+        "B. transforms",
+        "C. contextualizes",
+        "D. interprets"
+      ],
+      "answer": "A",
+      "explanation": "Diminishes means reduces in importance or strength, which accurately describes how radical ideas are softened into reassurance. Transforms is too neutral; contextualizes and interprets do not convey the negative connotation of loss or weakening."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "_____ the contract several times, he still harbored doubts about its validity.",
+      "question": "Which participle clause correctly completes this sentence?",
+      "options": [
+        "A. Having reviewed",
+        "B. Being reviewed",
+        "C. To review",
+        "D. Reviews"
+      ],
+      "answer": "A",
+      "explanation": "Having reviewed is a perfect participle clause indicating a completed action before the main clause; it shows the review happened before the doubt persisted. Being reviewed is passive and inappropriate; to review is infinitive; reviews is not a participle clause. The perfect participle is needed because the review precedes the doubt."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "The committee insisted that he _____ his application to include the new data.",
+      "question": "Which verb form is grammatically correct in this subjunctive context?",
+      "options": [
+        "A. revises",
+        "B. revise",
+        "C. should revise",
+        "D. would revise"
+      ],
+      "answer": "B",
+      "explanation": "After 'insist that,' the subjunctive mood requires the base form revise without 'should.' Option A (revises) is indicative; options C and D use modal verbs, which, while sometimes acceptable in American English, are not the pure subjunctive form required by formal grammar."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Not until the final review _____ the severity of the design flaw become apparent.",
+      "question": "Which verb form correctly completes this inverted sentence?",
+      "options": [
+        "A. did",
+        "B. was",
+        "C. has",
+        "D. were"
+      ],
+      "answer": "A",
+      "explanation": "After 'Not until' at the start of a clause, the subject and auxiliary verb invert; 'did' is the correct auxiliary for the past tense. 'Was' and 'were' are main verbs, not auxiliaries needed for inversion; 'has' creates a tense mismatch."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "He _____ on the project for three weeks before he realized the error, whereas his colleague _____ only two days on it.",
+      "question": "Which tense combination correctly distinguishes these two overlapping past actions?",
+      "options": [
+        "A. worked / had worked",
+        "B. had been working / had worked",
+        "C. was working / worked",
+        "D. had worked / worked"
+      ],
+      "answer": "B",
+      "explanation": "The past perfect progressive 'had been working' emphasizes the extended duration before the realization, while 'had worked' (simple past perfect) indicates the colleague's shorter, completed duration. Option A uses present tense incorrectly; option C misses the perfect aspect needed for the comparative structure; option D lacks the progressive aspect needed for emphasis on extended activity."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The policy, which had been implemented hastily, faced immediate opposition. / The policy which the government had rushed through proved controversial.",
+      "question": "In the first sentence, why is the relative clause non-defining (requiring commas)?",
+      "options": [
+        "A. Because it provides essential information about which policy is meant",
+        "B. Because it adds supplementary information about a policy already identified as 'the policy'",
+        "C. Because it uses the passive voice",
+        "D. Because it contains a past perfect tense"
+      ],
+      "answer": "B",
+      "explanation": "The non-defining clause (set off by commas) adds extra information about an already-identified policy; removing it leaves a complete, clear sentence. In defining clauses, the relative clause is essential to identify which noun is meant and uses no commas. The passive voice and tense are incidental features, not the determining factors."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The proposal was rejected not on its merits but on procedural grounds.",
+      "question": "Which paraphrase most naturally conveys this idea in everyday speech?",
+      "options": [
+        "A. They didn't like the proposal because it wasn't any good.",
+        "B. The proposal was turned down not because of what it said, but because of how the process was handled.",
+        "C. The proposal failed because no one followed the right steps.",
+        "D. The proposal was bad, so they rejected it for procedure."
+      ],
+      "answer": "B",
+      "explanation": "Option B accurately captures the distinction between the substance (merits) and the process (procedural grounds). Option A oversimplifies and loses the key contrast; option C introduces causality incorrectly; option D reverses the logic and is awkwardly phrased."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The more carefully he read the contract, the more concerned he became about its implications.",
+      "question": "Which sentence expresses the same relationship most naturally?",
+      "options": [
+        "A. He read the contract carefully and then became concerned about it.",
+        "B. As his reading became more careful, his concern about the contract grew proportionally.",
+        "C. Reading the contract carefully made him very concerned.",
+        "D. The contract was so complicated that careful reading made him worried."
+      ],
+      "answer": "B",
+      "explanation": "Option B preserves the 'the more X, the more Y' structure showing proportional, parallel increase. Option A flattens the gradual escalation into sequential actions; option C loses the parallel structure; option D introduces causality ('so complicated') not present in the original."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "He suggested that the team reconsider its approach, given the new information that had emerged.",
+      "question": "Which sentence is closest in tone and meaning?",
+      "options": [
+        "A. He wanted the team to reconsider everything because new information came up.",
+        "B. He proposed that the team rethink its strategy in light of newly available facts.",
+        "C. The team should reconsider because he found new information.",
+        "D. He told the team to change its approach since something new happened."
+      ],
+      "answer": "B",
+      "explanation": "Option B maintains the formal, deliberative tone ('proposed,' 'rethink,' 'in light of,' 'newly available facts') that matches the original. Options A and D are overly informal; option C shifts agency and tone."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "The executive order represents a marked escalation in the president's sustained attack on the Smithsonian, which he sees as embodying ideals out of step with his vision.",
+      "question": "Paraphrase this sentence in your own words, capturing its core meaning. (No options required.)",
+      "options": null,
+      "answer": null,
+      "explanation": "Look for keywords: intensification/escalation of ongoing criticism, institutional values misaligned with presidential ideology, perceived ideological disagreement. A strong paraphrase would note that the president views the museum as representing outdated or opposing values.",
+      "paraphrase_keywords": [
+        "increased intensity",
+        "sustained criticism",
+        "institutional values",
+        "ideological misalignment",
+        "presidential opposition"
+      ]
+    }
+  ]
+}
