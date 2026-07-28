@@ -1,0 +1,218 @@
+{
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T22:12:00.754043",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The two shows both seek to investigate the interstices of spiritual and artistic practices, yet neither fully manages to capture the divine.",
+      "question": "In this context, 'interstices' most closely means:",
+      "options": [
+        "A. The main focal points or central themes",
+        "B. The gaps, spaces, or points of intersection between things",
+        "C. The historical boundaries or divisions",
+        "D. The superficial or decorative elements"
+      ],
+      "answer": "B",
+      "explanation": "Interstices refers to small spaces or gaps between things, often used figuratively to mean the borderline areas or points where things meet. Option A suggests prominence rather than the subtle spaces between. Option C and D are too specific or incorrect—interstices is a neutral term about spatial or conceptual gaps."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Pathbreaking artist Betye Saar, whose powerful assemblages of racist memorabilia served up scorching commentary on the condition of the Black American.",
+      "question": "The phrase 'served up' in this context suggests:",
+      "options": [
+        "A. Physically presented or displayed on a table",
+        "B. Delivered or offered boldly and decisively",
+        "C. Prepared according to tradition",
+        "D. Exposed to criticism or ridicule"
+      ],
+      "answer": "B",
+      "explanation": "'Served up' is an idiom meaning to deliver or present something forcefully or deliberately, especially commentary or information. Option A is too literal. Option C ignores the forceful tone. Option D suggests passive exposure rather than active presentation, which misses the meaning of 'serve up.'"
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "My father's death sent me to the jiu-jitsu mat. Then came defeat, low testosterone and the lure of a chemical cheat code.",
+      "question": "In this passage, 'the lure of a chemical cheat code' most likely refers to:",
+      "options": [
+        "A. An attraction to performing illegal actions",
+        "B. A temptation to use performance-enhancing drugs",
+        "C. A desire to learn quick technical tricks",
+        "D. An appeal of competitive video gaming"
+      ],
+      "answer": "B",
+      "explanation": "In the context of physical weakness and athletic struggle, 'chemical cheat code' is a metaphor for performance-enhancing substances—a shortcut to improvement. Option A is too vague. Option C misses the 'chemical' reference. Option D is incorrect because the passage is about physical sport, not gaming."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Join the search for the elusive cassowary, a big bird that plays an outsized role in maintaining its rainforest home.",
+      "question": "The word 'elusive' in this sentence primarily conveys:",
+      "options": [
+        "A. Shy and non-threatening in behavior",
+        "B. Difficult to find or catch; evasive",
+        "C. Rare in numbers but active when present",
+        "D. Mysterious in origin and evolution"
+      ],
+      "answer": "B",
+      "explanation": "Elusive means difficult to find, catch, or pin down—it describes something that evades capture or clear definition. While elusive things may be rare (C), the word itself focuses on the difficulty of locating them. Option A is incorrect because shyness doesn't define elusiveness. Option D invents a meaning not supported by the word's definition."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "A crisis has been building in the Karamoja region of Uganda as crops have failed without the season's expected rains, leaving the region's 1.5 million people facing acute food shortages.",
+      "question": "Which word best captures the meaning of 'acute' in this context?",
+      "options": [
+        "A. Causing sharp physical pain",
+        "B. Requiring intelligent analysis",
+        "C. Severe and demanding urgent attention",
+        "D. Forming a sharp angle"
+      ],
+      "answer": "C",
+      "explanation": "In medical and social contexts, 'acute' means sudden, severe, and requiring immediate action—as opposed to chronic. Option A misses the contextual meaning in a humanitarian crisis. Option B is incorrect. Option D refers to a geometric definition unrelated to food shortages."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The committee members, who were elected last month, will announce their findings tomorrow.",
+      "question": "If the clause 'who were elected last month' were removed, the sentence would:",
+      "options": [
+        "A. Lose essential information about which committee members are being discussed",
+        "B. Remain complete but lose additional descriptive information",
+        "C. Become grammatically incorrect",
+        "D. Change the number of committee members implied"
+      ],
+      "answer": "B",
+      "explanation": "This is a non-defining relative clause (shown by commas), which provides extra information but is not essential to identify the noun. Removing it leaves a complete sentence. A defining clause without commas would be essential for identification. Options C and D are incorrect because non-defining clauses are always removable without breaking the grammar."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The board recommends that the proposal _____ implemented immediately.",
+      "question": "Which form correctly completes this sentence?",
+      "options": [
+        "A. be",
+        "B. is",
+        "C. was",
+        "D. will be"
+      ],
+      "answer": "A",
+      "explanation": "After verbs like 'recommend' followed by 'that,' subjunctive mood requires the base form of the verb without 's' or auxiliaries. 'Be' is the correct subjunctive form. Option B uses indicative mood (present tense). Options C and D use past or future tense, which violate subjunctive requirements."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The CEO had the marketing department _____ a complete analysis of competitor strategies.",
+      "question": "Which option best completes this causative construction?",
+      "options": [
+        "A. prepare",
+        "B. prepared",
+        "C. preparing",
+        "D. to prepare"
+      ],
+      "answer": "A",
+      "explanation": "The causative 'have' structure requires the bare infinitive (base form without 'to'). 'Have + object + base verb' means the CEO caused the department to prepare. Option B (past participle) would be passive ('have something done'). Option C uses the gerund incorrectly. Option D includes 'to,' which is wrong for causative 'have.'"
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Neither the coach nor the players _____ willing to accept the referee's decision.",
+      "question": "Which verb form is grammatically correct?",
+      "options": [
+        "A. was",
+        "B. were",
+        "C. are being",
+        "D. has been"
+      ],
+      "answer": "B",
+      "explanation": "With 'neither...nor,' the verb agrees with the nearest subject (plural 'players'), requiring 'were.' This is the rule for inverted or complex subjects with 'or/nor' structures. Option A agrees with the distant subject. Options C and D use incorrect tense and auxiliary combinations."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "If the government _____ invested in renewable energy five years ago, the country _____ not be facing energy shortages now.",
+      "question": "Which combination completes this third conditional sentence correctly?",
+      "options": [
+        "A. had invested / would",
+        "B. had invested / would not",
+        "C. invested / would not",
+        "D. has invested / will not"
+      ],
+      "answer": "B",
+      "explanation": "Third conditional (past hypothetical) uses 'if + past perfect / would (not) + have + past participle,' but this sentence uses present consequence, so 'would not + present verb' is acceptable here. Option A is incomplete. Option C uses simple past, not past perfect. Option D uses present/future tense, which is second conditional."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "I've been studying for hours. My brain is completely _____ right now.",
+      "question": "Which expression most naturally completes this sentence?",
+      "options": [
+        "A. fried",
+        "B. exhausted",
+        "C. diminished",
+        "D. fatigued"
+      ],
+      "answer": "A",
+      "explanation": "'Fried' is the most colloquial and natural way to describe mental exhaustion in casual speech, suggesting the brain is overworked and no longer functioning well. While options B, C, and D are technically correct synonyms, 'fried' is the most idiomatic for this everyday context."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The flight was delayed for hours, so by the time we landed, we were all _____ off.",
+      "question": "What is the most natural expression to complete this sentence?",
+      "options": [
+        "A. worn",
+        "B. put",
+        "C. ticked",
+        "D. set"
+      ],
+      "answer": "C",
+      "explanation": "'Ticked off' is a common British/informal expression meaning annoyed or irritated, which perfectly fits the frustration of a long flight delay. Option A ('worn off') suggests something disappearing. Option B ('put off') means delayed or discouraged. Option D ('set off') means triggered or started."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "After years of saving, he finally _____ the bullet and bought the house.",
+      "question": "Which phrase correctly completes this common expression?",
+      "options": [
+        "A. bit",
+        "B. shot",
+        "C. pulled",
+        "D. dodged"
+      ],
+      "answer": "A",
+      "explanation": "'Bit the bullet' is a fixed idiom meaning to accept an unpleasant decision and proceed with it. The expression comes from battlefield medicine when soldiers would bite down during surgery. Options B, C, and D form expressions with different meanings ('shot the breeze,' 'pulled the trigger,' 'dodged') and are incorrect."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "Pathbreaking artist Betye Saar, whose powerful assemblages of racist memorabilia served up scorching commentary on the condition of the Black American—particularly the Black American woman—died on July 26 in Los Angeles.",
+      "question": "Paraphrase the core meaning of this sentence in your own words.",
+      "options": null,
+      "answer": null,
+      "explanation": "This sentence announces the death of a pioneering artist known for creating assemblages from racist artifacts that offered sharp social critique on Black American experiences, especially Black women's. Key elements: (1) Betye Saar was a pathbreaking/pioneering artist, (2) she created assemblages from racist memorabilia, (3) these works provided sharp/critical commentary on Black American experience, (4) she died on July 26 in Los Angeles.",
+      "paraphrase_keywords": [
+        "pioneering artist",
+        "assemblages from racist memorabilia",
+        "sharp social critique",
+        "Black American experience",
+        "death"
+      ]
+    }
+  ]
+}
