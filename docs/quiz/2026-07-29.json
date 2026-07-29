@@ -1,0 +1,218 @@
+{
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T22:06:32.214417",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The charge stems from an October 9, 2024, incident in which Halai and Rosenfeld entered London's National Gallery during open hours and covered Pablo Picasso's 1901 Motherhood with an image of a Palestinian woman weeping.",
+      "question": "In this context, 'stems from' most nearly means:",
+      "options": [
+        "A. originates or arises from",
+        "B. is prevented by",
+        "C. is strengthened by",
+        "D. is delayed because of"
+      ],
+      "answer": "A",
+      "explanation": "To 'stem from' is a phrasal verb meaning to originate or arise from a particular cause or source. Option B (prevented) and C (strengthened) are incorrect because 'stems from' indicates causation, not prevention or reinforcement. Option D misses the core meaning—stemming from describes origin, not temporal delay."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The Philadelphia Museum of Art has announced a deficit of $10 million on a $75.6 million budget for fiscal year 2025–26.",
+      "question": "Which word best captures the meaning of 'deficit' in a budgetary context?",
+      "options": [
+        "A. shortage or shortfall in funds",
+        "B. excess profit or surplus",
+        "C. systematic analysis of spending",
+        "D. allocation of resources"
+      ],
+      "answer": "A",
+      "explanation": "A 'deficit' is a shortfall—when expenses exceed revenues or budgeted amounts. Option B is the opposite (surplus). Options C and D describe processes or actions, not a financial condition. The sentence explicitly states the museum announced a deficit, indicating a negative financial position."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "We are living in a golden age of pseudoscience. Here are three helpful tools for separating science from its imitator.",
+      "question": "The phrase 'golden age' in this context suggests:",
+      "options": [
+        "A. a period of great prosperity or flourishing, often applied ironically here",
+        "B. a time when precious metals were discovered",
+        "C. the literal color of scientific instruments",
+        "D. a decline in valuable resources"
+      ],
+      "answer": "A",
+      "explanation": "A 'golden age' typically denotes a period of exceptional achievement, but here it's used ironically to describe a proliferation of pseudoscience—a negative phenomenon. Option B is too literal and unrelated. Option C misinterprets the metaphorical language. Option D contradicts the positive connotation of 'golden.'"
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Officials are investigating the deaths of 15 elephants over the past month in Kenya's Amboseli national park. The Kenya Wildlife Service said 10 of the elephants showed signs of partial paralysis before dying within two days.",
+      "question": "What does 'acute' mean in the phrase 'acute food shortages' (from the Uganda source)?",
+      "options": [
+        "A. severe or critical in intensity",
+        "B. sharply angled or pointed",
+        "C. mild and manageable",
+        "D. lingering for many years"
+      ],
+      "answer": "A",
+      "explanation": "In medical and crisis contexts, 'acute' describes a severe, intense, or critical condition that develops rapidly. Option B refers to physical shape (irrelevant here). Option C contradicts the meaning—acute shortages are serious, not mild. Option D confuses acute (sudden, severe) with chronic (long-lasting)."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "My father's death sent me to the jiu-jitsu mat. Then came defeat, low testosterone and the lure of a chemical cheat code.",
+      "question": "The word 'lure' in this sentence most likely means:",
+      "options": [
+        "A. the temptation or attraction of something",
+        "B. a fishing bait or device",
+        "C. the sound of a trumpet call",
+        "D. a period of waiting"
+      ],
+      "answer": "A",
+      "explanation": "Here, 'lure' is a noun meaning temptation or enticement. While option B is a valid definition in a fishing context, it doesn't fit the sentence about performance-enhancing substances. Options C and D are unrelated meanings. The phrase 'lure of a chemical cheat code' clearly indicates an attractive temptation."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Not until the museum director reviewed the incident report did the board understand the full scope of the protest.",
+      "question": "The inversion structure in this sentence (did the board understand) is triggered by:",
+      "options": [
+        "A. the negative adverbial 'Not until' at the beginning",
+        "B. the past tense verb 'reviewed'",
+        "C. the presence of a relative clause",
+        "D. standard English word order with no inversion needed"
+      ],
+      "answer": "A",
+      "explanation": "Negative adverbials like 'Not until,' 'Hardly,' 'No sooner,' and 'Rarely' trigger subject-verb inversion when placed at the sentence start. Option B (past tense) doesn't cause inversion by itself. Option C (relative clause) is unrelated to this structure. Option D is incorrect because inversion is required here, not standard order."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "She regretted leaving the organization; she regretted to leave the organization.",
+      "question": "Which sentence is grammatically correct, and what does the distinction reveal?",
+      "options": [
+        "A. Both are correct; they mean exactly the same thing",
+        "B. The first is correct; 'regret + gerund' means feeling sorry about a completed action; 'regret + infinitive' (rarely used) suggests a formal statement of intention",
+        "C. The second is correct; infinitives are always preferred after emotion verbs",
+        "D. Neither is correct; 'regret' requires a noun phrase instead"
+      ],
+      "answer": "B",
+      "explanation": "Regret + gerund (leaving) expresses sorrow about something already done. Regret + infinitive (to leave) is rare and formal, often used in official statements. Option A ignores the crucial semantic difference. Option C is too absolute—gerunds are standard with regret. Option D ignores valid grammatical structures."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The Philadelphia Museum of Art, which announced a deficit of $10 million, has faced budget crises before. The Philadelphia Museum of Art which announced a deficit of $10 million is not alone in its financial struggles.",
+      "question": "The difference between these sentences illustrates:",
+      "options": [
+        "A. defining vs. non-defining relative clauses—the first adds extra information; the second identifies which museum",
+        "B. no meaningful difference; the commas are optional",
+        "C. the second is a sentence fragment and is ungrammatical",
+        "D. different verb tenses that change the meaning entirely"
+      ],
+      "answer": "A",
+      "explanation": "Non-defining clauses (with commas) add extra, parenthetical information about a noun already identified. Defining clauses (without commas) are essential to identify which noun you mean. The first sentence uses commas because 'the Philadelphia Museum of Art' is already identified; the second omits commas to specify which museum (among several) announced the deficit. Options B, C, and D misidentify the grammatical principle at work."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Neither the director nor the curators _____ willing to compromise on the exhibition's integrity.",
+      "question": "Which verb form correctly completes this sentence?",
+      "options": [
+        "A. is",
+        "B. are",
+        "C. was",
+        "D. were"
+      ],
+      "answer": "B",
+      "explanation": "With 'neither...nor,' the verb agrees with the nearest subject. Here, 'curators' (plural) is nearest, so the plural verb 'are' is correct. Option A (is) would be used if 'director' (singular) were nearest. Options C and D use past tense without grammatical justification. This tests subject-verb agreement with complex, inverted subjects."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The museum director said, 'We will implement new security measures immediately.' (Reported speech: The museum director said that they _____ implement new security measures immediately.)",
+      "question": "Which verb form correctly completes the reported speech?",
+      "options": [
+        "A. will",
+        "B. would",
+        "C. are going to",
+        "D. shall"
+      ],
+      "answer": "B",
+      "explanation": "In reported speech, when the reporting verb is past tense ('said'), the reported clause typically backshifts one tense backward. The original future tense 'will' becomes conditional 'would.' Option A preserves the original tense but ignores backshift rules. Options C and D are incorrect tense forms or fail to apply the backshift principle."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "If the train had arrived on time, we would have caught the connecting flight to Amsterdam.",
+      "question": "This sentence expresses:",
+      "options": [
+        "A. a real situation that actually happened",
+        "B. a possible future outcome",
+        "C. a hypothetical past situation and its unrealized consequence",
+        "D. advice about traveling to Amsterdam"
+      ],
+      "answer": "C",
+      "explanation": "The past perfect conditional ('had arrived...would have caught') describes a counterfactual—something that didn't happen. The speaker is saying the train was late, and as a result, they missed the flight. Options A and B misidentify the time frame and reality status. Option D ignores the sentence's structural purpose."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Rarely had the team faced such a complex set of competing demands.",
+      "question": "This sentence suggests:",
+      "options": [
+        "A. the team frequently encounters complex situations",
+        "B. the team is facing an unusually difficult situation",
+        "C. the team prefers to avoid demanding projects",
+        "D. this is a normal, predictable challenge"
+      ],
+      "answer": "B",
+      "explanation": "The adverb 'rarely' indicates infrequency; combined with the inverted structure, the sentence emphasizes that this particular situation is exceptionally difficult and uncommon for the team. Option A contradicts 'rarely.' Options C and D either misinterpret the tone or downplay the severity implied by 'rarely.'"
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "She found it difficult to concentrate, not because the work was hard, but because the office was noisy.",
+      "question": "What is the most natural interpretation of her difficulty concentrating?",
+      "options": [
+        "A. the work itself was challenging",
+        "B. environmental factors (noise) were the primary cause",
+        "C. she lacked sufficient skills for the task",
+        "D. she was distracted by the complexity of the contract"
+      ],
+      "answer": "B",
+      "explanation": "The phrase 'not because...but because' explicitly contrasts two causes, emphasizing that the noise—not the work's difficulty—was the barrier to concentration. Option A is explicitly ruled out by the sentence structure. Options C and D introduce ideas not mentioned in the original sentence."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "The Kenya Wildlife Service said 10 of the elephants showed signs of partial paralysis before dying within two days.",
+      "question": "Rewrite this sentence in your own words, capturing the core meaning.",
+      "options": null,
+      "answer": null,
+      "paraphrase_keywords": [
+        "paralysis",
+        "rapid death",
+        "elephant mortality",
+        "disease symptoms",
+        "short time period"
+      ],
+      "explanation": "A strong paraphrase should capture that ten elephants developed partial paralysis symptoms and died very quickly (within two days), suggesting an acute, serious condition. Focus on the rapid onset and severity."
+    }
+  ]
+}
