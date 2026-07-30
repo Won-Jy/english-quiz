@@ -1,0 +1,218 @@
+{
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T22:14:08.857703",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The Museums Association's statement __________ the flagrant attacks on the Smithsonian, drawing international support.",
+      "question": "Which word best completes this sentence from the text about museum advocacy?",
+      "options": [
+        "A) castigates",
+        "B) acknowledges",
+        "C) documents",
+        "D) summarizes"
+      ],
+      "answer": "A",
+      "explanation": "Castigate means to reprimand or condemn severely, which matches the context of 'resoundingly condemns' in the original source. Acknowledge and summarize are too neutral; document doesn't capture the critical tone."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The conservation project's __________ end disrupted the timeline for the Watts Towers Arts Center expansion.",
+      "question": "What does 'premature' mean in this context?",
+      "options": [
+        "A) delayed or postponed",
+        "B) earlier than expected or planned",
+        "C) hastily completed",
+        "D) controversial or disputed"
+      ],
+      "answer": "B",
+      "explanation": "Premature means occurring before the expected or proper time. The text indicates a '15-year conservation project' ended early, disrupting the expansion schedule. Option A is the opposite; C and D don't capture the temporal meaning."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Bể is part of Vietnam's __________ network of recyclers, a workforce that remains largely invisible in global discourse.",
+      "question": "Which adjective best fits the meaning 'essential but not well-known or appreciated'?",
+      "options": [
+        "A) redundant",
+        "B) vital but overlooked",
+        "C) informal and unregulated",
+        "D) sustainable and profitable"
+      ],
+      "answer": "B",
+      "explanation": "The source explicitly describes the recycling network as 'vital but overlooked,' emphasizing both its importance and lack of recognition. Redundant means unnecessary; informal and unregulated are structural descriptions; profitable is not supported by the text."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The state department's __________ map, which mislabeled every African country, caused significant embarrassment at the international conference.",
+      "question": "What is the best word to describe a map that contains mistakes or inaccuracies?",
+      "options": [
+        "A) errant",
+        "B) obsolete",
+        "C) provisional",
+        "D) conceptual"
+      ],
+      "answer": "A",
+      "explanation": "Errant means straying from the proper course or containing errors, perfectly describing the mislabeled map. Obsolete means outdated; provisional means temporary; conceptual refers to theoretical ideas—none fit the context of a map with factual errors."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Cyanide, a chemical compound used in farming as both a pest fumigant and __________, was found in the elephant carcasses.",
+      "question": "What is a 'predator control poison' primarily intended to do?",
+      "options": [
+        "A) discourage wildlife observation",
+        "B) deter or eliminate large carnivores",
+        "C) prevent disease transmission",
+        "D) improve crop growth"
+      ],
+      "answer": "B",
+      "explanation": "Predator control poison is used to eliminate or deter predators that threaten livestock or crops. Discourage observation, prevent disease, and improve growth are unrelated to the function of a predator control agent."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "__________ in three different countries, he was comfortable navigating unfamiliar cultural situations.",
+      "question": "Which participle clause correctly begins this sentence?",
+      "options": [
+        "A) Having lived",
+        "B) Being lived",
+        "C) Having been lived",
+        "D) Lived"
+      ],
+      "answer": "A",
+      "explanation": "The perfect participle 'having lived' correctly expresses a completed action (living in three countries) before the main action (becoming comfortable). 'Being lived' and 'having been lived' are passive and grammatically awkward here; simple 'lived' lacks the sense of completion."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "She remembered to call her supervisor before the meeting versus She remembered calling her supervisor before the meeting.",
+      "question": "Which statement best explains the difference between these two sentences?",
+      "options": [
+        "A) Both sentences mean exactly the same thing",
+        "B) The first means she fulfilled the obligation to call; the second means she recalled a past event of calling",
+        "C) The first is more formal; the second is more casual",
+        "D) The first implies the meeting was more important than the second"
+      ],
+      "answer": "B",
+      "explanation": "Infinitives after 'remember' indicate a future or intended action; gerunds indicate a past action being recalled. The first sentence suggests she did call; the second suggests she recalled having called previously. Formality level (C) and meeting importance (D) are not relevant distinctions; option A ignores this fundamental difference."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The director said that he __________ working on the project for six months.",
+      "question": "Which verb form correctly completes this reported speech sentence?",
+      "options": [
+        "A) has been",
+        "B) had been",
+        "C) is being",
+        "D) was being"
+      ],
+      "answer": "B",
+      "explanation": "In reported speech, present perfect 'has been' shifts back to past perfect 'had been' to reflect the time reference from the director's perspective at the moment of speaking. Options A, C, and D fail to apply the backshift rule or use incorrect tense forms for this context."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "__________ knowledge is essential for success in this field, yet __________ specific expertise is what truly distinguishes top professionals.",
+      "question": "Which articles correctly complete this sentence about abstract and countable nouns?",
+      "options": [
+        "A) The; The",
+        "B) Zero article; The",
+        "C) The; Zero article",
+        "D) A; An"
+      ],
+      "answer": "B",
+      "explanation": "Uncountable abstract nouns like 'knowledge' typically use zero article when speaking generally ('Knowledge is essential'). Countable nouns like 'expertise' can use the definite article when made specific by context ('the expertise'). Options A and C reverse this; option D incorrectly applies indefinite articles."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The conservation methods __________ the museum director approved were effective, whereas the methods __________ the community rejected proved wasteful.",
+      "question": "Which relative clauses are correct—defining or non-defining?",
+      "options": [
+        "A) Both are non-defining; both should have commas",
+        "B) Both are defining; neither should have commas",
+        "C) The first is defining without commas; the second is non-defining with commas",
+        "D) The first is non-defining; the second is defining"
+      ],
+      "answer": "B",
+      "explanation": "Both clauses are defining (restrictive)—they identify which methods are being discussed and are essential to the sentence's meaning. Defining clauses require no commas. Non-defining clauses (which would be set off by commas) would provide additional, optional information."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Rarely had the team faced such a complex set of competing demands.",
+      "question": "In which professional context would this sentence be most naturally used?",
+      "options": [
+        "A) A casual chat between colleagues about weekend plans",
+        "B) A formal meeting where a manager reflects on unprecedented project challenges",
+        "C) A social media post about a sports team's performance",
+        "D) An informal text message to a friend"
+      ],
+      "answer": "B",
+      "explanation": "The inverted syntax ('Rarely had...') is a formal literary device used in professional or academic contexts to emphasize rarity and seriousness. Options A, C, and D describe casual, informal settings where such inversion would sound unnatural."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The proposal was rejected not on its merits but on procedural grounds.",
+      "question": "What is the most natural way to express this idea in plain English?",
+      "options": [
+        "A) The proposal was rejected because the ideas were bad",
+        "B) The proposal was rejected due to how it was submitted, not because the ideas themselves were poor",
+        "C) The procedure rejected the proposal on merit grounds",
+        "D) The proposal had merit but was rejected procedurally"
+      ],
+      "answer": "B",
+      "explanation": "This option captures the key distinction: the rejection was about process/procedure, not quality of ideas. Options A and C misrepresent or distort the meaning; option D is less complete and natural-sounding."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "By the time she arrived at the conference, most of the morning sessions had already concluded.",
+      "question": "Which situation does this sentence best describe?",
+      "options": [
+        "A) She arrived early and attended all morning sessions",
+        "B) She missed most morning sessions due to a late arrival",
+        "C) The conference organizers ended sessions early without notification",
+        "D) She attended a few sessions and then left early"
+      ],
+      "answer": "B",
+      "explanation": "The past perfect 'had concluded' indicates the sessions ended before she arrived, meaning she missed them due to her late arrival. Option A contradicts 'had already concluded'; C suggests organizer error not timing; D doesn't align with 'most sessions had already concluded.'"
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "general",
+      "sentence": "When early humans first painted cave walls, they began to find out who they really were: our minds emerged from our images.",
+      "question": "Rewrite this sentence in your own words, capturing the core relationship between human creativity, self-discovery, and consciousness.",
+      "options": null,
+      "answer": null,
+      "explanation": "This sentence proposes that creating visual representations (cave paintings) was the mechanism through which early humans developed self-awareness and consciousness. The key claim is that external creative expression enabled internal psychological development.",
+      "paraphrase_keywords": [
+        "self-awareness",
+        "visual creation",
+        "consciousness development",
+        "representation",
+        "early humans"
+      ]
+    }
+  ]
+}
