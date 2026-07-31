@@ -1,0 +1,218 @@
+{
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T22:11:49.175553",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The nineteen-foot-high bronze sculptures, now coated in 23.75 gold leaf, are two of four horse monuments that the Department of the Interior in [...]",
+      "question": "In this context, 'coated' most nearly means:",
+      "options": [
+        "A. covered or layered with a substance",
+        "B. painted repeatedly over time",
+        "C. sealed with a protective membrane",
+        "D. treated chemically to prevent oxidation"
+      ],
+      "answer": "A",
+      "explanation": "While all options relate to surface treatment, 'coated' specifically means a layer or covering applied to a surface. Option B (painted) and D (treated chemically) are too specific; option C (sealed) changes the functional meaning. 'Coated' is the most straightforward term for applying gold leaf to a surface."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Through international organisations, they wield power under the pretence of simply following the experts.",
+      "question": "The word 'pretence' in this sentence suggests:",
+      "options": [
+        "A. an honest claim or assertion",
+        "B. a false appearance or deceptive claim",
+        "C. a professional qualification or credential",
+        "D. a written justification or explanation"
+      ],
+      "answer": "B",
+      "explanation": "'Pretence' means a false appearance or deception, implying that the claim to 'simply follow experts' is not genuine. Option A contradicts the word's meaning; C and D are unrelated to this context of deliberate deception."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Meet Bể, part of Vietnam's vital but overlooked network of recyclers – a workforce predominantly made up of elderly women.",
+      "question": "The phrase 'overlooked network' most nearly implies:",
+      "options": [
+        "A. a network that is geographically isolated",
+        "B. a network that is ignored or not given due attention",
+        "C. a network that was accidentally excluded from planning",
+        "D. a network that deliberately avoids public visibility"
+      ],
+      "answer": "B",
+      "explanation": "'Overlooked' means not noticed or given sufficient attention, emphasizing that the network's importance is underrecognized. Option A (isolated) and D (deliberate) misrepresent the meaning; option C wrongly suggests accident rather than indifference."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The huge influx, which took place over the course of just 24 hours, overwhelmed the city of 85,000 people, triggered a political crisis for Madrid and led to a mixed reaction from other EU countries.",
+      "question": "In this academic context, 'mixed reaction' means:",
+      "options": [
+        "A. reactions that were blended or combined",
+        "B. reactions that varied and were not uniformly positive or negative",
+        "C. reactions that were poorly organized",
+        "D. reactions that came from multiple sources simultaneously"
+      ],
+      "answer": "B",
+      "explanation": "'Mixed' means varied and diverse in nature, neither wholly positive nor wholly negative. Option A treats it as literal blending; C suggests disorganization; D focuses on simultaneity rather than the evaluative diversity that 'mixed' conveys."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Sarah Mullally made the comments during a visit to the Cape Coast castle, a 17th-century fortress built by Swedish traders, but occupied by the Danish and the Dutch, before the British seized it in 1664.",
+      "question": "The word 'reaffirmed' in the original passage most nearly means:",
+      "options": [
+        "A. stated something again with renewed conviction",
+        "B. officially recorded a previous statement",
+        "C. confirmed a decision after reconsidering it",
+        "D. strengthened a commitment through public announcement"
+      ],
+      "answer": "A",
+      "explanation": "'Reaffirmed' means to state or assert again, often with renewed confidence or emphasis. While D is close, 'reaffirmed' emphasizes the act of restating rather than the strengthening effect. B focuses on recording; C on reconsideration rather than repetition."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_____ information is essential for making informed decisions in international diplomacy.",
+      "question": "Which article or determiner is most appropriate?",
+      "options": [
+        "A. The",
+        "B. An",
+        "C. A",
+        "D. (no article)"
+      ],
+      "answer": "D",
+      "explanation": "'Information' is an uncountable abstract noun, which typically takes zero article when used generically. Option A (the) would suggest specific information; B and C (a/an) cannot precede uncountable nouns. Generic uncountable nouns require no article."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_______ had the government enacted stricter environmental regulations than it did implement decades of harm could have been prevented.",
+      "question": "Which inversion structure best completes this sentence?",
+      "options": [
+        "A. Had only",
+        "B. Not until",
+        "C. Hardly",
+        "D. Rarely"
+      ],
+      "answer": "A",
+      "explanation": "The sentence requires inversion after a negative or restrictive adverbial to create a counterfactual condition. 'Had only' inverts the auxiliary and subject (Had...the government), creating the required structure. 'Not until', 'Hardly', and 'Rarely' do not fit the conditional logic or invert correctly in this context."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Either the spokesperson or the directors _____ responsible for the public statement.",
+      "question": "Which verb form is correct?",
+      "options": [
+        "A. is",
+        "B. are",
+        "C. was",
+        "D. have been"
+      ],
+      "answer": "B",
+      "explanation": "With 'either...or' subjects, the verb agrees with the nearest noun ('directors'), which is plural. Therefore, 'are' is correct. Option A (is) would agree with 'spokesperson'; C and D introduce tense inconsistency with no auxiliary support in the main clause."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The committee members _____ have anticipated the budget cuts; they had ample warning from the finance department.",
+      "question": "Which modal verb best expresses warranted criticism?",
+      "options": [
+        "A. must",
+        "B. should",
+        "C. might",
+        "D. could"
+      ],
+      "answer": "B",
+      "explanation": "'Should have' expresses criticism for a past failure to meet a reasonable expectation, particularly when there was adequate information available. 'Must have' suggests logical necessity; 'might' and 'could' express possibility rather than obligatory expectation. The context of 'ample warning' supports moral obligation."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The architect _____ the building renovated by a specialist contractor within six months.",
+      "question": "Which causative construction is most appropriate?",
+      "options": [
+        "A. had",
+        "B. got",
+        "C. made",
+        "D. forced"
+      ],
+      "answer": "A",
+      "explanation": "'Had' + past participle (had...renovated) is the formal causative structure used when someone arranges for work to be done by others. 'Got' is more informal; 'made' requires an infinitive and implies coercion; 'forced' is not a causative auxiliary. 'Had' is the most professional for contractual arrangements."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "She asked whether the documents had been signed by all the relevant parties.",
+      "question": "Which alternative phrasing is most natural?",
+      "options": [
+        "A. She asked if all the relevant parties had signed the documents.",
+        "B. She asked whether the documents were signed by all relevant parties or not.",
+        "C. She asked if all relevant parties had signed the documents yet.",
+        "D. She asked about whether all the relevant parties would have signed the documents."
+      ],
+      "answer": "A",
+      "explanation": "Option A maintains the meaning while using active voice, which is more natural in conversational English. Option B is awkward with 'or not'; C changes the temporal meaning with 'yet'; D introduces unnecessary future-in-past and is unnecessarily complex."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "By the time she arrived at the conference, most of the morning sessions had already concluded.",
+      "question": "Which rephrasing is most natural without changing meaning?",
+      "options": [
+        "A. When she arrived at the conference, most of the morning sessions had already been concluded.",
+        "B. By the time she arrived at the conference, most of the morning sessions had already been finished.",
+        "C. When she got to the conference, most of the morning sessions were already over.",
+        "D. Before she arrived at the conference, most of the morning sessions had concluded."
+      ],
+      "answer": "C",
+      "explanation": "Option C is the most natural and conversational, using 'got to' and 'were already over' instead of the slightly formal 'arrived' and 'concluded'. Option A maintains formality but adds passive voice unnecessarily; B is acceptable but less natural; D changes the temporal relationship slightly."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "He would have applied for the position had he known about it earlier.",
+      "question": "Which alternative best captures the meaning in everyday speech?",
+      "options": [
+        "A. If he had known about the position earlier, he would have applied.",
+        "B. Had he known about the position, he could have applied for it.",
+        "C. If he knew about it earlier, he would have applied for the position.",
+        "D. He should have applied if he had known about it earlier."
+      ],
+      "answer": "A",
+      "explanation": "Option A converts the inverted conditional to standard word order while preserving the unreal past condition and consequence. Option B changes 'would have' to 'could have', altering the degree of commitment; C uses present tense 'knew' instead of past; D introduces 'should' inappropriately."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "Sarah Mullally made the comments during a visit to the Cape Coast castle, a 17th-century fortress built by Swedish traders, but occupied by the Danish and the Dutch, before the British seized it in 1664, reaffirming her commitment to a controversial £100m fund for affected communities.",
+      "question": "Rewrite the main idea of this sentence in your own words, focusing on what Mullally did and why it matters.",
+      "options": null,
+      "answer": null,
+      "explanation": null,
+      "paraphrase_keywords": [
+        "archbishop commitment",
+        "reparations fund",
+        "slavery legacy",
+        "Cape Coast castle",
+        "reaffirmation"
+      ]
+    }
+  ]
+}
