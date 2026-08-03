@@ -1,0 +1,218 @@
+{
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T22:13:44.839833",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Staff at Royal Museums Greenwich have decided to strike as per a recent statement from the UK-based trade union Prospect.",
+      "question": "In this context, what does 'as per' mean?",
+      "options": [
+        "A. in accordance with; according to",
+        "B. despite the objections of",
+        "C. prior to the announcement of",
+        "D. in addition to the requirements of"
+      ],
+      "answer": "A",
+      "explanation": "'As per' is a formal phrase meaning 'in accordance with' or 'according to.' It is commonly used in academic and professional writing to reference a statement, guideline, or document. Option B (despite) and C (prior to) are incorrect because they suggest opposition or temporal priority, neither of which fits the meaning here."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The Jeju Biennale, now in its fifth edition, will take place at the museum and is titled 'Iyahong: The Art of Metamorphosis.'",
+      "question": "What is the best synonym for 'metamorphosis' in this artistic context?",
+      "options": [
+        "A. transformation; fundamental change",
+        "B. imitation; copying of styles",
+        "C. deterioration; decline over time",
+        "D. replication; exact reproduction"
+      ],
+      "answer": "A",
+      "explanation": "'Metamorphosis' refers to a profound transformation or change, often from one state to another. In art, it suggests evolution and conceptual development. Options B, C, and D misrepresent the term: imitation (B) lacks the depth of change, deterioration (C) implies decline rather than transformation, and replication (D) suggests sameness rather than change."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "A scientist, artist and mother, Ani Liu contemplates how power and control shape the body in her taboo-breaking artworks.",
+      "question": "What does 'taboo-breaking' suggest about Liu's artistic approach?",
+      "options": [
+        "A. challenging cultural or social prohibitions; daring",
+        "B. following traditional artistic conventions carefully",
+        "C. focusing exclusively on historical subjects",
+        "D. avoiding controversial materials entirely"
+      ],
+      "answer": "A",
+      "explanation": "'Taboo-breaking' means challenging or violating social, cultural, or moral prohibitions that are traditionally considered forbidden. In art, it indicates bold, provocative work. Options B (traditional conventions) and D (avoiding controversy) directly contradict the meaning. Option C is too narrow and unrelated to the concept of taboo."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The European Commission president called for action to strengthen Europe's borders, including vigilant monitoring and the use of physical barriers.",
+      "question": "In this context, 'vigilant' most closely means:",
+      "options": [
+        "A. aggressive; hostile in manner",
+        "B. alert and watchful; attentive",
+        "C. expensive; resource-intensive",
+        "D. flexible; adaptable to circumstances"
+      ],
+      "answer": "B",
+      "explanation": "'Vigilant' means alert, watchful, and attentive to potential threats or problems. In the context of border security, it implies careful monitoring. Option A (aggressive) is too extreme, C (expensive) is unrelated to the meaning of the word, and D (flexible) contradicts the sense of careful attention implied by vigilance."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The incident has led to a political crisis in Spain and criticism from EU countries, triggering a furious row between Madrid and other European nations.",
+      "question": "What does 'triggering a furious row' mean?",
+      "options": [
+        "A. causing a violent physical confrontation",
+        "B. initiating a heated dispute or argument",
+        "C. organizing a peaceful protest or march",
+        "D. delaying an important decision indefinitely"
+      ],
+      "answer": "B",
+      "explanation": "A 'furious row' is an intense, angry argument or dispute. 'Triggering' a row means causing or initiating it. Option A (physical confrontation) is too extreme for political discourse. Option C (peaceful protest) contradicts 'furious.' Option D (delaying a decision) is unrelated to what a 'row' is."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The museum staff _______ have informed visitors about the strike; it was their responsibility.",
+      "question": "Which modal verb best expresses criticism about an obligation that was not fulfilled?",
+      "options": [
+        "A. must",
+        "B. should have",
+        "C. might have",
+        "D. could have"
+      ],
+      "answer": "B",
+      "explanation": "'Should have' expresses that something was obligatory in the past but was not done, implying criticism or regret. 'Must' (A) is present obligation. 'Might have' (C) and 'could have' (D) express possibility rather than unfulfilled obligation. 'Should have' is the only form that combines past obligation with implicit criticism."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The committee members, _______ arrived late, still participated in the final vote.",
+      "question": "Which option correctly uses a relative clause without changing the meaning?",
+      "options": [
+        "A. who arrived late, which",
+        "B. that arrived late and",
+        "C. who arrived late,",
+        "D. arriving late,"
+      ],
+      "answer": "C",
+      "explanation": "This requires a non-defining relative clause (set off by commas) because the information about arriving late is additional, not essential to identifying the committee members. Option C uses 'who arrived late,' with commas, correctly making it non-defining. Option B uses 'that,' which is for defining clauses. Options A and D introduce grammatical errors or change the clause structure."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "She _______ lived in London for five years when she decided to move to Paris.",
+      "question": "Which option correctly shows an action completed before another past event?",
+      "options": [
+        "A. has lived",
+        "B. lived",
+        "C. had lived",
+        "D. was living"
+      ],
+      "answer": "C",
+      "explanation": "Past perfect ('had lived') is required to show that living in London was completed before the decision to move. 'Has lived' (A) is present perfect, inappropriate for past events. 'Lived' (B) is simple past and doesn't show the sequence clearly. 'Was living' (D) suggests the action was ongoing, not completed before the decision."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_______ universities in Europe offer financial assistance to international students, though not all do.",
+      "question": "Which article correctly introduces this uncountable/generic plural noun?",
+      "options": [
+        "A. The",
+        "B. A",
+        "C. An",
+        "D. Zero article (no article)"
+      ],
+      "answer": "D",
+      "explanation": "Zero article is used when making a generalization about plural countable nouns in their generic sense. Saying 'Universities' (without an article) makes a general statement about universities as a category. 'The' (A) would suggest specific universities. 'A' and 'An' (B, C) are used with singular nouns, not plurals."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "If the strike _______ longer, the museums would have lost significant revenue.",
+      "question": "Which option correctly completes this third conditional sentence?",
+      "options": [
+        "A. had lasted",
+        "B. would last",
+        "C. lasted",
+        "D. has lasted"
+      ],
+      "answer": "A",
+      "explanation": "The third conditional requires past perfect ('had lasted') in the if-clause to express a hypothetical situation contrary to fact in the past. 'Would last' (B) is second conditional. 'Lasted' (C) is simple past and doesn't fit the conditional structure. 'Has lasted' (D) is present perfect, inappropriate for past hypothetical situations."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "He suggested that the team reconsider its approach, given the new information that had emerged.",
+      "question": "What is the most natural way to express the same meaning?",
+      "options": [
+        "A. He said the team must reconsider because of new information.",
+        "B. He recommended the team reconsider its approach in light of the new information.",
+        "C. He told the team to reconsider everything they had done.",
+        "D. He demanded the team change its strategy immediately."
+      ],
+      "answer": "B",
+      "explanation": "'Recommended' (B) closely mirrors 'suggested' and maintains the same tone of advisement rather than command. 'Must reconsider' (A) is too forceful compared to 'suggested.' 'Told...to reconsider everything' (C) adds emphasis not in the original. 'Demanded' (D) is too strong and contradicts the original's softer, suggestive tone."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The committee, which had been meeting every Tuesday, finally reached a consensus on the proposed changes.",
+      "question": "Which sentence most naturally conveys the same idea?",
+      "options": [
+        "A. The committee met every Tuesday until it agreed on the changes.",
+        "B. After meeting regularly every Tuesday, the committee finally agreed on the proposed changes.",
+        "C. The committee that met every Tuesday has agreed on changes.",
+        "D. Meeting every Tuesday, the committee must now decide on the changes."
+      ],
+      "answer": "B",
+      "explanation": "Option B preserves the sense of regular meetings ('regularly every Tuesday') and the final achievement of consensus ('finally agreed'). Option A loses the temporal sense of the struggle. Option C uses a defining rather than non-defining clause, changing the meaning. Option D introduces 'must now decide,' which contradicts 'finally reached a consensus.'"
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "She found it difficult to concentrate, not because the work was hard, but because the office was noisy.",
+      "question": "Which option best paraphrases the original meaning?",
+      "options": [
+        "A. She couldn't concentrate because the work was challenging and the office was loud.",
+        "B. Although the work wasn't difficult, she couldn't focus due to noise in the office.",
+        "C. The office noise prevented her from concentrating, unlike the work difficulty.",
+        "D. She had difficulty concentrating; the hard work and office noise both contributed."
+      ],
+      "answer": "B",
+      "explanation": "Option B correctly captures the contrast structure: the difficulty in concentrating was not due to work difficulty ('although the work wasn't difficult') but to external noise. Option A removes the contrast. Option C reverses the emphasis. Option D suggests both factors contributed, contradicting the explicit 'not because...but because' structure."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "Over 90% of members voted on action, with nearly 77% of those favoring strike action.",
+      "question": "Rewrite this sentence in your own words, capturing the core meaning about union membership voting patterns.",
+      "options": null,
+      "answer": null,
+      "explanation": null,
+      "paraphrase_keywords": [
+        "majority voted",
+        "substantial support",
+        "strike action",
+        "union members",
+        "clear consensus"
+      ]
+    }
+  ]
+}
