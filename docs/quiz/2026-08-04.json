@@ -1,0 +1,218 @@
+{
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T22:18:49.667736",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "A petition launched by Scottish architect Ruairidh Moir to rebuild Charles Rennie Mackintosh's famed Glasgow School of Art building has garnered almost 9,000 signatures.",
+      "question": "In this context, 'garnered' most nearly means:",
+      "options": [
+        "A) attracted and accumulated",
+        "B) disputed and challenged",
+        "C) decorated and embellished",
+        "D) displayed and exhibited"
+      ],
+      "answer": "A",
+      "explanation": "Garnered means to collect, gather, or accumulate, especially support or signatures. Option B (disputed) reverses the meaning. Options C and D relate to presentation rather than accumulation of support."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The campaign is a response to years of perceived inaction on the part of the Glasgow School of Art (GSA), with the building still standing unrestored following two fires in 2014.",
+      "question": "Which word best captures the meaning of 'perceived inaction'?",
+      "options": [
+        "A) negligence",
+        "B) deliberate harm",
+        "C) financial constraints",
+        "D) unintentional oversight"
+      ],
+      "answer": "A",
+      "explanation": "Perceived inaction suggests a failure to act that may be seen as negligent or culpable. Option B is too extreme and implies malice. Option C is too specific—inaction can result from many causes. Option D contradicts 'perceived,' which implies intentional or visible failure."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Paz is currently leading and funding the new, as yet unnamed museum project, which will eventually function as a nonprofit.",
+      "question": "The phrase 'as yet' in this sentence means:",
+      "options": [
+        "A) up to the present time; still",
+        "B) in the manner that",
+        "C) according to reports",
+        "D) in the role of"
+      ],
+      "answer": "A",
+      "explanation": "'As yet' is a formal expression meaning 'up to now' or 'so far.' It indicates that something (the name) has not occurred or been determined at the time of writing. Option B refers to a different use of 'as'; options C and D are unrelated meanings."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Western-developed AI rides roughshod over Ubuntu values of connection and community that animate African ethical life.",
+      "question": "To 'ride roughshod over' something means to:",
+      "options": [
+        "A) show respect for traditional practices",
+        "B) disregard or trample upon something without concern",
+        "C) travel across a region on horseback",
+        "D) apply power gradually and cautiously"
+      ],
+      "answer": "B",
+      "explanation": "This idiom means to treat something or someone with contempt and disregard, often without respect. The phrase originates from cavalry riding over terrain. Options A and D contradict the negative connotation. Option C is a literal but incorrect interpretation."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The incident has led to a political crisis in Spain and criticism from EU countries, triggering a furious row between Madrid and other European countries.",
+      "question": "In this political context, a 'row' refers to:",
+      "options": [
+        "A) a series of events in sequence",
+        "B) a heated dispute or quarrel",
+        "C) a line of objects arranged horizontally",
+        "D) a unit of seating in a theater"
+      ],
+      "answer": "B",
+      "explanation": "In British English, 'row' (pronounced 'rhyme with cow') means a loud argument or bitter dispute. Options A, C, and D refer to other meanings of 'row' (pronounced 'rhyme with go') or are unrelated to political context."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Neither the architect nor the preservationists _____ confident that the restoration will proceed without further delays.",
+      "question": "Which verb form correctly completes this sentence?",
+      "options": [
+        "A) is",
+        "B) are",
+        "C) has been",
+        "D) have been"
+      ],
+      "answer": "B",
+      "explanation": "With 'neither...nor' constructions, the verb agrees with the nearest subject. Here, 'preservationists' (plural) is nearest, requiring 'are.' Option A incorrectly uses singular. Options C and D introduce unnecessary perfect aspect."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The team leader recommended _____ the project methodology rather than _____ with outdated procedures.",
+      "question": "Which pair of verb forms is correct?",
+      "options": [
+        "A) revising / to proceed",
+        "B) to revise / proceeding",
+        "C) revising / proceeding",
+        "D) revise / to proceed"
+      ],
+      "answer": "C",
+      "explanation": "After 'recommended,' both gerunds should be parallel: 'revising...proceeding.' Options A and B break parallelism by mixing gerunds and infinitives. Option D uses bare infinitives incorrectly after 'recommended.' Parallel structure requires consistent verb forms in coordinate positions."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "_____ all evidence to the contrary, the museum director insisted that the renovation plan remained viable.",
+      "question": "Which participle clause correctly opens this sentence?",
+      "options": [
+        "A) Having dismissed",
+        "B) Having been dismissed",
+        "C) Dismissing",
+        "D) Being dismissed"
+      ],
+      "answer": "A",
+      "explanation": "The sentence needs a perfect participle showing that dismissing evidence happens before the director's insistence. 'Having dismissed' correctly shows this temporal sequence with active voice. Option B uses passive voice unnecessarily. Options C and D fail to show the completed action before the main clause."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The museum director announced that they _____ the exhibition two months earlier than originally scheduled.",
+      "question": "Which tense correctly fills the blank in reported speech?",
+      "options": [
+        "A) would open",
+        "B) will open",
+        "C) have opened",
+        "D) opened"
+      ],
+      "answer": "A",
+      "explanation": "In reported speech from a past reporting verb ('announced'), 'will' shifts to 'would.' The reported action (opening) is future relative to the announcement moment. Option B uses present tense, breaking backshift rules. Options C and D incorrectly use perfect or simple past."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "If the funding had been approved last year, the construction _____ completed by now.",
+      "question": "Which verb form correctly completes this third conditional sentence?",
+      "options": [
+        "A) would be",
+        "B) would have been",
+        "C) had been",
+        "D) would be being"
+      ],
+      "answer": "B",
+      "explanation": "Third conditional (unreal past) requires 'would have + past participle' in the main clause. The 'if' clause uses 'had been,' so the result must be 'would have been completed.' Option A uses second conditional form. Option C is not a complete conditional structure. Option D is grammatically awkward and incorrect."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The building, having been constructed in the 1920s, required significant renovation before it could be used.",
+      "question": "Which rephrasing maintains the same meaning most naturally?",
+      "options": [
+        "A) Because it had been constructed in the 1920s, the building required significant renovation before use.",
+        "B) The building, which was constructed in the 1920s, required significant renovation before it could be used.",
+        "C) The building was constructed in the 1920s and required significant renovation before use.",
+        "D) The 1920s-constructed building required significant renovation before it could be used."
+      ],
+      "answer": "B",
+      "explanation": "Option B preserves both the temporal relationship and the focus. Option A implies causation incorrectly (age alone doesn't cause need for renovation). Option C loses the participial structure and is too bare. Option D is awkward and less natural than the original participle clause."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Rarely had the team faced such a complex set of competing demands.",
+      "question": "What is the most natural way to express this in everyday speech?",
+      "options": [
+        "A) The team had rarely faced such complex competing demands.",
+        "B) Seldom had the team faced such complex competing demands.",
+        "C) The team rarely had faced such complex competing demands.",
+        "D) Such complex competing demands were rarely faced by the team."
+      ],
+      "answer": "A",
+      "explanation": "Option A uses natural word order while preserving meaning. Option B changes 'rarely' to 'seldom' unnecessarily and keeps awkward inversion. Option C contains a grammatical error (mixing inversion with wrong tense form). Option D uses passive voice awkwardly and sounds formal but unnatural."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "He suggested that the team reconsider its approach, given the new information that had emerged.",
+      "question": "Which alternative phrasing is most natural in everyday conversation?",
+      "options": [
+        "A) He suggested the team to reconsider their approach because of the new information that had emerged.",
+        "B) He suggested that the team should reconsider its approach in light of the new information that had emerged.",
+        "C) He suggested the team reconsider their approach given the new information.",
+        "D) He made a suggestion that the team reconsider its approach, the new information having emerged."
+      ],
+      "answer": "C",
+      "explanation": "Option C is concise and natural, using 'their' (acceptable in modern English as singular/plural) and dropping redundant tense complexity. Option A uses incorrect 'suggest to' structure. Option B is overly formal with 'should' and 'in light of.' Option D is convoluted with a dangling participle effect."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "Multimillionaire Brazilian art collector Bernardo Paz, the founder of museum and sculpture garden Instituto Inhotim, is developing a new museum and accompanying botanical garden that will sit directly next to Inhotim, according to reports.",
+      "question": "Rewrite this sentence in your own words, capturing the core meaning in 15-25 words.",
+      "options": null,
+      "answer": null,
+      "explanation": "Core elements: Bernardo Paz (wealthy Brazilian art collector and Inhotim founder) is creating a new museum with botanical garden adjacent to his existing institution. Accept answers that preserve: (1) Paz's identity and wealth, (2) his existing Inhotim, (3) the new museum project, (4) the botanical garden, (5) proximity to Inhotim.",
+      "paraphrase_keywords": [
+        "Bernardo Paz",
+        "wealthy collector",
+        "new museum",
+        "botanical garden",
+        "adjacent to Inhotim"
+      ]
+    }
+  ]
+}
