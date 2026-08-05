@@ -1,0 +1,219 @@
+{
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T22:17:15.135098",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Fra Angelico's Fiesole Altarpiece has been returned to its original setting following a lengthy restoration that rehabilitated the work from a prior sixteenth century restoration.",
+      "question": "In this context, 'rehabilitated' most closely means:",
+      "options": [
+        "A. Restored to a functional or improved condition",
+        "B. Physically relocated to a new museum",
+        "C. Evaluated by independent art historians",
+        "D. Photographed for archival documentation"
+      ],
+      "answer": "A",
+      "explanation": "Rehabilitated means to restore something to good condition or working order. In this conservation context, it refers to the restoration process that improved the altarpiece's condition. Option B misses the restoration aspect; C and D are separate activities not implied by the verb."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Western-developed AI rides roughshod over Ubuntu values of connection and community that animate African ethical life.",
+      "question": "The phrase 'rides roughshod over' most accurately means:",
+      "options": [
+        "A. Shows disrespect for and ignores the importance of",
+        "B. Gradually incorporates elements of",
+        "C. Travels across regions implementing",
+        "D. Competes fairly with in a technological race"
+      ],
+      "answer": "A",
+      "explanation": "'Rides roughshod over' is an idiom meaning to treat something or someone without consideration or respect. The sentence criticizes AI for disregarding Ubuntu values, not incorporating them (B), implementing them (C), or competing with them (D)."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "UN forecasters warn of worsening conditions in 45 countries currently experiencing severe food insecurity.",
+      "question": "In this context, 'insecurity' refers to:",
+      "options": [
+        "A. A psychological state of worry",
+        "B. Lack of access to adequate resources, specifically food",
+        "C. Unstable political governance",
+        "D. Insufficient military defense systems"
+      ],
+      "answer": "B",
+      "explanation": "Food insecurity is a technical term in development and humanitarian contexts meaning lack of reliable access to sufficient food for healthy living. While 'insecurity' can refer to worry (A), the compound term 'food insecurity' has a specific technical meaning. Options C and D refer to different types of insecurity entirely."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The two-year restoration process was funded by the cultural-preservation nonprofit Friends of Florence, which repaired both the painting and the wooden support.",
+      "question": "The word 'repaired' in this restoration context most strongly implies:",
+      "options": [
+        "A. Fixed damage while preserving historical authenticity",
+        "B. Replaced entirely with modern materials",
+        "C. Made superficial cosmetic improvements",
+        "D. Documented the condition for insurance purposes"
+      ],
+      "answer": "A",
+      "explanation": "In art conservation, 'repair' involves careful restoration that respects the original work and historical materials. Option B describes replacement, not repair; C is too superficial for a formal restoration project; D describes documentation rather than the repair work itself."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The US state department is to shut five foreign consulates, drawing criticism that it is leaving a diplomatic vacuum at risk of being filled by China.",
+      "question": "A 'diplomatic vacuum' in this passage suggests:",
+      "options": [
+        "A. The complete absence of political relationships and influence",
+        "B. A physical empty building",
+        "C. Temporary closure of negotiations",
+        "D. Disagreement between government agencies"
+      ],
+      "answer": "A",
+      "explanation": "'Diplomatic vacuum' is a metaphorical term meaning the absence of diplomatic presence, relationships, or influence in a region. This creates an opportunity for rival powers like China to expand their influence. Option B treats it literally; C suggests temporary dispute rather than structural absence; D misidentifies the type of conflict."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "The building, having been constructed in the 1920s, required significant renovation before it could be used.",
+      "question": "The participle clause 'having been constructed in the 1920s' functions as:",
+      "options": [
+        "A. A perfect passive participle providing context for why renovation was needed",
+        "B. A relative clause that could be replaced with 'which was constructed'",
+        "C. A causal clause explaining the renovation decision",
+        "D. A temporal clause indicating when the renovation occurred"
+      ],
+      "answer": "A",
+      "explanation": "This is a perfect passive participle clause (having been + past participle), which expresses a completed past action before the main verb. Options B and C treat it as a different clause type; D is incorrect because the participle clause indicates the building's age, not when renovation happened—the renovation happened because of the building's age."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Hardly had the committee begun its review when three members expressed serious concerns.",
+      "question": "The inverted structure 'Hardly had the committee begun' is used to:",
+      "options": [
+        "A. Create emphasis and show that the action was scarcely completed before something else occurred",
+        "B. Ask a question about how long the review would take",
+        "C. Show that the committee was unprepared for the meeting",
+        "D. Indicate that the concerns were expected from the start"
+      ],
+      "answer": "A",
+      "explanation": "Negative adverbials like 'Hardly' trigger subject-verb inversion and emphasize the immediacy of consecutive events: 'Hardly had X begun when Y happened.' Option B misidentifies it as interrogative; C and D add meaning not grammatically conveyed by the inversion structure."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The researcher should have verified the data sources before publishing her findings; instead, she must have relied on secondary reports.",
+      "question": "Which statement about the modal verbs in this sentence is correct?",
+      "options": [
+        "A. 'Should have verified' expresses criticism of a past action; 'must have relied' expresses logical deduction about a past event",
+        "B. Both modals express equal degrees of certainty about what happened",
+        "C. 'Must have' is stronger than 'should have' but both express obligation",
+        "D. 'Should have' indicates permission; 'must have' indicates advice"
+      ],
+      "answer": "A",
+      "explanation": "'Should have' + past participle expresses that something was the right or obligatory thing to do but wasn't (criticism). 'Must have' + past participle expresses a logical deduction or certainty about a past event. Option B ignores their different functions; C confuses obligation with certainty; D misidentifies both modals."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The director announced that the project had been postponed indefinitely and that the team was being reassigned.",
+      "question": "In this reported speech, the backshift of tenses occurs because:",
+      "options": [
+        "A. The original direct speech used present tense, which must shift to past tense when reported from a past reporting verb",
+        "B. The reported clauses describe events that happened in the distant past",
+        "C. Direct speech always requires tense backshift regardless of the reporting verb",
+        "D. The team member being addressed was confused about the timing"
+      ],
+      "answer": "A",
+      "explanation": "When the reporting verb is in past tense ('announced'), the tenses in reported speech typically shift backward: present becomes past, past becomes past perfect. Option B is incorrect because we don't know the actual timing of the original events; C is too absolute and ignores that present reporting verbs don't trigger backshift; D is irrelevant to the grammatical rule."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "He regretted not attending the conference, whereas his colleague regretted attending the workshop instead.",
+      "question": "The difference in meaning between 'not attending' and 'attending' in these clauses demonstrates that:",
+      "options": [
+        "A. Gerunds and infinitives can reverse meaning when preceded by different verbs of regret",
+        "B. The gerund form can change meaning based on negation and contextual contrast",
+        "C. This sentence contains a grammatical error because 'regret' takes only infinitives",
+        "D. Attending and not attending are synonymous in this context"
+      ],
+      "answer": "B",
+      "explanation": "Both uses employ gerunds ('attending,' 'not attending'), and the contrast between positive and negative gerunds creates opposite meanings about what was regretted. 'Regret' consistently takes gerunds, not infinitives, so C is false; A incorrectly suggests mixed gerund/infinitive forms; D ignores the semantic opposition created by negation."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "He suggested that the team reconsider its approach, given the new information that had emerged.",
+      "question": "Which phrase most naturally continues this thought in everyday professional English?",
+      "options": [
+        "A. Otherwise, the project risks becoming obsolete before completion.",
+        "B. Nonetheless, he insisted they continue without any modifications.",
+        "C. In fact, he demanded immediate implementation of untested solutions.",
+        "D. However, he admitted that delays were inevitable regardless."
+      ],
+      "answer": "A",
+      "explanation": "Option A logically follows a suggestion to reconsider and explains the consequences of not doing so. Option B contradicts the suggestion; C overstates the recommendation inappropriately; D dismisses the suggestion's validity without justification."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The committee, which had been meeting every Tuesday, finally reached a consensus on the proposed changes.",
+      "question": "Which phrase would most naturally precede this sentence?",
+      "options": [
+        "A. After months of contentious debate and multiple scheduling conflicts,",
+        "B. Without any prior discussion or preparation,",
+        "C. Contrary to expectations based on earlier statements,",
+        "D. Because the decision was already predetermined by management,"
+      ],
+      "answer": "A",
+      "explanation": "'Finally reached' implies a long process with obstacles; Option A sets up this expectation appropriately. Option B contradicts 'finally' (implying effort); C and D undermine the sense of achievement implied by 'finally reached a consensus.'"
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "He had been working on the project for three weeks before he realized a fundamental error in his approach.",
+      "question": "Which phrase most naturally explains the consequence or reaction that follows?",
+      "options": [
+        "A. As a result, he had to restart most of his work from scratch.",
+        "B. Nevertheless, he decided to continue without making any adjustments.",
+        "C. Therefore, all his previous efforts had been completely worthless.",
+        "D. Interestingly, the error actually improved his overall methodology."
+      ],
+      "answer": "A",
+      "explanation": "The sentence structure (past perfect continuous + realization of error) naturally leads to corrective action; Option A provides a logical consequence. Option B contradicts the implication of recognizing the error; C uses unnecessarily harsh language; D contradicts the 'fundamental error' characterization."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "Fra Angelico's Fiesole Altarpiece, made between 1420 and 1423, has been returned to its original setting at the convent of San Domenico following a lengthy restoration that rehabilitated the work from a prior sixteenth century restoration, and repaired the altarpiece's painting as well as wooden support.",
+      "question": "Paraphrase this sentence in your own words, capturing its core meaning.",
+      "options": null,
+      "answer": null,
+      "explanation": null,
+      "paraphrase_keywords": [
+        "Fra Angelico altarpiece",
+        "15th-century artwork",
+        "restored to original location",
+        "multi-year conservation process",
+        "repaired painting and wooden structure",
+        "reversed previous restoration damage"
+      ]
+    }
+  ]
+}
