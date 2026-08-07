@@ -1,0 +1,218 @@
+{
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T01:01:41.701225",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The museum's decision to _____ these masterpieces to international institutions reflects a broader commitment to cultural diplomacy.",
+      "question": "Which word best completes this sentence about loaning artworks?",
+      "options": [
+        "A. promulgate",
+        "B. disseminate",
+        "C. circulate",
+        "D. distribute"
+      ],
+      "answer": "C",
+      "explanation": "While all options mean 'spread,' circulate is the most precise term for making artworks available across different venues for public viewing. Promulgate means to promote a doctrine or law; disseminate refers to spreading information; distribute is too general. Circulate specifically denotes the movement of objects through multiple locations."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The critic's _____ attack on Snow's lecture revealed fundamental disagreements about the nature of intellectual culture.",
+      "question": "Which adjective best describes Leavis's response to C P Snow?",
+      "options": [
+        "A. perfunctory",
+        "B. vitriolic",
+        "C. equivocal",
+        "D. pedantic"
+      ],
+      "answer": "B",
+      "explanation": "Vitriolic means bitter, caustic, and harsh—perfectly describing a 'savage response.' Perfunctory means superficial or cursory; equivocal means ambiguous; pedantic means overly scholarly. The source explicitly calls it 'savage,' which aligns with vitriolic intensity."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Health officials announced a _____ increase in response measures as cases continued to rise exponentially.",
+      "question": "Which word best completes this sentence about escalating public health efforts?",
+      "options": [
+        "A. graduated",
+        "B. commensurate",
+        "C. proportional",
+        "D. marginal"
+      ],
+      "answer": "B",
+      "explanation": "Commensurate means appropriately matched in size or degree—fitting the context of scaling up response 'every aspect.' Graduated means arranged in stages; proportional is similar but less emphatic; marginal means minor or insignificant. The source emphasizes dramatic escalation, not incremental change."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Critics argue that the closures create a _____ in diplomatic presence that competing powers may exploit.",
+      "question": "Which noun best completes this sentence about the gap left by closed consulates?",
+      "options": [
+        "A. lacuna",
+        "B. hiatus",
+        "C. chasm",
+        "D. void"
+      ],
+      "answer": "A",
+      "explanation": "Lacuna, a Latin-derived term meaning gap or missing part, is the most sophisticated and precise choice for a figurative absence in organizational structure. Hiatus implies temporary interruption; chasm suggests an unbridgeable divide; void is too colloquial. Lacuna is preferred in academic contexts."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The research team's ability to _____ ancient scrolls using advanced imaging technology represents a breakthrough in preservation science.",
+      "question": "Which verb best completes this sentence about deciphering charred manuscripts?",
+      "options": [
+        "A. decipher",
+        "B. unearth",
+        "C. excavate",
+        "D. construe"
+      ],
+      "answer": "A",
+      "explanation": "Decipher means to decode or make sense of obscured or unclear text, which directly describes reading charred scrolls. Unearth and excavate refer to physical removal; construe means to interpret grammatically. The context emphasizes reading technology, not physical retrieval."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The researchers _____ have checked their calculations more carefully; the error was not inevitable given their methodology.",
+      "question": "Which modal verb phrase correctly expresses regretful criticism?",
+      "options": [
+        "A. may",
+        "B. should",
+        "C. must",
+        "D. needn't"
+      ],
+      "answer": "B",
+      "explanation": "Should have + past participle expresses regret and gentle criticism for an action that didn't occur. Must have implies certainty about what happened; may suggests possibility; needn't have means the action wasn't necessary. The sentence criticizes the failure to check, which 'should have' perfectly expresses."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The committee proposed that he _____ his research proposal immediately to address the emerging concerns.",
+      "question": "Which verb form is correct in this subjunctive mood clause?",
+      "options": [
+        "A. revises",
+        "B. revise",
+        "C. should revise",
+        "D. will revise"
+      ],
+      "answer": "B",
+      "explanation": "The subjunctive mood requires the base form (revise) after 'propose that' in formal academic English. 'Revises' is indicative; 'should revise' uses an auxiliary rather than true subjunctive; 'will revise' is future indicative. Formal proposals demand the subjunctive base form."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "The experiment _____ twice, the researchers decided to revise their methodology entirely.",
+      "question": "Which participle clause correctly completes this sentence?",
+      "options": [
+        "A. Having failed",
+        "B. Being failed",
+        "C. Having been failed",
+        "D. Failing"
+      ],
+      "answer": "A",
+      "explanation": "'Having failed' is the perfect active participle, correctly expressing the completed action before the main clause. 'Being failed' implies ongoing passive voice; 'having been failed' is passive perfect but awkward; 'failing' is simple present participle, losing the sense of prior completion. The source sentence exemplifies this exact structure."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "She stopped _____ the project and started _____ for a new job instead.",
+      "question": "Which combination of gerund and infinitive is correct?",
+      "options": [
+        "A. managing / searching",
+        "B. managing / to search",
+        "C. to manage / searching",
+        "D. to manage / to search"
+      ],
+      "answer": "B",
+      "explanation": "Stop + gerund means 'cease an activity'; start + infinitive means 'begin an action.' These verbs change meaning based on the grammatical form following them. 'Stopping managing' = ceasing management; 'started to search' = began searching for something new. The contrasting meanings are essential to the sentence's logic."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The director said that he _____ the deadline, and that the team _____ working overtime for three weeks.",
+      "question": "Which verb tenses correctly show reported speech backshift?",
+      "options": [
+        "A. misses / have been",
+        "B. missed / have been",
+        "C. missed / had been",
+        "D. has missed / had been"
+      ],
+      "answer": "C",
+      "explanation": "In reported speech, present tense shifts to past (misses → missed) and present perfect shifts to past perfect (have been → had been). Option B incorrectly uses present perfect; option A mixes tenses incorrectly; option D uses present perfect instead of past. Backshift reflects the temporal distance created by reporting."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The results were more ambiguous than the researchers had initially anticipated.",
+      "question": "In everyday speech, how would you naturally express this?",
+      "options": [
+        "A. The results were not as clear-cut as expected.",
+        "B. The results failed to meet expectations.",
+        "C. The results proved inconclusive in nature.",
+        "D. The results demonstrated unexpected ambiguity."
+      ],
+      "answer": "A",
+      "explanation": "Natural spoken English uses 'clear-cut' and 'expected' rather than formal constructions. Options B and C are too formal; option D uses awkward nominalization. 'Not as clear-cut as expected' is how people naturally paraphrase 'more ambiguous than anticipated.'"
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "He had been working on the project for three weeks before he realized a fundamental error in his approach.",
+      "question": "Which phrasing captures this idea most naturally?",
+      "options": [
+        "A. After three weeks of work, he discovered he'd been going about it all wrong.",
+        "B. Prior to three weeks of labor, he recognized a foundational mistake.",
+        "C. His three-week labor yielded recognition of methodological deficiency.",
+        "D. Three weeks into the project, an essential error became apparent."
+      ],
+      "answer": "A",
+      "explanation": "Option A uses natural colloquialisms ('going about it all wrong') that match spoken English. Options B and C are overly formal; option D is awkwardly phrased. 'Going about it all wrong' naturally conveys the realization of a fundamental error."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The policy, once introduced, proved harder to reverse than its architects had imagined.",
+      "question": "Which rephrasing is most natural?",
+      "options": [
+        "A. Once the policy was rolled out, it turned out to be harder to undo than they thought.",
+        "B. The policy's introduction rendered reversal more arduous than anticipated.",
+        "C. Upon policy implementation, difficulty in reversal superseded architectural expectations.",
+        "D. The introduced policy presented challenges to reversal exceeding architectural projections."
+      ],
+      "answer": "A",
+      "explanation": "Option A uses conversational verbs ('rolled out,' 'turned out,' 'undo') and contractions. Options B, C, and D use unnecessarily complex vocabulary and awkward passive constructions. Natural English prefers 'rolled out' over 'introduced' and 'turned out' over 'proved.'"
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "The museum's decision to loan these masterpieces to international institutions reflects a broader commitment to cultural diplomacy and the democratization of access to heritage artifacts.",
+      "question": "Paraphrase this sentence in your own words, capturing its core meaning.",
+      "options": null,
+      "answer": null,
+      "paraphrase_keywords": [
+        "museum",
+        "loans artworks",
+        "international institutions",
+        "cultural diplomacy",
+        "access",
+        "heritage"
+      ]
+    }
+  ]
+}
