@@ -1,0 +1,232 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T21:51:00.558599",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The Lucas Museum's proposed admission pricing has drawn criticism for being tone-deaf to public concerns about cultural ________.",
+      "question": "Which word best completes this sentence?",
+      "options": [
+        "A. accessibility",
+        "B. decoration",
+        "C. innovation",
+        "D. publicity"
+      ],
+      "answer": "A",
+      "explanation": "Accessibility is the most logical completion in context—criticism about museum admission pricing relates to who can afford to visit. 'Decoration' and 'publicity' are semantically unrelated; 'innovation' doesn't align with the critique."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The 639-year musical performance is a remarkable example of artistic ________, pushing the boundaries of conventional performance duration.",
+      "question": "Which word best fits this sentence?",
+      "options": [
+        "A. perseverance",
+        "B. ambition",
+        "C. endurance",
+        "D. patience"
+      ],
+      "answer": "C",
+      "explanation": "'Endurance' is the most precise term for sustained performance over an exceptionally long period. 'Perseverance' refers to determination despite difficulty; 'ambition' means desire for success; 'patience' is the capacity to tolerate delay—none fit as precisely as endurance."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Without the ability to form generalizations, our understanding of the world would be severely ________ by information overload.",
+      "question": "What word best completes the sentence?",
+      "options": [
+        "A. enhanced",
+        "B. impaired",
+        "C. clarified",
+        "D. reinforced"
+      ],
+      "answer": "B",
+      "explanation": "'Impaired' means weakened or damaged, matching the intended meaning that paralysis would worsen comprehension. 'Enhanced', 'clarified', and 'reinforced' all suggest improvement, contradicting the author's claim that inability to generalize creates cognitive paralysis."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Spain's decision to impose temporary border checks represents a significant ________ in immigration policy response.",
+      "question": "Which word best completes this sentence?",
+      "options": [
+        "A. escalation",
+        "B. precedent",
+        "C. anomaly",
+        "D. paradox"
+      ],
+      "answer": "A",
+      "explanation": "'Escalation' means an increase in intensity or severity of action, fitting Spain's new border-control measures in response to migration pressure. 'Precedent' refers to prior examples; 'anomaly' means irregularity; 'paradox' denotes contradiction—none convey the sense of heightened policy response."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The federal judge's ruling effectively ________ the temporary protections that immigrant rights organizations had fought to maintain.",
+      "question": "What word best fits this sentence?",
+      "options": [
+        "A. nullified",
+        "B. postponed",
+        "C. debated",
+        "D. examined"
+      ],
+      "answer": "A",
+      "explanation": "'Nullified' means made invalid or void, correctly capturing that the judge's ruling removed protections. 'Postponed' suggests delay; 'debated' means discussed; 'examined' means scrutinized—none convey the legal effect of stripping or invalidating protections."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Not until the 639th year of the performance ________ anyone realize the true significance of this artistic experiment.",
+      "question": "Which option correctly completes this sentence?",
+      "options": [
+        "A. did",
+        "B. have",
+        "C. would",
+        "D. had"
+      ],
+      "answer": "A",
+      "explanation": "After the negative adverbial 'Not until,' inversion is required: the auxiliary 'did' must precede the subject 'anyone.' Options B, C, and D fail to invert and/or use incorrect auxiliary forms for past tense narration."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Hardly ________ the museum doors opened before critics voiced objections to the membership pricing model.",
+      "question": "Which option correctly completes this sentence?",
+      "options": [
+        "A. had",
+        "B. have",
+        "C. were",
+        "D. would have"
+      ],
+      "answer": "A",
+      "explanation": "After the negative adverbial 'Hardly,' inversion is mandatory; the past perfect auxiliary 'had' precedes the subject 'the museum doors.' Options B (present perfect) and C (passive) don't fit the temporal relationship; option D is overly complex."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The museum director insisted that all membership proposals ________ thoroughly reviewed before implementation.",
+      "question": "Which option correctly completes this sentence?",
+      "options": [
+        "A. be",
+        "B. are",
+        "C. were",
+        "D. have been"
+      ],
+      "answer": "A",
+      "explanation": "The verb 'insisted' triggers the subjunctive mood in English, requiring the bare infinitive form 'be' (not 'are', 'were', or 'have been'). The subjunctive mood expresses necessity, demand, or recommendation and uses this distinct form in formal contexts."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "It is essential that the border checkpoint ________ operational by midnight on Saturday.",
+      "question": "Which option correctly completes this sentence?",
+      "options": [
+        "A. becomes",
+        "B. be",
+        "C. is",
+        "D. would be"
+      ],
+      "answer": "B",
+      "explanation": "The phrase 'It is essential that' mandates subjunctive mood, requiring the bare infinitive form 'be.' Options A, C, and D use indicative forms (becomes, is, would be), which are grammatically incorrect after this subjunctive trigger phrase."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The organ, which has been playing the same piece for 639 years, requires minimal maintenance. The church, which now attracts visitors from around the world, has become a pilgrimage site. Which sentence uses a non-defining relative clause?",
+      "question": "Which of the following correctly identifies the non-defining relative clause?",
+      "options": [
+        "A. Only the first sentence contains a non-defining relative clause",
+        "B. Only the second sentence contains a non-defining relative clause",
+        "C. Both sentences contain non-defining relative clauses",
+        "D. Neither sentence contains a non-defining relative clause"
+      ],
+      "answer": "C",
+      "explanation": "Both relative clauses are non-defining (marked by commas and providing additional, non-essential information). If removed, the main clauses remain complete: 'The organ requires minimal maintenance' and 'The church has become a pilgrimage site.' Defining clauses are restrictive and lack commas."
+    },
+    {
+      "id": 11,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Neither the immigrants nor their legal representatives ________ been able to halt the court's decision.",
+      "question": "Which option correctly completes this sentence?",
+      "options": [
+        "A. have",
+        "B. has",
+        "C. was",
+        "D. were"
+      ],
+      "answer": "A",
+      "explanation": "With 'neither...nor' structures, the verb agrees with the nearer subject ('representatives,' plural), requiring 'have.' Option B (has) incorrectly agrees with 'immigrants'; options C and D use past tense forms inappropriate after 'been.'"
+    },
+    {
+      "id": 12,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The museum director had the security company ________ the admission gates to prevent overcrowding.",
+      "question": "Which option correctly completes this sentence?",
+      "options": [
+        "A. reinforced",
+        "B. reinforce",
+        "C. reinforce",
+        "D. reinforce"
+      ],
+      "answer": "A",
+      "explanation": "The causative structure 'have + object + past participle' requires 'had the company reinforced' (passive meaning: caused to be reinforced). Note: This tests causative 'have' vs. modal or full-verb uses; only the past participle form correctly expresses that an external agent performed the action."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Having lived in three different countries, he was comfortable navigating unfamiliar cultural situations.",
+      "question": "Which statement most naturally expresses the same idea?",
+      "options": [
+        "A. Because he had lived in three different countries, he was comfortable navigating unfamiliar cultural situations.",
+        "B. Despite living in three different countries, he struggled with unfamiliar cultural situations.",
+        "C. He lived in three different countries, so he was uncomfortable with unfamiliar situations.",
+        "D. He preferred to live in only one country to avoid unfamiliar cultural situations."
+      ],
+      "answer": "A",
+      "explanation": "Option A preserves the cause-and-effect relationship and the sense of accumulated experience enabling comfort. Options B contradicts by introducing struggle; C reverses the logic (comfortable→comfortable); D contradicts the original entirely."
+    },
+    {
+      "id": 14,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The more carefully he read the contract, the more concerned he became about its implications.",
+      "question": "Which alternative most naturally conveys the same meaning?",
+      "options": [
+        "A. He read the contract carefully, and he was not concerned about its implications.",
+        "B. As he read the contract with greater care, his concerns about its implications intensified.",
+        "C. He was so careful when reading the contract that he missed its concerning implications.",
+        "D. The contract's implications were so concerning that he could not read it carefully."
+      ],
+      "answer": "B",
+      "explanation": "Option B preserves the correlation structure ('the more...the more') and the logical progression: deeper reading led to greater concern. Options A contradicts (not concerned); C contradicts (missed implications); D reverses causality (concern as cause, not effect)."
+    },
+    {
+      "id": 15,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "Without the ability to form generalizations, our understanding of the world would be severely compromised by the overwhelming complexity of unfiltered information.",
+      "question": "Rewrite this sentence in your own words, capturing its core meaning.",
+      "options": null,
+      "answer": null,
+      "explanation": "This paraphrase assesses comprehension of why generalization is cognitively essential.",
+      "paraphrase_keywords": [
+        "generalization",
+        "cognitive necessity",
+        "information complexity",
+        "comprehension limitation"
+      ]
+    }
+  ]
+}
