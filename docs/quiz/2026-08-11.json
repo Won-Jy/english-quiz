@@ -1,0 +1,219 @@
+{
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T21:57:01.931810",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Steven Nelson has accused the museum of 'soft censorship,' regarding its hushed relocation of a symposium.",
+      "question": "In this context, what does 'hushed' most closely mean?",
+      "options": [
+        "A. Conducted quietly or discreetly, often implying secrecy",
+        "B. Delayed or postponed indefinitely",
+        "C. Widely publicized and celebrated",
+        "D. Logistically complex and difficult to arrange"
+      ],
+      "answer": "A",
+      "explanation": "Hushed implies something done quietly or secretly, which aligns with the accusation of censorship. Option B suggests mere delay, C contradicts the meaning, and D focuses on difficulty rather than the secretive nature implied by the pairing with 'soft censorship.'"
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Dati reportedly made the request at a May 2025 meeting between the pair that took place at a hotel in Cannes.",
+      "question": "Which word best replaces 'reportedly' without changing the meaning?",
+      "options": [
+        "A. Allegedly",
+        "B. Definitively",
+        "C. Subsequently",
+        "D. Remarkably"
+      ],
+      "answer": "A",
+      "explanation": "Reportedly and allegedly both convey that information comes from a source but has not been independently verified. Definitively suggests certainty (opposite meaning), subsequently means 'afterward,' and remarkably denotes surprise rather than uncertainty about sourcing."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Until Shere Hite's Report, even the most daring sexologists refused to listen to what women desired and hated in sex.",
+      "question": "What does 'daring' suggest about these sexologists in this context?",
+      "options": [
+        "A. They were willing to take intellectual or social risks",
+        "B. They were reckless and irresponsible",
+        "C. They were physically courageous in their fieldwork",
+        "D. They were outspoken critics of established medical doctrine"
+      ],
+      "answer": "A",
+      "explanation": "Daring implies willingness to take risks; the sentence emphasizes that even bold, progressive researchers failed to truly listen to women until Hite's work. Option B is too negative, C misses the intellectual context, and D overstates specificity without textual support."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Spain has announced it will introduce temporary border checks in response to Rome imposing similar measures after a mass rush of people from Morocco into Ceuta.",
+      "question": "In this passage, 'impose' most precisely means:",
+      "options": [
+        "A. To place or apply authoritatively; enforce as a requirement",
+        "B. To take unfair advantage of someone",
+        "C. To arrange or organize systematically",
+        "D. To reduce or limit gradually"
+      ],
+      "answer": "A",
+      "explanation": "Impose measures means to enforce them as a requirement. Option B refers to imposing on someone, C suggests organization rather than authoritative enforcement, and D implies gradual reduction rather than the forceful application intended here."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Temporary protected status (TPS) for hundreds of South Sudanese nationals is set to end after a federal judge ruled that the Trump administration can move forward with stripping their protections.",
+      "question": "The phrase 'set to end' most closely parallels which expression?",
+      "options": [
+        "A. Scheduled or destined to happen",
+        "B. Determined by committee vote",
+        "C. Repeatedly delayed and uncertain",
+        "D. Justified by legal precedent"
+      ],
+      "answer": "A",
+      "explanation": "Set to end means scheduled or destined to occur. B implies agency by committee (not established), C contradicts the certainty implied by the ruling, and D focuses on justification rather than inevitability of the outcome."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The auditor _______ have discovered the discrepancy earlier; the evidence was clearly present in the quarterly reports.",
+      "question": "Which modal verb phrase correctly expresses mild criticism for a past action that didn't happen?",
+      "options": [
+        "A. should have",
+        "B. might have",
+        "C. could have",
+        "D. must have"
+      ],
+      "answer": "A",
+      "explanation": "Should have expresses criticism or regret that something didn't occur when it should have. Might/could have suggest possibility rather than criticism, and must have expresses certainty about a completed past action rather than prescriptive judgment."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_______ all the available evidence, the committee concluded that further investigation was unnecessary.",
+      "question": "Which participle clause correctly introduces this sentence?",
+      "options": [
+        "A. Having reviewed",
+        "B. Being reviewed",
+        "C. To review",
+        "D. Reviewed"
+      ],
+      "answer": "A",
+      "explanation": "Having reviewed (perfect participle) correctly shows that the review occurred before the conclusion. Being reviewed is passive and illogical here, to review is an infinitive not a participle clause, and reviewed alone lacks the active perfect aspect needed to show sequence."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "If the symposium _______ been relocated quietly, the controversy _______ have escalated so dramatically.",
+      "question": "Which verb forms correctly complete this second conditional (contrary-to-fact) sentence?",
+      "options": [
+        "A. hadn't / wouldn't",
+        "B. wouldn't have / hasn't",
+        "C. hadn't been / wouldn't have",
+        "D. wouldn't / hadn't"
+      ],
+      "answer": "C",
+      "explanation": "Second conditional uses had + past participle in the if-clause and would have + past participle in the result clause. This maintains the passive voice (been relocated) and correct conditional structure. Other options mix tenses or confuse active/passive forms."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The museum director _______ have the controversial artwork _______ to a more secure location rather than addressing the underlying concerns.",
+      "question": "Which causative form correctly completes this sentence?",
+      "options": [
+        "A. had / moved",
+        "B. has / move",
+        "C. must / to be moved",
+        "D. should / be moving"
+      ],
+      "answer": "A",
+      "explanation": "Have + object + past participle (had...moved) is the correct causative structure for past events. B uses bare infinitive (incorrect), C adds unnecessary 'to,' and D uses progressive aspect inappropriate for a completed action. The past tense had suits the narrative context."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The museum board insists that the director _______ provide a transparent explanation for the symposium's relocation to restore public trust.",
+      "question": "Which verb form correctly expresses the subjunctive mood here?",
+      "options": [
+        "A. must",
+        "B. would",
+        "C. provide",
+        "D. should provide"
+      ],
+      "answer": "C",
+      "explanation": "After insist that, the subjunctive requires the bare infinitive form (provide), not modals like must or should. The structure is: 'insist that + subject + base verb.' Options A and D incorrectly add modals, and B is conditional rather than subjunctive."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The more carefully he read the contract, the more concerned he became about its implications.",
+      "question": "In this context, what grammatical structure conveys the deepening worry?",
+      "options": [
+        "A. Parallel comparison with 'more...more'",
+        "B. Causal relationship between reading and concern",
+        "C. Progressive aspect showing ongoing scrutiny",
+        "D. Hypothetical conditional structure"
+      ],
+      "answer": "A",
+      "explanation": "The 'more...more' structure establishes a proportional relationship showing that increased careful reading correlated with increased concern. B overstates causation, C notes grammatical presence but not the structural device, and D misidentifies the construction as conditional."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Having lived in three different countries, he was comfortable navigating unfamiliar cultural situations.",
+      "question": "What does the participial phrase convey about his comfort?",
+      "options": [
+        "A. It is a consequence of his prior international experience",
+        "B. It happened before his experiences abroad",
+        "C. It was unlikely given his background",
+        "D. It required additional training after moving"
+      ],
+      "answer": "A",
+      "explanation": "The participial phrase having lived provides the reason or basis for his comfort; experience enables comfort. B reverses the logical sequence, C contradicts the statement, and D introduces unsupported additional requirements."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The proposal was rejected not on its merits but on procedural grounds.",
+      "question": "What does this sentence emphasize about the rejection?",
+      "options": [
+        "A. The decision was arbitrary and unfair",
+        "B. The substance was overlooked due to technical reasons",
+        "C. Both content and procedure were equally flawed",
+        "D. The reviewers lacked expertise to evaluate it"
+      ],
+      "answer": "B",
+      "explanation": "Not...but structure contrasts merits (substance/quality) with procedural grounds (technical/administrative reasons), indicating substance was bypassed. A overstates arbitrariness, C contradicts the either/or structure, and D introduces unsupported conclusions about reviewer competence."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "In an essay published in the academic art history journal October, Nelson accused the museum of 'soft censorship,' regarding its hushed relocation of a symposium last year titled 'Color Lines Across the United States and Mexico.'",
+      "question": "Rewrite this sentence in your own words, capturing the core meaning in a single sentence. Focus on: what Nelson did, where he did it, what he accused the museum of, and what specific action he was criticizing.",
+      "options": null,
+      "answer": null,
+      "explanation": "A strong paraphrase should maintain: (1) Nelson published in a scholarly journal, (2) he made an accusation, (3) the target is the museum, (4) the accusation concerns censorship, (5) the specific action is secretly moving a symposium with a race-focused title. Acceptable variations might simplify to: 'Nelson, writing in October, charged the museum with hidden censorship by quietly relocating a symposium about racial lines between the US and Mexico.'",
+      "paraphrase_keywords": [
+        "Nelson",
+        "academic journal",
+        "censorship",
+        "museum",
+        "secretly relocated",
+        "symposium"
+      ]
+    }
+  ]
+}
