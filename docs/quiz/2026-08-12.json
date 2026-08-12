@@ -1,0 +1,218 @@
+{
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T21:54:40.070361",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The Portland Art Museum's comprehensive campus expansion project marked a significant milestone for the institution.",
+      "question": "Which word best replaces 'comprehensive' in the sentence above?",
+      "options": [
+        "A. thorough",
+        "B. expensive",
+        "C. recent",
+        "D. controversial"
+      ],
+      "answer": "A",
+      "explanation": "Comprehensive means thorough, complete, or covering all aspects. While expensive projects may be comprehensive, and vice versa, 'thorough' is the closest synonym. Expensive and recent do not capture the meaning of comprehensive, and controversial is unrelated to the original word's sense."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The scientist's breakthrough research was intriguing to the farming community because it offered a daunting solution to crop pestilence.",
+      "question": "In this context, 'daunting' most nearly means:",
+      "options": [
+        "A. discouraging or intimidating",
+        "B. innovative or creative",
+        "C. slow or gradual",
+        "D. uncertain or doubtful"
+      ],
+      "answer": "A",
+      "explanation": "Daunting describes something that seems difficult or intimidating to face. While innovative research might seem positive, 'daunting' carries a sense of challenge or difficulty. Slow and uncertain do not align with the word's core meaning of presenting a formidable challenge."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The V&A Museum's decision to grant staffers their requested break policy changes marked the latest development in an ongoing struggle, marking a tangible shift in institutional relations.",
+      "question": "What does 'tangible' mean in this sentence?",
+      "options": [
+        "A. permanent and unchangeable",
+        "B. clear and able to be perceived or demonstrated",
+        "C. unexpected and surprising",
+        "D. temporary and provisional"
+      ],
+      "answer": "B",
+      "explanation": "Tangible means capable of being touched, felt, or clearly recognized as real or substantial. In this context, it suggests the policy shift is concrete and demonstrable. Permanent, unexpected, and temporary are all possible outcomes but do not define tangible itself."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The report's findings were considered audacious because previous sexologists had largely refrained from asking women about their intimate preferences.",
+      "question": "Which word is closest in meaning to 'audacious'?",
+      "options": [
+        "A. meticulous",
+        "B. bold or daring",
+        "C. extensive",
+        "D. systematic"
+      ],
+      "answer": "B",
+      "explanation": "Audacious means bold, daring, or willing to take risks, especially in challenging norms or expectations. In the context of the sentence, the report's willingness to ask women directly represents boldness. Meticulous, extensive, and systematic relate to approach or methodology, not courage or risk-taking."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The ferry capsized due to overcrowding, with the vessel carrying significantly more passengers than its rated capacity.",
+      "question": "What is the best definition of 'capsized' as used above?",
+      "options": [
+        "A. sank slowly beneath the water",
+        "B. tilted or overturned suddenly",
+        "C. leaked water gradually",
+        "D. veered off its intended course"
+      ],
+      "answer": "B",
+      "explanation": "Capsized means to overturn or flip over suddenly, typically referring to boats and vessels. The word specifically denotes a sudden, dramatic event rather than a gradual process. Sank slowly, leaked, and veered describe different maritime incidents but not the action of capsizing."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "If the museum director had received more funding during the expansion phase, the project would have been completed ahead of schedule.",
+      "question": "This sentence uses which conditional structure?",
+      "options": [
+        "A. First conditional (real future possibility)",
+        "B. Second conditional (hypothetical present)",
+        "C. Third conditional (hypothetical past)",
+        "D. Mixed conditional (past condition, present consequence)"
+      ],
+      "answer": "C",
+      "explanation": "This is a third conditional sentence, which describes a hypothetical past situation and its hypothetical consequence. The structure 'If + had + past participle... would have + past participle' is the hallmark of third conditional. First conditional describes real future possibilities; second conditional discusses hypothetical present situations; mixed conditional combines structures to show how past conditions might affect present results."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The number of visitors to the art museums in major cities _____ increasing steadily over the past decade.",
+      "question": "Which verb form correctly completes this sentence?",
+      "options": [
+        "A. have been",
+        "B. has been",
+        "C. are",
+        "D. is being"
+      ],
+      "answer": "B",
+      "explanation": "The subject is 'The number of visitors,' which is a singular noun phrase (number is singular even though it refers to multiple visitors). Therefore, the singular verb form 'has been' is correct. 'Have been' is used with plural subjects; 'are' and 'is being' are not in the progressive perfect tense required by 'over the past decade.'"
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The director suggested that the museum _____ establish a new scholarship fund to support emerging artists.",
+      "question": "Which verb form correctly completes this sentence?",
+      "options": [
+        "A. should establish",
+        "B. would establish",
+        "C. establish",
+        "D. establishes"
+      ],
+      "answer": "C",
+      "explanation": "The verb 'suggested' is followed by the subjunctive mood in formal English. The subjunctive uses the base form of the verb without the -s ending for third person singular. 'Establish' is the base form. 'Should establish' and 'would establish' are conditional forms; 'establishes' is indicative mood, not subjunctive."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The directors of the museum, along with _____ board members, attended the expansion project opening ceremony.",
+      "question": "Which article and noun correctly complete this sentence?",
+      "options": [
+        "A. the museum's",
+        "B. the board's",
+        "C. the museum",
+        "D. its"
+      ],
+      "answer": "D",
+      "explanation": "The phrase 'along with' indicates additional people, but the main subject remains 'The directors.' The possessive pronoun 'its' correctly refers back to 'the museum.' The other options either create redundancy or incorrect grammatical structure. 'The board's' would suggest the board members are the board's members, which is awkward; 'the museum' and 'the board' lack the possessive form needed to show the relationship."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The research findings, which revealed _____ link between soil fungus and pest control, astonished the agricultural community.",
+      "question": "Which article correctly completes this sentence?",
+      "options": [
+        "A. a",
+        "B. an",
+        "C. the",
+        "D. zero article"
+      ],
+      "answer": "C",
+      "explanation": "The definite article 'the' is appropriate here because the sentence refers to a specific, previously mentioned link between soil fungus and pest control established in context. 'A' or 'an' would introduce an indefinite, non-specific link; zero article would be used for uncountable nouns in general statements, but 'link' is countable and specific here."
+    },
+    {
+      "id": 11,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The museum appointed Michael J. Anderson, who had directed three major institutions, as its new director. The museum also named him the Schnitzer Director.",
+      "question": "Which sentence pair demonstrates the difference between defining and non-defining relative clauses?",
+      "options": [
+        "A. 'who had directed three major institutions' is non-defining; it provides essential information about which person was appointed.",
+        "B. 'who had directed three major institutions' is defining; it provides extra, non-essential information about Anderson's background.",
+        "C. 'who had directed three major institutions' is non-defining; it provides extra, non-essential information about Anderson's background and could be removed without changing the sentence's core meaning.",
+        "D. Both relative clauses are defining because they modify a noun."
+      ],
+      "answer": "C",
+      "explanation": "Non-defining (or non-restrictive) relative clauses provide additional information that is not essential to identify the noun; they are typically set off by commas. The clause 'who had directed three major institutions' adds background about Anderson but does not restrict or define which Anderson is meant. Removing it does not change the core meaning. Defining clauses, by contrast, restrict and identify which noun is being discussed and cannot be removed without losing essential meaning."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "By the time she arrived at the conference, most of the morning sessions had already concluded.",
+      "question": "What does this sentence most naturally convey?",
+      "options": [
+        "A. She arrived early and attended most of the sessions.",
+        "B. She arrived after most morning sessions were finished.",
+        "C. The sessions ended before the conference officially started.",
+        "D. She deliberately skipped the morning sessions."
+      ],
+      "answer": "B",
+      "explanation": "The past perfect 'had already concluded' indicates that the conclusion of the sessions happened before her arrival. The phrase 'by the time' establishes a point at which prior events were already complete. Option A contradicts the natural reading; Options C and D introduce information not supported by the sentence."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Rarely had the team faced such a complex set of competing demands.",
+      "question": "Which of the following is the most natural way to express this idea?",
+      "options": [
+        "A. The team had rarely faced such a complex set of competing demands.",
+        "B. The team has never before had such a complex set of competing demands to face.",
+        "C. Such a complex set of competing demands was rarely faced by the team.",
+        "D. The team rarely has faced such a complex set of competing demands."
+      ],
+      "answer": "A",
+      "explanation": "The original sentence uses inverted word order (rare subject-auxiliary inversion) to emphasize the unusual nature of the situation. Option A maintains this emphasis while using standard word order. Option B changes the meaning slightly by using 'never'; Option C is passive and less natural; Option D contains a grammatical error with 'has faced' following 'rarely.'"
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "In the wake of the Portland Art Museum having completed a comprehensive campus expansion project in 2025, the institution announced that it has appointed a new director, Michael J. Anderson.",
+      "question": "Paraphrase the above sentence in your own words, capturing its essential meaning.",
+      "options": null,
+      "answer": null,
+      "explanation": "The core meaning should capture: (1) The museum finished a major expansion project; (2) Following this completion, the museum made an announcement; (3) The announcement concerned the appointment of a new director named Michael J. Anderson. A strong paraphrase will convey the sequence of events and the main action without copying the original structure.",
+      "paraphrase_keywords": [
+        "expansion completed",
+        "museum appointed",
+        "new director",
+        "Michael Anderson",
+        "announcement"
+      ]
+    }
+  ]
+}
