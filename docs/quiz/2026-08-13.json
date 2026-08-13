@@ -1,0 +1,218 @@
+{
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T21:54:53.291450",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The organization cited 'rising operating costs, declining public funding, and a changing philanthropic landscape' as reasons for closure.",
+      "question": "In this context, 'philanthropic landscape' refers to:",
+      "options": [
+        "A. The geographical distribution of charitable donations",
+        "B. The overall environment and patterns of charitable giving and funding",
+        "C. The natural scenery surrounding donation centers",
+        "D. The legal framework governing nonprofit organizations"
+      ],
+      "answer": "B",
+      "explanation": "'Landscape' in academic writing means the overall situation or environment. Here it describes how charitable funding patterns and priorities have shifted over time. Option A is too literal; C misinterprets the metaphor; D focuses only on legal aspects rather than the broader funding ecosystem."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The institution began as Lamkin Camerwork Gallery in 1974, founded by John Lamkin.",
+      "question": "Which word best replaces 'institution' without changing meaning?",
+      "options": [
+        "A. establishment",
+        "B. organization",
+        "C. infrastructure",
+        "D. principle"
+      ],
+      "answer": "B",
+      "explanation": "'Institution' here means a formal organization or body. While 'establishment' could work, 'organization' is the most precise synonym in this context. 'Infrastructure' refers to physical structures; 'principle' is entirely different in meaning."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "In a bid for spiritual renewal, I made a pilgrimage to Islam's holy city.",
+      "question": "The phrase 'in a bid for' most closely means:",
+      "options": [
+        "A. while attempting to achieve",
+        "B. after failing to achieve",
+        "C. to compete against",
+        "D. in order to criticize"
+      ],
+      "answer": "A",
+      "explanation": "'In a bid for' means 'in an attempt to achieve' or 'with the goal of achieving.' Option B suggests prior failure; C implies competition; D suggests negative intent—none match the sense of purposeful seeking here."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The Ebola outbreak has spread to a sixth province, officials have said, a day after the head of the World Health Organization said the outbreak was on track to surpass the deadliest in history.",
+      "question": "The phrase 'on track to' best means:",
+      "options": [
+        "A. following the same route as",
+        "B. likely to achieve or reach (based on current trajectory)",
+        "C. formally scheduled to occur",
+        "D. being monitored by authorities"
+      ],
+      "answer": "B",
+      "explanation": "'On track to' is an idiom meaning 'progressing toward' or 'likely to reach based on current patterns.' Option A is too literal; C suggests formal scheduling; D refers to monitoring rather than likelihood of outcome."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "France has opened disciplinary proceedings against its ambassador to Central African Republic over allegations of misconduct.",
+      "question": "Which phrase most closely matches 'opened proceedings'?",
+      "options": [
+        "A. began formal investigation and process",
+        "B. unlocked the doors to an office",
+        "C. made public announcements about",
+        "D. concluded a legal case regarding"
+      ],
+      "answer": "A",
+      "explanation": "'Open proceedings' is a legal term meaning to initiate formal investigative or judicial processes. Option B is literal; C involves disclosure but not formal process; D suggests completion rather than initiation."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The consultant warned that the project _______ have been better managed from the outset, suggesting that mistakes were actually made.",
+      "question": "Which modal best completes the sentence?",
+      "options": [
+        "A. could",
+        "B. would",
+        "C. should",
+        "D. may"
+      ],
+      "answer": "C",
+      "explanation": "'Should have been' expresses criticism or regret about past actions—the consultant is saying better management would have been advisable. 'Could have' suggests mere possibility; 'would have' is conditional; 'may have' is tentative about whether it occurred."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_______ arrived at the office, Maria realized she had forgotten her presentation slides.",
+      "question": "Which option correctly fills the blank with an inversion after a negative adverbial?",
+      "options": [
+        "A. Hardly had she",
+        "B. She had hardly",
+        "C. Hardly she had",
+        "D. Had she hardly"
+      ],
+      "answer": "A",
+      "explanation": "After negative adverbials like 'hardly,' 'no sooner,' and 'not until,' the subject and auxiliary verb invert. The correct order is 'Hardly had she arrived.' Option B omits inversion; C has incorrect word order; D repeats 'had' awkwardly."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The building, _______ in the 1920s, required significant restoration before reopening.",
+      "question": "Which option correctly completes the participle clause?",
+      "options": [
+        "A. being constructed",
+        "B. having been constructed",
+        "C. constructed",
+        "D. to be constructed"
+      ],
+      "answer": "C",
+      "explanation": "The past participle 'constructed' is the most concise and natural form in a participle clause when describing a completed past action. Option A (being constructed) suggests ongoing action; B unnecessarily adds 'having been'; D (to be constructed) suggests future intention."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The museum director had the new exhibition _______ by a renowned curator before the opening.",
+      "question": "Which option correctly uses the causative structure?",
+      "options": [
+        "A. designed",
+        "B. to design",
+        "C. designing",
+        "D. been designed"
+      ],
+      "answer": "A",
+      "explanation": "With 'have' as a causative verb, the pattern is 'have + object + past participle' (without 'to'). The director caused someone else to design it. Option B adds unnecessary 'to'; C is a gerund, not passive; D is awkward and redundant with 'have.'"
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "It is essential that the research team _______ all safety protocols before commencing the experiment.",
+      "question": "Which option correctly uses the subjunctive mood?",
+      "options": [
+        "A. reviews",
+        "B. review",
+        "C. will review",
+        "D. must review"
+      ],
+      "answer": "B",
+      "explanation": "After 'It is essential that,' the subjunctive mood requires the base form of the verb (without -s ending). Option A uses indicative mood; C adds unnecessary future modal; D uses a modal instead of subjunctive form."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "By the time she arrived at the conference, most of the morning sessions had already concluded.",
+      "question": "Which rephrasing is most natural?",
+      "options": [
+        "A. When she arrived at the conference, most morning sessions were concluding.",
+        "B. Most morning sessions had finished before she got to the conference.",
+        "C. She arrived at the conference; most morning sessions had been concluding.",
+        "D. The morning sessions concluded as she was arriving at the conference."
+      ],
+      "answer": "B",
+      "explanation": "Option B preserves the meaning (she missed the morning sessions) with natural word order and clear chronology. Option A suggests ongoing action at arrival; C is awkwardly punctuated; D implies the sessions finished just as she arrived, not before."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The committee, which had been meeting every Tuesday, finally reached a consensus on the proposed changes.",
+      "question": "Which expression best conveys the same meaning?",
+      "options": [
+        "A. The committee reached agreement on the changes after regular Tuesday meetings.",
+        "B. The committee was meeting every Tuesday when it reached a consensus.",
+        "C. The committee's regular Tuesday meetings finally caused consensus on changes.",
+        "D. Every Tuesday the committee met until it reached consensus on changes."
+      ],
+      "answer": "A",
+      "explanation": "Option A captures the key points: regular meetings (past habit) and final agreement. Option B misplaces 'when'; C incorrectly suggests meetings caused the consensus; D suggests meetings continued only until consensus, not that they were regular for an extended period."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "She asked whether the documents had been signed by all the relevant parties.",
+      "question": "Which rephrasing sounds most natural in conversation?",
+      "options": [
+        "A. She asked if all relevant parties had signed the documents.",
+        "B. She questioned whether all relevant parties' signing of documents had occurred.",
+        "C. She wondered if the documents were being signed by relevant parties.",
+        "D. She asked whether all relevant parties were signing the documents."
+      ],
+      "answer": "A",
+      "explanation": "Option A uses active voice and natural word order, which sounds conversational. Option B is overly formal; C suggests ongoing action rather than completion; D uses present progressive instead of completed action."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "The institution began as Lamkin Camerwork Gallery in 1974, founded by John Lamkin. Three years later, he sold [the organization to new owners].",
+      "question": "Paraphrase the core meaning in your own words using 3-5 keywords.",
+      "options": null,
+      "answer": null,
+      "paraphrase_keywords": [
+        "founding",
+        "1974",
+        "Lamkin",
+        "ownership transfer",
+        "three years"
+      ],
+      "explanation": "The sentence describes an organization's origins (founded in 1974 by Lamkin) and its early change in ownership (sold after three years). Key concepts involve the founder, the specific timeline, and the transition of control."
+    }
+  ]
+}
