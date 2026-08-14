@@ -1,0 +1,218 @@
+{
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14T21:32:16.486259",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Digital artist Lily Belmira has created a free video game that recreates the environment of Michael Heizer's monumental land art sculpture City, 1970–2022, in the Nevada desert.",
+      "question": "In this context, what does 'monumental' most precisely mean?",
+      "options": [
+        "A) Built from stone or marble",
+        "B) Of great importance and impressive in scale or scope",
+        "C) Commemorating a significant historical event",
+        "D) Difficult to maintain or preserve"
+      ],
+      "answer": "B",
+      "explanation": "While 'monumental' can refer to monuments, here it describes the sculpture's grand scale and artistic significance. Option A conflates monuments with materials, C is too narrow (the sculpture need not commemorate a specific event), and D incorrectly associates monumentality with difficulty."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "A Picasso print stolen from a Milwaukee gallery in 2018 has miraculously resurfaced in a decrepit apartment in the same city, according to recent reports.",
+      "question": "What is the best synonym for 'resurfaced' as used here?",
+      "options": [
+        "A) Emerged from concealment",
+        "B) Returned to the surface of water",
+        "C) Regained popularity",
+        "D) Was restored to its original condition"
+      ],
+      "answer": "A",
+      "explanation": "'Resurfaced' here means the print was discovered after being hidden or lost. Option B is too literal (not about water), C implies renewed fame rather than rediscovery, and D suggests restoration work was done, which is not stated."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The self-built homes of Santiago are precarious and ever changing. They are, always and at once, being and becoming.",
+      "question": "Which word best captures the meaning of 'precarious' in this passage?",
+      "options": [
+        "A) Unstable and uncertain in condition",
+        "B) Built without professional assistance",
+        "C) Located in dangerous neighborhoods",
+        "D) Temporary and disposable"
+      ],
+      "answer": "A",
+      "explanation": "'Precarious' emphasizes fragility and risk, reinforced by 'ever changing.' Option B refers to the building method, not the condition, C is too specific geographically, and D (though related) misses the underlying sense of instability and vulnerability."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Hoping to offset lost rent by flipping the property of the evicted tenant, the landlord discovered a Picasso print.",
+      "question": "In financial contexts, what does 'offset' mean?",
+      "options": [
+        "A) To counterbalance or compensate for",
+        "B) To delay payment of a debt",
+        "C) To sell property at a loss",
+        "D) To negotiate a settlement"
+      ],
+      "answer": "A",
+      "explanation": "'Offset' means to balance one loss against a gain. Option B relates to payment timing rather than compensation, C involves loss (not offset), and D implies negotiation, not financial balancing."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "After half a century in the making, an observatory in New Mexico lets viewers peer 13,000 years into the future and the past.",
+      "question": "What does 'peer' most accurately mean in this sentence?",
+      "options": [
+        "A) To look with difficulty or strain",
+        "B) To examine carefully with scientific instruments",
+        "C) To gaze or look intently, especially into the distance",
+        "D) To investigate thoroughly and systematically"
+      ],
+      "answer": "C",
+      "explanation": "'Peer' suggests gazing intently into space/time, which fits the observatory context. Option A emphasizes difficulty unnecessarily, B suggests systematic analysis beyond what the sentence conveys, and D implies investigation rather than observation."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "It is essential that the digital archive _____ accessible to researchers worldwide, and I suggest that the institution _____ a formal governance structure.",
+      "question": "Which pair of verbs correctly completes this sentence using subjunctive mood?",
+      "options": [
+        "A) is; establishes",
+        "B) be; establish",
+        "C) is; establish",
+        "D) be; establishes"
+      ],
+      "answer": "B",
+      "explanation": "After 'it is essential that' and 'I suggest that,' English subjunctive requires the base form of the verb without -s or be-form. Both clauses require bare infinitives: 'be' and 'establish.' Options A and D incorrectly use indicative forms, and C mixes subjunctive with indicative."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The researchers _____ discovered the manuscript in the basement—they found it by pure accident. Had they searched there deliberately, they _____ found it months earlier.",
+      "question": "Which modals correctly express likelihood and hypothetical obligation?",
+      "options": [
+        "A) must have; could have",
+        "B) can't have; would have",
+        "C) couldn't have; might have",
+        "D) needn't have; should have"
+      ],
+      "answer": "B",
+      "explanation": "'Can't have' (logical impossibility in past) fits the accidental discovery narrative; 'would have' expresses hypothetical outcome. Option A uses 'must have' incorrectly (states certainty, not accident), C's 'couldn't have' and 'might have' don't convey the intended meaning, and D's 'needn't have' implies unnecessary action, not accident."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "By the time the exhibition opened, the curator _____ the collection for three years, though most visitors didn't realize how long the process _____ .",
+      "question": "Which tense combination correctly shows completed action before a past event?",
+      "options": [
+        "A) has organized; took",
+        "B) had organized; had taken",
+        "C) organized; took",
+        "D) had been organizing; was taking"
+      ],
+      "answer": "B",
+      "explanation": "Past perfect 'had organized' shows the curation was completed before the opening (another past event). The second clause needs past perfect 'had taken' to show the process preceded visitors' realization. Option A uses present perfect wrongly, C uses simple past (loses the 'before' relationship), and D uses continuous unnecessarily."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The artist had the gallery _____ a documentary about her work, and she _____ the installation restored by a specialist team.",
+      "question": "Which combination correctly uses causative 'have/get' and passive voice?",
+      "options": [
+        "A) produce; had gotten",
+        "B) produced; got",
+        "C) produce; had gotten",
+        "D) to produce; had"
+      ],
+      "answer": "C",
+      "explanation": "'Have someone do X' uses the base form ('produce'), while 'have/get something done' uses past participle in passive voice. 'Had gotten...restored' correctly combines causative 'get' with past participle. Options A and B misuse passive forms or missing particles, and D lacks the past participle needed for causative passive."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The sculpture, which was created over fifty years and stands thirty meters high, attracts thousands of visitors annually. The sculpture that stands in the Nevada desert transformed conceptual art forever.",
+      "question": "Which statement correctly identifies the relative clauses?",
+      "options": [
+        "A) Both clauses are non-defining; both add optional information",
+        "B) The first is non-defining (could be removed); the second is defining (essential to meaning)",
+        "C) Both are defining; both specify which sculpture is meant",
+        "D) The first is defining; the second is non-defining"
+      ],
+      "answer": "B",
+      "explanation": "The first clause is set off by commas and provides extra information about an already-identified sculpture (non-defining). The second clause without commas identifies which sculpture changed art history—essential information (defining). Options A, C, and D misidentify the clause types and their functions."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "By the time she arrived at the conference, most of the morning sessions had already concluded.",
+      "question": "What is the most natural way to express the same idea in everyday speech?",
+      "options": [
+        "A) When she arrived, the morning sessions had finished already.",
+        "B) She arrived after the morning sessions finished.",
+        "C) Most of the morning sessions concluded before she arrived.",
+        "D) By her arrival time, most morning sessions finished."
+      ],
+      "answer": "B",
+      "explanation": "Option B is the simplest, most colloquial phrasing that captures the temporal relationship. Option A sounds stilted with 'already' at the end, C uses passive awkwardly, and D retains the formal structure without advantage."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The proposal was rejected not on its merits but on procedural grounds.",
+      "question": "Which rephrasing best conveys this distinction in everyday language?",
+      "options": [
+        "A) The proposal wasn't rejected for being bad; it was rejected for procedural reasons.",
+        "B) They rejected the proposal because the procedure wasn't followed correctly.",
+        "C) The proposal had poor procedure but strong merits.",
+        "D) Procedural grounds, not merits, caused the rejection."
+      ],
+      "answer": "A",
+      "explanation": "Option A clearly contrasts the quality of the idea (merits) with the formal process (procedure) in natural speech. Option B implies the procedure itself was bad, C suggests both are weak, and D is overly formal without adding clarity."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "She found it difficult to concentrate, not because the work was hard, but because the office was noisy.",
+      "question": "How would this be most naturally expressed in casual conversation?",
+      "options": [
+        "A) The work wasn't difficult for her, but the noise in the office made concentration hard.",
+        "B) She couldn't focus—not from hard work, but from office noise.",
+        "C) It wasn't the difficulty of the work; it was the noise that distracted her.",
+        "D) The office being noisy, not the work, was the problem."
+      ],
+      "answer": "C",
+      "explanation": "Option C preserves the contrast while sounding natural and conversational. Option A is wordy and reverses emphasis, B is too abbreviated and colloquial, and D emphasizes the wrong element ('the problem') rather than the cause of difficulty."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "Having taken over fifty years in the making, Heizer's monumental sculpture stands as a testament to the artist's unwavering commitment to transforming the landscape into a work of conceptual art.",
+      "question": "Paraphrase this sentence in your own words, capturing its core meaning.",
+      "options": null,
+      "answer": null,
+      "explanation": "Student should identify that the core meaning is: a fifty-year process resulted in a large-scale sculpture that demonstrates both artistic dedication and the integration of landscape with conceptual thinking.",
+      "paraphrase_keywords": [
+        "fifty-year creation",
+        "monumental scale",
+        "artistic commitment",
+        "landscape transformation",
+        "conceptual art"
+      ]
+    }
+  ]
+}
