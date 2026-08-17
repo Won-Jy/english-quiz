@@ -1,0 +1,218 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T21:32:27.076785",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The Museum of Contemporary Art San Diego has announced Brett Littman as its new director and CEO.",
+      "question": "Which word best replaces 'announced' in this sentence without changing meaning?",
+      "options": [
+        "A. proclaimed",
+        "B. whispered",
+        "C. contradicted",
+        "D. concealed"
+      ],
+      "answer": "A",
+      "explanation": "To 'announce' means to make something publicly known, which is synonymous with 'proclaim.' 'Whispered' suggests secrecy, 'contradicted' means to deny, and 'concealed' means to hide—all opposite to the original meaning."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The revelation follows a round of major restructuring, suggesting ongoing instability within the organization.",
+      "question": "The word 'revelation' in this context most closely means:",
+      "options": [
+        "A. a surprising or previously unknown fact that is disclosed",
+        "B. a religious vision or divine truth",
+        "C. a theatrical performance",
+        "D. a hidden skill or ability"
+      ],
+      "answer": "A",
+      "explanation": "'Revelation' here refers to information that becomes known or is disclosed, particularly something unexpected. Option B refers to spiritual revelation, C to performance, and D to inherent capability—all incorrect interpretations in this organizational context."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The lives that slither and scurry beneath the soil's surface are vital for ecological health.",
+      "question": "The verb 'slither' most accurately describes the movement of:",
+      "options": [
+        "A. snakes and other legless creatures moving smoothly",
+        "B. insects hopping in short jumps",
+        "C. birds flying rapidly overhead",
+        "D. fish swimming in water"
+      ],
+      "answer": "A",
+      "explanation": "'Slither' describes a smooth, sinuous movement characteristic of snakes and similar creatures. Hopping (B), flying (C), and swimming (D) are different types of locomotion not captured by 'slither.'"
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "In this bittersweet portrait of a farm town in Canada, taxidermied gophers preserve a place that no longer exists.",
+      "question": "The adjective 'bittersweet' suggests:",
+      "options": [
+        "A. something containing both pleasant and unpleasant elements simultaneously",
+        "B. an extremely sad and depressing situation",
+        "C. a sweet taste with a slightly bitter aftertaste",
+        "D. something confused and contradictory"
+      ],
+      "answer": "A",
+      "explanation": "'Bittersweet' literally means mixed sweet and bitter, metaphorically describing a situation with both positive (nostalgia, preservation) and negative (loss, absence) aspects. Option B is too absolute, C is literal taste only, and D is inaccurate."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The Ebola outbreak in the Democratic Republic of the Congo is now the deadliest in the country's history, surpassing the toll from the 2018-20 outbreak.",
+      "question": "In this sentence, 'toll' most accurately refers to:",
+      "options": [
+        "A. the number of deaths or casualties",
+        "B. a fee charged for using a road or bridge",
+        "C. the sound of a bell ringing",
+        "D. the time indicated on a clock"
+      ],
+      "answer": "A",
+      "explanation": "'Toll' in this context means the number of deaths or adverse consequences caused by an event. Options B (fee), C (bell sound), and D (time) are alternative definitions of 'toll' but incorrect here."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The safety inspectors _____ have discovered those structural flaws earlier; the building collapse could have been prevented.",
+      "question": "Which modal verb phrase correctly expresses criticism about a past action?",
+      "options": [
+        "A. should have",
+        "B. might have",
+        "C. could have",
+        "D. must have"
+      ],
+      "answer": "A",
+      "explanation": "'Should have' expresses mild criticism and regret about something that didn't happen in the past. 'Might have' and 'could have' express possibility, while 'must have' expresses certainty about a past event, not criticism."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The company's CEO had the new headquarters _____ by an internationally renowned architect.",
+      "question": "Which causative structure correctly completes this sentence?",
+      "options": [
+        "A. designed",
+        "B. to be designed",
+        "C. being designed",
+        "D. to design"
+      ],
+      "answer": "A",
+      "explanation": "With 'have' as a causative verb, the past participle 'designed' is correct: 'have + object + past participle.' This structure indicates the CEO arranged for someone else to design the building. Options B, C, and D use incorrect infinitive or gerund forms."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "If the investors _____ the long-term risks, they would not have invested their capital in such a volatile market.",
+      "question": "Which verb form correctly completes this third conditional sentence?",
+      "options": [
+        "A. had understood",
+        "B. would understand",
+        "C. have understood",
+        "D. understood"
+      ],
+      "answer": "A",
+      "explanation": "The third conditional requires 'if + had + past participle' in the condition clause to describe an impossible past situation. The main clause uses 'would have + past participle.' Options B and D use present/simple forms inappropriate for third conditional, and C uses present perfect."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The board insists that the new director _____ implement sustainable practices across all operations.",
+      "question": "Which verb form correctly follows the subjunctive mood requirement?",
+      "options": [
+        "A. would implement",
+        "B. implement",
+        "C. implements",
+        "D. should implement"
+      ],
+      "answer": "B",
+      "explanation": "After 'insists that,' the subjunctive mood requires the bare infinitive form without 'to': 'implement' (not 'implements'). Options A and D add unnecessary modal verbs, and C uses indicative mood (third person singular), which is grammatically incorrect in subjunctive contexts."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_____ the final approval been granted _____ the project could proceed to the construction phase.",
+      "question": "Which words correctly complete this inverted sentence structure after a negative adverbial?",
+      "options": [
+        "A. Had / than",
+        "B. No sooner / than",
+        "C. Hardly / when",
+        "D. Not until / when"
+      ],
+      "answer": "B",
+      "explanation": "'No sooner' is a negative adverbial that requires inversion of the auxiliary verb and subject: 'No sooner had X than Y' expresses that one event immediately followed another. Options A (wrong structure), C (would use 'hardly' correctly but wrong completion), and D (not suited for this meaning) are incorrect."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "She asked whether the documents had been signed by all the relevant parties.",
+      "question": "Which alternative expresses the same meaning most naturally in everyday conversation?",
+      "options": [
+        "A. She asked if all the relevant parties had signed the documents.",
+        "B. She asked whether the documents were signed by parties.",
+        "C. She asked if the relevant parties could have signed the documents.",
+        "D. She asked whether documents signing had been done."
+      ],
+      "answer": "A",
+      "explanation": "Option A uses active voice and conversational word order while preserving the original meaning. Option B omits 'relevant' and loses specificity, C introduces unnecessary modal uncertainty, and D uses awkward nominalization."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The experiment having failed twice, the researchers decided to revise their methodology entirely.",
+      "question": "Which expression conveys the same logical relationship most naturally?",
+      "options": [
+        "A. Because the experiment had failed twice, the researchers decided to revise their methodology entirely.",
+        "B. The experiment failed twice, so the researchers decided to revise their methodology entirely.",
+        "C. The researchers decided to revise their methodology entirely after the experiment failing twice.",
+        "D. Having failed the experiment twice, the researchers decided to revise their methodology entirely."
+      ],
+      "answer": "A",
+      "explanation": "Option A preserves the causal relationship and maintains formality consistent with the original absolute phrase construction. Option B is too casual, C has awkward grammar, and D incorrectly suggests researchers caused the failure."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The building, having been constructed in the 1920s, required significant renovation before it could be used.",
+      "question": "Which alternative phrasing is most natural while keeping the same meaning?",
+      "options": [
+        "A. The building was constructed in the 1920s and required significant renovation before it could be used.",
+        "B. The building, which had been constructed in the 1920s, required significant renovation before it could be used.",
+        "C. Constructed in the 1920s, the building required significant renovation before it could be used.",
+        "D. The building that was constructed in the 1920s required significant renovation before it could be used."
+      ],
+      "answer": "B",
+      "explanation": "Option B uses a relative clause that maintains formality and clearly shows the temporal relationship, closely mirroring the original absolute phrase. Option A is too simple and loses the formal register, C shifts emphasis, and D is less sophisticated than the original."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "From 2018 to 2023, Littman served as director of the Noguchi Museum in Long Island City, New York, before succeeding Kathryn Kanjo, who left after nine years in the role to become the inaugural director of the UC Irvine Langson Orange County Museum.",
+      "question": "Paraphrase this sentence in your own words, capturing the key information about career transitions and timeline.",
+      "options": null,
+      "answer": null,
+      "explanation": null,
+      "paraphrase_keywords": [
+        "Littman",
+        "Noguchi Museum director (2018-2023)",
+        "succeeded Kanjo",
+        "Kanjo departure after nine years",
+        "inaugural director UC Irvine museum"
+      ]
+    }
+  ]
+}
