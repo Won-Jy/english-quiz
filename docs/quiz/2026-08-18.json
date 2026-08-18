@@ -1,0 +1,218 @@
+{
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T21:31:07.963387",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "An ancient Mesoamerican skull is now in the possession of the National Institute of Anthropology and History (INAH) in Mexico, more than a year after it was repatriated from the Netherlands.",
+      "question": "In this context, 'repatriated' most nearly means:",
+      "options": [
+        "A. Returned to one's native country",
+        "B. Sold at auction to a private collector",
+        "C. Studied by international teams of scientists",
+        "D. Photographed for museum catalogues"
+      ],
+      "answer": "A",
+      "explanation": "Repatriated means to return something (especially cultural artifacts or people) to their country of origin. Option B is incorrect because repatriation is not a commercial transaction; C and D misrepresent the meaning as actions taken on the object rather than its geographical return."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Early feminists like Mary Astell and Catharine Macaulay refused their male peers' advice to remain polite in debate.",
+      "question": "The phrase 'refused...advice to remain polite' suggests these feminists:",
+      "options": [
+        "A. Declined to follow the expectation of politeness",
+        "B. Argued that politeness was unnecessary in all contexts",
+        "C. Were naturally impolite by character",
+        "D. Rejected debate as a feminist strategy"
+      ],
+      "answer": "A",
+      "explanation": "To refuse advice to do something means to reject that directive and act differently. Option B overgeneralizes; C confuses the result with causation; D misinterprets the sentence by suggesting they rejected debate itself."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "In this bittersweet portrait of a farm town in Canada, taxidermied gophers preserve a place that no longer exists.",
+      "question": "What does 'bittersweet' emphasize in this description?",
+      "options": [
+        "A. A mixture of pleasant and sorrowful emotions",
+        "B. The actual taste of the documentary subject",
+        "C. Criticism of the filmmaker's artistic choices",
+        "D. The historical accuracy of the gopher specimens"
+      ],
+      "answer": "A",
+      "explanation": "Bittersweet describes a complex emotional tone combining joy and sadness—here, nostalgia for a place that is gone. Option B misinterprets the figurative use of the term; C and D are not supported by the word's meaning."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The Ebola outbreak in the Democratic Republic of the Congo is now the deadliest in the country's history, with at least 2,325 people dead, surpassing the toll from the 2018-20 outbreak.",
+      "question": "In this context, 'surpassing' most nearly means:",
+      "options": [
+        "A. Exceeding in quantity or degree",
+        "B. Moving beyond geographically",
+        "C. Traveling faster than expected",
+        "D. Understanding completely"
+      ],
+      "answer": "A",
+      "explanation": "Surpass means to go beyond or exceed a previous measure or record. Option B uses a literal spatial sense that doesn't fit; C and D represent unrelated meanings of words that sound similar."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday.",
+      "question": "The term 'death toll' refers to:",
+      "options": [
+        "A. The total number of deaths resulting from an event",
+        "B. A fee paid to transport bodies across borders",
+        "C. The official investigation into cause of death",
+        "D. The psychological impact on survivors"
+      ],
+      "answer": "A",
+      "explanation": "Death toll is a fixed term meaning the total count of fatalities from a disaster or incident. Options B and C misrepresent the term as a fee or process; D refers to emotional consequences rather than a numerical count."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The committee recommends that the research _____ continued with additional funding.",
+      "question": "Which verb form correctly completes this sentence using the subjunctive mood?",
+      "options": [
+        "A. be",
+        "B. is",
+        "C. will be",
+        "D. would be"
+      ],
+      "answer": "A",
+      "explanation": "After verbs of recommendation, requirement, or suggestion (like 'recommends that'), English uses the subjunctive mood with the base form of the verb. 'Be' is the base form. Options B, C, and D use indicative forms inappropriate for subjunctive constructions."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "She _____ studied the instructions more carefully; her mistake suggests she overlooked several details.",
+      "question": "Which modal verb best completes this sentence to express justified criticism?",
+      "options": [
+        "A. might have",
+        "B. should have",
+        "C. could have",
+        "D. would have"
+      ],
+      "answer": "B",
+      "explanation": "'Should have' expresses a justified criticism about a past action—it implies what was the right or expected thing to do. 'Might have' and 'could have' suggest mere possibility; 'would have' is conditional but lacks the critical implication."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "If the train had arrived on time, we _____ caught the connecting flight to Amsterdam.",
+      "question": "Which verb form correctly completes this third conditional sentence?",
+      "options": [
+        "A. would have",
+        "B. had",
+        "C. would",
+        "D. have"
+      ],
+      "answer": "A",
+      "explanation": "In third conditional sentences (if + past perfect), the result clause uses 'would have' + past participle to express an impossible past situation. 'Would have caught' is the correct form. The other options lack the modal or use incorrect verb tenses."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_____ had the investigation concluded when new evidence emerged that contradicted the initial findings.",
+      "question": "Which phrase correctly completes this sentence with inversion after a negative adverbial?",
+      "options": [
+        "A. Scarcely",
+        "B. Hardly",
+        "C. Only",
+        "D. Never"
+      ],
+      "answer": "B",
+      "explanation": "'Hardly' is a negative adverbial that requires inversion of the subject and auxiliary verb (Hardly had...), expressing that something was barely complete when something else happened. 'Scarcely' works similarly but is slightly less natural here; 'Only' doesn't invert; 'Never' changes the logical meaning."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_____ the proposal by the board, management decided to halt the expansion plans.",
+      "question": "Which participle clause best completes this sentence?",
+      "options": [
+        "A. Having rejected",
+        "B. Being rejected",
+        "C. Rejected",
+        "D. To reject"
+      ],
+      "answer": "A",
+      "explanation": "'Having rejected' is a perfect participle clause showing that the board's rejection occurred before management's decision. 'Being rejected' suggests passive voice; 'Rejected' alone lacks the temporal sequence; 'To reject' is infinitive, not a participle clause."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The policy, once introduced, proved harder to reverse than its architects had imagined.",
+      "question": "What is the most natural way to express this idea in everyday speech?",
+      "options": [
+        "A. Once they introduced the policy, it was harder to undo than they thought.",
+        "B. The architects imagined the policy would be easy to reverse when introduced.",
+        "C. It proved that the policy's architects had not imagined its difficulty.",
+        "D. After introduction, the policy was becoming harder and harder to reverse."
+      ],
+      "answer": "A",
+      "explanation": "Option A captures the meaning most naturally and idiomatically—the policy turned out to be harder to undo than expected. Option B reverses the logic; C misses the comparison; D changes the timeframe and emphasis."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Neither the manager nor the employees were informed of the decision until after it had been implemented.",
+      "question": "Which alternative best preserves the meaning in everyday language?",
+      "options": [
+        "A. The manager and employees didn't find out about the decision until it was already put into effect.",
+        "B. The manager informed the employees after the decision was implemented.",
+        "C. Neither the manager nor employees were able to implement the decision themselves.",
+        "D. The manager and employees had informed everyone before implementation occurred."
+      ],
+      "answer": "A",
+      "explanation": "Option A accurately restates the original meaning using simpler, conversational language. Option B changes who informed whom; C misrepresents the subject; D contradicts the temporal sequence of the original."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "She found it difficult to concentrate, not because the work was hard, but because the office was noisy.",
+      "question": "Which phrasing is most natural and idiomatic?",
+      "options": [
+        "A. She couldn't focus—not that the work was difficult, but the office was loud.",
+        "B. The difficulty concentrating was either the work or the noise in the office.",
+        "C. Because the office was noisy, the work seemed harder to concentrate on.",
+        "D. She was unable to concentrate, as the work was too difficult and noisy."
+      ],
+      "answer": "A",
+      "explanation": "Option A uses natural, idiomatic phrasing ('couldn't focus,' 'not that...but') that matches the original's emphasis. Option B presents alternatives rather than contrasts; C reverses the causal logic; D combines both factors instead of contrasting them."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "An ancient Mesoamerican skull is now in the possession of the National Institute of Anthropology and History (INAH) in Mexico, more than a year after it was repatriated from the Netherlands.",
+      "question": "Paraphrase this sentence in your own words, capturing the core meaning. (Identify 3-5 keywords that summarize the essential content.)",
+      "options": null,
+      "answer": null,
+      "paraphrase_keywords": [
+        "ancient skull",
+        "Mexico",
+        "returned from Netherlands",
+        "museum possession",
+        "repatriation"
+      ],
+      "explanation": "The sentence's core meaning is that a historically significant artifact has been returned to Mexico and is now held by a major cultural institution. Key elements include: the artifact's origin (Mesoamerica), its current location (Mexico), the source from which it was returned (Netherlands), and the institution now holding it (INAH). The detail 'more than a year after' provides temporal context but is secondary to the main fact of repatriation and current possession."
+    }
+  ]
+}
