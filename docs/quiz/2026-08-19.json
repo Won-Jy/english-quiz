@@ -1,0 +1,218 @@
+{
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T21:32:40.193151",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The Rijksmuseum in Amsterdam recently received an exceptionally well-preserved 17th-century drawing book as a donation from the prominent Van Eeghen family in the Netherlands.",
+      "question": "In this context, what does 'safekeeping' mean?",
+      "options": [
+        "A. Careful protection and preservation",
+        "B. Financial investment or profit",
+        "C. Public display and exhibition",
+        "D. Legal ownership and inheritance"
+      ],
+      "answer": "A",
+      "explanation": "Safekeeping refers to the secure storage and protection of valuable items to prevent damage or loss. The sentence indicates the Van Eeghen family has maintained this drawing book for three centuries, implying careful preservation rather than financial gain, public display, or legal transfer."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Trump's desire, which is to coat the granite facade with white paint, has been met with significant pushback from historians.",
+      "question": "What is the best synonym for 'pushback' as used here?",
+      "options": [
+        "A. Physical force or resistance",
+        "B. Criticism or opposition",
+        "C. Delay or postponement",
+        "D. Negotiation or compromise"
+      ],
+      "answer": "B",
+      "explanation": "Pushback in this context means strong criticism and opposition from historians to the proposed painting plan. While pushback can literally mean physical force, here it refers to professional and institutional resistance to a policy decision."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Early feminists like Mary Astell and Catharine Macaulay refused their male peers' advice to remain polite in debate.",
+      "question": "Which word best captures the meaning of 'refused' in this sentence?",
+      "options": [
+        "A. Declined or rejected",
+        "B. Hesitated or delayed",
+        "C. Misunderstood or ignored",
+        "D. Challenged or questioned"
+      ],
+      "answer": "A",
+      "explanation": "Refused means to reject or decline the advice being offered. The feminists actively rejected the conventional expectation that they should be polite, choosing instead to engage more assertively in debate."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The state has a duty of care to young, unaccompanied migrants until they reach the age of 18.",
+      "question": "In legal and administrative contexts, 'duty of care' most closely means:",
+      "options": [
+        "A. Financial compensation or damages",
+        "B. Legal obligation to protect and provide for someone's wellbeing",
+        "C. Supervision and monitoring of behavior",
+        "D. Medical treatment and healthcare provision"
+      ],
+      "answer": "B",
+      "explanation": "Duty of care is a legal concept referring to the responsibility to take reasonable steps to ensure someone's safety and wellbeing. While it may include some medical care and supervision, the term encompasses broader protective obligations rather than just compensation or healthcare alone."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Researchers learn to 'unwrap' charred philosophy scrolls from Herculaneum.",
+      "question": "In this archaeological context, what does 'charred' most likely indicate?",
+      "options": [
+        "A. Burnt or scorched by intense heat",
+        "B. Carved or engraved with patterns",
+        "C. Fragile or crumbling with age",
+        "D. Covered with protective coating"
+      ],
+      "answer": "A",
+      "explanation": "Charred refers to material that has been burnt or heavily scorched, typically from fire or extreme heat. Herculaneum was destroyed by the eruption of Mount Vesuvius, which would have charred the papyrus scrolls, making them extremely fragile and requiring special techniques to read."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "You _____ have told me about the meeting; I found out by accident.",
+      "question": "Which modal verb phrase best completes this sentence to express criticism or regret about a past action?",
+      "options": [
+        "A. must",
+        "B. should",
+        "C. might",
+        "D. would"
+      ],
+      "answer": "B",
+      "explanation": "Should have expresses a criticism or mild regret about a past obligation that wasn't fulfilled. Must have would suggest logical deduction, might have would indicate possibility, and would doesn't work with the past participle in this critical context."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_____ the documents, the auditor realized there were significant discrepancies in the accounts.",
+      "question": "Which participle clause best completes this sentence?",
+      "options": [
+        "A. Having reviewed",
+        "B. Being reviewed",
+        "C. Reviewed",
+        "D. Having been reviewing"
+      ],
+      "answer": "A",
+      "explanation": "Having reviewed is a perfect participle clause showing that the auditor's action (reviewing) happened before the realization of the discrepancies. Being reviewed and reviewed would suggest the documents were the subject of the action, not the auditor; having been reviewing suggests incomplete action rather than completion."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "It is essential that the proposal _____ approved by all board members before implementation.",
+      "question": "Which verb form correctly completes this subjunctive mood sentence?",
+      "options": [
+        "A. is",
+        "B. be",
+        "C. will be",
+        "D. would be"
+      ],
+      "answer": "B",
+      "explanation": "After 'it is essential that,' English requires the subjunctive mood, which uses the bare infinitive form 'be' without the auxiliary 'is.' The other options use indicative mood constructions, which are incorrect in subjunctive contexts expressing necessity or recommendations."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "If she _____ about the scholarship deadline, she would have submitted her application on time.",
+      "question": "Which verb form best completes this third conditional sentence?",
+      "options": [
+        "A. knew",
+        "B. had known",
+        "C. would know",
+        "D. has known"
+      ],
+      "answer": "B",
+      "explanation": "Third conditional sentences require past perfect (had known) in the if-clause to express a hypothetical situation contrary to past reality. Knew is second conditional, would know is incorrect tense, and has known is present perfect, which doesn't match the past-focused conditional structure."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "I _____ the report yesterday, so I'm familiar with its contents now.",
+      "question": "Which tense correctly completes this sentence to show a finished action with present relevance?",
+      "options": [
+        "A. read",
+        "B. have read",
+        "C. had read",
+        "D. was reading"
+      ],
+      "answer": "B",
+      "explanation": "Have read (present perfect) is correct because it shows an action completed in the past with relevance to the present (now familiar with contents). Read (simple past) would be appropriate if the focus were purely on when it happened; had read would imply something happened before another past event; was reading is progressive and doesn't suit this context."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "It was not until she reread the letter that she understood what had really been meant.",
+      "question": "What is the most natural way to express this same idea in conversational English?",
+      "options": [
+        "A. Only when she reread the letter did she understand its true meaning.",
+        "B. She understood what was meant only after rereading the letter.",
+        "C. The letter's meaning became clear to her only upon rereading it.",
+        "D. She didn't understand the letter until she reread it."
+      ],
+      "answer": "D",
+      "explanation": "This is the most conversational and natural phrasing, using simple structure and active voice. While options A, B, and C are grammatically correct and retain the meaning, they are more formal or awkward than the natural spoken expression in option D."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The policy, once introduced, proved harder to reverse than its architects had imagined.",
+      "question": "Which rephrasing best captures this idea in everyday speech?",
+      "options": [
+        "A. After introducing the policy, its architects found reversing it more difficult than expected.",
+        "B. The architects of the policy didn't realize how hard it would be to undo.",
+        "C. Once it was introduced, the policy turned out to be much harder to undo than anyone thought.",
+        "D. The policy's architects struggled to reverse their introduced policy."
+      ],
+      "answer": "C",
+      "explanation": "This option most naturally conveys the meaning in everyday language while maintaining the logical flow and comparative structure of the original. Option A is awkward; B loses nuance about who imagined what; D is grammatically awkward."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "She found it difficult to concentrate, not because the work was hard, but because the office was noisy.",
+      "question": "What is the most natural way to say this in conversation?",
+      "options": [
+        "A. She couldn't concentrate due to the difficulty of the work and office noise.",
+        "B. The work wasn't the problem for her concentration—it was the noise in the office.",
+        "C. She had difficulty concentrating because the office was noisy rather than because the work was difficult.",
+        "D. The noise in the office made it difficult for her to concentrate on the work."
+      ],
+      "answer": "B",
+      "explanation": "This option uses natural conversational structure with the dash and clear contrast, mirroring the original sentence's emphasis on what wasn't the problem versus what was. Option A reverses the meaning; C is overly formal; D loses the explicit contrast that the work difficulty wasn't the issue."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "The Rijksmuseum in Amsterdam recently received an exceptionally well-preserved 17th-century drawing book as a donation from the prominent Van Eeghen family in the Netherlands, the museum announced. The book, which has been in the safekeeping of the Van Eeghen family for more than three centuries, contains approximately thirty drawings, many of which depict biblical scenes.",
+      "question": "Paraphrase this passage in your own words, capturing the key information about what was donated, by whom, and what it contains.",
+      "options": null,
+      "answer": null,
+      "explanation": "A strong paraphrase should include: (1) The Amsterdam Rijksmuseum received a 17th-century drawing collection, (2) it was donated by the Van Eeghen family, (3) the family had preserved it for over 300 years, and (4) the drawings feature biblical themes. Avoid simply replacing words with synonyms; demonstrate understanding of the main points.",
+      "paraphrase_keywords": [
+        "Rijksmuseum",
+        "drawing book donation",
+        "Van Eeghen family",
+        "three centuries preservation",
+        "biblical scenes"
+      ]
+    }
+  ]
+}
