@@ -1,0 +1,217 @@
+{
+  "date": "2026-08-20",
+  "generated_at": "2026-08-20T21:35:07.453554",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The recent heat waves that have set France abroil—shuttering museums, sparking wildfires, and sending citizens plunging into the Seine—have taken their toll on the famed gardens of Claude Monet in Giverny.",
+      "question": "In this context, 'abroil' most nearly means:",
+      "options": [
+        "A. boiling with water or heat",
+        "B. in a state of turmoil or agitation",
+        "C. cooking food rapidly",
+        "D. surrounded by broilers or heating devices"
+      ],
+      "answer": "B",
+      "explanation": "Although 'abroil' literally contains 'broil' (to heat), the idiomatic meaning here is 'in turmoil' or 'in commotion.' The context of heat waves, wildfires, and chaos clarifies this. Option A confuses the literal meaning of broil; options C and D misapply the word to physical cooking processes rather than figurative state."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The National Gallery of Art in Washington, DC, has announced a raft of new acquisitions, including works by artists entering the collection for the first time.",
+      "question": "The phrase 'a raft of' in formal writing most precisely means:",
+      "options": [
+        "A. a small, floating platform for transporting",
+        "B. a large or considerable number or amount",
+        "C. an organized group meeting formally",
+        "D. a collection of similar objects arranged systematically"
+      ],
+      "answer": "B",
+      "explanation": "'A raft of' is an idiomatic expression meaning 'a large quantity' or 'a considerable number.' While option D sounds plausible, 'raft' does not imply systematic arrangement; option C conflates 'raft' with 'committee'; and option A uses the literal nautical meaning, which is incorrect here."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Jobs bonanza as AI companies recruit philosophers.",
+      "question": "A 'bonanza' in this headline refers to:",
+      "options": [
+        "A. a period of sudden unexpected wealth or luck",
+        "B. a financial crisis requiring emergency response",
+        "C. a competitive market where few jobs exist",
+        "D. a traditional mining settlement in the American West"
+      ],
+      "answer": "A",
+      "explanation": "'Bonanza' denotes a sudden windfall or period of great prosperity. Option B contradicts the meaning (bonanzas are positive, not crises); option C is the opposite of what bonanza implies; option D is the original Spanish historical meaning but not the current English usage in this context."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The Andoque of the Amazon know what we have forgotten: the forest's most beautiful creatures are also its most dangerous.",
+      "question": "In academic and journalistic writing, 'indigenous knowledge' is often described as something we have 'forgotten.' What does this verb choice imply?",
+      "options": [
+        "A. that modern societies once possessed this knowledge but lost it",
+        "B. that indigenous peoples are forgetful",
+        "C. that the knowledge is irrelevant to contemporary life",
+        "D. that memory is unreliable across all cultures"
+      ],
+      "answer": "A",
+      "explanation": "The verb 'forgotten' in this context suggests that Western civilization once honored or integrated indigenous knowledge but has abandoned it. This frames indigenous wisdom as valuable and lost, not obsolete. Options B and D misread the subject of the verb; option C contradicts the sentence's positive framing of this knowledge."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Researchers learn to 'unwrap' charred philosophy scrolls from Herculaneum.",
+      "question": "The term 'unwrap' here is placed in quotation marks because it is being used:",
+      "options": [
+        "A. literally, to remove physical coverings from objects",
+        "B. figuratively, to gradually reveal hidden or concealed information",
+        "C. metaphorically and ironically, since the scrolls cannot be touched",
+        "D. as a technical term specific to archaeological conservation"
+      ],
+      "answer": "B",
+      "explanation": "'Unwrap' in quotation marks signals figurative language—the researchers are 'unwrapping' meaning from digitally scanned texts, not physically unwrapping objects. Option A misses the figurative sense; option C incorrectly adds irony; option D, while plausible, misses the primary rhetorical function of the quotes, which mark non-literal language."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "She stopped _____ tennis after her injury, though she regrets not continuing to play in some form.",
+      "question": "Which form correctly completes the sentence?",
+      "options": [
+        "A. to play",
+        "B. playing",
+        "C. having played",
+        "D. to have played"
+      ],
+      "answer": "B",
+      "explanation": "After 'stop,' the gerund 'playing' indicates cessation of an activity (she quit tennis entirely). If 'to play' were used, it would suggest she stopped (paused) in order to play, which reverses the meaning. The change of meaning with stop + infinitive vs. stop + gerund is a key distinction in English grammar."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Neither the curator nor the conservators _____ aware of the damage until the inspection.",
+      "question": "Which verb form is grammatically correct?",
+      "options": [
+        "A. was",
+        "B. were",
+        "C. have been",
+        "D. had been"
+      ],
+      "answer": "B",
+      "explanation": "With 'neither...nor,' the verb agrees with the nearest subject, which is 'conservators' (plural), requiring 'were.' Although 'neither' might suggest singularity, the 'nor' construction demands agreement with the closer noun phrase. Option A incorrectly treats 'conservators' as singular; options C and D introduce tense complications not required by the sentence's meaning."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The artifact _____ been lost; the team _____ have found it in the archive weeks ago had they searched more thoroughly.",
+      "question": "Which combination of modal verbs is correct for expressing past certainty and criticism?",
+      "options": [
+        "A. must / must",
+        "B. might / should",
+        "C. must / could",
+        "D. could / must"
+      ],
+      "answer": "B",
+      "explanation": "'Might have been lost' expresses past possibility; 'should have found' expresses past obligation and mild criticism (they ought to have searched better). Option A uses 'must' twice, with the second being too strong for criticism; option C mismatches modal meanings; option D reverses the logical force (could expressing weak possibility where should is needed for obligation)."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_____ had the museum closed its doors than the community began fundraising efforts to reopen it.",
+      "question": "Which inversion structure correctly completes this sentence?",
+      "options": [
+        "A. Barely",
+        "B. No sooner",
+        "C. Not until",
+        "D. Hardly ever"
+      ],
+      "answer": "B",
+      "explanation": "'No sooner...than' is the correct paired inversion structure for expressing that one event immediately followed another. Option A (Barely) does not pair with 'than'; option C (Not until) inverts differently and changes the meaning; option D (Hardly ever) lacks a pairing conjunction and implies repetition rather than sequence."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_____ the building's structural issues, the restoration team recommended immediate intervention.",
+      "question": "Which participle clause correctly introduces the sentence?",
+      "options": [
+        "A. Having discovered",
+        "B. Discovering",
+        "C. Being discovered",
+        "D. Discovered"
+      ],
+      "answer": "A",
+      "explanation": "'Having discovered' (perfect participle) correctly shows that the discovery occurred before the recommendation, establishing clear temporal sequence. Option B (simple participle) is ambiguous about timing; option C (passive) changes the agent incorrectly; option D (past participle) is incomplete without 'being' and lacks the temporal clarity of the perfect form."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "By the time she arrived at the conference, most of the morning sessions had already concluded.",
+      "question": "Which rephrasing maintains the same meaning most naturally?",
+      "options": [
+        "A. When she arrived at the conference, most morning sessions were concluding.",
+        "B. She arrived at the conference; most morning sessions had concluded before that.",
+        "C. Most of the morning sessions concluded before she arrived at the conference.",
+        "D. The morning sessions concluded because she arrived late at the conference."
+      ],
+      "answer": "C",
+      "explanation": "Option C preserves the temporal relationship (sessions finished before arrival) in clear, straightforward phrasing. Option A blurs the timing (happening at the same moment); option B is awkward and adds unnecessary semicolon structure; option D falsely implies causation (the sessions didn't conclude because she was late)."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Having lived in three different countries, he was comfortable navigating unfamiliar cultural situations.",
+      "question": "Which revision most naturally conveys the same idea in everyday English?",
+      "options": [
+        "A. Because he had lived in three different countries, he was comfortable navigating unfamiliar cultural situations.",
+        "B. He lived in three different countries, which made him comfortable navigating unfamiliar cultural situations.",
+        "C. Living in three different countries made him comfortable navigating unfamiliar cultural situations.",
+        "D. He was comfortable navigating unfamiliar cultural situations; this was because of living in three countries."
+      ],
+      "answer": "A",
+      "explanation": "Option A preserves the causal relationship and formal tone of the original while converting the participle clause to a subordinate clause. Option B uses 'which' awkwardly with an action, not a noun; option C loses the sense of completed experience ('having lived' implies multiple completed stays); option D is choppy and overly simplified."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The building, having been constructed in the 1920s, required significant renovation before it could be used.",
+      "question": "Which alternative phrasing sounds most natural?",
+      "options": [
+        "A. The building was constructed in the 1920s, and it required significant renovation before it could be used.",
+        "B. Built in the 1920s, the building required significant renovation before use.",
+        "C. The building, which had been constructed in the 1920s, required significant renovation before it could be used.",
+        "D. Having constructed it in the 1920s, the building required significant renovation before it could be used."
+      ],
+      "answer": "B",
+      "explanation": "Option B uses the simpler past participle 'Built' and condenses 'before it could be used' to the more natural 'before use.' Option A is accurate but unnecessarily wordy with 'and'; option C is acceptable but more formal; option D has a dangling participle with an unclear agent (who constructed it?)."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "Among the casualties are the thousands of nasturtiums directly descended from those planted by the Impressionist more than a hundred years ago.",
+      "question": "Rewrite this sentence in your own words, capturing the core meaning.",
+      "options": null,
+      "answer": null,
+      "explanation": "Acceptable paraphrases should convey: (1) the nasturtiums are dying/being harmed in the heat waves; (2) these plants have a direct lineage to Monet's original planting; (3) the original planting occurred over a century ago. For example: 'The heat waves have damaged thousands of nasturtium plants that are direct descendants of specimens Monet planted over 100 years ago.' Any response capturing these three ideas demonstrates understanding of the passage.",
+      "paraphrase_keywords": [
+        "nasturtiums",
+        "heat damage",
+        "descended from Monet's planting",
+        "over 100 years old"
+      ]
+    }
+  ]
+}
