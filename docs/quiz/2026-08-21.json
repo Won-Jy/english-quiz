@@ -1,0 +1,218 @@
+{
+  "date": "2026-08-21",
+  "generated_at": "2026-08-21T21:31:30.076195",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The Armory Show has announced two new museum acquisition prizes that will _____ artists from the Caribbean at the 2026 event.",
+      "question": "Which word best completes this sentence?",
+      "options": [
+        "A. illuminate",
+        "B. highlight",
+        "C. obscure",
+        "D. diminish"
+      ],
+      "answer": "B",
+      "explanation": "Highlight means to draw special attention to or emphasize something, which fits the context of showcasing featured artists. Illuminate is too literal; obscure and diminish mean the opposite of the intended meaning."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "From childhood, women are trained to _____ their appetite, which carries a significant hidden cognitive cost.",
+      "question": "What is the best word to complete this sentence?",
+      "options": [
+        "A. restrict",
+        "B. suppress",
+        "C. curb",
+        "D. all of the above"
+      ],
+      "answer": "D",
+      "explanation": "All three options—restrict, suppress, and curb—are valid synonyms in this context, each meaning to limit or control appetite. The sentence uses 'restrict,' but the others would work equally well without changing meaning."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Researchers have learned to _____ charred philosophy scrolls from Herculaneum, revealing texts previously thought lost.",
+      "question": "Which verb best fits this scientific context?",
+      "options": [
+        "A. unwrap",
+        "B. decipher",
+        "C. excavate",
+        "D. reconstruct"
+      ],
+      "answer": "A",
+      "explanation": "Unwrap is the exact term used in the source material and describes the physical action of carefully opening these scrolls. Decipher focuses on reading, excavate on digging, and reconstruct on rebuilding—none captures the literal unwrapping process."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The documentary presents a _____ blend of words and images that transforms touch into a gateway for exploring profound philosophical questions.",
+      "question": "What adjective best describes this artistic combination?",
+      "options": [
+        "A. mesmerising",
+        "B. bewildering",
+        "C. exhaustive",
+        "D. chaotic"
+      ],
+      "answer": "A",
+      "explanation": "Mesmerising means captivating or hypnotic, which conveys the intended positive, engaging quality. Bewildering suggests confusion, exhaustive means comprehensive, and chaotic implies disorder—none match the sophisticated, enchanting tone."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The mine collapse in the Central African Republic was caused by a _____, which resulted in over 100 deaths.",
+      "question": "Which word correctly completes this sentence?",
+      "options": [
+        "A. landslide",
+        "B. avalanche",
+        "C. subsidence",
+        "D. tremor"
+      ],
+      "answer": "A",
+      "explanation": "Landslide is the precise geological term used in the source text. While avalanche describes falling snow/ice and subsidence means gradual sinking, landslide specifically refers to the sudden collapse of earth and rock on slopes."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "You _____ have checked the email; the deadline wasn't until next week.",
+      "question": "Which modal verb phrase best completes this sentence to express unnecessary past action?",
+      "options": [
+        "A. must",
+        "B. needn't",
+        "C. should",
+        "D. would"
+      ],
+      "answer": "B",
+      "explanation": "Needn't have indicates an action was done but wasn't necessary. Must implies obligation; should suggests mild criticism or regret; would is conditional. Only needn't have correctly expresses that checking was unnecessary."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The witness told the detective that she _____ the suspect leaving the building at midnight.",
+      "question": "Which verb form is correct in reported speech?",
+      "options": [
+        "A. sees",
+        "B. had seen",
+        "C. saw",
+        "D. would see"
+      ],
+      "answer": "B",
+      "explanation": "In reported speech, when the reporting verb is in past tense (told), the reported verb shifts back one tense: 'I saw' becomes 'had seen.' Using 'saw' violates backshift rules; sees is present tense; would see is conditional."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "It is essential that the board _____ this proposal before the fiscal year ends.",
+      "question": "Which verb form is correct after the subjunctive clause?",
+      "options": [
+        "A. approves",
+        "B. approve",
+        "C. will approve",
+        "D. has approved"
+      ],
+      "answer": "B",
+      "explanation": "The subjunctive mood requires the base form of the verb after expressions like 'it is essential that.' The correct form is 'approve' without third-person singular -s. The other options use indicative forms, which are grammatically incorrect here."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The company _____ the renovation of its headquarters by a renowned architect last year.",
+      "question": "Which structure best uses causative 'have'?",
+      "options": [
+        "A. had completed",
+        "B. had its renovation completed",
+        "C. had the renovation completed",
+        "D. was having completed"
+      ],
+      "answer": "C",
+      "explanation": "The causative 'have + object + past participle' structure shows someone causing another to perform an action. 'Had the renovation completed' correctly uses this form. Option B is awkward; A doesn't show causation; D uses improper tense."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The architect, _____ designs have won international awards, was hired to lead the project.",
+      "question": "Which relative clause correctly completes this sentence?",
+      "options": [
+        "A. who",
+        "B. whose",
+        "C. which",
+        "D. that"
+      ],
+      "answer": "B",
+      "explanation": "A non-defining relative clause requires 'whose' to show possession (the architect's designs). 'Who' is for subjects, 'which' for objects, and 'that' cannot follow commas in non-defining clauses. The comma signals this clause adds extra, non-essential information."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Despite the rain, she decided to walk to the market rather than take the bus.",
+      "question": "Which phrase most naturally preserves the meaning?",
+      "options": [
+        "A. She chose to walk despite the rainfall, not to take the bus.",
+        "B. Rather than taking the bus, she walked to the market even though it was raining.",
+        "C. Although it was raining, she preferred walking to the market instead of the bus.",
+        "D. Despite rain, she took the walk to market rather than bus."
+      ],
+      "answer": "B",
+      "explanation": "Option B maintains natural word order and clear meaning while preserving the contrast between walking and bus-taking. Option A is awkward; C is slightly verbose; D omits the article and sounds grammatically incorrect."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "If the train had arrived on time, we would have caught the connecting flight to Amsterdam.",
+      "question": "Which rephrasing sounds most natural in everyday conversation?",
+      "options": [
+        "A. Had the train been on time, we would've made our Amsterdam flight.",
+        "B. If the train had not been delayed, we could catch the flight to Amsterdam.",
+        "C. We would catch the Amsterdam flight if the train comes on time.",
+        "D. The train's delay meant we missed our connecting flight to Amsterdam."
+      ],
+      "answer": "D",
+      "explanation": "Option D naturally expresses the consequence in everyday speech, using simple past to state what actually happened. A uses formal inversion; B switches incorrectly to conditional; C uses wrong tense; D is clearest and most conversational."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Neither the manager nor the employees were informed of the decision until after it had been implemented.",
+      "question": "Which rephrasing expresses this most naturally?",
+      "options": [
+        "A. The decision was implemented before anyone—neither manager nor employees—was told.",
+        "B. Neither the manager nor the employees knew about the decision before it got implemented.",
+        "C. The manager and employees weren't told the decision until it was already done.",
+        "D. It wasn't until the decision was implemented that the manager and employees found out."
+      ],
+      "answer": "C",
+      "explanation": "Option C is clearest and most conversational, using simple active voice to convey the meaning. A is wordy and formal; B uses awkward neither-nor structure; D, while correct, is unnecessarily complex for everyday speech."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "From childhood, women are trained to restrict their appetite, and there's a huge, hidden, cognitive price to pay for it.",
+      "question": "Rewrite this sentence in your own words, capturing the core meaning. What are the key concepts?",
+      "options": null,
+      "answer": null,
+      "paraphrase_keywords": [
+        "socialization",
+        "appetite suppression",
+        "women",
+        "psychological cost",
+        "cognitive burden"
+      ],
+      "explanation": "This sentence conveys how social conditioning leads women to limit food intake, resulting in significant but unrecognized mental and cognitive consequences. Key ideas include socialization from childhood, restriction of natural appetite, and hidden psychological costs."
+    }
+  ]
+}
