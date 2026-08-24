@@ -1,0 +1,219 @@
+{
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T21:36:31.130992",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The Europol report reveals concerning trends in museum crimes across the continent, with a spotlight report summarizing key findings on the intelligence and regulatory tracking platform.",
+      "question": "In this context, what does 'spotlight report' most likely mean?",
+      "options": [
+        "A report that uses theatrical lighting to highlight artworks",
+        "A focused investigative report drawing attention to a specific issue",
+        "A report that is only visible under spotlight conditions",
+        "A preliminary report that precedes a full investigation"
+      ],
+      "answer": "B",
+      "explanation": "A 'spotlight report' is a journalistic term for an in-depth report that brings focused attention to a particular problem or trend. Option A is literal but contextually wrong; C is nonsensical; D is plausible but less precise than B, which captures the sense of urgent, focused investigation evident in the passage."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The ongoing investigation into the objects, which is being conducted alongside analysis from the Egyptian Ministry of Foreign Affairs, has determined that the suspected trafficker was operating a sophisticated smuggling network.",
+      "question": "What is the best synonym for 'repatriation' as used in the context of cultural artifacts?",
+      "options": [
+        "Restoration of an artwork to its original condition",
+        "The return of cultural property to its country of origin",
+        "The legal process of prosecuting artifact smugglers",
+        "The authentication and cataloging of historical items"
+      ],
+      "answer": "B",
+      "explanation": "Repatriation specifically refers to returning cultural or national property to its home country. A refers to conservation; C refers to prosecution; D refers to curatorial work—all distinct from repatriation, which is a geopolitical and cultural return."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "From childhood, women are trained to restrict their appetite, and there's a huge, hidden, cognitive price to pay for it.",
+      "question": "In this sentence, 'cognitive price' most closely means:",
+      "options": [
+        "The financial cost of dietary supplements",
+        "The damage or cost to mental and intellectual functioning",
+        "The physical pain of hunger",
+        "The social criticism received for eating habits"
+      ],
+      "answer": "B",
+      "explanation": "'Cognitive' refers to mental processes and thinking; 'price' here is metaphorical, meaning a cost or consequence. Option B correctly identifies this as a cost to mental/intellectual function. A is too literal; C confuses 'cognitive' with 'physical'; D misses the specifically mental/intellectual dimension."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "An armed group has posted a video showing what residents said were about 600 women, children and older people abducted in an attack on a mosque.",
+      "question": "The word 'abducted' in this context most accurately describes:",
+      "options": [
+        "Forcibly taken away against one's will",
+        "Temporarily detained for questioning",
+        "Invited to leave the area for safety reasons",
+        "Evacuated as part of an emergency protocol"
+      ],
+      "answer": "A",
+      "explanation": "'Abducted' means forcibly taken without consent, often in criminal or violent contexts. B suggests legal detention; C implies voluntary choice; D suggests official rescue—none capture the criminal violence implied by the armed group context."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The mesmerising blend of words and images creates a doorway into the deepest questions in physics and philosophy.",
+      "question": "What does 'mesmerising' suggest about the effect of the blend?",
+      "options": [
+        "It is scientifically accurate and well-researched",
+        "It captures and holds one's complete attention in a compelling way",
+        "It is confusing and difficult to understand",
+        "It is historically important to philosophy"
+      ],
+      "answer": "B",
+      "explanation": "'Mesmerising' derives from hypnotism and means captivating, entrancing, and attention-holding. A is about accuracy; C is negative in the wrong way; D refers to historical significance—only B captures the spell-binding, attention-capturing quality."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Which sentence correctly uses the article with an abstract noun?",
+      "question": "Which option is correct?",
+      "options": [
+        "A. The freedom of speech is essential in a democratic society.",
+        "B. Freedom of speech is essential in a democratic society.",
+        "C. A freedom of speech is essential in a democratic society.",
+        "D. Freedom of a speech is essential in a democratic society."
+      ],
+      "answer": "B",
+      "explanation": "Abstract nouns like 'freedom' typically take zero article when used generically. Option A uses 'the' incorrectly with a generic abstract noun; C uses 'a' (for countables) with an uncountable noun; D is ungrammatical. B is correct because it treats 'freedom of speech' as an abstract concept requiring no article."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Identify the sentence with correct passive voice or causative construction:",
+      "question": "Which option is correct?",
+      "options": [
+        "A. The director had the committee revise the entire policy.",
+        "B. The director had revised the entire policy by the committee.",
+        "C. The director was had the entire policy revised.",
+        "D. The director got revised the entire policy by committee."
+      ],
+      "answer": "A",
+      "explanation": "The causative 'have + object + past participle' (have someone do something) is correctly formed in A: 'had the committee revise.' B is awkward; C is ungrammatical (double auxiliary); D uses 'get' incorrectly (should be 'got the policy revised,' not 'got revised the policy')."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "Complete the sentence with correct inversion after a negative adverbial:",
+      "question": "No sooner _____ the meeting begun than unexpected news arrived.",
+      "options": [
+        "A. had",
+        "B. has",
+        "C. did",
+        "D. was"
+      ],
+      "answer": "A",
+      "explanation": "'No sooner' requires inversion of the auxiliary verb before the subject. The structure is 'No sooner + auxiliary + subject + past participle.' Since the action precedes the news, past perfect is required: 'No sooner had the meeting begun.' B (present perfect) is wrong tense; C and D don't work with this structure."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Choose the grammatically correct second conditional:",
+      "question": "Which option correctly expresses a hypothetical scenario?",
+      "options": [
+        "A. If she would study harder, she would pass the exam.",
+        "B. If she studied harder, she would pass the exam.",
+        "C. If she had studied harder, she would pass the exam.",
+        "D. If she studies harder, she will pass the exam."
+      ],
+      "answer": "B",
+      "explanation": "The second conditional uses 'if + past simple, would + base verb' for hypothetical present/future situations. A incorrectly uses 'would' in the if-clause; C is the third conditional (past); D is first conditional (possible future). B correctly forms the second conditional for an unreal present scenario."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Identify the sentence using correct subjunctive mood:",
+      "question": "Which option is correct?",
+      "options": [
+        "A. It is essential that he studies the material thoroughly.",
+        "B. It is essential that he study the material thoroughly.",
+        "C. It is essential that he will study the material thoroughly.",
+        "D. It is essential that he would study the material thoroughly."
+      ],
+      "answer": "B",
+      "explanation": "The subjunctive mood in English requires the base form of the verb (without -s) in formal constructions like 'it is essential that.' B is correct: 'study' (base form). A uses indicative mood ('studies'); C and D use modal auxiliaries ('will,' 'would') instead of the base form."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "After the long meeting, Sarah was exhausted. Her colleague asked how she was feeling.",
+      "question": "Which response is most natural?",
+      "options": [
+        "A. I am quite fatigued at this moment in time.",
+        "B. I'm absolutely shattered—that went on forever!",
+        "C. My energy levels have been significantly depleted.",
+        "D. I am experiencing considerable bodily tiredness."
+      ],
+      "answer": "B",
+      "explanation": "'Shattered' is a natural, conversational British English expression for extreme tiredness, and 'that went on forever' is spontaneous and authentic. A uses overly formal language; C is awkwardly technical; D is stiffly clinical. B captures how people actually speak in casual conversation."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "A student forgot to submit their assignment on the deadline. The teacher is speaking to them.",
+      "question": "Which phrasing is most diplomatically appropriate?",
+      "options": [
+        "A. Your negligence is completely unacceptable and inexcusable.",
+        "B. You have demonstrated a failure to meet basic academic standards.",
+        "C. I noticed your assignment didn't come through by the deadline—what happened?",
+        "D. Your incompetence regarding time management is appalling."
+      ],
+      "answer": "C",
+      "explanation": "C is tactful and open-ended, inviting explanation without accusations. A and D use inflammatory language ('negligence,' 'incompetence,' 'appalling'); B is overly judgmental and formal. C maintains the teacher-student relationship while addressing the issue professionally."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "general",
+      "sentence": "A friend tells you they're considering a job offer but worried about the salary.",
+      "question": "Which response is most empathetic and practical?",
+      "options": [
+        "A. You should definitely accept it because job security is paramount.",
+        "B. That's a tough call—have you considered negotiating, or is there room to discuss it further with them?",
+        "C. The salary is irrelevant if you don't like the work itself.",
+        "D. I think your concerns are unfounded; most people would take any job."
+      ],
+      "answer": "B",
+      "explanation": "B acknowledges the genuine dilemma, suggests practical action (negotiation), and invites further discussion. A dismisses legitimate concerns; C oversimplifies; D invalidates the friend's feelings. B balances empathy with practical problem-solving."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "The ongoing investigation into the objects, which is being conducted alongside analysis from the Egyptian Ministry of Foreign Affairs, has determined that the suspected trafficker was operating a sophisticated smuggling network.",
+      "question": "Rewrite this sentence in your own words, capturing the core meaning without using the original phrasing. Aim for 15-25 words.",
+      "options": null,
+      "answer": null,
+      "explanation": "The core meaning includes: investigation is ongoing and collaborative, artifacts are involved, a trafficker operated an organized illegal smuggling operation, and this was determined through analysis.",
+      "paraphrase_keywords": [
+        "investigation",
+        "collaboration",
+        "artifacts",
+        "trafficker",
+        "smuggling network",
+        "organized crime"
+      ]
+    }
+  ]
+}
