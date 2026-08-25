@@ -1,0 +1,234 @@
+{
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25T21:36:03.493413",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The ruling was delivered by the Sanhe City People's Court following a closed, one-day trial.",
+      "question": "In this context, 'closed' most nearly means:",
+      "options": [
+        "A. Not in operation or functioning",
+        "B. Shut off from public access or observation",
+        "C. Concluded or finished",
+        "D. Emotionally reserved or distant"
+      ],
+      "answer": "B",
+      "explanation": "A 'closed trial' is one restricted to authorized participants only, with the public excluded. Option A refers to non-operation, C to completion, and D to personality traits—none fit the legal context where trial proceedings are being restricted from public view."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The director called the painting 'woke' and 'aesthetically terrifying,' leading the State Department to contemplate selling it.",
+      "question": "The word 'contemplate' in this sentence most closely means:",
+      "options": [
+        "A. To meditate or reflect deeply",
+        "B. To consider or think about carefully",
+        "C. To gaze at or observe intently",
+        "D. To disapprove of or criticize"
+      ],
+      "answer": "B",
+      "explanation": "In formal contexts, 'contemplate' means to consider a possible action deliberately. While it can mean meditation (A) or gazing (C), those don't fit 'contemplate selling a painting.' Option D inverts the meaning—contemplation precedes disapproval but isn't disapproval itself."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Researchers learn to 'unwrap' charred philosophy scrolls from Herculaneum.",
+      "question": "In this archaeological context, 'unwrap' most likely means:",
+      "options": [
+        "A. To remove packaging material",
+        "B. To gradually reveal or unfold hidden contents",
+        "C. To contradict or refute an argument",
+        "D. To become confused or tangled"
+      ],
+      "answer": "B",
+      "explanation": "Archaeological 'unwrapping' involves carefully revealing what's hidden inside charred or preserved objects through technical methods. Option A is too literal, C is irrelevant, and D is a colloquial misuse of the term."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "From childhood, women are trained to restrict their appetite, and there's a huge, hidden, cognitive price to pay.",
+      "question": "In this context, 'cognitive' refers to:",
+      "options": [
+        "A. Physical or bodily processes",
+        "B. Emotional or psychological stability",
+        "C. Mental processes related to thinking and knowledge",
+        "D. Social or interpersonal abilities"
+      ],
+      "answer": "C",
+      "explanation": "'Cognitive price' refers to mental consequences—difficulties with concentration, memory, decision-making, or thinking processes. Option A is physical, B is emotional rather than cognitive, and D is social; only C captures the intellectual/mental domain."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Prince Harry's spokesperson confirmed he was no longer a trustee of African Parks.",
+      "question": "A 'trustee' is best defined as:",
+      "options": [
+        "A. A person who donates money to an organization",
+        "B. A person legally responsible for managing an organization's affairs",
+        "C. A person who provides professional advice",
+        "D. A person who volunteers part-time"
+      ],
+      "answer": "B",
+      "explanation": "A trustee holds a fiduciary position with legal and ethical responsibility for an organization's governance and assets. Option A is a donor, C is a consultant, and D is a volunteer—none have the formal accountability and decision-making authority of a trustee."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The director insisted that the painting _____ removed from the embassy immediately.",
+      "question": "Which form correctly completes this sentence?",
+      "options": [
+        "A. be",
+        "B. is",
+        "C. was",
+        "D. would be"
+      ],
+      "answer": "A",
+      "explanation": "After 'insisted that,' the subjunctive mood requires the base form of the verb without conjugation. 'She insisted that he be present' uses the subjunctive to express a demand or recommendation, not a statement of fact. Options B, C, and D are indicative forms used for factual statements, not subjunctive demands."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The school requires that every student _____ a permission slip before the field trip.",
+      "question": "Which option is grammatically correct?",
+      "options": [
+        "A. submits",
+        "B. submit",
+        "C. submitting",
+        "D. submitted"
+      ],
+      "answer": "B",
+      "explanation": "The subjunctive mood after 'requires that' demands the base form 'submit' without subject-verb agreement or tense conjugation. Option A adds -s (indicative), C is a participle, and D is past tense—all incorrect after subjunctive triggers like 'requires that,' 'suggests that,' and 'demands that.'"
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_____ art in public spaces has sparked considerable debate about freedom of expression.",
+      "question": "Which article or zero article correctly completes this sentence?",
+      "options": [
+        "A. The",
+        "B. An",
+        "C. A",
+        "D. (no article)"
+      ],
+      "answer": "D",
+      "explanation": "'Art' as an uncountable abstract noun in a general sense requires zero article: 'Art has sparked debate' (general category). Using 'the' would suggest specific art previously mentioned; 'a' or 'an' cannot precede uncountable nouns. The zero article is correct for generalized statements about abstract concepts."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "If the US State Department had consulted stakeholders earlier, _____ this controversy.",
+      "question": "Which option correctly completes this third conditional sentence?",
+      "options": [
+        "A. they avoid",
+        "B. they would avoid",
+        "C. they could have avoided",
+        "D. they will have avoided"
+      ],
+      "answer": "C",
+      "explanation": "The third conditional (past hypothetical) structure is: If + past perfect, [would/could/might] + have + past participle. 'If they had consulted... they could have avoided' describes an unrealized past scenario. Options A and B use wrong tenses, and D is future perfect, which doesn't fit the past hypothetical context."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "If he studied more regularly, he _____ better grades in his philosophy courses.",
+      "question": "Which modal verb form correctly completes this second conditional?",
+      "options": [
+        "A. would get",
+        "B. gets",
+        "C. has gotten",
+        "D. will get"
+      ],
+      "answer": "A",
+      "explanation": "The second conditional (present hypothetical) uses: If + simple past, [would/could] + base verb. 'If he studied... he would get' expresses an imagined present situation. Option B (simple present) and D (future) don't fit conditional structure; C (present perfect) is factual, not hypothetical."
+    },
+    {
+      "id": 11,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "You _____ have read the entire contract; the summary contained all essential terms.",
+      "question": "Which modal verb best completes this sentence to express unnecessary past action?",
+      "options": [
+        "A. must",
+        "B. needn't",
+        "C. should",
+        "D. will"
+      ],
+      "answer": "B",
+      "explanation": "'Needn't have' expresses that a past action was unnecessary—it was done but wasn't required. 'Must have' suggests obligation or certainty about the past; 'should have' implies criticism or regret; 'will' is future tense. Only 'needn't have' captures that reading the contract was unneeded because the summary sufficed."
+    },
+    {
+      "id": 12,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Gao Zhen, who is a US permanent resident, has been detained since August 2024. / Gao Zhen who is a US permanent resident has been detained since August 2024.",
+      "question": "Which version correctly uses a non-defining relative clause, and why?",
+      "options": [
+        "A. The first version with commas is correct; it provides additional information about an already-identified person",
+        "B. The second version without commas is correct; it restricts identity to only those who are permanent residents",
+        "C. Both versions are equally correct and interchangeable",
+        "D. Neither version is grammatically acceptable"
+      ],
+      "answer": "A",
+      "explanation": "Non-defining (non-restrictive) relative clauses add extra information about an already-specific noun and require commas. Since Gao Zhen is named and identified, the clause about his residency is non-defining. The second version (without commas) is defining, implying there are multiple Gao Zhens and we're specifying which one. Only the first version correctly separates non-defining information."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "By the time she arrived at the conference, most of the morning sessions had already concluded.",
+      "question": "What does this sentence primarily convey?",
+      "options": [
+        "A. She deliberately arrived late to skip boring sessions",
+        "B. She was disappointed that sessions had finished before her arrival",
+        "C. She missed most morning events due to arriving after they ended",
+        "D. She planned to attend afternoon sessions instead of morning ones"
+      ],
+      "answer": "C",
+      "explanation": "The past perfect 'had concluded' before the simple past 'arrived' establishes that events finished before she got there. The sentence states fact, not motivation (A), emotional reaction (B), or planning (D). It simply indicates missed morning sessions due to late arrival."
+    },
+    {
+      "id": 14,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "She found it difficult to concentrate, not because the work was hard, but because the office was noisy.",
+      "question": "What is the most natural way to express the reason for her concentration difficulty?",
+      "options": [
+        "A. The work itself was challenging and complex",
+        "B. External environmental factors interfered with focus",
+        "C. She lacked motivation or interest in the task",
+        "D. She was physically tired or unwell"
+      ],
+      "answer": "B",
+      "explanation": "The sentence explicitly contrasts the work difficulty (not the reason) with noise (the actual reason). Option A contradicts 'not because the work was hard'; C and D aren't mentioned. Only B accurately captures that environmental noise, not task difficulty, caused concentration problems."
+    },
+    {
+      "id": 15,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "The US State Department has said it is contemplating selling a painting that it removed from the U.S. Embassy in the Dominican Republic after the director called it 'woke' and 'aesthetically terrifying.'",
+      "question": "Rewrite this sentence in your own words, capturing the core meaning.",
+      "options": null,
+      "answer": null,
+      "paraphrase_keywords": [
+        "State Department",
+        "considering selling",
+        "removed painting",
+        "Embassy",
+        "director criticism",
+        "controversial artwork"
+      ],
+      "explanation": "Your paraphrase should convey: (1) the State Department is considering a sale, (2) of an artwork they took down, (3) from a diplomatic location, (4) because a director objected to its style/message. Key ideas: deliberation about selling, artwork removal, diplomatic context, and critical reception driving the decision."
+    }
+  ]
+}
