@@ -1,0 +1,218 @@
+{
+  "date": "2026-08-27",
+  "generated_at": "2026-08-27T00:38:12.628668",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The court's decision to convict the suspects of money laundering represents a significant _____ in efforts to combat illegal antiquities trafficking.",
+      "question": "Which word best completes this sentence?",
+      "options": [
+        "A. breakthrough",
+        "B. setback",
+        "C. complication",
+        "D. precedent"
+      ],
+      "answer": "A",
+      "explanation": "A 'breakthrough' refers to a significant advance or success, which fits the context of a successful prosecution. A 'setback' means a reversal or delay, which contradicts the positive tone. 'Complication' and 'precedent' don't capture the sense of progress implied by the conviction."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The photographer's lawsuit alleges that the painter's work constitutes a _____ appropriation of his original intellectual property.",
+      "question": "Which word best fits this legal context?",
+      "options": [
+        "A. flagrant",
+        "B. subtle",
+        "C. presumed",
+        "D. contested"
+      ],
+      "answer": "A",
+      "explanation": "'Flagrant' means obvious and outrageous, which suits a copyright infringement claim emphasizing clear wrongdoing. 'Subtle' contradicts the nature of a lawsuit claiming copying. 'Presumed' and 'contested' are less precise in describing deliberate appropriation."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The practice of restricting appetite from childhood carries a _____ cognitive toll that extends far beyond simple dietary choices.",
+      "question": "Which word best conveys the hidden nature of this effect?",
+      "options": [
+        "A. negligible",
+        "B. latent",
+        "C. superficial",
+        "D. manageable"
+      ],
+      "answer": "B",
+      "explanation": "'Latent' means hidden or present but not visible, matching the source's emphasis on a 'huge, hidden' price. 'Negligible' and 'superficial' contradict the seriousness of the toll. 'Manageable' doesn't capture the concealed nature of the effect."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Authorities are working to _____ the flow of endangered wildlife traffickers attempting to smuggle bird eggs across borders.",
+      "question": "Which verb best expresses stopping or controlling this illegal activity?",
+      "options": [
+        "A. augment",
+        "B. facilitate",
+        "C. stem",
+        "D. accelerate"
+      ],
+      "answer": "C",
+      "explanation": "'Stem' means to check or restrain the flow of something, directly matching the source's phrase 'stem the tide.' 'Augment' and 'facilitate' mean to increase or enable, which are opposite to the intended action. 'Accelerate' similarly contradicts the goal of stopping trafficking."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The recent mpox outbreak in Guinea Bissau is particularly _____ because the virus has historically been confined to endemic regions in Africa.",
+      "question": "Which word best captures the surprising nature of this development?",
+      "options": [
+        "A. predictable",
+        "B. noteworthy",
+        "C. inevitable",
+        "D. delayed"
+      ],
+      "answer": "B",
+      "explanation": "'Noteworthy' means deserving attention because it is remarkable or unusual, fitting a virus's unexpected emergence in a new region. 'Predictable' and 'inevitable' don't capture the element of surprise. 'Delayed' refers to timing, not significance."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_____ expertise is required to evaluate copyright claims in visual art; courts must balance protection with artistic freedom.",
+      "question": "Which article correctly completes this sentence with an abstract noun?",
+      "options": [
+        "A. The",
+        "B. An",
+        "C. A",
+        "D. (zero article)"
+      ],
+      "answer": "D",
+      "explanation": "Abstract nouns like 'expertise' typically use zero article when expressing a general concept. While 'The expertise' could work in a specific context, the sentence presents expertise as a general requirement. 'A' or 'An' would incorrectly suggest a countable noun."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Not until the painting sold for $1.92 million _____ the photographer realize the full extent of the alleged copying.",
+      "question": "Which auxiliary verb correctly completes this inverted structure?",
+      "options": [
+        "A. did he",
+        "B. he did",
+        "C. does he",
+        "D. he does"
+      ],
+      "answer": "A",
+      "explanation": "After negative adverbials like 'Not until,' subject-auxiliary inversion is required; 'did he' is the correct inverted form. 'He did' lacks inversion. 'Does he' uses present tense incorrectly; the past tense 'did' matches the narrative context. 'He does' similarly lacks both inversion and proper tense."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The suspects' lawyers recommended _____ the evidence rather than risk losing the case at trial.",
+      "question": "Which form correctly completes this sentence where the verb involves a change of meaning?",
+      "options": [
+        "A. to negotiate",
+        "B. negotiating",
+        "C. negotiate",
+        "D. to be negotiating"
+      ],
+      "answer": "A",
+      "explanation": "After 'recommend,' both gerunds and infinitives are grammatically possible, but 'to negotiate' conveys the advised action as a proposal or plan, whereas 'negotiating' would describe an ongoing activity. The context of legal strategy favors the infinitive's future-oriented meaning."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The antiquities dealers _____ been operating this illegal network for years; investigators found records proving their knowledge since 2015.",
+      "question": "Which modal verb correctly expresses certainty based on evidence?",
+      "options": [
+        "A. must have",
+        "B. might have",
+        "C. could have",
+        "D. should have"
+      ],
+      "answer": "A",
+      "explanation": "'Must have' expresses logical certainty based on strong evidence, matching the investigative proof described. 'Might have' and 'could have' suggest possibility or speculation, which contradicts the evidence. 'Should have' incorrectly implies obligation or criticism rather than deduction."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The committee _____ reviewed the entire proposal by the time the board meeting began last week.",
+      "question": "Which perfect tense correctly shows the sequence of two past events?",
+      "options": [
+        "A. has",
+        "B. had",
+        "C. have",
+        "D. has been"
+      ],
+      "answer": "B",
+      "explanation": "The past perfect 'had reviewed' correctly shows that the review happened before the board meeting (another past event). The present perfect 'has' is inappropriate for a completed action in the past. 'Have' lacks the singular agreement with 'committee.' 'Has been' suggests an ongoing action, not completion."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "He would have applied for the position had he known about it earlier.",
+      "question": "Which alternative expresses the same meaning most naturally in modern English?",
+      "options": [
+        "A. If he had known about it earlier, he would have applied for the position.",
+        "B. He would have applied for the position if he knew about it earlier.",
+        "C. Had he known about it earlier, he would have applied for the position.",
+        "D. Both A and C are equally natural."
+      ],
+      "answer": "D",
+      "explanation": "Both the standard conditional form (A) and the inverted conditional form (C) are equally natural and correct in modern English. Form B uses present tense 'knew' with a past result, making it grammatically incorrect. The original sentence uses inversion for stylistic variety."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Having lived in three different countries, he was comfortable navigating unfamiliar cultural situations.",
+      "question": "Which alternative is the most natural way to express this idea?",
+      "options": [
+        "A. Because he had lived in three different countries, he was comfortable navigating unfamiliar cultural situations.",
+        "B. Living in three different countries, he was comfortable navigating unfamiliar cultural situations.",
+        "C. He lived in three different countries, so he was comfortable navigating unfamiliar cultural situations.",
+        "D. All alternatives are equally natural."
+      ],
+      "answer": "B",
+      "explanation": "Form B using a simple present participle is the most natural and concise. Form A is grammatically correct but more wordy. Form C, while grammatical, loses the causal elegance of the participial construction. Form D is incorrect because they differ in naturalness and style."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Rarely had the team faced such a complex set of competing demands.",
+      "question": "In casual conversation, which alternative would sound most natural?",
+      "options": [
+        "A. The team rarely had faced such complex competing demands.",
+        "B. The team had rarely faced such complex competing demands.",
+        "C. Rarely did the team face such complex competing demands.",
+        "D. The team faced rarely such complex competing demands."
+      ],
+      "answer": "C",
+      "explanation": "Form C uses correct subject-auxiliary inversion with simple past tense, which is natural for casual speech. The original uses 'had faced' (inverted past perfect), which is more formal. Form B removes inversion, which is acceptable but loses the emphatic tone. Forms A and D are grammatically incorrect or awkward."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "On Monday, a German court in Hamburg convicted an unnamed brother and sister of money laundering in a case regarding the unlawful sale of ancient Egyptian artifacts.",
+      "question": "Rewrite this sentence in your own words, capturing the core meaning.",
+      "options": null,
+      "answer": null,
+      "explanation": "A strong paraphrase should identify: (1) a legal judgment/conviction, (2) two defendants (siblings), (3) the crime (money laundering), (4) the underlying illegal activity (selling ancient artifacts), (5) the location/court (Hamburg, Germany). Key phrases to preserve: legal verdict, family relationship, financial crime, artifact trafficking.",
+      "paraphrase_keywords": [
+        "court verdict",
+        "siblings convicted",
+        "money laundering",
+        "Egyptian artifacts",
+        "illegal trafficking"
+      ]
+    }
+  ]
+}
