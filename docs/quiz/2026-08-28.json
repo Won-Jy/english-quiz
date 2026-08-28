@@ -1,0 +1,218 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T05:11:18.785176",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The artist's work was widely _____ as a seminal contribution to contemporary sculpture.",
+      "question": "Which word best completes this sentence?",
+      "options": [
+        "A) acknowledged",
+        "B) noticed",
+        "C) seen",
+        "D) regarded"
+      ],
+      "answer": "A",
+      "explanation": "In academic contexts, 'acknowledged' conveys formal recognition and validation of significant contribution. While 'regarded' is acceptable, 'acknowledged' is the most precise term for scholarly recognition. 'Noticed' and 'seen' are too informal and lack the weight required for this register."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The sculpture's installation at the museum entrance will serve as a _____ to visitors arriving for the first time.",
+      "question": "Which word best fits this sentence about greeting visitors?",
+      "options": [
+        "A) greeting",
+        "B) welcome",
+        "C) salutation",
+        "D) gateway"
+      ],
+      "answer": "C",
+      "explanation": "'Salutation' is the most sophisticated academic choice, meaning a formal greeting or welcoming gesture. While 'greeting' and 'welcome' are adequate, 'salutation' carries greater formal weight. 'Gateway' is literal rather than metaphorical and misses the intended meaning of greeting."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The cognitive _____ of restricting one's appetite from childhood is substantial and often overlooked.",
+      "question": "What word completes this sentence about mental cost?",
+      "options": [
+        "A) burden",
+        "B) price",
+        "C) toll",
+        "D) weight"
+      ],
+      "answer": "B",
+      "explanation": "'Price' in academic contexts means cost or consequence paid for something. Though 'toll' and 'burden' are related, 'price' is more precise when discussing abstract consequences. 'Weight' is too literal and informal for this analytical tone."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Facebook's algorithm _____ posts calling for violence, amplifying harm during a critical moment.",
+      "question": "Which word best describes the algorithm's action?",
+      "options": [
+        "A) shared",
+        "B) promoted",
+        "C) distributed",
+        "D) circulated"
+      ],
+      "answer": "B",
+      "explanation": "'Promoted' specifically indicates active amplification and prioritization by an algorithm. 'Distributed' and 'circulated' suggest passive spreading, while 'shared' is too informal. 'Promoted' conveys intentional algorithmic elevation."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Her artistic practice was characterized by _____ installations that challenged conventional perceptions of space.",
+      "question": "Which word best describes innovative spatial art?",
+      "options": [
+        "A) immersive",
+        "B) engaging",
+        "C) interesting",
+        "D) absorbing"
+      ],
+      "answer": "A",
+      "explanation": "'Immersive' is the precise art-critical term describing installations that fully envelope viewers in an experience. 'Engaging' and 'interesting' are vague generalities. 'Absorbing' suggests intellectual attention rather than spatial envelopment."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Neither the curator nor the artists _____ aware of the installation delay.",
+      "question": "Which verb form is correct?",
+      "options": [
+        "A) was",
+        "B) were",
+        "C) have been",
+        "D) has been"
+      ],
+      "answer": "B",
+      "explanation": "With 'neither...nor,' the verb agrees with the nearest subject. Here, 'artists' (plural) is nearest, requiring 'were.' Option A incorrectly treats the compound subject as singular. Options C and D use wrong tenses for this context."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "It is essential that the sculpture _____ properly maintained throughout the seasons.",
+      "question": "Which verb form is grammatically correct in the subjunctive mood?",
+      "options": [
+        "A) is",
+        "B) be",
+        "C) was",
+        "D) has been"
+      ],
+      "answer": "B",
+      "explanation": "After 'it is essential that,' the subjunctive mood requires the bare infinitive form 'be' without tense markers. Option A uses indicative 'is,' which violates subjunctive requirement. Options C and D are wrong tenses and moods for this construction."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "No sooner _____ the meeting started than the fire alarm _____ off.",
+      "question": "Which pair of verbs correctly uses inversion after a negative adverbial?",
+      "options": [
+        "A) had...went",
+        "B) did...went",
+        "C) has...gone",
+        "D) had...gone"
+      ],
+      "answer": "A",
+      "explanation": "'No sooner' requires inversion with the auxiliary in perfect tense: 'had the meeting started.' The second clause follows normal order: 'went off.' Option B uses simple past incorrectly. Options C and D use wrong aspects and moods."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The museum director's decision to install the sculpture, which was originally commissioned in 1961, was announced last month. (Compare with: The museum director's decision to install the sculpture that was originally commissioned in 1961 was controversial.)",
+      "question": "In the first sentence, why is the relative clause non-defining?",
+      "options": [
+        "A) It provides essential information to identify which sculpture",
+        "B) It provides supplementary information about an already-identified sculpture",
+        "C) It appears after a preposition",
+        "D) It contains a past participle phrase"
+      ],
+      "answer": "B",
+      "explanation": "Non-defining clauses (set off by commas) provide additional information about an already-identified noun. Here, 'the sculpture' is already specific; the clause merely supplements. Defining clauses (no commas) restrict and identify. The second example shows a defining clause because 'that' restricts which sculpture is controversial."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "She regrets _____ about the exhibition earlier; she would have attended if she had known.",
+      "question": "Which form correctly shows a change of meaning between gerund and infinitive?",
+      "options": [
+        "A) not learning",
+        "B) not to learn",
+        "C) not having learned",
+        "D) having not learned"
+      ],
+      "answer": "C",
+      "explanation": "'Regret + gerund' focuses on the past action itself (she regrets the event of not learning). 'Regret + infinitive' (to learn) would mean she regrets her general policy, not the specific past event. Option C correctly uses the perfect gerund to show completed past action. Options B and D are grammatically awkward or incorrect."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "After the long meeting, everyone was ready to _____ it a day.",
+      "question": "Which expression is most natural in everyday speech?",
+      "options": [
+        "A) call",
+        "B) make",
+        "C) do",
+        "D) finish"
+      ],
+      "answer": "A",
+      "explanation": "'Call it a day' is the standard idiomatic expression meaning to stop work and rest. While 'finish' or 'make' might seem logical, they don't form the conventional phrase. 'Do' doesn't work in this context."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The professor's harsh criticism was difficult to _____, but the student learned valuable lessons.",
+      "question": "Which phrase best expresses accepting criticism constructively?",
+      "options": [
+        "A) stomach",
+        "B) swallow",
+        "C) take in",
+        "D) digest"
+      ],
+      "answer": "B",
+      "explanation": "'Swallow one's pride' or 'hard to swallow' is the idiomatic phrase for accepting unpleasant truth or criticism. While 'stomach' and 'digest' are related metaphors, 'swallow' is the most standard phrase. 'Take in' suggests understanding rather than acceptance."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "She doesn't _____ any nonsense; everyone respects her for it.",
+      "question": "Which phrase most naturally fits this sentence about not tolerating poor behavior?",
+      "options": [
+        "A) stand for",
+        "B) stand with",
+        "C) stand by",
+        "D) stand up"
+      ],
+      "answer": "A",
+      "explanation": "'Stand for' means to tolerate or accept something objectionable. 'Stand with' means to support someone. 'Stand by' means to remain loyal. 'Stand up' means to rise or resist, but needs an object (stand up to). Only 'stand for' fits the meaning of not tolerating nonsense."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "Facebook's algorithm had actively promoted posts calling for the academic to be murdered, according to Meareg and Foxglove, a nonprofit organisation supporting Meareg's lawsuit against the company in Kenya.",
+      "question": "Paraphrase this sentence in your own words, capturing the core meaning.",
+      "options": null,
+      "answer": null,
+      "explanation": "Your paraphrase should convey: (1) Facebook's system actively amplified violent content; (2) this targeted a specific academic; (3) these entities (Meareg and Foxglove) are making this claim; (4) they are pursuing legal action in Kenya. Acceptable answers will vary but must include these essential elements.",
+      "paraphrase_keywords": [
+        "Facebook algorithm",
+        "amplified violent content",
+        "targeted academic",
+        "legal action",
+        "Kenya"
+      ]
+    }
+  ]
+}
