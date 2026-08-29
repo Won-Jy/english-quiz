@@ -1,0 +1,218 @@
+{
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T03:08:12.372106",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Palestinian artist Sliman Mansour developed a vocabulary of symbols that today functions as a language of resistance.",
+      "question": "In this context, what does 'vocabulary' most precisely mean?",
+      "options": [
+        "A system of visual elements and symbolic meanings",
+        "A list of words used in a particular language",
+        "The ability to speak multiple languages fluently",
+        "A collection of artistic techniques and materials"
+      ],
+      "answer": "A",
+      "explanation": "Here, 'vocabulary' is used metaphorically to refer to Mansour's set of artistic symbols and their meanings—not literal words. Option B is the primary dictionary definition but doesn't fit this artistic context. Options C and D are unrelated meanings."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "From childhood, women are trained to restrict their appetite, and there's a huge, hidden, cognitive price to pay for it.",
+      "question": "Which word best captures the meaning of 'cognitive price' in this passage?",
+      "options": [
+        "Mental or intellectual cost",
+        "Emotional burden",
+        "Financial expense",
+        "Physical consequence"
+      ],
+      "answer": "A",
+      "explanation": "'Cognitive' refers to mental processes and thinking; thus 'cognitive price' means the mental or intellectual cost—the toll on the mind. Option B conflates emotional with cognitive; Options C and D are literal costs unrelated to the abstract sense intended here."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Austrian police are hunting two men alleged to have stolen a 200-carat platinum necklace encrusted with 673 diamonds during a heist at the Museum of Applied Arts.",
+      "question": "Which phrase is closest in meaning to 'encrusted with diamonds'?",
+      "options": [
+        "Covered densely with diamonds set into the surface",
+        "Decorated with diamonds hung from chains",
+        "Studded with diamonds along the clasp",
+        "Inlaid with diamonds beneath the platinum"
+      ],
+      "answer": "A",
+      "explanation": "'Encrusted' means covered thickly with hard material adhering to the surface; this describes gems densely set into or covering jewelry. Option B (hung from chains) and D (beneath) misrepresent the positioning; Option C is too vague and specific to one part."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "A mesmerising blend of words and images make touch a doorway into the deepest questions in physics and philosophy.",
+      "question": "In this sentence, 'mesmerising' primarily conveys:",
+      "options": [
+        "Capable of capturing and holding attention hypnotically",
+        "Confusing or disorienting the viewer",
+        "Demonstrating technical skill in composition",
+        "Reflecting light in a dazzling manner"
+      ],
+      "answer": "A",
+      "explanation": "'Mesmerising' means capturing attention compellingly, as if by hypnosis; it suggests a captivating, enchanting quality. Option B (confusion) reverses the intended effect; Options C and D refer to specific qualities (skill, visual shimmer) rather than the spell-binding appeal the word conveys."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "For weeks, Facebook's algorithm had actively promoted posts calling for the academic to be murdered, and these posts included photos of his father and his home address.",
+      "question": "The word 'algorithm' in this context refers to:",
+      "options": [
+        "A set of computational rules that automatically filters and distributes content",
+        "A visual design element on the Facebook platform",
+        "A team of human moderators reviewing posts",
+        "A mathematical formula for calculating user engagement metrics"
+      ],
+      "answer": "A",
+      "explanation": "An algorithm is a computational process; here it refers to Facebook's automated content-distribution system that decides which posts to promote. Option B (visual design) is unrelated; Option C (human moderators) contradicts the automated nature described; Option D is too narrow (algorithms do more than calculate engagement)."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "Either the director or the committee members ____ responsible for approving the budget.",
+      "question": "Which verb form correctly completes the sentence?",
+      "options": [
+        "are",
+        "is",
+        "has been",
+        "have been"
+      ],
+      "answer": "A",
+      "explanation": "With 'either...or' constructions, the verb agrees with the nearest subject ('committee members,' plural); therefore 'are' is correct. Option B incorrectly treats 'either...or' as singular. Options C and D use present perfect tense inappropriately when simple present is needed."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Not until the final draft was submitted ____ the editor realize the magnitude of the error.",
+      "question": "Which option correctly completes this inverted negative adverbial construction?",
+      "options": [
+        "did",
+        "does",
+        "the editor",
+        "had"
+      ],
+      "answer": "A",
+      "explanation": "After negative adverbials like 'Not until,' the sentence requires inversion with auxiliary verb 'did' (past simple) preceding the subject 'the editor.' Option B uses present tense, breaking tense consistency. Option C repeats the subject without an auxiliary. Option D (past perfect) disrupts the correct tense sequence."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "She ____ lived abroad for five years when she decided to return to her hometown.",
+      "question": "Which option best completes this sentence about timing of actions?",
+      "options": [
+        "has",
+        "had",
+        "has been",
+        "was"
+      ],
+      "answer": "B",
+      "explanation": "The past perfect 'had lived' correctly shows that her residence abroad occurred before her decision to return (both past events, with clear sequencing). Option A (present perfect) wrongly suggests the action extends to now. Option C (present perfect continuous) is present-tense. Option D (simple past) fails to show the prior action's completion before the second past event."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "She told me that she ____ already seen the exhibition before visiting it again the following week.",
+      "question": "Which option correctly reflects reported speech and tense backshift?",
+      "options": [
+        "had",
+        "has",
+        "was",
+        "would have"
+      ],
+      "answer": "A",
+      "explanation": "In reported speech from a past-tense main verb ('told'), the present perfect 'has seen' in direct speech backhifts to past perfect 'had seen.' Option B (present perfect) violates the backshift rule. Option C (simple past) is incorrect aspect. Option D (would have) is conditional and inappropriate here."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The museum, ____ was stolen during the heist, had been on loan from Egypt for only two months.",
+      "question": "Which relative clause correctly completes the sentence?",
+      "options": [
+        "whose necklace",
+        "which necklace",
+        "the necklace of which",
+        "that necklace"
+      ],
+      "answer": "A",
+      "explanation": "This non-defining relative clause (marked by the comma) requires 'whose' to show possession; 'whose necklace was stolen' correctly identifies what was stolen. Option B ('which necklace') is grammatically awkward. Option C (preposition-final) is formal but results in 'the necklace of which was stolen,' which is unnatural. Option D ('that') introduces defining clauses, inappropriate after a comma."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "When I first heard the news about the accident, I couldn't believe it was true, so I asked him to repeat what he had said more slowly.",
+      "question": "Which phrase most naturally conveys the speaker's disbelief?",
+      "options": [
+        "I was shocked and asked him to go over it again.",
+        "I disputed the facts and demanded verification.",
+        "I questioned whether the source was reliable.",
+        "I insisted he was mistaken about the details."
+      ],
+      "answer": "A",
+      "explanation": "Option A ('shocked,' 'go over it again') captures the natural reaction to surprising news—a combination of emotional response and request for clarification. Option B (dispute/demand verification) is overly confrontational. Option C shifts focus to source reliability. Option D (insist he's mistaken) assumes fault rather than expressing confusion."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "general",
+      "sentence": "The policy, once introduced, proved harder to reverse than its architects had imagined, because it had already become deeply embedded in the organization's culture.",
+      "question": "Which statement most naturally explains why the policy was hard to reverse?",
+      "options": [
+        "It had become woven into the organization's established practices and identity.",
+        "The original architects actively prevented its removal.",
+        "The cost of reversing it exceeded the budget.",
+        "Employees were unaware of its negative effects."
+      ],
+      "answer": "A",
+      "explanation": "Option A ('woven into...practices and identity') directly parallels 'deeply embedded in the organization's culture,' capturing institutional inertia. Option B introduces active resistance not mentioned in the source. Option C (financial cost) is not implied. Option D (unawareness) contradicts the implication that people understood its challenges."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "general",
+      "sentence": "Researchers have learned to 'unwrap' charred philosophy scrolls from Herculaneum using advanced imaging techniques.",
+      "question": "Which phrasing most accurately captures what 'unwrap' means in this technical context?",
+      "options": [
+        "Carefully unfold and digitally reconstruct the contents of damaged texts",
+        "Physically remove protective coverings from ancient artifacts",
+        "Gradually reveal hidden philosophical theories through analysis",
+        "Systematically organize scrolls by topic and author"
+      ],
+      "answer": "A",
+      "explanation": "In archaeological and scientific contexts, 'unwrap' (in quotes) means to digitally reconstruct or reveal the content of charred, intact scrolls without physically unrolling them. Option B misses the technological/digital aspect. Option C is too metaphorical for a technical procedure. Option D (organization) is unrelated to the imaging process described."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "His work frequently censored by the Israeli government, Mansour developed a vocabulary of symbols that today functions as a language of resistance.",
+      "question": "Rewrite this sentence in your own words, capturing its core meaning. What are the essential ideas?",
+      "options": null,
+      "answer": null,
+      "explanation": "This sentence conveys that Mansour created symbolic visual language as a response to governmental censorship—symbols that served as coded communication and protest. Key ideas: censorship prompted artistic response, symbols became a coded resistant language, and this visual vocabulary persists today as meaningful protest.",
+      "paraphrase_keywords": [
+        "censorship",
+        "symbolic response",
+        "artistic resistance",
+        "coded language",
+        "political protest"
+      ]
+    }
+  ]
+}
