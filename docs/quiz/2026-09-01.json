@@ -1,0 +1,218 @@
+{
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T00:31:49.435494",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The Victorian-era structure, located on the island of Vinalhaven in Maine, is currently owned by the Star of Hope Foundation.",
+      "question": "In this context, 'structure' most nearly means:",
+      "options": [
+        "A. An organized system or framework",
+        "B. A building or constructed edifice",
+        "C. The arrangement of elements in a composition",
+        "D. A rigid framework that provides support"
+      ],
+      "answer": "B",
+      "explanation": "While 'structure' can mean several things, in architectural and real estate contexts it specifically refers to a building or constructed edifice. Options A and C are more abstract uses; option D is too narrow and technical for this context."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The home, built using redwood, brick, and steel, is the only residence in Los Angeles that Wright built in the Usonian style he pioneered during the Great Depression.",
+      "question": "The word 'pioneered' in this sentence most closely means:",
+      "options": [
+        "A. Settled or established a new colony in",
+        "B. Developed or introduced something new for the first time",
+        "C. Explored unmapped territory in",
+        "D. Worked as a skilled laborer or tradesperson in"
+      ],
+      "answer": "B",
+      "explanation": "To 'pioneer' an architectural style means to develop or introduce it for the first time. Option A relates to colonial settlement; option C to geographical exploration; option D to manual labor—none capture the sense of innovation required here."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "A UN committee has said countries are legally obliged to consider reparations for the transatlantic slave trade and take other measures to address the enduring legacy of racial discrimination.",
+      "question": "The word 'enduring' most nearly means:",
+      "options": [
+        "A. Suffering or tolerating with patience",
+        "B. Lasting or continuing over a long period of time",
+        "C. Firmly established or permanently fixed",
+        "D. Capable of withstanding hardship or strain"
+      ],
+      "answer": "B",
+      "explanation": "'Enduring' in this context means lasting or continuing, describing the persistent nature of discrimination's effects. Option A emphasizes patient suffering; option C suggests permanence rather than duration; option D means hardy or resilient—all are misleading uses."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "From childhood, women are trained to restrict their appetite, and there's a huge, hidden, cognitive price to pay for it.",
+      "question": "The phrase 'cognitive price' most nearly suggests:",
+      "options": [
+        "A. A monetary cost associated with thinking",
+        "B. A mental or intellectual cost or consequence",
+        "C. The price of acquiring knowledge",
+        "D. A reduction in the ability to think clearly"
+      ],
+      "answer": "B",
+      "explanation": "'Cognitive price' is a metaphorical expression meaning a mental or intellectual cost—the negative effects on thinking and mental processes. Option A misinterprets 'price' as literal money; option C confuses it with education; option D is too narrowly negative."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The flight tracking service Flightradar24 estimated that the lead jet passed just 41-46 feet above the roof of Cape Town Stadium, with the crowd and the world's top-ranked rugby teams below.",
+      "question": "In this sentence, 'estimated' most closely means:",
+      "options": [
+        "A. Calculated or determined based on available data",
+        "B. Respected or held in high regard",
+        "C. Assessed or evaluated the quality of",
+        "D. Guessed randomly without supporting evidence"
+      ],
+      "answer": "A",
+      "explanation": "In technical or scientific contexts, 'estimated' means calculated or determined based on available data. Option B (respected) is an entirely different sense; option C suggests evaluation of quality; option D misrepresents estimation as mere guessing without basis."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "The Star of Hope Lodge, which was once the home of artist Robert Indiana, is now listed for sale.",
+      "question": "Which revision correctly converts the non-defining relative clause to a defining one?",
+      "options": [
+        "A. The Star of Hope Lodge that was once the home of artist Robert Indiana is now listed for sale.",
+        "B. The Star of Hope Lodge, that was once the home of artist Robert Indiana, is now listed for sale.",
+        "C. The Star of Hope Lodge, which was once the home of artist Robert Indiana that is now listed for sale.",
+        "D. The Star of Hope Lodge which it was once the home of artist Robert Indiana is now listed for sale."
+      ],
+      "answer": "A",
+      "explanation": "A defining relative clause identifies which specific thing is being discussed and uses 'that' without commas. Option B incorrectly mixes 'that' with commas; option C creates a grammatically incorrect embedded clause; option D adds an unnecessary pronoun and is ungrammatical."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "It is essential that the board approve the merger before the fiscal year ends.",
+      "question": "Why is the verb form 'approve' (rather than 'approves') correct in this sentence?",
+      "options": [
+        "A. The board is plural, so the verb must be plural in form.",
+        "B. After expressions of necessity like 'it is essential that', the subjunctive mood requires the base form of the verb.",
+        "C. The verb refers to a future event, which always requires the bare infinitive.",
+        "D. 'Approve' is used because the board has not yet approved, making approval hypothetical."
+      ],
+      "answer": "B",
+      "explanation": "In formal English, after structures like 'it is essential that', 'it is important that', or 'I suggest that', the subjunctive mood requires the base form of the verb, not the third-person singular form. Option A confuses subject-verb agreement with subjunctive mood; option C incorrectly generalizes about future tense; option D describes the hypothetical nature but not the grammatical reason."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "She regretted missing the conference versus She regretted to miss the conference.",
+      "question": "Which statement correctly explains the difference in meaning between these two sentences?",
+      "options": [
+        "A. Both sentences mean the same thing; the choice between gerund and infinitive is purely stylistic.",
+        "B. 'Missing' (gerund) emphasizes the actual event she did not attend; 'to miss' (infinitive) suggests an unfulfilled intention or wish after the fact.",
+        "C. 'To miss' (infinitive) is the only correct form; using a gerund is a common error.",
+        "D. 'Missing' (gerund) refers to a future regret, while 'to miss' (infinitive) refers to past regret."
+      ],
+      "answer": "B",
+      "explanation": "Gerunds after 'regret' refer to actions actually performed and regretted; infinitives suggest intentions one wished to fulfill but didn't. Option A ignores the meaningful difference; option C is factually incorrect; option D reverses the temporal reference of each form."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Given the rising inflation rates, the central bank must have raised interest rates to stabilize the economy.",
+      "question": "Which statement correctly interprets the modal verb phrase 'must have raised'?",
+      "options": [
+        "A. The central bank was required by law to raise rates; it had an obligation to do so.",
+        "B. The central bank possibly raised rates, but we cannot confirm this.",
+        "C. Based on the evidence presented, the central bank almost certainly raised rates in the past.",
+        "D. The central bank should have raised rates, but it failed to do so."
+      ],
+      "answer": "C",
+      "explanation": "'Must have' + past participle expresses strong logical inference about a past event based on evidence. Option A misinterprets it as obligation; option B confuses it with 'might have'; option D incorrectly suggests unfulfilled obligation, which would be 'should have'."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "everyday",
+      "sentence": "Having lived in three different countries, he was comfortable navigating unfamiliar cultural situations.",
+      "question": "What is the grammatical function of the phrase 'Having lived in three different countries'?",
+      "options": [
+        "A. A subordinate clause providing the reason for his comfort navigating new situations",
+        "B. A participial phrase (specifically, a perfect participle) providing background context for the main clause",
+        "C. An adverbial clause of reason that must be separated from the main clause by a semicolon",
+        "D. A gerund phrase serving as the object of a preposition"
+      ],
+      "answer": "B",
+      "explanation": "A perfect participle phrase ('having' + past participle) provides additional information about the subject and functions as a modifier. Option A calls it a subordinate clause, which is not technically accurate; option C misidentifies the punctuation rule; option D incorrectly identifies it as a gerund phrase serving as an object."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Despite the rain, she decided to walk to the market _____ take the bus.",
+      "question": "Which expression is most natural in this context?",
+      "options": [
+        "A. rather than",
+        "B. instead of to",
+        "C. in place to",
+        "D. sooner than"
+      ],
+      "answer": "A",
+      "explanation": "'Rather than' is the standard collocation for expressing preference between two alternatives and requires the same grammatical form on both sides (infinitive + infinitive or gerund + gerund). Option B is awkward with 'to'; option C is non-standard; option D suggests timing rather than preference."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Rarely had the team faced such a complex set of competing demands.",
+      "question": "What is the most natural interpretation of this sentence's meaning?",
+      "options": [
+        "A. The team very frequently encountered extremely complex competing demands.",
+        "B. The team had almost never encountered such a complex and challenging situation before.",
+        "C. The team hoped it would rarely face such demands in the future.",
+        "D. The team faced demands that were rare and complex."
+      ],
+      "answer": "B",
+      "explanation": "The inverted structure with 'Rarely' at the beginning (used for emphasis in formal English) means the team had almost never before experienced such complexity. Option A reverses the meaning; option C misinterprets 'rarely' as a future wish; option D weakens the emphatic inversion."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The policy, once introduced, proved harder to reverse than its architects had imagined.",
+      "question": "Which phrase could most naturally replace 'once introduced'?",
+      "options": [
+        "A. after it was introduced",
+        "B. when it had introduced",
+        "C. since its introduction",
+        "D. previously introducing"
+      ],
+      "answer": "A",
+      "explanation": "'Once introduced' (a participial phrase meaning 'after being introduced') can be naturally replaced by 'after it was introduced'. Option B is grammatically incorrect; option C changes the grammatical structure unnecessarily; option D is ungrammatical and changes meaning."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "The nation's water is secure, but its food is another matter: lessons from the city-state in efficiency versus self-sufficiency.",
+      "question": "Rewrite this sentence in your own words, preserving the core meaning.",
+      "options": null,
+      "answer": null,
+      "explanation": "This is a paraphrase task. Acceptable responses should capture: (1) the contrast between water security and food security, (2) the comparison or tension between efficiency and self-sufficiency, (3) the reference to a city-state as a case study.",
+      "paraphrase_keywords": [
+        "water security",
+        "food insecurity",
+        "efficiency",
+        "self-sufficiency",
+        "city-state"
+      ]
+    }
+  ]
+}
