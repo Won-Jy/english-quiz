@@ -1,0 +1,218 @@
+{
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T23:14:03.057872",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The inaugural cohort of the fellowship includes four artists whose work demonstrates a _______ approach to digital creativity.",
+      "question": "Which word best completes this sentence about the artists' approach?",
+      "options": [
+        "A. cursory",
+        "B. synergistic",
+        "C. nebulous",
+        "D. pedestrian"
+      ],
+      "answer": "B",
+      "explanation": "Synergistic means combining elements to create enhanced effect; it fits the context of artists working at the intersection of art and technology. Cursory means superficial, nebulous means vague, and pedestrian means ordinary—none capture the innovative integration implied by 'artist-cum-technologists.'"
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The study's findings regarding pesticide poisoning represent a _______ challenge to public health officials worldwide.",
+      "question": "Which word best fits this context?",
+      "options": [
+        "A. nugatory",
+        "B. salient",
+        "C. tangential",
+        "D. ephemeral"
+      ],
+      "answer": "B",
+      "explanation": "Salient means prominent or most noticeable; the widespread poisoning deaths are clearly a major public health issue. Nugatory means worthless, tangential means peripheral, and ephemeral means temporary—none reflect the significance of the data."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Critics contend that gamification will _______ humanity's capacity for unstructured play and creative thought.",
+      "question": "What word completes this sentence about the risk to human capacity?",
+      "options": [
+        "A. ameliorate",
+        "B. attenuate",
+        "C. propitiate",
+        "D. exacerbate"
+      ],
+      "answer": "B",
+      "explanation": "Attenuate means to weaken or reduce; the source text uses 'atrophy,' suggesting a decline in capacity. Ameliorate means improve, propitiate means appease, and exacerbate means worsen—though 'atrophy' itself is not an option, 'attenuate' captures the intended meaning of gradual diminishment."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The referendum's approval of constitutional changes has _______ concerns among democracy advocates about executive overreach.",
+      "question": "Which word best describes the effect on concerns?",
+      "options": [
+        "A. assuaged",
+        "B. mitigated",
+        "C. precipitated",
+        "D. obviated"
+      ],
+      "answer": "C",
+      "explanation": "Precipitated means caused or brought about; the approval triggered new concerns. Assuaged and mitigated mean reduced or calmed, while obviated means eliminated—all inconsistent with critics warning of democratic erosion. Precipitated fits the causal relationship."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The city-state's approach to food security remains _______, caught between maximizing efficiency and achieving true self-sufficiency.",
+      "question": "Which word best describes this dilemma?",
+      "options": [
+        "A. ambiguous",
+        "B. paradoxical",
+        "C. inchoate",
+        "D. arbitrary"
+      ],
+      "answer": "B",
+      "explanation": "Paradoxical describes a situation containing contradictory elements; efficiency and self-sufficiency often conflict. Ambiguous means unclear, inchoate means unformed or incomplete, and arbitrary means random—none capture the inherent contradiction between two opposing goals."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The fellowship program, which awards grants of £10,000, has attracted significant international attention.",
+      "question": "Which revision correctly uses a non-defining relative clause?",
+      "options": [
+        "A. The fellowship program which awards grants of £10,000 has attracted significant international attention.",
+        "B. The fellowship program, which awards grants of £10,000, has attracted significant international attention.",
+        "C. The fellowship program that awards grants of £10,000 has attracted significant international attention.",
+        "D. The fellowship program awarding grants of £10,000, has attracted significant international attention."
+      ],
+      "answer": "B",
+      "explanation": "Non-defining relative clauses (adding extra information about a specific noun) require commas and typically use 'which.' Option A removes commas, converting it to defining (incorrectly suggesting there are multiple programs and this one specifically awards £10,000). Option C uses 'that' which is for defining clauses. Option D has an incorrect comma placement."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_______ her research into AI ethics, Dr. Chen became recognized as a leading voice in the field.",
+      "question": "Which participle clause correctly completes this sentence?",
+      "options": [
+        "A. Having conducted",
+        "B. Conducting",
+        "C. Being conducted",
+        "D. Having been conducted"
+      ],
+      "answer": "A",
+      "explanation": "The perfect participle 'having conducted' correctly shows that Dr. Chen's research happened before her recognition. 'Conducting' (present participle) suggests simultaneous action. 'Being conducted' and 'having been conducted' imply passive voice, making the sentence illogical since Dr. Chen actively conducted the research."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Neither the environmental organizations nor the government _______ willing to compromise on pesticide restrictions.",
+      "question": "Which verb form is correct?",
+      "options": [
+        "A. was",
+        "B. were",
+        "C. has been",
+        "D. have been"
+      ],
+      "answer": "B",
+      "explanation": "With 'neither...nor,' the verb agrees with the nearer subject ('government'); since 'government' is plural in this context (requiring 'were'), option B is correct. Option A would only work if government were singular. Options C and D introduce perfect tense unnecessarily given the context."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The museum director had the artist's installation _______ by a specialized conservation team to preserve its integrity.",
+      "question": "Which form correctly completes this causative structure?",
+      "options": [
+        "A. restored",
+        "B. restore",
+        "C. restoring",
+        "D. to be restored"
+      ],
+      "answer": "A",
+      "explanation": "The causative structure 'have + object + past participle' requires the past participle form 'restored,' indicating that someone else performed the restoration. Option B (infinitive) and C (participle) violate the causative pattern. Option D adds unnecessary infinitive construction."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "If the fellowship program _______ more funding next year, the Serpentine could expand to eight recipients instead of four.",
+      "question": "Which conditional form is correct?",
+      "options": [
+        "A. received",
+        "B. receives",
+        "C. would receive",
+        "D. had received"
+      ],
+      "answer": "A",
+      "explanation": "This is a second conditional (hypothetical future), requiring 'if + past tense' (received) followed by 'would + base verb' (could expand). Option B (present) makes it first conditional (real possibility). Option C violates the conditional structure. Option D begins a third conditional (impossible past), which doesn't fit the context."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "He suggested that the team reconsider its approach, given the new information that had emerged.",
+      "question": "Which rephrasing maintains the same meaning most naturally?",
+      "options": [
+        "A. He suggested the team to reconsider its approach because new information had emerged.",
+        "B. He suggested that the team should reconsider its approach in light of the newly emerged information.",
+        "C. He suggested the team reconsider their approach given that new information had emerged.",
+        "D. The team was suggested by him to reconsider its approach because new information emerged."
+      ],
+      "answer": "B",
+      "explanation": "Option B preserves the formal structure ('that the team should'), maintains subject-verb agreement with 'its,' and uses 'in light of' naturally. Option A incorrectly uses 'suggest + infinitive' without 'should.' Option C shifts to 'their' (plural possessive). Option D uses awkward passive construction and loses formality."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Neither the manager nor the employees were informed of the decision until after it had been implemented.",
+      "question": "Which alternative best captures this idea in everyday language?",
+      "options": [
+        "A. Nobody knew about the decision—not the manager, not the employees—until after it was already in place.",
+        "B. The manager and the employees weren't knowing the decision until it was implemented already.",
+        "C. Before the decision had been implemented, neither the manager nor employees were told.",
+        "D. The manager and employees were both unaware of the decision when it got implemented."
+      ],
+      "answer": "A",
+      "explanation": "Option A clearly conveys that no one (including both manager and employees) was informed beforehand, with natural emphasis and accessible phrasing. Option B has awkward 'weren't knowing' (incorrect past continuous). Option C reverses the logical timeline. Option D loses the emphasis on the completeness of lack of information."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "By the time she arrived at the conference, most of the morning sessions had already concluded.",
+      "question": "Which version expresses this most naturally in conversation?",
+      "options": [
+        "A. Most of the morning sessions had already concluded when she was arriving at the conference.",
+        "B. When she got to the conference, most of the morning sessions were already over.",
+        "C. By the time she arrived, she found that most morning sessions already concluded.",
+        "D. Most of the morning sessions had concluded before she arrived at the conference already."
+      ],
+      "answer": "B",
+      "explanation": "Option B uses simple, conversational phrasing ('got to,' 'were already over') natural in speech while remaining clear. Option A mixes past continuous incorrectly with past perfect. Option C omits 'had' (needed for past perfect). Option D has awkward word order with 'already' misplaced at the end."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "general",
+      "sentence": "We are most human when we play freely, imaginatively, pointlessly.",
+      "question": "Rewrite this sentence in your own words, capturing its essential meaning.",
+      "options": null,
+      "answer": null,
+      "paraphrase_keywords": [
+        "humanity",
+        "play",
+        "freedom",
+        "imagination",
+        "purposelessness"
+      ],
+      "explanation": "This sentence asserts that unstructured, creative play without utilitarian goals represents the most authentic expression of human nature. It emphasizes freedom, creativity, and the absence of external purpose as central to what makes us genuinely human."
+    }
+  ]
+}
