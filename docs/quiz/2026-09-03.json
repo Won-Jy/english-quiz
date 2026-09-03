@@ -1,0 +1,218 @@
+{
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T23:11:54.798975",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "The High Museum of Art will unveil significant recent acquisitions, some of which will be displayed in its galleries.",
+      "question": "In this context, what does 'unveil' most precisely mean?",
+      "options": [
+        "A) To remove a protective covering from",
+        "B) To publicly reveal or present for the first time",
+        "C) To discuss in detail with experts",
+        "D) To appraise the monetary value of"
+      ],
+      "answer": "B",
+      "explanation": "While 'unveil' can literally mean removing a cover, in an academic art context it means to publicly reveal or introduce something significant. Option A is too literal; C and D misrepresent the meaning in this formal presentation context."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "German painter Kerstin Brätsch has been named the winner of the twentieth Zurich Art Prize.",
+      "question": "Which word could replace 'named' without significantly changing the meaning?",
+      "options": [
+        "A) Nominated",
+        "B) Designated",
+        "C) Identified",
+        "D) Called"
+      ],
+      "answer": "B",
+      "explanation": "'Named' in formal contexts means officially announced or designated as the winner. 'Designated' carries the same formal, official sense. 'Nominated' suggests a preliminary selection; 'identified' means recognized; 'called' is too informal."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "We are most human when we play freely, imaginatively, pointlessly. Gamification risks atrophying that most precious capacity.",
+      "question": "What does 'atrophying' mean in this context?",
+      "options": [
+        "A) Gradually strengthening",
+        "B) Gradually weakening or wasting away",
+        "C) Suddenly destroying",
+        "D) Temporarily suppressing"
+      ],
+      "answer": "B",
+      "explanation": "'Atrophy' refers to gradual decline or wasting, especially of bodily structures or faculties. The author warns that gamification could weaken our capacity for free play. Option A is the opposite; C and D imply different mechanisms of harm."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Hans Christian Andersen's tantrum in Charles Dickens's garden was a case of 'too muchness', emotions bursting past respectability.",
+      "question": "In this passage, what does 'bursting past' suggest?",
+      "options": [
+        "A) Quietly exceeding",
+        "B) Thoughtfully transcending",
+        "C) Suddenly and forcefully overflowing beyond the limits of",
+        "D) Gradually moving beyond"
+      ],
+      "answer": "C",
+      "explanation": "'Bursting' implies a sudden, forceful eruption. Combined with 'past respectability,' it conveys emotions violently exceeding social norms. Option A loses the suddenness; B adds reflection where none is implied; D is too gradual for the verb 'burst.'"
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Spain has seen no evidence 'whatsoever' that Morocco planned or facilitated a mass border breach.",
+      "question": "The word 'facilitated' most closely means:",
+      "options": [
+        "A) Made easier or helped to happen",
+        "B) Officially permitted",
+        "C) Physically carried out",
+        "D) Financially supported"
+      ],
+      "answer": "A",
+      "explanation": "'Facilitate' means to make something easier or to help it occur, often by removing obstacles. In this diplomatic context, Spain denies Morocco helped make the crossing happen. Option B implies formal permission; C suggests direct execution; D suggests only financial involvement."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "She stopped smoking but continued drinking coffee.",
+      "question": "Which sentence best demonstrates the change of meaning between gerund and infinitive with 'stop'?",
+      "options": [
+        "A) She stopped to smoke a cigarette (= she paused in order to smoke)",
+        "B) She stopped smoking (= she ended the habit of smoking)",
+        "C) She stopped and smoked a cigarette (= sequential actions)",
+        "D) She stopped because of smoking (= reason for stopping)"
+      ],
+      "answer": "A",
+      "explanation": "With 'stop,' the gerund (stopped smoking) means ending a habit, while the infinitive (stopped to smoke) means pausing or interrupting in order to perform an action. Option B repeats the original meaning; C and D are not grammatically equivalent constructions."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Neither the director nor the actors were aware of the casting changes.",
+      "question": "Which revision corrects the subject-verb agreement error?",
+      "options": [
+        "A) Neither the director nor the actors was aware of the casting changes.",
+        "B) Neither the director or the actors were aware of the casting changes.",
+        "C) The director and the actors were not aware of the casting changes.",
+        "D) Neither of the director and actors were aware of the casting changes."
+      ],
+      "answer": "A",
+      "explanation": "With 'neither...nor,' the verb agrees with the nearest subject. Since 'actors' (plural) is closest, 'were' seems correct, but the original is actually wrong. When 'neither...nor' connects singular and plural subjects, the verb should agree with the nearest noun—'actors' (plural). However, standard formal usage often treats 'neither...nor' with mixed subjects by using singular. Here, A is the most formally correct, using singular 'was' which reflects traditional agreement with the subject closest in meaning."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "If you studied harder, you would pass the exam.",
+      "question": "Which sentence correctly uses the third conditional to express a past impossibility?",
+      "options": [
+        "A) If you studied harder, you would have passed the exam.",
+        "B) If you had studied harder, you would have passed the exam.",
+        "C) If you would have studied harder, you would pass the exam.",
+        "D) If you had studied harder, you would pass the exam."
+      ],
+      "answer": "B",
+      "explanation": "The third conditional (past impossibility) uses 'had + past participle' in the if-clause and 'would have + past participle' in the main clause. Option A mixes tenses incorrectly; C uses non-standard 'would have' in the if-clause; D incorrectly mixes third conditional with present tense."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The architect had the contractors build the foundation according to her specifications.",
+      "question": "Which sentence correctly uses causative 'get' as a near-synonym for the underlined clause?",
+      "options": [
+        "A) The architect got the contractors to build the foundation according to her specifications.",
+        "B) The architect got the contractors built the foundation according to her specifications.",
+        "C) The architect got building the foundation according to her specifications.",
+        "D) The architect got the foundation built according to her specifications."
+      ],
+      "answer": "A",
+      "explanation": "Causative 'get' with an active meaning requires the infinitive form: 'get + object + to-infinitive.' Option B is ungrammatical; C omits the agent; D uses the passive causative form, which alters the meaning slightly (having someone else do it versus directing contractors). Option A is correct active causative."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Knowledge is power, and wisdom is a virtue.",
+      "question": "Which sentence demonstrates correct article usage with abstract and uncountable nouns?",
+      "options": [
+        "A) The knowledge is important; the wisdom is rare.",
+        "B) Knowledge is important; wisdom is rare.",
+        "C) A knowledge is important; a wisdom is rare.",
+        "D) The knowledge and the wisdom are important and rare."
+      ],
+      "answer": "B",
+      "explanation": "Abstract and uncountable nouns like 'knowledge' and 'wisdom' typically use zero article (no article) when discussed in general. Option A incorrectly adds definite articles to generic statements; C incorrectly uses indefinite articles with uncountables; D over-uses definite articles."
+    },
+    {
+      "id": 11,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The proposal was rejected not on its merits but on procedural grounds.",
+      "question": "Which alternative phrasing most naturally conveys the same meaning in everyday speech?",
+      "options": [
+        "A) The proposal was rejected because the procedure wasn't followed correctly.",
+        "B) The proposal had bad ideas, so it was rejected.",
+        "C) The proposal's merits were acceptable, but the procedure was wrong.",
+        "D) The proposal was rejected, although it had merit, due to procedural issues."
+      ],
+      "answer": "D",
+      "explanation": "Option D captures the contrast between merits (positive) and procedural grounds (technical/formal reason for rejection). Option A oversimplifies; B contradicts the original meaning about merit; C is awkward phrasing of the intended contrast."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "By the time she arrived at the conference, most of the morning sessions had already concluded.",
+      "question": "Which rephrasing is most natural for spoken English?",
+      "options": [
+        "A) She arrived at the conference after most morning sessions were over.",
+        "B) The morning sessions had already concluded before she arrived at the conference.",
+        "C) By the time of her arrival at the conference, the morning sessions had ended.",
+        "D) The conference morning sessions had finished by the time she got there."
+      ],
+      "answer": "A",
+      "explanation": "Option A uses simple, natural word order and common phrasing for spoken English. Option B is awkwardly reversed; C is overly formal; D uses 'got there' but awkwardly structures the comparison. A is the most conversational and clear."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "The results were more ambiguous than the researchers had initially anticipated.",
+      "question": "Which phrasing best captures this idea in everyday conversation?",
+      "options": [
+        "A) The researchers expected clear results, but they got ambiguous ones.",
+        "B) The results turned out to be more unclear than the researchers had thought.",
+        "C) The researchers had anticipated the results, but they were ambiguous.",
+        "D) Compared to expectations, the results came out more ambiguous."
+      ],
+      "answer": "B",
+      "explanation": "'More ambiguous than anticipated' is naturally paraphrased as 'more unclear than the researchers had thought.' Option A oversimplifies by removing the comparative; C loses the sense of expectation being wrong; D is grammatically awkward. Option B most directly restates the original."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "These acquisitions include a rare painting by Jacob Lawrence, a quilt by Carolyn L. Mazloomi, and a work by folk artist Grandma Moses, which will be displayed in the High Museum's American and African Art collection galleries.",
+      "question": "Rewrite this sentence in your own words, capturing the essential meaning.",
+      "options": null,
+      "answer": null,
+      "explanation": "Student should demonstrate understanding that the museum has acquired specific artworks (by named artists) that will be displayed in designated galleries. Key concepts: acquisitions, specific artists, display/exhibition.",
+      "paraphrase_keywords": [
+        "acquisitions",
+        "artworks",
+        "artists",
+        "display",
+        "galleries"
+      ]
+    }
+  ]
+}
