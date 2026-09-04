@@ -1,0 +1,218 @@
+{
+  "date": "2026-09-04",
+  "generated_at": "2026-09-04T22:57:40.600388",
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "On Thursday, China announced that it would withdraw its pavilion from the forthcoming Gwangju Biennale over claims that the festival was misrepresenting Taiwan as an autonomous nation.",
+      "question": "In this context, what does 'misrepresenting' most closely mean?",
+      "options": [
+        "A. Presenting inaccurately or falsely",
+        "B. Failing to represent at all",
+        "C. Representing with excessive detail",
+        "D. Representing in a minority capacity"
+      ],
+      "answer": "A",
+      "explanation": "Misrepresenting means to present something in a false, misleading, or inaccurate way. Option B (failing to represent) is the opposite; C (excessive detail) is incorrect; D (minority capacity) is not supported by the word's prefix 'mis-' which indicates wrongness rather than proportion."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "academic",
+      "sentence": "Los Angeles's Lucas Museum of Narrative Art opened to the press earlier this week, and the resulting opinions are sharply divided.",
+      "question": "The phrase 'sharply divided' suggests that opinions are:",
+      "options": [
+        "A. Moderately different in perspective",
+        "B. Clearly and strongly opposed to one another",
+        "C. Gradually evolving over time",
+        "D. Divided equally between three or more groups"
+      ],
+      "answer": "B",
+      "explanation": "Sharply divided emphasizes strong, clear opposition—the adverb 'sharply' intensifies the degree of disagreement. Option A (moderately different) understates the intensity; C (evolving) changes the meaning; D (three or more groups) is unnecessary and less typical than binary opposition."
+    },
+    {
+      "id": 3,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Hans Christian Andersen's tantrum in Charles Dickens's garden was a case of 'too muchness', emotions bursting past respectability.",
+      "question": "In academic writing, 'too muchness' here refers to:",
+      "options": [
+        "A. An excess of quantity or intensity that violates social norms",
+        "B. A reluctance to express emotion openly",
+        "C. A carefully controlled display of feeling",
+        "D. An inability to understand social conventions"
+      ],
+      "answer": "A",
+      "explanation": "'Too muchness' is a colloquial term meaning excessive intensity or quantity, here describing emotions that overstep boundaries of respectability. Option B reverses the meaning; C contradicts 'bursting'; D shifts focus from the emotional display itself to cognitive understanding."
+    },
+    {
+      "id": 4,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "Neoliberal policies have hollowed out democracies and spawned unchecked oligarchs.",
+      "question": "To 'hollow out' in this political context means to:",
+      "options": [
+        "A. Physically dismantle governmental structures",
+        "B. Gradually remove substance, vitality, or institutional strength",
+        "C. Create artificial democratic appearances",
+        "D. Eliminate corruption from within institutions"
+      ],
+      "answer": "B",
+      "explanation": "Hollow out is a metaphor meaning to deplete or weaken from within, leaving an empty shell. Option A (physical dismantling) is too literal; C (artificial appearances) reverses the direction; D (eliminating corruption) misrepresents the term—policies are accused of causing the opposite effect."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "general",
+      "sentence": "The UN general assembly officially retired the 16th-century Mercator projection in favour of one based on the more accurate 2018 Equal Earth design.",
+      "question": "To 'retire' a map projection means to:",
+      "options": [
+        "A. Put it into storage for historical preservation",
+        "B. Cease using it officially or formally discontinue its application",
+        "C. Move it to a museum exhibit",
+        "D. Update it with new geographical data"
+      ],
+      "answer": "B",
+      "explanation": "Retire, when used for a system or tool, means to discontinue or cease formal use. Option A (storage) is too narrow; C (museum) is a possible consequence but not the primary meaning; D (update) contradicts the purpose—they're replacing it with a different design, not updating it."
+    },
+    {
+      "id": 6,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "It is essential that the pavilion committee _____ a clear statement on the Taiwan issue before the opening ceremony.",
+      "question": "Which form correctly completes this sentence with the subjunctive mood?",
+      "options": [
+        "A. issues",
+        "B. issue",
+        "C. will issue",
+        "D. has issued"
+      ],
+      "answer": "B",
+      "explanation": "After 'it is essential that', the subjunctive mood requires the base form of the verb without -s ending, regardless of subject person. Option A (adds -s incorrectly); C (uses future tense, not subjunctive); D (uses perfect tense, not subjunctive)."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The museum director suggested that all staff members _____ their positions to express solidarity with the disputed communities.",
+      "question": "Which form correctly completes this sentence with the subjunctive mood?",
+      "options": [
+        "A. reconsider",
+        "B. reconsiders",
+        "C. have reconsidered",
+        "D. reconsidered"
+      ],
+      "answer": "A",
+      "explanation": "The subjunctive after 'suggested that' requires the base verb form. Option B (adds -s, indicating indicative); C (uses perfect aspect, not subjunctive); D (uses past indicative form, which resembles subjunctive for some verbs but should be base form here)."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "Either the architect's vision or the client's concerns _____ the final design decision in this controversial project.",
+      "question": "Which verb form correctly agrees with the compound subject?",
+      "options": [
+        "A. determines",
+        "B. determine",
+        "C. has determined",
+        "D. have determined"
+      ],
+      "answer": "A",
+      "explanation": "With 'either...or' constructions, the verb agrees with the nearer subject. Here, 'concerns' (plural) is closest, but the singular 'concern' concept takes singular 'determines' when inverted, and idiomatically this structure often requires singular. Option B (plural) treats both subjects as coordinate; C and D add unnecessary perfect aspect."
+    },
+    {
+      "id": 9,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "She must have _____ all afternoon preparing the presentation; she looked exhausted.",
+      "question": "Which form correctly completes this sentence expressing past certainty?",
+      "options": [
+        "A. work",
+        "B. worked",
+        "C. been working",
+        "D. be working"
+      ],
+      "answer": "C",
+      "explanation": "'Must have been working' expresses high certainty about an ongoing past action. Option A (base form) is incorrect after 'have'; B (simple past participle) doesn't convey the continuity suggested by the context; D (present progressive) is wrong tense."
+    },
+    {
+      "id": 10,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "The board got the renovations _____ by an external firm to ensure impartiality in the process.",
+      "question": "Which form correctly completes this causative construction?",
+      "options": [
+        "A. done",
+        "B. to be done",
+        "C. doing",
+        "D. being done"
+      ],
+      "answer": "A",
+      "explanation": "The causative 'get' followed by a noun requires the past participle: 'got the renovations done' means 'caused the renovations to be completed'. Option B (infinitive) is used with different constructions; C and D (gerund/present participle) don't fit the causative pattern."
+    },
+    {
+      "id": 11,
+      "type": "grammar",
+      "source": "original",
+      "sentence": "_____ independence requires constant vigilance, according to the political theorists cited in the report.",
+      "question": "Which article correctly completes this sentence with an abstract noun?",
+      "options": [
+        "A. A",
+        "B. An",
+        "C. The",
+        "D. (no article)"
+      ],
+      "answer": "D",
+      "explanation": "Abstract nouns in general statements typically take zero article: 'Independence requires vigilance.' Options A and B (indefinite articles) would suggest a specific, limited type of independence; C (definite) would restrict to a particular instance, not the general concept."
+    },
+    {
+      "id": 12,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "Despite the rain, she decided to walk to the market rather than take the bus.",
+      "question": "Which expression most naturally conveys the same relationship between circumstances and choice?",
+      "options": [
+        "A. She chose to walk to the market even though it was raining, rejecting the bus.",
+        "B. She walked to the market in light rain, avoiding the bus entirely.",
+        "C. She preferred walking to the market instead of taking the bus during rainfall.",
+        "D. She walked to the market because the rain made the bus less appealing."
+      ],
+      "answer": "A",
+      "explanation": "Option A preserves the contrast implicit in 'despite'—choosing the harder option (walking) over the easier one (bus) despite adverse conditions. Option B downplays the rain's significance; C shifts the causality awkwardly; D suggests rain motivated her choice rather than working against it."
+    },
+    {
+      "id": 13,
+      "type": "context",
+      "source": "everyday",
+      "sentence": "It was not until she reread the letter that she understood what had really been meant.",
+      "question": "Which rephrasing most naturally expresses the original meaning?",
+      "options": [
+        "A. She didn't understand the letter's meaning until she read it again.",
+        "B. She finally understood the letter after rereading it repeatedly.",
+        "C. Only by rereading the letter could she comprehend its true significance.",
+        "D. She misunderstood the letter initially, then reread it for clarity."
+      ],
+      "answer": "A",
+      "explanation": "Option A directly mirrors the 'not until' structure, emphasizing the delayed timing of comprehension. Option B (repeatedly) adds information not in the original; C (only...could) changes emphasis; D introduces 'misunderstanding' which isn't stated in the original—she simply didn't understand."
+    },
+    {
+      "id": 14,
+      "type": "paraphrase",
+      "source": "academic",
+      "sentence": "Central to the dispute is the Biennale's Pavilion Project, which is separate from the main proceedings.",
+      "question": "Paraphrase this academic sentence in your own words, capturing its core meaning.",
+      "options": null,
+      "answer": null,
+      "explanation": "This sentence states that the heart of the controversy involves a specific Pavilion Project component that operates independently from the main festival activities.",
+      "paraphrase_keywords": [
+        "dispute",
+        "pavilion",
+        "separate",
+        "independent",
+        "central"
+      ]
+    }
+  ]
+}
