@@ -2,16 +2,16 @@ name: Daily English Quiz
 
 on:
   schedule:
-    # 매일 CET 8:00 = UTC 7:00 (겨울) / UTC 6:00 (여름)
+    # 프랑스 여름시간(CEST) 23:00 = UTC 21:00
     - cron: "0 21 * * 1-5"
-  workflow_dispatch:  # 수동 실행용
+  workflow_dispatch:
 
 jobs:
   generate-and-send:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write  # docs/quiz/*.json 커밋용
+      contents: write
 
     steps:
       - name: Checkout
@@ -23,7 +23,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: pip install anthropic feedparser
+        run: pip install anthropic feedparser pyyaml
 
       - name: Generate quiz & send email
         env:
@@ -32,6 +32,7 @@ jobs:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
           PAGES_BASE_URL: ${{ secrets.PAGES_BASE_URL }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python quiz_generator/generate_quiz.py
 
       - name: Commit quiz JSON
@@ -41,6 +42,7 @@ jobs:
           git add docs/quiz/
           git stash
           git pull --rebase origin main
-          git stash pop
+          git stash pop || true
+          git add docs/quiz/
           git diff --cached --quiet || git commit -m "quiz: $(date +%Y-%m-%d)"
           git push
