@@ -251,3 +251,14 @@ textarea:focus { outline: none; border-color: var(--primary); }
   .question-card { padding: 16px; }
   .results-score { font-size: 2.5rem; }
 }
+
+/* ── 내 작업 출처 배지 ── */
+.work-badge {
+  background: #fef3c7;
+  color: #92400e;
+  font-style: italic;
+  max-width: 40%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
