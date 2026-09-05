@@ -1,6 +1,10 @@
 """
 generate_quiz.py
-매일 실행: 소스에서 문장 수집 → Claude API로 문제 생성 → JSON 저장 → 이메일 발송
+매일 실행: 소스 수집 → Claude API로 문제 생성 → JSON 저장 → 이메일 발송
+
+구성 (8문제):
+  - 어휘 4문제 (개인 사이트 2 + RSS 2)
+  - 문법 4문제 (개인 사이트 2 + 자체 생성 2)
 """
 
 import json
@@ -9,14 +13,23 @@ import re
 import random
 import smtplib
 import datetime
+import urllib.request
+import urllib.parse
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from pathlib import Path
 
 import anthropic
 import feedparser
+import yaml
 
 # ── 설정 ────────────────────────────────────────────────────────────────────
+
+MODEL = "claude-sonnet-5"
+
+PERSONAL_REPO = "Won-Jy/archive-wonjy"
+PERSONAL_BRANCH = "main"
+PERSONAL_WORKS_PER_DAY = 3
 
 ACADEMIC_FEEDS = [
     "https://www.e-flux.com/feed/",
@@ -31,29 +44,6 @@ GENERAL_FEEDS = [
     "https://lithub.com/feed/",
 ]
 
-EVERYDAY_SENTENCE_POOL = [
-    "Despite the rain, she decided to walk to the market rather than take the bus.",
-    "He had been working on the project for three weeks before he realized a fundamental error in his approach.",
-    "The committee, which had been meeting every Tuesday, finally reached a consensus on the proposed changes.",
-    "If the train had arrived on time, we would have caught the connecting flight to Amsterdam.",
-    "She asked whether the documents had been signed by all the relevant parties.",
-    "The building, having been constructed in the 1920s, required significant renovation before it could be used.",
-    "Neither the manager nor the employees were informed of the decision until after it had been implemented.",
-    "By the time she arrived at the conference, most of the morning sessions had already concluded.",
-    "He suggested that the team reconsider its approach, given the new information that had emerged.",
-    "The results were more ambiguous than the researchers had initially anticipated.",
-    "She found it difficult to concentrate, not because the work was hard, but because the office was noisy.",
-    "The policy, once introduced, proved harder to reverse than its architects had imagined.",
-    "Having lived in three different countries, he was comfortable navigating unfamiliar cultural situations.",
-    "The proposal was rejected not on its merits but on procedural grounds.",
-    "She had no sooner sat down than the phone rang again.",
-    "Rarely had the team faced such a complex set of competing demands.",
-    "The more carefully he read the contract, the more concerned he became about its implications.",
-    "It was not until she reread the letter that she understood what had really been meant.",
-    "He would have applied for the position had he known about it earlier.",
-    "The experiment having failed twice, the researchers decided to revise their methodology entirely.",
-]
-
 GRAMMAR_TOPICS = [
     "perfect tenses (present perfect vs past simple, past perfect)",
     "second and third conditional sentences",
@@ -64,9 +54,11 @@ GRAMMAR_TOPICS = [
     "gerunds vs infinitives with change of meaning",
     "inversion after negative adverbials (No sooner, Hardly, Not until, Rarely)",
     "articles (a/an/the/zero) with abstract, uncountable, or plural nouns",
-    "modal verbs for degrees of certainty, obligation, or criticism (must have, should have, needn't have)",
+    "modal verbs for certainty, obligation, or criticism (must have, should have, needn't have)",
     "participle clauses (having done, being done, done)",
     "subjunctive mood (it is essential that, I suggest that)",
+    "prepositions after common academic verbs and nouns",
+    "parallel structure in lists and comparisons",
 ]
 
 QUIZ_OUTPUT_DIR = Path(__file__).parent.parent / "docs" / "quiz"
@@ -75,9 +67,120 @@ QUIZ_OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 GMAIL_USER = os.environ["GMAIL_USER"]
 GMAIL_APP_PASSWORD = os.environ["GMAIL_APP_PASSWORD"]
 RECIPIENT_EMAIL = os.environ["RECIPIENT_EMAIL"]
-PAGES_BASE_URL = os.environ.get("PAGES_BASE_URL", "https://yourusername.github.io/english-quiz")
+PAGES_BASE_URL = os.environ.get("PAGES_BASE_URL", "https://won-jy.github.io/english-quiz")
+GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
 
-# ── 소스 수집 ────────────────────────────────────────────────────────────────
+FALLBACK_WORK_PATHS = [
+    "work/2026/about-warding.md",
+    "work/2025/columbarium-vi.md",
+    "work/2025/roule-lave.md",
+    "work/2024/columbarium-v.md",
+    "work/2023/hostis.md",
+    "work/2023/fantome-3008.md",
+    "work/2023/esquisse-sur-la-colombophobie.md",
+    "work/2022/grotto_exh.md",
+    "work/2021/flaner-passer-ou-habiter.md",
+    "work/2020/grotto.md",
+    "work/2020/deambulatoire.md",
+    "work/2019/columbarium-iii.md",
+    "work/2019/untitled_bauxite.md",
+    "work/2018/premieres-pierres.md",
+    "work/2016/columbarium-i.md",
+    "work/2015/homeless-drawings.md",
+]
+
+
+def _get(url, headers=None, timeout=20):
+    req = urllib.request.Request(url, headers=headers or {"User-Agent": "english-quiz-bot"})
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return r.read().decode("utf-8")
+
+
+# ── 개인 사이트 수집 ─────────────────────────────────────────────────────────
+
+def list_work_paths():
+    url = f"https://api.github.com/repos/{PERSONAL_REPO}/git/trees/{PERSONAL_BRANCH}?recursive=1"
+    headers = {"User-Agent": "english-quiz-bot", "Accept": "application/vnd.github+json"}
+    if GITHUB_TOKEN:
+        headers["Authorization"] = f"Bearer {GITHUB_TOKEN}"
+    try:
+        tree = json.loads(_get(url, headers))["tree"]
+        paths = [n["path"] for n in tree
+                 if n["type"] == "blob"
+                 and n["path"].startswith("work/")
+                 and n["path"].endswith(".md")]
+        if paths:
+            print(f"[INFO] Found {len(paths)} work pages via API")
+            return paths
+    except Exception as e:
+        print(f"[WARN] GitHub tree API failed: {e}")
+    print("[INFO] Using fallback work path list")
+    return list(FALLBACK_WORK_PATHS)
+
+
+def parse_work_md(raw):
+    m = re.match(r"^---\n(.*?)\n---", raw, re.S)
+    if not m:
+        return None
+    try:
+        fm = yaml.safe_load(m.group(1))
+    except Exception:
+        return None
+    if not isinstance(fm, dict):
+        return None
+
+    parts = []
+    title = (fm.get("title") or "").strip()
+
+    for key in ("summary", "description"):
+        v = fm.get(key)
+        if isinstance(v, str) and v.strip():
+            parts.append(v.strip())
+
+    cap = fm.get("cover_caption")
+    if isinstance(cap, str) and cap.strip():
+        parts.append(cap.strip())
+
+    media = fm.get("media")
+    if isinstance(media, list):
+        caps = [m2.get("caption", "").strip() for m2 in media
+                if isinstance(m2, dict) and isinstance(m2.get("caption"), str)]
+        caps = [c for c in caps if c]
+        if caps:
+            parts.append(" / ".join(caps[:6]))
+
+    body = "\n\n".join(parts)
+    body = re.sub(r"[*_]{1,2}([^*_]+)[*_]{1,2}", r"\1", body)
+    body = re.sub(r"\s+", " ", body).strip()
+
+    # 서술문(description)이 있고 충분히 긴 페이지만 사용
+    if not isinstance(fm.get("description"), str) or len(fm["description"].strip()) < 300:
+        return None
+    if len(body) < 350:
+        return None
+    return {"title": title, "text": body[:1400]}
+
+
+def fetch_personal_texts(n=PERSONAL_WORKS_PER_DAY):
+    paths = list_work_paths()
+    random.shuffle(paths)
+    out = []
+    for p in paths:
+        if len(out) >= n:
+            break
+        safe = urllib.parse.quote(p)
+        url = f"https://raw.githubusercontent.com/{PERSONAL_REPO}/{PERSONAL_BRANCH}/{safe}"
+        try:
+            parsed = parse_work_md(_get(url))
+            if parsed:
+                out.append(parsed)
+                print(f"[OK] personal source: {parsed['title']} ({len(parsed['text'])} chars)")
+        except Exception as e:
+            print(f"[WARN] {p}: {e}")
+    return out
+
+
+# ── RSS 수집 ────────────────────────────────────────────────────────────────
 
 def fetch_sentences(feeds, max_per_feed=2):
     sentences = []
@@ -86,107 +189,134 @@ def fetch_sentences(feeds, max_per_feed=2):
             feed = feedparser.parse(url)
             for entry in feed.entries[:max_per_feed]:
                 text = entry.get("summary", "") or ""
-                text = re.sub(r'<[^>]+>', '', text).strip()
+                text = re.sub(r"<[^>]+>", "", text).strip()
                 if len(text) > 120:
                     sentences.append(text[:800])
         except Exception as e:
             print(f"[WARN] Failed to fetch {url}: {e}")
     return sentences
 
-def get_everyday_sentences(n=5):
-    return random.sample(EVERYDAY_SENTENCE_POOL, min(n, len(EVERYDAY_SENTENCE_POOL)))
 
 # ── 문제 생성 ────────────────────────────────────────────────────────────────
 
-SYSTEM_PROMPT = """You are an expert English language teacher with deep knowledge of grammar, vocabulary, and academic writing.
-Create challenging and varied quiz questions. Each grammar question must test a genuinely different point.
-Return ONLY a valid JSON array — no markdown, no preamble, no explanation outside the JSON."""
+SYSTEM_PROMPT = """You are an expert English teacher working with an advanced learner: a South Korean visual artist based in France who writes exhibition texts, artist statements, and grant applications in English.
 
-def build_prompt(academic_texts, general_texts, everyday_texts):
-    academic_block = "\n\n".join(f"[ACADEMIC {i+1}]\n{t}" for i, t in enumerate(academic_texts))
-    general_block  = "\n\n".join(f"[GENERAL {i+1}]\n{t}"  for i, t in enumerate(general_texts))
-    everyday_block = "\n\n".join(f"[EVERYDAY {i+1}]\n{t}" for i, t in enumerate(everyday_texts))
-    chosen_grammar = random.sample(GRAMMAR_TOPICS, 5)
+Create precise, challenging quiz questions. Never test trivial points (basic third-person -s, obvious plurals). Return ONLY a valid JSON array — no markdown fences, no preamble."""
 
-    return f"""Create exactly 14 English quiz questions with this distribution:
 
-- 5 VOCABULARY: fill-in-the-blank from ACADEMIC or GENERAL texts. Test sophisticated vocabulary.
-- 5 GRAMMAR: test these specific grammar points (one question per point): {'; '.join(chosen_grammar)}. Write your own clear example sentences if needed. Questions must be genuinely challenging.
-- 3 CONTEXT: choose the most natural expression, using EVERYDAY sentences.
-- 1 PARAPHRASE: rewrite an ACADEMIC sentence in own words (no options).
+def build_prompt(personal_texts, rss_texts):
+    personal_block = "\n\n".join(
+        f'[MY WRITING {i+1} — "{p["title"]}"]\n{p["text"]}'
+        for i, p in enumerate(personal_texts)
+    ) or "[MY WRITING]\n(none available)"
 
-SOURCES:
-{academic_block}
+    rss_block = "\n\n".join(f"[PUBLISHED {i+1}]\n{t}" for i, t in enumerate(rss_texts))
+    g = random.sample(GRAMMAR_TOPICS, 2)
 
-{general_block}
+    return f"""Create exactly 8 English quiz questions.
 
-{everyday_block}
+=== SOURCE A: MY OWN WRITING (the learner's own artist texts) ===
+{personal_block}
 
-RULES:
-- Each grammar question tests a DIFFERENT point from the list above.
-- Distractors must be plausible, not obviously wrong.
-- Explanations: 2-3 sentences, educational, explain why wrong options are wrong.
-- Paraphrase: provide 3-5 keywords capturing the core meaning.
+=== SOURCE B: PUBLISHED ARTICLES ===
+{rss_block}
 
-Return JSON array of 14 objects:
-{{"id":1,"type":"vocabulary"|"grammar"|"context"|"paraphrase","source":"academic"|"general"|"everyday"|"original","sentence":"...","question":"...","options":["A....","B....","C....","D...."],"answer":"A","explanation":"...","paraphrase_keywords":["word1"]}}
+=== REQUIRED DISTRIBUTION (8 questions) ===
 
-For paraphrase: options=null, answer=null."""
+Q1-Q2 — VOCABULARY from SOURCE A (source: "personal")
+  Pick words or phrases that actually appear in MY WRITING and are worth mastering
+  for art writing. Fill-in-the-blank using the real sentence, 4 options.
 
-def generate_questions(academic_texts, general_texts, everyday_texts):
+Q3-Q4 — GRAMMAR from SOURCE A (source: "personal")
+  Base these on sentence structures in MY WRITING. Test whether the learner can choose
+  the more accurate or more idiomatic construction for art/academic writing.
+  Good angles: articles with abstract nouns, participle clauses, preposition choice,
+  parallel structure, tense for completed vs ongoing work.
+  Set "sentence" to the relevant sentence (or a lightly adapted version) from MY WRITING.
+
+Q5-Q6 — VOCABULARY from SOURCE B (source: "published")
+  Sophisticated vocabulary in context, fill-in-the-blank, 4 options.
+
+Q7-Q8 — GRAMMAR, self-authored (source: "original")
+  Test these two points, one each: {g[0]}; {g[1]}.
+  Write your own clear example sentences.
+
+=== RULES ===
+- Every question tests something different. No overlap between Q3-Q4 and Q7-Q8.
+- Distractors must be genuinely plausible — a careless reader should be tempted.
+- "explanation": 2-3 sentences in Korean. Say why the answer is right AND why the main
+  distractor is wrong. For SOURCE A questions, add one short practical note on how to
+  use the expression in the learner's own writing.
+- "question" prompts: write in Korean.
+- Keep "sentence" in English.
+
+=== OUTPUT ===
+JSON array of 8 objects, each:
+{{"id":1,"type":"vocabulary"|"grammar","source":"personal"|"published"|"original","work_title":"About Warding","sentence":"...","question":"...","options":["A. ...","B. ...","C. ...","D. ..."],"answer":"A","explanation":"..."}}
+
+"work_title" only for source "personal"; null otherwise."""
+
+
+def generate_questions(personal_texts, rss_texts):
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
     response = client.messages.create(
-        model="claude-haiku-4-5-20251001",
-        max_tokens=6000,
+        model=MODEL,
+        max_tokens=5000,
         system=SYSTEM_PROMPT,
-        messages=[{"role": "user", "content": build_prompt(academic_texts, general_texts, everyday_texts)}],
+        messages=[{"role": "user", "content": build_prompt(personal_texts, rss_texts)}],
     )
     raw = response.content[0].text.strip()
     raw = raw.removeprefix("```json").removeprefix("```").removesuffix("```").strip()
     return json.loads(raw)
 
-# ── JSON 저장 ────────────────────────────────────────────────────────────────
 
-def save_quiz(questions, date_str):
-    quiz_data = {"date": date_str, "generated_at": datetime.datetime.utcnow().isoformat(), "questions": questions}
+# ── 저장 ─────────────────────────────────────────────────────────────────────
+
+def save_quiz(questions, date_str, personal_titles):
+    quiz_data = {
+        "date": date_str,
+        "generated_at": datetime.datetime.now(datetime.timezone.utc).isoformat(),
+        "personal_sources": personal_titles,
+        "questions": questions,
+    }
     output_path = QUIZ_OUTPUT_DIR / f"{date_str}.json"
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(quiz_data, f, ensure_ascii=False, indent=2)
     print(f"[OK] Quiz saved: {output_path}")
     return output_path
 
-# ── 이메일 발송 ──────────────────────────────────────────────────────────────
 
-def send_email(date_str, questions):
+# ── 이메일 ───────────────────────────────────────────────────────────────────
+
+def send_email(date_str, questions, personal_titles):
     quiz_url = f"{PAGES_BASE_URL}/quiz/index.html?date={date_str}"
     total = len(questions)
-    type_counts = {}
-    for q in questions:
-        t = q.get("type", "unknown")
-        type_counts[t] = type_counts.get(t, 0) + 1
-
-    preview_html = "".join(
-        f"<li><b>Q{q['id']}.</b> {q['question'][:80]}…</li>"
-        for q in questions[:3]
-    )
+    n_vocab = sum(1 for q in questions if q.get("type") == "vocabulary")
+    n_gram = sum(1 for q in questions if q.get("type") == "grammar")
+    n_mine = sum(1 for q in questions if q.get("source") == "personal")
+    src_line = ", ".join(personal_titles) if personal_titles else "—"
 
     html_body = f"""
-<html><body style="font-family:sans-serif;max-width:600px;margin:auto;color:#1e293b;">
-  <h2 style="border-bottom:2px solid #2563eb;padding-bottom:8px;">📚 오늘의 영어 퀴즈 — {date_str}</h2>
-  <p>오늘의 문제 <b>{total}문항</b>이 준비되었습니다.</p>
-  <div style="background:#f1f5f9;border-radius:8px;padding:12px 16px;margin:12px 0;font-size:0.9rem;">
-    어휘 {type_counts.get('vocabulary',0)}문제 &nbsp;·&nbsp;
-    문법 {type_counts.get('grammar',0)}문제 &nbsp;·&nbsp;
-    문맥 {type_counts.get('context',0)}문제 &nbsp;·&nbsp;
-    주관식 {type_counts.get('paraphrase',0)}문제
+<html><body style="font-family:sans-serif;max-width:560px;margin:auto;color:#1e293b;">
+  <h2 style="border-bottom:2px solid #2563eb;padding-bottom:8px;font-size:1.2rem;">
+    오늘의 영어 퀴즈 — {date_str}
+  </h2>
+  <p style="margin:14px 0;">총 <b>{total}문항</b> · 어휘 {n_vocab} · 문법 {n_gram}</p>
+  <div style="background:#f1f5f9;border-radius:8px;padding:12px 16px;margin:12px 0;font-size:0.88rem;">
+    내 작업 텍스트에서 <b>{n_mine}문항</b><br>
+    <span style="color:#64748b;">{src_line}</span>
   </div>
-  <ul style="color:#475569;">{preview_html}<li>…</li></ul>
-  <a href="{quiz_url}" style="display:inline-block;padding:14px 28px;background:#2563eb;color:white;text-decoration:none;border-radius:10px;font-weight:bold;margin:16px 0;">퀴즈 풀기 →</a>
-  <p style="color:#94a3b8;font-size:11px;margin-top:24px;">Academic: e-flux, Artforum, Philosophy Now | General: The Economist, Aeon, Literary Hub</p>
+  <a href="{quiz_url}" style="display:inline-block;padding:13px 26px;background:#2563eb;
+     color:#fff;text-decoration:none;border-radius:10px;font-weight:bold;margin:14px 0;">
+    퀴즈 풀기 →
+  </a>
+  <p style="color:#94a3b8;font-size:11px;margin-top:22px;">
+    archive-wonjy.com · e-flux · Artforum · Philosophy Now · The Economist · Aeon · Literary Hub
+  </p>
 </body></html>"""
 
     msg = MIMEMultipart("alternative")
-    msg["Subject"] = f"📚 영어 퀴즈 {date_str} — 오늘의 {total}문항"
+    msg["Subject"] = f"영어 퀴즈 {date_str} — {total}문항 (내 작업 {n_mine})"
     msg["From"] = GMAIL_USER
     msg["To"] = RECIPIENT_EMAIL
     msg.attach(MIMEText(html_body, "html"))
@@ -196,29 +326,33 @@ def send_email(date_str, questions):
         server.sendmail(GMAIL_USER, RECIPIENT_EMAIL, msg.as_string())
     print(f"[OK] Email sent to {RECIPIENT_EMAIL}")
 
+
 # ── 메인 ─────────────────────────────────────────────────────────────────────
 
 def main():
     date_str = datetime.date.today().isoformat()
     print(f"[START] Generating quiz for {date_str}")
 
-    academic_texts = fetch_sentences(ACADEMIC_FEEDS, max_per_feed=2)
-    general_texts  = fetch_sentences(GENERAL_FEEDS,  max_per_feed=2)
-    everyday_texts = get_everyday_sentences(5)
+    personal = fetch_personal_texts()
+    rss = fetch_sentences(ACADEMIC_FEEDS, 1) + fetch_sentences(GENERAL_FEEDS, 1)
 
-    if len(academic_texts) < 2:
-        academic_texts = ["Contemporary art practices increasingly engage with questions of institutional critique and the politics of display."]
-    if len(general_texts) < 2:
-        general_texts = ["The relationship between economic policy and social outcomes remains a subject of considerable debate."]
+    if not personal:
+        raise SystemExit("[FATAL] No personal source text retrieved — aborting.")
+    if len(rss) < 2:
+        rss = ["Contemporary art institutions increasingly negotiate between public "
+               "accountability and private funding, a tension that shapes both "
+               "programming and the terms on which artists are commissioned."]
 
-    print(f"[INFO] {len(academic_texts)} academic, {len(general_texts)} general, {len(everyday_texts)} everyday")
+    titles = [p["title"] for p in personal]
+    print(f"[INFO] personal={len(personal)} {titles} | rss={len(rss)}")
 
-    questions = generate_questions(academic_texts[:4], general_texts[:4], everyday_texts)
+    questions = generate_questions(personal, rss[:4])
     print(f"[OK] {len(questions)} questions generated")
 
-    save_quiz(questions, date_str)
-    send_email(date_str, questions)
+    save_quiz(questions, date_str, titles)
+    send_email(date_str, questions, titles)
     print("[DONE]")
+
 
 if __name__ == "__main__":
     main()
