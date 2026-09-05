@@ -55,7 +55,17 @@ function renderQuestion(index) {
     paraphrase: "패러프레이징",
   }[q.type] || q.type;
 
-  const sourceBadge = q.source === "academic" ? "🎓 학술" : "📰 일반";
+  const sourceBadge = {
+    personal:  "🗂 내 작업",
+    published: "📰 published",
+    academic:  "🎓 학술",
+    general:   "📰 일반",
+    original:  "✍️ 문법 연습",
+    everyday:  "💬 일상",
+  }[q.source] || "📰 일반";
+
+  const workTag = q.work_title
+    ? `<span class="badge work-badge">${q.work_title}</span>` : "";
 
   let answerBlock = "";
   if (q.type === "paraphrase") {
@@ -88,6 +98,7 @@ function renderQuestion(index) {
       <div class="question-meta">
         <span class="badge type-badge">${typeBadge}</span>
         <span class="badge source-badge">${sourceBadge}</span>
+        ${workTag}
         <span class="q-counter">${index + 1} / ${state.questions.length}</span>
       </div>
       <div class="question-text">${q.question}</div>
