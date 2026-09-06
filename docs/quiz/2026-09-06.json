@@ -1,0 +1,139 @@
+{
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06T10:09:48.929598+00:00",
+  "personal_sources": [
+    "Baignade",
+    "About Warding",
+    "Columbairum"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Baignade",
+      "sentence": "Here, the water moves like leisure water, but within a raw concrete basin, in an underground space, creating a ______ context.",
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. heterotopic",
+        "B. homogeneous",
+        "C. hypothetical",
+        "D. heretical"
+      ],
+      "answer": "A",
+      "explanation": "heterotopic은 푸코의 개념에서 온 말로, 일상 질서와 단절된 layered한 공간을 뜻해 콘크리트 수조 속 '레저용 물'이라는 모순을 정확히 설명합니다. homogeneous(동질적인)는 반대의미이고, hypothetical/heretical은 철자만 비슷할 뿐 의미가 전혀 다릅니다. 설치나 퍼포먼스가 만드는 이질적 공간성을 설명할 때 이 표현을 적극적으로 재사용해보세요."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Columbarium",
+      "sentence": "A single word in which the dwelling of the bird and the dwelling of the dead ______.",
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. overlap",
+        "B. diverge",
+        "C. collide",
+        "D. differ"
+      ],
+      "answer": "A",
+      "explanation": "overlap은 두 의미나 공간이 완전히 같지는 않지만 부분적으로 겹친다는 뜻으로, 새와 죽음의 거처가 한 단어 안에서 공존함을 설명하기에 정확합니다. diverge와 differ는 '갈라지다/다르다'는 반대 의미이고, collide는 지나치게 격렬한 충돌을 뜻해 어울리지 않습니다. 두 상징이나 역사적 층위가 공존함을 말할 때 이 단어를 활용해보세요."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Columbarium",
+      "sentence": "Since 2016, I ______ (collect, record, and bury) the dead pigeons I come across in the city.",
+      "question": "빈칸에 들어갈 가장 적절한 시제를 고르세요.",
+      "options": [
+        "A. have been collecting, recording, and burying",
+        "B. collected, recorded, and buried",
+        "C. collect, record, and bury",
+        "D. had collected, recorded, and buried"
+      ],
+      "answer": "A",
+      "explanation": "'since 2016'처럼 과거 시점부터 지금까지 계속되는 행위는 현재완료진행형으로 표현해야 자연스럽습니다. 단순과거(B)는 행위가 이미 끝났다는 뜻이 되어 지금도 계속되는 이 프로젝트의 성격과 맞지 않습니다. 진행 중인 장기 프로젝트를 소개할 때 이 시제 패턴을 기억해두면 유용합니다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Baignade",
+      "sentence": "A spontaneous action ______ within Grotto with the young exiles who remained in the building, made possible by the repeated postponements of its demolition.",
+      "question": "빈칸에 들어갈 가장 적절한 분사 형태를 고르세요.",
+      "options": [
+        "A. carried out",
+        "B. carrying out",
+        "C. having carried out",
+        "D. to carry out"
+      ],
+      "answer": "A",
+      "explanation": "명사 'action'은 스스로 행동을 '수행하는' 주체가 아니라 '수행되는' 대상이므로 수동의 의미를 지닌 과거분사 carried out이 맞습니다. carrying out은 능동을 뜻해 action이 무언가를 수행하는 주체가 되어야 하므로 부적절합니다. 명사를 뒤에서 수식하며 '~된' 의미를 줄 때 과거분사 구문을 이렇게 활용해보세요."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "sentence": "Neoliberal policies have ______ democracies and spawned unchecked oligarchs.",
+      "question": "빈칸에 들어갈 가장 적절한 표현을 고르세요.",
+      "options": [
+        "A. hollowed out",
+        "B. filled up",
+        "C. strengthened",
+        "D. restored"
+      ],
+      "answer": "A",
+      "explanation": "hollow out은 겉모습은 유지한 채 내부를 서서히 약화시킨다는 뜻으로, 민주주의 제도의 실질적 기능이 약화되었다는 문맥에 정확히 들어맞습니다. strengthen과 restore는 반대되는 의미이고, fill up은 문맥과 전혀 맞지 않습니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "sentence": "An Egyptian court sentenced a well-known television presenter and 11 others to death for manufacturing and trafficking narcotics in a ______ drug case.",
+      "question": "빈칸에 들어갈 가장 적절한 표현을 고르세요.",
+      "options": [
+        "A. sprawling",
+        "B. narrow",
+        "C. minor",
+        "D. isolated"
+      ],
+      "answer": "A",
+      "explanation": "sprawling은 여러 인물과 사건이 얽혀 광범위하게 퍼진 상태를 묘사하는 단어로, 12명이 관련된 대규모 마약 사건을 설명하기에 적합합니다. narrow, minor, isolated는 모두 사건의 규모가 작다는 반대 뉘앙스를 줍니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "sentence": "During the residency, the artist stopped ______ notes and spent the rest of the afternoon walking through the quarry.",
+      "question": "빈칸에 들어갈 가장 적절한 형태를 고르세요.",
+      "options": [
+        "A. to take",
+        "B. taking",
+        "C. take",
+        "D. having taken"
+      ],
+      "answer": "B",
+      "explanation": "'stop + -ing'는 하던 행동을 그만둔다는 의미이고, 'stop + to do'는 다른 행동을 하기 위해 잠시 멈춘다는 전혀 다른 의미가 됩니다. 문맥상 그녀는 필기를 멈추고 산책을 시작했으므로 taking이 맞습니다. 이 둘의 의미 차이를 헷갈리면 문장 전체의 논리가 바뀌므로 주의해야 합니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "sentence": "The residency required her to research the archive, ______ with local historians, and to translate her findings into sculpture.",
+      "question": "빈칸에 들어갈 가장 적절한 형태를 고르세요.",
+      "options": [
+        "A. to negotiate",
+        "B. negotiating",
+        "C. negotiate",
+        "D. having negotiated"
+      ],
+      "answer": "A",
+      "explanation": "세 개의 병렬 항목(to research, ___, to translate)은 동일한 문법 형태를 유지해야 하므로 to negotiate가 맞습니다. negotiating으로 바꾸면 병렬 구조가 깨져 문장이 어색해집니다. 목록이나 비교 구문을 쓸 때는 항상 형태의 일관성을 점검하는 습관이 중요합니다."
+    }
+  ]
+}
