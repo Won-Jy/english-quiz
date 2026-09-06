@@ -265,8 +265,21 @@ def generate_questions(personal_texts, rss_texts):
         system=SYSTEM_PROMPT,
         messages=[{"role": "user", "content": build_prompt(personal_texts, rss_texts)}],
     )
-    raw = response.content[0].text.strip()
+    # thinking 블록이 앞에 올 수 있으므로 text 블록만 모은다
+    raw = "".join(
+        b.text for b in response.content if getattr(b, "type", None) == "text"
+    ).strip()
+    if not raw:
+        raise RuntimeError(f"No text block in response: {[getattr(b,'type',None) for b in response.content]}")
+
     raw = raw.removeprefix("```json").removeprefix("```").removesuffix("```").strip()
+
+    # 앞뒤 잡텍스트가 섞여도 JSON 배열만 잘라낸다
+    if not raw.startswith("["):
+        i, j = raw.find("["), raw.rfind("]")
+        if i != -1 and j != -1:
+            raw = raw[i:j + 1]
+
     return json.loads(raw)
 
 
