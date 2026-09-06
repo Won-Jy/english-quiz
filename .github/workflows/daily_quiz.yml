@@ -2,12 +2,37 @@ name: Daily English Quiz
 
 on:
   schedule:
-    # 프랑스 여름시간(CEST) 23:00 = UTC 21:00
-    - cron: "0 21 * * 1-5"
+    # 파리 16:00 — 서머타임(CEST)일 때
+    - cron: "0 14 * * 1-5"
+    # 파리 16:00 — 표준시(CET)일 때
+    - cron: "0 15 * * 1-5"
   workflow_dispatch:
 
 jobs:
+  # 파리 현지 16시일 때만 통과시킨다 (수동 실행은 항상 통과)
+  check-time:
+    runs-on: ubuntu-latest
+    outputs:
+      proceed: ${{ steps.t.outputs.proceed }}
+    steps:
+      - id: t
+        run: |
+          PARIS_HOUR=$(TZ=Europe/Paris date +%H)
+          echo "Paris time: $(TZ=Europe/Paris date '+%Y-%m-%d %H:%M %Z')"
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "Manual run — proceeding."
+            echo "proceed=true" >> "$GITHUB_OUTPUT"
+          elif [ "$PARIS_HOUR" = "16" ]; then
+            echo "Scheduled run at 16h Paris — proceeding."
+            echo "proceed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Not 16h in Paris — skipping."
+            echo "proceed=false" >> "$GITHUB_OUTPUT"
+          fi
+
   generate-and-send:
+    needs: check-time
+    if: needs.check-time.outputs.proceed == 'true'
     runs-on: ubuntu-latest
 
     permissions:
