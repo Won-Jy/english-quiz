@@ -26,6 +26,8 @@ import yaml
 # ── 설정 ────────────────────────────────────────────────────────────────────
 
 MODEL = "claude-sonnet-5"
+# sonnet-5는 thinking 토큰도 max_tokens 예산을 함께 쓰므로 넉넉히 잡는다
+MAX_TOKENS = 16000
 
 PERSONAL_REPO = "Won-Jy/archive-wonjy"
 PERSONAL_BRANCH = "main"
@@ -257,30 +259,61 @@ JSON array of 8 objects, each:
 "work_title" only for source "personal"; null otherwise."""
 
 
-def generate_questions(personal_texts, rss_texts):
-    client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
-    response = client.messages.create(
-        model=MODEL,
-        max_tokens=5000,
-        system=SYSTEM_PROMPT,
-        messages=[{"role": "user", "content": build_prompt(personal_texts, rss_texts)}],
-    )
-    # thinking 블록이 앞에 올 수 있으므로 text 블록만 모은다
+def _extract_json(response):
+    """thinking 블록을 건너뛰고 text 블록에서 JSON 배열을 추출."""
     raw = "".join(
         b.text for b in response.content if getattr(b, "type", None) == "text"
     ).strip()
     if not raw:
-        raise RuntimeError(f"No text block in response: {[getattr(b,'type',None) for b in response.content]}")
+        kinds = [getattr(b, "type", None) for b in response.content]
+        raise ValueError(f"No text block in response (blocks={kinds})")
 
     raw = raw.removeprefix("```json").removeprefix("```").removesuffix("```").strip()
 
-    # 앞뒤 잡텍스트가 섞여도 JSON 배열만 잘라낸다
     if not raw.startswith("["):
-        i, j = raw.find("["), raw.rfind("]")
-        if i != -1 and j != -1:
-            raw = raw[i:j + 1]
+        i = raw.find("[")
+        if i != -1:
+            raw = raw[i:]
+    j = raw.rfind("]")
+    if j != -1:
+        raw = raw[:j + 1]
 
     return json.loads(raw)
+
+
+def generate_questions(personal_texts, rss_texts, attempts=2):
+    client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+    prompt = build_prompt(personal_texts, rss_texts)
+    last_err = None
+
+    for n in range(1, attempts + 1):
+        try:
+            response = client.messages.create(
+                model=MODEL,
+                max_tokens=MAX_TOKENS,
+                system=SYSTEM_PROMPT,
+                messages=[{"role": "user", "content": prompt}],
+            )
+            print(f"[INFO] attempt {n}: stop_reason={response.stop_reason} "
+                  f"out_tokens={response.usage.output_tokens}")
+
+            if response.stop_reason == "max_tokens":
+                raise ValueError("response truncated (hit max_tokens)")
+
+            questions = _extract_json(response)
+            if not isinstance(questions, list) or len(questions) < 6:
+                raise ValueError(f"expected a list of ~8 questions, got {type(questions).__name__} "
+                                 f"len={len(questions) if isinstance(questions, list) else 'n/a'}")
+
+            for i, q in enumerate(questions, 1):
+                q["id"] = i
+            return questions
+
+        except Exception as e:
+            last_err = e
+            print(f"[WARN] attempt {n} failed: {e}")
+
+    raise RuntimeError(f"Question generation failed after {attempts} attempts: {last_err}")
 
 
 # ── 저장 ─────────────────────────────────────────────────────────────────────
