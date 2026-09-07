@@ -1,0 +1,139 @@
+{
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T16:30:20.487491+00:00",
+  "personal_sources": [
+    "Columbarium I",
+    "Déambulatoire",
+    "Columbarium V"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Columbarium I",
+      "sentence": "He was lying on his back on a sewer grate on the sidewalk, completely dried out by the sun — his eyes were already gone, and his feathers had gone ___.",
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요. (죽은 새의 깃털이 햇빛에 말라 부서지기 쉬운 상태를 묘사)",
+      "options": [
+        "A. brittle",
+        "B. flexible",
+        "C. moist",
+        "D. vivid"
+      ],
+      "answer": "A",
+      "explanation": "'brittle'은 마르고 딱딱해서 쉽게 부서지는 상태를 뜻하며, 시체의 깃털 묘사에 정확히 들어맞습니다. 'flexible'은 정반대 의미이고 'moist'는 문맥(dried out)과 모순됩니다. 작가노트에서 사체나 유기물의 물리적 변화를 묘사할 때 유용하게 쓸 수 있는 단어입니다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Columbarium I",
+      "sentence": "After days of ___, I decided to give him a burial.",
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요. (오랜 시간 고민하고 숙고한 끝에 결정을 내렸다는 의미)",
+      "options": [
+        "A. deliberation",
+        "B. distraction",
+        "C. hesitation",
+        "D. resignation"
+      ],
+      "answer": "A",
+      "explanation": "'deliberation'은 신중하게 숙고하는 과정을 뜻하며 뒤에 이어지는 '결정을 내렸다(decided)'와 자연스럽게 연결됩니다. 'hesitation'은 망설임 자체를 강조해 결정으로 이어지는 뉘앙스가 약합니다. 작가 진술문에서 작업 결정 과정을 설명할 때 'after days/weeks of deliberation' 형태로 자주 활용할 수 있습니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Columbarium I",
+      "sentence": "The first pigeon I ever gave a burial to. This ___ later lead to the Columbarium project.",
+      "question": "과거 시점에서 바라본 '이후에 일어날 일'을 표현하는 데 가장 자연스러운 형태를 고르세요.",
+      "options": [
+        "A. would",
+        "B. will",
+        "C. has",
+        "D. is going to"
+      ],
+      "answer": "A",
+      "explanation": "과거 서술 안에서 '그 후에 벌어질 일'을 가리킬 때는 'would'를 써서 미래-과거(future-in-the-past)를 표현하는 것이 자연스럽습니다. 'will'은 현재 시점 화자의 미래 예측에 쓰이므로 과거 회상 서사와 시제가 어긋납니다. 작품 이력을 서술할 때 '이 작업이 훗날 어떤 결과로 이어졌다'고 쓸 때 이 구조를 활용하세요."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Déambulatoire",
+      "sentence": "Thus, my intervention on the displayed objects was deliberately minimal: ___ — moving — placing on a pedestal.",
+      "question": "빈칸에 들어갈 병렬 구조상 가장 올바른 형태를 고르세요.",
+      "options": [
+        "A. selecting",
+        "B. select",
+        "C. selected",
+        "D. to select"
+      ],
+      "answer": "A",
+      "explanation": "콜론 뒤에 나열된 세 행위(selecting—moving—placing)는 모두 동명사 형태로 통일되어야 병렬 구조가 성립합니다. 'select'나 'to select'는 뒤의 'moving', 'placing'과 형태가 달라 병렬이 깨집니다. 전시 서문에서 일련의 작업 과정을 나열할 때 동사 형태를 반드시 통일하세요."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "sentence": "___ rain causes widespread damage; while north-west South Africa hit by thunderstorms and central-southern US faces oppressive heat.",
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요. (매우 격렬하고 많은 양의 비를 의미)",
+      "options": [
+        "A. Torrential",
+        "B. Turbulent",
+        "C. Torpid",
+        "D. Tumultuous"
+      ],
+      "answer": "A",
+      "explanation": "'torrential rain'은 '폭우, 억수같이 쏟아지는 비'를 뜻하는 고정 표현입니다. 'turbulent'는 날씨보다는 정치·감정적 혼란에 주로 쓰이고, 'torpid'는 '무기력한'이라는 전혀 다른 뜻입니다. 기상 관련 기사에서 자주 등장하는 표현이니 통째로 익혀두면 좋습니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "sentence": "central-southern US faces ___ heat.",
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요. (참기 힘들 정도로 무겁고 답답한 더위를 의미)",
+      "options": [
+        "A. oppressive",
+        "B. impressive",
+        "C. expressive",
+        "D. depressive"
+      ],
+      "answer": "A",
+      "explanation": "'oppressive heat'는 숨 막힐 듯 답답하고 견디기 힘든 더위를 뜻하는 관용적 표현입니다. 'impressive'나 'expressive'는 전혀 다른 의미로 발음이 비슷해 혼동하기 쉬운 오답입니다. 날씨 묘사에서 'oppressive'는 더위뿐 아니라 습도나 분위기의 무거움을 나타낼 때도 쓸 수 있습니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "sentence": "Since the artist could not weld metal herself, she ___ the steel frame welded by a local workshop.",
+      "question": "사역동사(causative)를 활용해 '남에게 시켜서 하게 하다'라는 의미를 완성하는 가장 적절한 표현을 고르세요.",
+      "options": [
+        "A. had",
+        "B. made",
+        "C. let",
+        "D. did"
+      ],
+      "answer": "A",
+      "explanation": "'have + 목적어 + 과거분사' 구조는 '(전문가에게 의뢰해) ~하게 하다'라는 사역의 의미를 나타내며, 예술가가 외부 업체에 제작을 의뢰하는 상황을 정확히 설명합니다. 'made'는 'make + 목적어 + 원형부정사' 구조가 되어야 하므로 과거분사와 함께 쓸 수 없습니다. 작가노트에서 제작을 외주에 맡긴 과정을 설명할 때 'had it fabricated/welded/cast by ~' 형태로 활용하세요."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "sentence": "By the time she began the Columbarium series, she ___ already several pigeon carcasses in her studio for months.",
+      "question": "다른 과거 사건보다 앞서 완료된 일을 나타내는 데 가장 적절한 시제를 고르세요.",
+      "options": [
+        "A. had collected",
+        "B. has collected",
+        "C. collected",
+        "D. was collecting"
+      ],
+      "answer": "A",
+      "explanation": "'By the time she began'이라는 과거 기준점보다 더 이전에 완료된 행위를 나타내려면 과거완료(had collected)를 써야 합니다. 'has collected'는 현재완료로 현재 시점과 연결되므로 과거 서사 안에서는 시제가 맞지 않습니다. 작업의 전개 과정을 시간순으로 서술할 때, 어떤 사건이 다른 과거 사건보다 먼저 일어났음을 밝히려면 과거완료를 사용하세요."
+    }
+  ]
+}
