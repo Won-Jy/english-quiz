@@ -2,37 +2,48 @@ name: Daily English Quiz
 
 on:
   schedule:
-    # 파리 16:00 — 서머타임(CEST)일 때
-    - cron: "0 14 * * 1-5"
-    # 파리 16:00 — 표준시(CET)일 때
-    - cron: "0 15 * * 1-5"
+    # 파리 16:10 — 서머타임(CEST, UTC+2)
+    - cron: "10 14 * * 1-5"
+    # 파리 16:10 — 표준시(CET, UTC+1)
+    - cron: "10 15 * * 1-5"
   workflow_dispatch:
 
 jobs:
-  # 파리 현지 16시일 때만 통과시킨다 (수동 실행은 항상 통과)
-  check-time:
+  # 두 크론 중 지금 계절에 맞는 쪽만 통과시킨다.
+  # 실행 시각이 아니라 "어느 크론이 트리거했는지"로 판단하므로
+  # GitHub 예약 실행이 몇 시간 밀려도 정상 발송된다.
+  check-schedule:
     runs-on: ubuntu-latest
     outputs:
       proceed: ${{ steps.t.outputs.proceed }}
     steps:
       - id: t
+        env:
+          SCHEDULE: ${{ github.event.schedule }}
         run: |
-          PARIS_HOUR=$(TZ=Europe/Paris date +%H)
-          echo "Paris time: $(TZ=Europe/Paris date '+%Y-%m-%d %H:%M %Z')"
+          OFFSET=$(TZ=Europe/Paris date +%z)
+          echo "Paris now : $(TZ=Europe/Paris date '+%Y-%m-%d %H:%M %Z') (UTC${OFFSET})"
+          echo "Event     : ${{ github.event_name }}"
+          echo "Schedule  : ${SCHEDULE:-<none>}"
+
+          PROCEED=false
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            echo "Manual run — proceeding."
-            echo "proceed=true" >> "$GITHUB_OUTPUT"
-          elif [ "$PARIS_HOUR" = "16" ]; then
-            echo "Scheduled run at 16h Paris — proceeding."
-            echo "proceed=true" >> "$GITHUB_OUTPUT"
+            echo "→ 수동 실행: 진행"
+            PROCEED=true
+          elif [ "$SCHEDULE" = "10 14 * * 1-5" ] && [ "$OFFSET" = "+0200" ]; then
+            echo "→ 서머타임 크론 + 현재 CEST: 진행"
+            PROCEED=true
+          elif [ "$SCHEDULE" = "10 15 * * 1-5" ] && [ "$OFFSET" = "+0100" ]; then
+            echo "→ 표준시 크론 + 현재 CET: 진행"
+            PROCEED=true
           else
-            echo "Not 16h in Paris — skipping."
-            echo "proceed=false" >> "$GITHUB_OUTPUT"
+            echo "→ 이번 계절에 맞지 않는 크론: 건너뜀"
           fi
+          echo "proceed=$PROCEED" >> "$GITHUB_OUTPUT"
 
   generate-and-send:
-    needs: check-time
-    if: needs.check-time.outputs.proceed == 'true'
+    needs: check-schedule
+    if: needs.check-schedule.outputs.proceed == 'true'
     runs-on: ubuntu-latest
 
     permissions:
