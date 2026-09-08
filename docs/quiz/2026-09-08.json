@@ -1,0 +1,139 @@
+{
+  "date": "2026-09-08",
+  "generated_at": "2026-09-08T17:54:19.475763+00:00",
+  "personal_sources": [
+    "Esquisse sur la colombophobie",
+    "Flâner passer ou habiter",
+    "Collection des contenants en plastique"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Esquisse sur la colombophobie",
+      "sentence": "I draw a connection between pigeons—now despised—and _____ people in human society, a connection I refer to as the \"Pigeon-human.\"",
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. marginalized",
+        "B. centralized",
+        "C. isolated",
+        "D. neglected"
+      ],
+      "answer": "A",
+      "explanation": "'marginalized'는 사회 구조에서 주변부로 밀려난 상태를 뜻하며, 원문에서 비둘기와 소외된 인간을 연결하는 개념적 핵심어입니다. 'isolated'나 'neglected'는 단순히 '고립된', '방치된'이라는 뜻으로 사회적 권력 구조에서 밀려났다는 뉘앙스가 부족합니다. 작가 노트나 전시 서문에서 사회적 소수자를 언급할 때 'marginalized communities/people'처럼 자주 활용하면 좋습니다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Flâner passer ou habiter",
+      "sentence": "I also integrated materials collected from the riverbed into concrete, creating sculptures that _____ hostile architectural structures.",
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. evoke",
+        "B. invoke",
+        "C. provoke",
+        "D. evolve"
+      ],
+      "answer": "A",
+      "explanation": "'evoke'는 형태나 이미지가 어떤 인상이나 기억을 '불러일으키다'는 뜻으로 조각이 특정 건축적 인상을 연상시킨다는 원문의 의미와 정확히 맞습니다. 'invoke'는 권위나 규칙을 '들어 언급하다'는 뜻이라 조형적 연상을 표현할 때는 부적절합니다. 작품 설명에서 형태적 연상을 말할 때 'evoke a sense of...' 형태로 자주 사용하면 좋습니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Esquisse sur la colombophobie",
+      "sentence": "By documenting these personal experiences and _____ research across various fields such as ornithology and sociology, I traced the history of human-pigeon relations.",
+      "question": "병렬 구조상 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. conducting",
+        "B. conduct",
+        "C. to conduct",
+        "D. having conducted"
+      ],
+      "answer": "A",
+      "explanation": "전치사 'by' 뒤에는 동명사가 와야 하며, 앞선 'documenting'과 문법적으로 병렬을 이루어야 하므로 'conducting'이 맞습니다. 'to conduct'나 'conduct'는 병렬 구조를 깨뜨려 문장이 어색해집니다. 연구 방법을 나열할 때는 'by -ing and -ing' 형태로 통일하는 습관을 들이면 학술적 글쓰기에서 자연스럽습니다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Flâner passer ou habiter",
+      "sentence": "I integrated materials collected from the riverbed _____ concrete, creating sculptures that evoke hostile architectural structures.",
+      "question": "빈칸에 들어갈 가장 적절한 전치사를 고르세요.",
+      "options": [
+        "A. into",
+        "B. in",
+        "C. onto",
+        "D. with"
+      ],
+      "answer": "A",
+      "explanation": "'integrate A into B'는 'A를 B 속에 통합시키다'는 뜻의 고정 표현으로, 재료가 콘크리트 안에 물리적으로 섞여 들어갔다는 의미를 정확히 전달합니다. 'in'은 위치를 나타낼 뿐 '통합'의 동적 의미가 없어 어색합니다. 재료의 결합 과정을 설명할 때 'integrate X into Y' 구문을 기억해두면 유용합니다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "sentence": "But reading the _____ of our palms for hidden meaning is what doctors have always done.",
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. creases",
+        "B. wrinkles",
+        "C. folds",
+        "D. lines"
+      ],
+      "answer": "A",
+      "explanation": "'creases'는 손바닥에 생긴 미세한 접힘 자국을 가리키는 정확한 표현으로 손금 읽기의 맥락에 맞습니다. 'wrinkles'는 주로 피부 노화로 생긴 주름을 뜻해 손금의 의미와는 결이 다릅니다. 신체나 표면의 세밀한 자국을 묘사할 때 'creases'가 더 정교한 어휘 선택이 됩니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "sentence": "The _____ of Somali piracy targeting cargo ships and smaller dhows off the Horn of Africa has returned to levels not seen in a decade.",
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. scourge",
+        "B. surge",
+        "C. plague",
+        "D. outbreak"
+      ],
+      "answer": "A",
+      "explanation": "'scourge'는 오랫동안 지속되며 큰 피해를 주는 재앙적 문제를 가리키는 단어로, 해적 행위처럼 반복적 고통을 주는 현상을 표현할 때 적합합니다. 'surge'는 단순한 '급증'을 뜻해 의미상 그럴듯해 보이지만 원문이 강조하는 '고통스러운 지속적 문제'라는 뉘앙스가 없습니다. 사회적 문제를 심각하게 표현할 때 'the scourge of + 문제'라는 구문을 익혀두면 유용합니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "sentence": "In her artist statement, she explores _____ memory and displacement through sculptural forms.",
+      "question": "빈칸에 들어갈 가장 적절한 관사를 고르세요.",
+      "options": [
+        "A. (no article)",
+        "B. a",
+        "C. the",
+        "D. some"
+      ],
+      "answer": "A",
+      "explanation": "'memory'가 추상적이고 일반적인 개념으로 쓰일 때는 관사를 붙이지 않습니다. 'the memory'는 특정한 기억을 지칭할 때 쓰이므로 여기서는 부적절합니다. 작가 노트에서 'identity', 'trauma', 'displacement' 같은 추상명사를 일반적 의미로 쓸 때는 무관사가 자연스럽다는 점을 기억하세요."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "sentence": "The curator said, \"The exhibition will open next month.\" → The curator said that the exhibition _____ the following month.",
+      "question": "간접화법으로 바꿀 때 시제가 올바르게 일치된 것을 고르세요.",
+      "options": [
+        "A. would open",
+        "B. will open",
+        "C. opens",
+        "D. had opened"
+      ],
+      "answer": "A",
+      "explanation": "주절 동사가 과거형('said')이므로 종속절의 미래시제 'will'은 시제 일치 규칙에 따라 'would'로 바뀌어야 합니다. 'will open'을 그대로 두면 시제 일치 오류가 되며, 원문 인용이 아닌 간접화법에서는 반드시 백시프트가 필요합니다. 전시 소개나 인터뷰 인용을 간접화법으로 옮길 때 이 규칙을 적용하면 문장이 훨씬 정확해집니다."
+    }
+  ]
+}
