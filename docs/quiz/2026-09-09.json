@@ -1,0 +1,139 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T17:47:45.385186+00:00",
+  "personal_sources": [
+    "Columbarium III",
+    "Esquisse sur la colombophobie",
+    "Columbarium II"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Columbarium III",
+      "sentence": "For this exhibition, I stacked the pigeon-grave boxes — which had ___ at home over time — into a single tall column, like a tower, and titled it Columbarium.",
+      "question": "빈칸에 들어갈 가장 적절한 표현을 고르세요.",
+      "options": [
+        "A. piled up",
+        "B. accumulated up",
+        "C. gathered up",
+        "D. stocked up"
+      ],
+      "answer": "A",
+      "explanation": "'pile up'은 물건이 시간이 지나며 저절로 쌓이는 상황을 자연스럽게 표현하는 구동사로, 원문에서도 이 형태로 쓰였습니다. 'accumulate'는 그 자체로 '쌓이다'라는 뜻을 이미 포함하므로 'up'과 함께 쓰면 어색하며, 'stock up'은 '비축하다'라는 다른 의미입니다. 작가노트에서 시간의 경과와 함께 자연스럽게 쌓인 사물을 묘사할 때 'pile up'을 활용하면 좋습니다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Columbarium II",
+      "sentence": "I brought the pigeon graves I had at home and ___ a display, arranging them together with materials I found on-site at the residency.",
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. improvised",
+        "B. impersonated",
+        "C. improved",
+        "D. imposed"
+      ],
+      "answer": "A",
+      "explanation": "'improvise a display'는 사전 계획 없이 현장 재료로 즉흥적으로 전시를 구성했다는 의미를 정확히 전달하며, 원문에도 이 단어가 쓰였습니다. 'improve'는 '개선하다'라는 전혀 다른 뜻이라 헷갈리기 쉽지만 문맥과 맞지 않습니다. 레지던시나 현장 설치 작업을 설명할 때 'improvise'는 즉흥성과 현장성을 강조하는 데 유용한 단어입니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Columbarium III",
+      "sentence": "By the time the exhibition opened, hundreds of maggots that ___ inside the topmost box had turned into flies.",
+      "question": "시제 사용이 가장 정확한 표현을 고르세요.",
+      "options": [
+        "A. had been born",
+        "B. were born",
+        "C. have been born",
+        "D. had been being born"
+      ],
+      "answer": "A",
+      "explanation": "'had turned'이라는 과거완료 사건보다 더 이전에 일어난 일(구더기가 태어난 것)을 표현해야 하므로 과거완료 수동형 'had been born'이 맞습니다. 'were born'은 단순과거로, 두 사건의 선후관계를 명확히 드러내지 못해 시간적으로 어색합니다. 전시 진행 중 일어난 여러 사건의 시간 순서를 설명할 때는 이렇게 과거완료를 활용해 사건의 선후를 명확히 하는 것이 좋습니다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Columbarium III",
+      "sentence": "The flies would either gather at the hole or ___ to squeeze into the gap along the box's lid joint, often getting stuck there.",
+      "question": "병렬 구조상 가장 적절한 형태를 고르세요.",
+      "options": [
+        "A. try",
+        "B. trying",
+        "C. tried",
+        "D. to try"
+      ],
+      "answer": "A",
+      "explanation": "'would either gather ... or try ...'처럼 조동사 would 뒤에 이어지는 두 동사는 모두 동사원형으로 병렬을 이루어야 합니다. 'trying'이나 'to try'를 쓰면 앞의 'gather'와 형태가 어긋나 문법적으로 어색해집니다. 두 가지 행동을 나열할 때는 이렇게 등위접속사 앞뒤의 동사 형태를 통일시키는 습관을 들이면 좋습니다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "sentence": "Indigenous knowledge and art overwrite colonial cartography to ___ the historical record in Central Australia.",
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. correct",
+        "B. correlate",
+        "C. collect",
+        "D. convert"
+      ],
+      "answer": "A",
+      "explanation": "'correct the historical record'는 왜곡된 역사적 기록을 바로잡는다는 뜻의 관용적 표현으로 본문의 맥락과 일치합니다. 'correlate'는 '상관관계를 짓다'라는 뜻이라 역사 기록을 바로잡는다는 의미와는 다릅니다. 전시 서문 등에서 역사적 서사를 재해석하거나 교정하는 작업을 설명할 때 이 표현을 활용할 수 있습니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "sentence": "Babies born to mothers with anaemia have smaller brains, particularly in key regions linked to movement, learning and the ___ of emotion.",
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. regulation",
+        "B. relation",
+        "C. registration",
+        "D. regularity"
+      ],
+      "answer": "A",
+      "explanation": "'the regulation of emotion'은 감정을 조절·통제하는 기능을 가리키는 표준적인 학술 표현입니다. 'relation'은 철자와 발음이 비슷해 혼동하기 쉽지만 '관계'라는 뜻이라 문맥에 맞지 않습니다. 심리학이나 신경과학 관련 글을 읽거나 쓸 때 'regulation'이 '조절'의 의미로 자주 쓰인다는 점을 기억해두면 좋습니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "sentence": "Since she could not weld metal herself, the artist had the steel frame ___ by a local workshop.",
+      "question": "사역동사 구문에서 빈칸에 가장 적절한 형태를 고르세요.",
+      "options": [
+        "A. welded",
+        "B. weld",
+        "C. welding",
+        "D. to weld"
+      ],
+      "answer": "A",
+      "explanation": "'have + 목적어 + 과거분사' 구조는 '(남에게) ~하게 하다/시키다'라는 사역의 의미로, 목적어(frame)가 용접을 '당하는' 대상이므로 과거분사 'welded'가 맞습니다. 'weld'나 'to weld'를 쓰면 목적어가 직접 행위를 하는 것으로 오해될 수 있어 의미가 어긋납니다. 작업을 외부 업체나 조수에게 맡긴 과정을 설명할 때 이 구문이 매우 유용합니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "sentence": "If I ___ more time before the show, I would have arranged the boxes in a spiral instead of a column.",
+      "question": "가정법 문장에서 빈칸에 가장 적절한 형태를 고르세요.",
+      "options": [
+        "A. had had",
+        "B. had",
+        "C. have had",
+        "D. would have"
+      ],
+      "answer": "A",
+      "explanation": "주절에 'would have arranged'라는 3형식 가정법 과거완료가 쓰였으므로, if절에도 과거완료 'had had'가 와야 과거의 이루지 못한 상황에 대한 가정을 정확히 표현합니다. 'had'만 쓰면 단순과거로 2형식(현재/미래 가정)처럼 읽혀 시제가 어긋납니다. 이미 지나간 전시 준비 과정에서 '그때 그랬더라면'을 표현할 때 이 3형식 가정법 구조를 활용하면 좋습니다."
+    }
+  ]
+}
