@@ -1,0 +1,139 @@
+{
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T17:40:21.276452+00:00",
+  "personal_sources": [
+    "Flâner passer ou habiter",
+    "Esquisse sur la colombophobie",
+    "Columbarium V"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Flâner passer ou habiter",
+      "sentence": "This exhibition ___ my journey through the rivers and rocks of the Cévennes, as well as the traces left by human presence.",
+      "question": "빈칸에 들어갈 가장 자연스러운 단어를 고르세요.",
+      "options": [
+        "A. retraces",
+        "B. retells",
+        "C. traces back",
+        "D. rewinds"
+      ],
+      "answer": "A",
+      "explanation": "'retrace a journey'는 '(과거의) 여정을 다시 따라가다'라는 뜻으로 전시 서문에서 매우 자주 쓰이는 표현입니다. 'traces back'은 보통 'traces back to + 명사(기원)' 구조로 쓰이며 목적어로 journey를 바로 받지 않아 어색합니다. 앞으로 작가노트에서 과거의 리서치나 이동 경로를 되짚는 전시를 설명할 때 'This exhibition retraces...'를 활용해보세요."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Flâner passer ou habiter",
+      "sentence": "I also integrated materials collected from the riverbed into concrete, creating sculptures that ___ hostile architectural structures.",
+      "question": "빈칸에 들어갈 가장 자연스러운 단어를 고르세요.",
+      "options": [
+        "A. evoke",
+        "B. invoke",
+        "C. provoke",
+        "D. evolve"
+      ],
+      "answer": "A",
+      "explanation": "'evoke'는 '(이미지·느낌 등을) 연상시키다, 불러일으키다'라는 뜻으로 작품이 어떤 형태나 분위기를 떠올리게 할 때 씁니다. 'invoke'는 신이나 권위, 법 등을 '불러내다/호소하다'는 의미로 조각의 형태 묘사에는 맞지 않습니다. 작품 설명에서 'sculptures that evoke...' 구조로 형태적 연상을 설명하는 데 유용합니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Flâner passer ou habiter",
+      "sentence": "I also integrated materials collected from the riverbed into concrete, ___ sculptures that evoke hostile architectural structures.",
+      "question": "빈칸에 들어갈 가장 적절한 형태를 고르세요.",
+      "options": [
+        "A. creating",
+        "B. created",
+        "C. which create",
+        "D. to create"
+      ],
+      "answer": "A",
+      "explanation": "현재분사 'creating'은 앞 문장의 결과나 부수적 상황을 자연스럽게 이어주는 분사구문으로, 두 동작(통합하는 행위와 그로 인해 조각이 만들어지는 결과)을 매끄럽게 연결합니다. 'to create'는 목적을 나타내어 '조각을 만들기 위해 재료를 통합했다'는 의도로 의미가 달라지므로 원문의 뉘앙스(결과 서술)와 맞지 않습니다. 작업 설명에서 '~하면서 …한 결과를 낳다'를 표현할 때 '..., creating/resulting in ...' 구조를 적극 활용하세요."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Flâner passer ou habiter",
+      "sentence": "a movement that I associate with wandering, passing through, or ___",
+      "question": "병렬 구조상 빈칸에 가장 적절한 형태를 고르세요.",
+      "options": [
+        "A. inhabiting",
+        "B. to inhabit",
+        "C. inhabit",
+        "D. having inhabited"
+      ],
+      "answer": "A",
+      "explanation": "전치사 'with' 뒤에 나열된 세 가지 행위(wandering, passing through, inhabiting)는 모두 동명사 형태로 병렬을 이루어야 합니다. 'to inhabit'을 쓰면 앞의 두 동명사와 형태가 어긋나 병렬 구조가 깨집니다. 작가노트에서 개념을 나열할 때는 반드시 같은 품사·형태로 통일하는 습관을 들이세요."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "sentence": "A traditional Ugandan kingdom has become ___ in a bitter succession dispute after the family of a king who recently died rejected the selection of a television news anchor as his successor.",
+      "question": "빈칸에 들어갈 가장 자연스러운 단어를 고르세요.",
+      "options": [
+        "A. engulfed",
+        "B. enveloped",
+        "C. absorbed",
+        "D. entangled"
+      ],
+      "answer": "A",
+      "explanation": "'engulfed in a dispute/crisis/conflict'는 갈등이나 위기에 완전히 휩싸였음을 나타내는 관용적 표현입니다. 'enveloped'는 물리적으로 감싸는 이미지가 강해 추상적 갈등에는 어색하고, 'entangled'는 '얽혀들다'는 뜻이라 문맥상 그럴듯하지만 기사 원문의 강렬한 뉘앙스(완전히 휩쓸림)에는 'engulfed'가 더 정확합니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "sentence": "This is the first installment of an ongoing series recommending books from what I'll call the Funny Novel ___. Think of it as a working syllabus for literary humorists.",
+      "question": "빈칸에 들어갈 가장 자연스러운 단어를 고르세요.",
+      "options": [
+        "A. Canon",
+        "B. Cannon",
+        "C. Canyon",
+        "D. Canonical"
+      ],
+      "answer": "A",
+      "explanation": "'canon'은 어떤 분야에서 정전(正典)으로 인정받는 작품들의 집합을 뜻하며, 뒤이어 나오는 'syllabus(교과과정)'와 자연스럽게 호응합니다. 'cannon'은 발음은 비슷하지만 '대포'라는 전혀 다른 단어이므로 철자에 유의해야 합니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "sentence": "If the artist ___ more time before the opening, she would have finished the installation completely.",
+      "question": "가정법 문장에서 빈칸에 들어갈 가장 적절한 형태를 고르세요.",
+      "options": [
+        "A. had had",
+        "B. would have had",
+        "C. has had",
+        "D. having had"
+      ],
+      "answer": "A",
+      "explanation": "과거 사실에 반대되는 가정(3형식 가정법)은 'If + 주어 + had + 과거분사, 주어 + would have + 과거분사' 구조를 따릅니다. 'would have had'는 주절에서 이미 쓰이는 형태이므로 if절에 다시 쓰면 두 절 모두 결과절 형태가 되어 문법적으로 틀립니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "sentence": "Not only the sculptures but also the accompanying text ___ central to understanding the exhibition's meaning.",
+      "question": "주어-동사 수 일치가 올바른 것을 고르세요.",
+      "options": [
+        "A. is",
+        "B. are",
+        "C. were",
+        "D. have been"
+      ],
+      "answer": "A",
+      "explanation": "'not only A but also B' 구문에서 동사는 B, 즉 동사에 더 가까운 명사(the accompanying text, 단수)에 수를 일치시킵니다. 'the sculptures'가 복수라고 해서 'are'를 고르는 것은 흔한 실수이며, 이는 실제로는 가까운 명사가 아닌 먼 명사에 일치시킨 오류입니다."
+    }
+  ]
+}
