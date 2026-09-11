@@ -1,0 +1,139 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T17:44:21.692996+00:00",
+  "personal_sources": [
+    "Collection des contenants en plastique",
+    "Fantôme 3008",
+    "Self-portrait"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Collection des contenants en plastique",
+      "sentence": "These were the everyday \"___\" of daily life, sorted by kind inside transparent plastic boxes.",
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요. (작가노트에서 실제로 사용된 표현입니다.)",
+      "options": [
+        "A. residue",
+        "B. remainder",
+        "C. residual",
+        "D. remnants"
+      ],
+      "answer": "A",
+      "explanation": "'residue'는 어떤 활동이나 시간이 지나간 뒤 남은 흔적을 뜻하며, 원문에서도 일상의 잔여물을 지칭하는 단수 명사로 쓰였습니다. 'remnants'는 복수형이며 주로 천 조각 등 물리적 파편에 쓰이고, 'residual'은 형용사라 명사 자리에 올 수 없습니다. 작업 설명에서 '일상의 부산물'을 은유적으로 표현할 때 residue를 활용하면 좋습니다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Collection des contenants en plastique",
+      "sentence": "each student assembled a personal collection of their own and ___ a display to present it freely.",
+      "question": "빈칸에 들어갈 가장 적절한 동사를 고르세요.",
+      "options": [
+        "A. devised",
+        "B. deviced",
+        "C. contrived",
+        "D. envisioned"
+      ],
+      "answer": "A",
+      "explanation": "'devise'는 전시나 장치 등을 '고안하다'는 뜻으로 원문에서 실제로 쓰인 단어이며 과거형은 'devised'입니다. 'deviced'는 존재하지 않는 형태이고, 'contrived'는 부정적으로 '억지스럽게 꾸며낸'이라는 뉘앙스가 강해 전시 설명에는 부적절합니다. 전시 구성 방식을 설명할 때 'devise a display/system'은 유용한 조합입니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Fantôme 3008",
+      "sentence": "A research project ___ the social and medical services building of the Gard Department, located in the Placette neighborhood of Nîmes.",
+      "question": "학술적이고 격식 있는 글쓰기에 더 적합한 전치사를 고르세요.",
+      "options": [
+        "A. on",
+        "B. about",
+        "C. over",
+        "D. upon"
+      ],
+      "answer": "A",
+      "explanation": "'a research project on X'는 학술적 글쓰기에서 연구 대상을 지칭할 때 가장 표준적인 표현입니다. 'about'도 문법적으로는 가능하지만 더 구어체적이고 가볍게 들립니다. 리서치 프로젝트나 그랜트 지원서에서는 'on'을 사용하는 것이 격식을 유지하는 데 좋습니다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Fantôme 3008",
+      "sentence": "Once as imposing as a spaceship, the building has now been given a new context: it floats in space, ___ by the sun.",
+      "question": "문맥상 올바른 분사 형태를 고르세요.",
+      "options": [
+        "A. circled",
+        "B. circling",
+        "C. being circle",
+        "D. having circled"
+      ],
+      "answer": "A",
+      "explanation": "건물은 태양에 의해 '둘러싸이는' 대상이므로 수동의 의미를 가진 과거분사 'circled'가 맞습니다. 'circling'을 쓰면 건물이 스스로 무언가를 둘러싸고 도는 능동의 의미가 되어 문맥과 어긋납니다. 이런 분사구는 이미지를 압축적으로 묘사할 때 유용하니, 능동/수동 여부를 먼저 판단하는 습관을 들이면 좋습니다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "sentence": "Designed around an Art Deco building that formerly ___ a Citroën garage, the new complex is Brussels' only major cultural institution of its kind.",
+      "question": "빈칸에 들어갈 가장 자연스러운 단어를 고르세요.",
+      "options": [
+        "A. housed",
+        "B. hosted",
+        "C. sheltered",
+        "D. occupied"
+      ],
+      "answer": "A",
+      "explanation": "건물이 특정 용도나 시설을 '수용하다'라는 의미로는 'house'가 표준적인 동사입니다. 'host'는 행사나 사람을 초대하는 뉘앙스라 상업시설 설명에는 어색하고, 'occupied'는 주로 사람이 주어일 때 자연스럽습니다. 전시 공간이나 건물의 이전 용도를 설명할 때 'house'를 기억해두면 유용합니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "sentence": "The fund aims at creating \"unstoppable ___\" to finally end the practice.",
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. momentum",
+        "B. movement",
+        "C. moment",
+        "D. momentous"
+      ],
+      "answer": "A",
+      "explanation": "'momentum'은 어떤 변화나 운동이 멈출 수 없이 진행되는 추진력을 뜻하며 원문의 의미와 정확히 일치합니다. 'movement'는 사회 운동 자체를 가리켜 다른 의미이고, 'moment'는 '순간'이라는 뜻이라 문맥에 맞지 않습니다. 사회적 변화나 캠페인의 힘을 묘사할 때 'momentum'은 자주 쓰이는 고급 어휘입니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "sentence": "The curator stopped ___ notes when the artist began to speak about the piece.",
+      "question": "문맥상 의미가 통하는 형태를 고르세요. (동명사와 to부정사는 의미가 달라집니다)",
+      "options": [
+        "A. writing",
+        "B. to write",
+        "C. having written",
+        "D. write"
+      ],
+      "answer": "A",
+      "explanation": "'stop + -ing'는 하던 행동을 '멈추다'라는 뜻으로, 큐레이터가 필기를 그만두었다는 문맥과 일치합니다. 'stop to write'는 '(다른 일을 하다가) 글을 쓰기 위해 멈추다'라는 전혀 다른 의미가 되어 이 문맥에는 맞지 않습니다. 이 차이는 전시 리뷰나 연구 노트에서 행동의 중단과 목적을 구분해서 표현할 때 특히 중요합니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "sentence": "___ months researching the site's history, the artist finally began sketching the installation.",
+      "question": "문맥상 올바른 분사구문 형태를 고르세요.",
+      "options": [
+        "A. Having spent",
+        "B. Spending",
+        "C. Spent",
+        "D. To spend"
+      ],
+      "answer": "A",
+      "explanation": "완료분사 'having spent'는 주절의 동작보다 앞서 일어난 행위를 나타내므로, 몇 달간의 리서치가 스케치보다 먼저 끝났다는 시간 순서를 정확히 표현합니다. 'Spending'은 두 동작이 동시에 일어나는 느낌을 주어 의미가 어긋나고, 'Spent'는 수동의 의미가 되어 작가가 시간을 '보낸' 주체라는 사실과 맞지 않습니다. 작업 과정을 시간 순으로 설명할 때 having p.p. 구문을 활용하면 문장을 간결하게 압축할 수 있습니다."
+    }
+  ]
+}
