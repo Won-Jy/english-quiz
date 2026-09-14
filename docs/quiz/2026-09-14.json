@@ -1,0 +1,139 @@
+{
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T19:18:10.473183+00:00",
+  "personal_sources": [
+    "Columbarium III",
+    "Premières pierres",
+    "Baignade"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Columbarium III",
+      "sentence": "For this exhibition, I stacked the pigeon-grave boxes — which had ___ at home over time — into a single tall column, like a tower, and titled it Columbarium.",
+      "question": "다음 문장의 빈칸에 들어갈 가장 적절한 표현을 고르세요.",
+      "options": [
+        "A. piled up",
+        "B. stacked up",
+        "C. lined up",
+        "D. loaded up"
+      ],
+      "answer": "A",
+      "explanation": "'pile up'은 시간이 지나면서 무언가가 자연스럽게 쌓이는 것을 뜻하며, 원문에서도 상자들이 별다른 계획 없이 집에 쌓여간 상황을 묘사합니다. 'stack up'은 의도적으로 가지런히 쌓는 뉘앙스가 강해 문맥과 어긋나고, 'load up'은 짐을 싣는다는 뜻이라 어울리지 않습니다. 작가노트에서 '시간이 흐르며 저절로 축적된 것'을 표현할 때 pile up을 활용하면 좋습니다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Baignade",
+      "sentence": "Here, the water moves like leisure water, but within a raw concrete basin, in an underground space, creating a ___ context.",
+      "question": "다음 문장의 빈칸에 들어갈 가장 적절한 표현을 고르세요.",
+      "options": [
+        "A. heterotopic",
+        "B. utopian",
+        "C. dystopian",
+        "D. homogeneous"
+      ],
+      "answer": "A",
+      "explanation": "'heterotopic'은 푸코의 개념으로, 일상적 공간 안에 존재하지만 다른 규칙이 적용되는 '이질적 공간'을 뜻하며, 여가용 물이 지하 콘크리트 공간이라는 낯선 맥락에 놓인 상황을 정확히 묘사합니다. 'utopian'은 '이상적인'이라는 전혀 다른 의미라 어울리지 않습니다. 작가노트에서 공간의 이중적·모순적 성격을 설명할 때 이 단어를 적극 활용할 수 있습니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Columbarium III",
+      "sentence": "By the time the exhibition opened, hundreds of maggots that had been born inside the topmost box ___ into flies.",
+      "question": "다음 문장에서 시제가 올바르게 사용된 표현을 고르세요.",
+      "options": [
+        "A. had turned",
+        "B. turned",
+        "C. have turned",
+        "D. were turning"
+      ],
+      "answer": "A",
+      "explanation": "'by the time + 과거시제'는 특정 과거 시점 이전에 이미 완료된 사건을 나타내므로 과거완료(had turned)가 정확합니다. 단순과거(turned)를 쓰면 전시가 열린 시점과 사건이 동시에 일어난 것처럼 들려 시간 순서가 모호해집니다. 설치 후 예상치 못하게 벌어진 변화를 서술할 때 이 구조를 기억해 두면 유용합니다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Premières pierres",
+      "sentence": "The work consists of two operations: ___ the concrete and transforming it.",
+      "question": "다음 문장에서 병렬 구조상 올바른 표현을 고르세요.",
+      "options": [
+        "A. collecting",
+        "B. collect",
+        "C. to collect",
+        "D. collection of"
+      ],
+      "answer": "A",
+      "explanation": "콜론 뒤 두 작업을 나열할 때는 동일한 문법 형태를 병렬로 써야 하며, 'transforming'과 짝을 이루려면 동명사 'collecting'이 맞습니다. 'collect'나 'to collect'는 형태가 달라 병렬 구조를 깨뜨립니다. 작업 과정을 설명할 때 'consists of A and B' 구조에서는 항상 형태를 통일하는 습관을 들이세요."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "sentence": "Inside the Great Hall of St Bartholomew's North Wing, alongside stately portraits of the apostle from whom London's oldest hospital takes its name and King Henry VIII, ___ commemorative boards adorn the walls.",
+      "question": "다음 문장의 빈칸에 들어갈 가장 적절한 표현을 고르세요.",
+      "options": [
+        "A. extravagant",
+        "B. exquisite",
+        "C. eccentric",
+        "D. elaborate"
+      ],
+      "answer": "A",
+      "explanation": "'extravagant'는 '지나치게 화려하고 과시적인'이라는 의미로, 노예무역으로 얻은 부를 과시하듯 장식된 명판을 비판적으로 묘사하는 원문의 어조와 일치합니다. 'elaborate'는 단순히 '정교한'이라는 중립적 의미라 비판적 뉘앙스가 빠져 문맥상 약하며, 'exquisite'는 오히려 긍정적 미적 찬사에 가까워 어울리지 않습니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "sentence": "If you, like me, are ___ that \"AI\" and \"James Baldwin\" are in the same sentence, you may want to see this exhibition for yourself.",
+      "question": "다음 문장의 빈칸에 들어갈 가장 적절한 표현을 고르세요.",
+      "options": [
+        "A. aghast",
+        "B. astonished",
+        "C. indignant",
+        "D. skeptical"
+      ],
+      "answer": "A",
+      "explanation": "'aghast'는 충격과 경악이 동시에 섞인 강한 표현으로, AI와 볼드윈이 한 문장에 나란히 등장하는 것에 대한 필자의 불편함을 잘 드러냅니다. 'astonished'는 단순히 '놀란'이라는 뜻이라 경악에 가까운 감정을 충분히 전달하지 못하고, 'indignant'는 분노에 가까운 뉘앙스라 다릅니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "sentence": "Halfway through the day, the artist stopped ___ the flies through the tiny hole, then returned to arranging the boxes.",
+      "question": "이 문장이 '파리에게 먹이를 주기 위해 하던 일을 잠시 멈췄다'는 의미가 되도록 빈칸에 알맞은 표현을 고르세요.",
+      "options": [
+        "A. to feed",
+        "B. feeding",
+        "C. having fed",
+        "D. feed"
+      ],
+      "answer": "A",
+      "explanation": "'stop to do'는 다른 행동을 멈추고 그 일을 하기 위해 정지하는 것을 뜻하므로 '먹이를 주려고 멈췄다'는 의미가 됩니다. 반면 'stop feeding'은 '먹이 주는 행위 자체를 그만두다'라는 전혀 다른 뜻이 됩니다. stop 뒤에 to부정사와 동명사가 올 때 의미가 완전히 달라지는 대표적 예이니 기억해 두세요."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "sentence": "The gallery ___ warned visitors about the smell before they entered the room — several people complained afterward.",
+      "question": "다음 문장의 빈칸에 들어갈 가장 적절한 조동사 표현을 고르세요.",
+      "options": [
+        "A. should have",
+        "B. must have",
+        "C. needn't have",
+        "D. couldn't have"
+      ],
+      "answer": "A",
+      "explanation": "'should have + p.p.'는 과거에 하지 않은 일에 대한 비판이나 아쉬움을 나타내므로, 관람객들의 불평이라는 결과와 자연스럽게 이어집니다. 'must have'는 과거 사실에 대한 강한 추측(확실성)을 나타낼 뿐 의무나 비판의 의미가 없어 문맥에 맞지 않고, 'needn't have'는 '할 필요가 없었는데 했다'는 정반대 상황을 뜻합니다."
+    }
+  ]
+}
