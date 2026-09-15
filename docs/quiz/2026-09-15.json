@@ -1,0 +1,139 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T18:08:35.958693+00:00",
+  "personal_sources": [
+    "Grotto",
+    "Columbarium IV",
+    "Esquisse sur la colombophobie"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Columbarium IV",
+      "sentence": "In this ___ of Columbarium, I replaced the rectangular cube form of the boxes I had previously used with a new container for the grave.",
+      "question": "다음 문장의 빈칸에 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. iteration",
+        "B. version",
+        "C. edition",
+        "D. repetition"
+      ],
+      "answer": "A",
+      "explanation": "'iteration'은 연작(series) 안에서 발전해가는 하나의 버전을 가리킬 때 쓰는 표현으로, 작가가 같은 작업을 반복적으로 변주할 때 자주 사용됩니다. 'version'도 가능하긴 하지만 연속된 작업의 한 단계라는 뉘앙스가 약해서 원문의 의도를 정확히 살리지 못합니다. 앞으로 연작 설명 시 'the latest iteration of...' 형태로 활용해보세요."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Grotto",
+      "sentence": "Over the course of the exhibition, I invited other artists to perform there on four separate occasions, continually ___ the exhibition, the pool, and the basement space.",
+      "question": "다음 문장의 빈칸에 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. reactivating",
+        "B. reproducing",
+        "C. reenacting",
+        "D. revitalizing"
+      ],
+      "answer": "A",
+      "explanation": "'reactivate'는 설치나 공간을 퍼포먼스를 통해 다시 '작동'하게 만든다는 예술 담론에서 흔히 쓰이는 동사입니다. 'revitalizing'은 의미가 비슷해 보이지만 활력을 되찾는다는 일반적 뉘앙스로, 반복적 퍼포먼스가 공간을 '재가동'시킨다는 원문의 구체적 함의를 담지 못합니다. 전시 서문에서 퍼포먼스의 역할을 설명할 때 'reactivating the space'처럼 활용하면 좋습니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Grotto",
+      "sentence": "This exhibition grew out of the site-specific sculpture Grotto (2020–2022), which ___ in the basement of the former Département du Gard social welfare building while it awaited demolition.",
+      "question": "빈칸에 들어갈 가장 적절한 동사 형태를 고르세요.",
+      "options": [
+        "A. had been made",
+        "B. was made",
+        "C. has been made",
+        "D. is made"
+      ],
+      "answer": "A",
+      "explanation": "전시가 조각 작업에서 '성장해 나온' 시점보다 조각이 만들어진 시점이 앞서므로, 과거완료(had been made)를 써서 두 사건의 선후 관계를 명확히 해야 합니다. 'was made'는 문법적으로 틀리지 않지만 두 과거 사건의 순서를 흐릿하게 만들어 학술적 글쓰기에서는 덜 정확합니다. 작업의 제작 시점과 전시 성립 시점을 구분해 서술할 때 과거완료를 적극 활용하세요."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Esquisse sur la colombophobie",
+      "sentence": "...when I was homeless in Paris and spent time ___ pigeons as well as people without shelter.",
+      "question": "빈칸에 들어갈 가장 자연스럽고 정확한 표현을 고르세요.",
+      "options": [
+        "A. drawing pigeons as well as people without shelter",
+        "B. drawing pigeons as well as drawing people without shelter",
+        "C. to draw pigeons as well as people without shelter",
+        "D. draw pigeons as well as people without shelter"
+      ],
+      "answer": "A",
+      "explanation": "'as well as'로 연결된 두 명사구가 동일한 동사(drawing)를 공유할 때는 반복되는 동사를 생략하는 것이 영어에서 더 자연스럽고 간결한 표현입니다. B처럼 'drawing'을 반복하면 문법적으로는 맞지만 불필요하게 장황해집니다. 작가 노트에서 병렬 구조를 쓸 때는 공유되는 동사를 한 번만 쓰는 습관을 들이세요."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "sentence": "Homecomings, fantasies, food and ghosts – how the myth of eternal return keeps the Italian diaspora in a state of ___ - by Ben Faccini",
+      "question": "다음 문장의 빈칸에 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. longing",
+        "B. longevity",
+        "C. lingering",
+        "D. belonging"
+      ],
+      "answer": "A",
+      "explanation": "'longing'은 고향이나 과거에 대한 그리움, 갈망을 뜻하며 디아스포라의 정서를 설명하는 맥락에 정확히 들어맞습니다. 'belonging'은 반대로 소속감을 의미하므로, 신화가 디아스포라를 '갈망 상태'에 머물게 한다는 원문의 논지와 어긋납니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "sentence": "...many left ___ and confused as to why they would be left to face what Trump has falsely claimed is a “white genocide” in South Africa.",
+      "question": "다음 문장의 빈칸에 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. dismayed",
+        "B. disheartened",
+        "C. disillusioned",
+        "D. discouraged"
+      ],
+      "answer": "A",
+      "explanation": "'dismayed'는 예상치 못한 결과에 놀라고 당혹스러워하는 감정을 나타내며, 거절당한 신청자들의 반응을 정확히 묘사합니다. 'disillusioned'는 믿음이 깨졌다는 더 깊은 환멸의 뉘앙스로, confused와 자연스럽게 짝을 이루는 원문의 어조와는 차이가 있습니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "sentence": "It is essential that the artist ___ full autonomy over the installation process.",
+      "question": "빈칸에 들어갈 가장 적절한 동사 형태를 고르세요.",
+      "options": [
+        "A. have",
+        "B. has",
+        "C. having",
+        "D. will have"
+      ],
+      "answer": "A",
+      "explanation": "'It is essential that...' 구문 뒤에는 인칭이나 시제에 관계없이 동사원형을 쓰는 가정법(subjunctive)이 사용됩니다. 'has'는 일반적인 직설법 문장에서는 맞지만, 이 요구·필요를 나타내는 구문 뒤에서는 문법적으로 틀립니다. 그랜트 신청서나 공식적인 글에서 'it is essential/important that + 주어 + 동사원형' 구조를 기억해두면 유용합니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "sentence": "She argued that ___ contemporary art must engage with ___ memory of forgotten histories in order to remain relevant.",
+      "question": "빈칸에 들어갈 관사의 올바른 조합을 고르세요.",
+      "options": [
+        "A. (no article) / the",
+        "B. the / (no article)",
+        "C. the / the",
+        "D. (no article) / (no article)"
+      ],
+      "answer": "A",
+      "explanation": "'contemporary art'는 일반적인 개념을 가리키는 추상명사이므로 관사 없이 쓰는 것이 맞고, 'memory of forgotten histories'는 뒤에 나오는 of구가 특정하게 한정해주므로 정관사 'the'가 필요합니다. C처럼 둘 다 'the'를 쓰면 art를 마치 특정한 범주로 한정하는 듯한 부자연스러운 느낌을 줍니다. 추상명사라도 뒤에 한정하는 구가 붙으면 정관사가 필요하다는 점을 기억하세요."
+    }
+  ]
+}
