@@ -1,83 +1,83 @@
 {
   "date": "2026-09-16",
-  "generated_at": "2026-09-16T07:48:29.400409+00:00",
+  "generated_at": "2026-09-16T18:10:35.311544+00:00",
   "personal_sources": [
-    "Hostis",
-    "Columbarium II",
-    "Columbarium V"
+    "Collection des contenants en plastique",
+    "Fantôme 3008",
+    "Columbarium III"
   ],
   "questions": [
     {
       "id": 1,
       "type": "vocabulary",
       "source": "personal",
-      "work_title": "Hostis",
+      "work_title": "Collection des contenants en plastique",
       "expression_key": null,
-      "sentence": "Located in the heart of the Pissevin district in Nîmes, the exhibition « Hostis » takes place in the former ______ of a Muslim funeral home, far removed from the conventional universe of contemporary art.",
+      "sentence": "Each student assembled a personal collection of their own and ______ a display to present it freely.",
       "dialogue": null,
-      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요. ('건물, 부지'라는 뜻의 명사)",
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
       "options": [
-        "A. premises",
-        "B. premise",
-        "C. permissions",
-        "D. promises"
+        "A. devised",
+        "B. depicted",
+        "C. derived",
+        "D. denoted"
       ],
       "answer": "A",
-      "explanation": "'premises'는 항상 복수형으로 쓰여 '건물이 딸린 부지, 구내'를 의미합니다. 'premise'는 '전제'라는 뜻의 다른 단어이므로 여기서는 오답입니다. 전시 공간을 설명할 때 'the premises of a building'처럼 자주 쓰이니 익혀두면 유용합니다."
+      "explanation": "'devised a display'는 '전시 방식을 고안하다'라는 뜻으로 원문과 정확히 일치합니다. 'depicted'는 시각적으로 묘사한다는 뜻이라 '디스플레이를 고안하다'라는 맥락에는 어색합니다. 작가노트에서 새로운 전시 방식이나 아이디어를 만들어냈다고 쓸 때 'devise a strategy/display' 형태로 활용하면 좋습니다."
     },
     {
       "id": 2,
       "type": "vocabulary",
       "source": "personal",
-      "work_title": "Columbarium V",
+      "work_title": "Collection des contenants en plastique",
       "expression_key": null,
-      "sentence": "The six pigeon bodies ______ here are among those collected from abandoned residential buildings in the Pissevin district of Nîmes.",
+      "sentence": "These were the everyday \"______\" of daily life, sorted by kind inside transparent plastic boxes.",
       "dialogue": null,
-      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요. ('매장되다'라는 뜻)",
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
       "options": [
-        "A. interred",
-        "B. interned",
-        "C. enshrined",
-        "D. embedded"
+        "A. residue",
+        "B. remnants",
+        "C. remains",
+        "D. relic"
       ],
       "answer": "A",
-      "explanation": "'interred'는 '매장된, 안장된'이라는 뜻으로 무덤 문맥에 정확히 맞습니다. 'interned'는 발음이 비슷하지만 '억류되다'라는 전혀 다른 뜻이므로 혼동하지 않도록 주의하세요. 매장 의식을 묘사할 때 'interred' 같은 격식 있는 단어를 쓰면 글이 한층 정교해집니다."
+      "explanation": "'residue'는 일상에서 남겨진 흔적이나 잔여물을 뜻하며 원문의 뉘앙스와 정확히 일치합니다. 'remains'는 주로 유해나 유적에 쓰이고, 'relic'은 단수 유물 하나를 가리켜 이 문맥에는 맞지 않습니다. 작업의 잔여물이나 흔적을 언급할 때 'residue'를 쓰면 시적이면서도 정확한 인상을 줍니다."
     },
     {
       "id": 3,
       "type": "grammar",
       "source": "personal",
-      "work_title": "Hostis",
+      "work_title": "Fantôme 3008",
       "expression_key": null,
-      "sentence": "This space, ______ demolition and originally chosen as a creative site, has been transformed into an unconventional indoor garden.",
+      "sentence": "The graffiti murals have been faithfully restored here, with the artists' names included ______ captions whenever possible.",
       "dialogue": null,
-      "question": "빈칸에 가장 자연스럽고 정확한 표현을 고르세요.",
+      "question": "빈칸에 들어갈 가장 자연스러운 전치사를 고르세요.",
       "options": [
-        "A. awaiting",
-        "B. waiting for",
-        "C. awaited by",
-        "D. being waited for"
+        "A. in",
+        "B. on",
+        "C. at",
+        "D. within"
       ],
       "answer": "A",
-      "explanation": "'await'는 전치사 없이 목적어를 바로 취하는 타동사이므로 'awaiting demolition'이 정확합니다. 'waiting for'도 의미는 통하지만 격식 있는 예술 텍스트에서는 'awaiting'이 더 간결하고 문어체적입니다. 분사구문에서 이런 타동사를 쓰면 문장을 더 우아하게 압축할 수 있습니다."
+      "explanation": "'included in captions'는 정보가 캡션 안에 포함된다는 뜻의 관용적 표현입니다. 'within'은 문법적으로는 가능하지만 이런 구체적 정보 포함을 말할 때는 부자연스럽습니다. 캡션이나 텍스트에 정보를 포함시켰다고 쓸 때 'included in'을 기억해두면 유용합니다."
     },
     {
       "id": 4,
       "type": "grammar",
       "source": "personal",
-      "work_title": "Columbarium II",
+      "work_title": "Columbarium III",
       "expression_key": null,
-      "sentence": "This work ______ as part of Dents creuses II, a short-term, on-site experimental exhibition hosted by Échangeur 22, an artist residency located in Saint-Laurent-des-Arbres.",
+      "sentence": "This became the name I would use, from then on, for all future work involving pigeon remains.",
       "dialogue": null,
-      "question": "빈칸에 가장 적절한 시제를 고르세요.",
+      "question": "이 작업은 2019년부터 현재까지 계속되는 연작(2019–)입니다. 이 점을 고려할 때 더 정확한 문장은 무엇일까요?",
       "options": [
-        "A. was presented",
-        "B. has been presented",
-        "C. is presented",
-        "D. has presented"
+        "A. This became the name I have used, from then on, for all future work involving pigeon remains.",
+        "B. This became the name I would use, from then on, for all future work involving pigeon remains.",
+        "C. This became the name I was using, from then on, for all future work involving pigeon remains.",
+        "D. This became the name I use, from then on, for all future work involving pigeon remains."
       ],
       "answer": "A",
-      "explanation": "이 전시는 특정 시점에 열렸다가 끝난 단발성 행사이므로 완료된 과거 사건을 나타내는 단순과거 'was presented'가 맞습니다. 'has been presented'는 현재까지 영향을 미치는 완료의 뉘앙스라서 이미 끝난 특정 전시를 설명할 때는 부적절합니다. 작업 이력을 정리할 때 종료된 전시는 과거시제로, 지속되는 프로젝트는 현재완료로 구분해 쓰세요."
+      "explanation": "작업이 2019년부터 현재까지 이어지고 있으므로 과거의 시작과 현재의 지속을 동시에 나타내는 현재완료 'have used'가 더 정확합니다. 'would use'는 과거 시점에서 바라본 습관적 패턴을 나타낼 뿐 현재와의 연결성을 보여주지 못합니다. 진행 중인 연작을 설명할 때는 현재완료로 지속성을 강조하는 것이 효과적입니다."
     },
     {
       "id": 5,
@@ -85,17 +85,17 @@
       "source": "published",
       "work_title": null,
       "expression_key": null,
-      "sentence": "The discovery of the bodies of seven women around Johannesburg's international airport, including five in the past week, has prompted an ______ of fear, grief and anger over a lack of progress in tackling femicide.",
+      "sentence": "The discovery of the bodies of eight women around Johannesburg's international airport has ______ an outpouring of fear, grief and anger over a lack of progress in tackling femicide.",
       "dialogue": null,
-      "question": "빈칸에 가장 자연스러운 단어를 고르세요.",
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
       "options": [
-        "A. outpouring",
-        "B. outbreak",
-        "C. outburst",
-        "D. outcry"
+        "A. prompted",
+        "B. proposed",
+        "C. permitted",
+        "D. presumed"
       ],
       "answer": "A",
-      "explanation": "'an outpouring of + 감정'은 대중이 한꺼번에 감정을 쏟아내는 것을 표현하는 관용적 콜로케이션입니다. 'outburst'는 개인의 갑작스런 감정 폭발에 주로 쓰이고, 'outbreak'는 질병·전쟁 등의 발생에 쓰이므로 이 문맥엔 맞지 않습니다."
+      "explanation": "'prompted'는 어떤 사건이 특정 반응이나 감정을 불러일으켰다는 뜻으로 문맥에 정확히 맞습니다. 'proposed'는 '제안하다'라는 의미라 감정적 반응을 촉발했다는 문맥과 맞지 않습니다."
     },
     {
       "id": 6,
@@ -103,17 +103,17 @@
       "source": "published",
       "work_title": null,
       "expression_key": null,
-      "sentence": "The discovery of the bodies of seven women around Johannesburg's international airport has prompted an outpouring of fear, grief and anger over a lack of progress in tackling ______.",
+      "sentence": "These ten titles were selected from a ______ of 727 books submitted for consideration by their publishers.",
       "dialogue": null,
-      "question": "빈칸에 가장 적절한 단어를 고르세요.",
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
       "options": [
-        "A. femicide",
-        "B. genocide",
-        "C. homicide",
-        "D. infanticide"
+        "A. pool",
+        "B. group",
+        "C. batch",
+        "D. stock"
       ],
       "answer": "A",
-      "explanation": "'femicide'는 여성이라는 이유로 살해당하는 것을 가리키는 특정 용어로, 기사 맥락(여성 연쇄 살해)에 정확히 부합합니다. 'homicide'는 성별과 무관한 일반적 살인을 뜻하므로 이 기사의 초점을 살리지 못합니다."
+      "explanation": "'a pool of'는 후보군이나 지원작 전체를 가리키는 관용적 표현으로 이 문맥에 정확히 들어맞습니다. 'batch'는 한 번에 처리된 묶음을 뜻해 응모작 전체 규모를 나타내기엔 다소 어색합니다."
     },
     {
       "id": 7,
@@ -121,17 +121,17 @@
       "source": "original",
       "work_title": null,
       "expression_key": null,
-      "sentence": "Her installation practice largely ______ transforming discarded materials into fragile new ecosystems.",
+      "sentence": "She ______ in France since 2015, developing her practice across sculpture and video.",
       "dialogue": null,
-      "question": "빈칸에 들어갈 가장 적절한 표현을 고르세요.",
+      "question": "빈칸에 들어갈 가장 적절한 시제를 고르세요.",
       "options": [
-        "A. consists of",
-        "B. consists in",
-        "C. consists on",
-        "D. is consisted of"
+        "A. has lived",
+        "B. lived",
+        "C. was living",
+        "D. had lived"
       ],
       "answer": "A",
-      "explanation": "'consist of'는 '~로 구성되다'라는 뜻으로 뒤에 명사(구)나 동명사가 옵니다. 'consist'는 수동태로 쓸 수 없는 자동사이므로 'is consisted of'는 문법적으로 틀립니다."
+      "explanation": "'since 2015'는 과거에 시작되어 현재까지 이어지는 상황을 나타내므로 현재완료 'has lived'가 정확합니다. 단순과거 'lived'는 그 행위가 이미 끝났음을 암시해 현재와의 연결성을 잃게 됩니다."
     },
     {
       "id": 8,
@@ -139,79 +139,87 @@
       "source": "original",
       "work_title": null,
       "expression_key": null,
-      "sentence": "Among the abandoned buildings of the Pissevin district ______ a fragile new ecosystem, assembled from soil, rubble, and reclaimed plants.",
+      "sentence": "The curator suggested that the artist ______ additional documentation before the opening.",
       "dialogue": null,
-      "question": "빈칸에 들어갈 가장 적절한 동사를 고르세요.",
+      "question": "빈칸에 들어갈 가장 적절한 형태를 고르세요.",
       "options": [
-        "A. was",
-        "B. were",
-        "C. have been",
-        "D. has been"
+        "A. submit",
+        "B. submits",
+        "C. submitted",
+        "D. will submit"
       ],
       "answer": "A",
-      "explanation": "문두의 전치사구 때문에 도치된 문장이지만 실제 주어는 단수명사 'a fragile new ecosystem'이므로 단수동사 'was'가 와야 합니다. 앞에 나온 복수명사 'buildings'에 이끌려 'were'를 고르는 실수에 주의해야 합니다."
+      "explanation": "'suggest that' 뒤에는 인칭이나 시제에 관계없이 동사원형을 쓰는 가정법 현재가 옵니다. 'submits'는 3인칭 단수 현재형으로 가정법 규칙에 어긋나 오답입니다."
     },
     {
       "id": 9,
       "type": "expression",
       "source": "conversation",
       "work_title": null,
-      "expression_key": "I owe you one",
+      "expression_key": "that's a cop-out",
       "sentence": null,
       "dialogue": [
         {
           "speaker": "A",
-          "line": "Can you cover my shift tomorrow?"
+          "line": "I can't finish the report because my laptop is so slow."
         },
         {
           "speaker": "B",
-          "line": "Sure, no problem at all."
+          "line": "Isn't that the same laptop you've had for three years?"
         },
         {
           "speaker": "A",
-          "line": "Thanks a lot — I ______."
+          "line": "Well, yeah, but it's really the reason this time!"
+        },
+        {
+          "speaker": "B",
+          "line": "Come on, that's ______."
         }
       ],
-      "question": "마지막 A의 대사에 들어갈 가장 자연스러운 표현을 고르세요. ('신세 졌다'는 의미)",
+      "question": "마지막 B의 대사에 들어갈 가장 자연스러운 표현을 고르세요.",
       "options": [
-        "A. owe you one",
-        "B. mean business",
-        "C. call it a day",
-        "D. know the drill"
+        "A. a cop-out",
+        "B. a piece of cake",
+        "C. no big deal",
+        "D. water under the bridge"
       ],
       "answer": "A",
-      "explanation": "'owe you one'은 상대방에게 신세를 졌다는 뜻으로, 부탁을 들어준 것에 대한 감사 표현으로 딱 맞습니다. 'mean business'는 '진심이다, 장난이 아니다', 'call it a day'는 '오늘은 여기까지 하자', 'know the drill'은 '절차를 잘 안다'는 뜻으로 이 상황과는 맞지 않습니다."
+      "explanation": "'that's a cop-out'은 상대방의 변명이 궁색하다고 지적할 때 쓰는 표현으로 대화 맥락에 정확히 맞습니다. 'a piece of cake'는 '식은 죽 먹기', 'no big deal'은 '별거 아니다', 'water under the bridge'는 '이미 지나간 일'이라는 뜻으로 모두 이 상황과 맞지 않습니다."
     },
     {
       "id": 10,
       "type": "expression",
       "source": "conversation",
       "work_title": null,
-      "expression_key": "that's a stretch for my budget",
+      "expression_key": "I'm not really feeling it",
       "sentence": null,
       "dialogue": [
         {
           "speaker": "A",
-          "line": "I found the perfect winter coat, but it's 300 euros."
+          "line": "Want to grab pizza tonight?"
         },
         {
           "speaker": "B",
-          "line": "That's pretty expensive. Are you going to buy it?"
+          "line": "Hmm, maybe not."
         },
         {
           "speaker": "A",
-          "line": "I love it, but that's ______."
+          "line": "Or we could try that new sushi place instead?"
+        },
+        {
+          "speaker": "B",
+          "line": "Honestly, I'm ______ tonight, let's just have soup."
         }
       ],
-      "question": "마지막 A의 대사에 들어갈 가장 자연스러운 표현을 고르세요. ('내 예산으로는 빠듯하다'는 의미)",
+      "question": "마지막 B의 대사에 들어갈 가장 자연스러운 표현을 고르세요.",
       "options": [
-        "A. a stretch for my budget",
-        "B. a piece of cake",
-        "C. not my cup of tea",
-        "D. out of the question"
+        "A. not really feeling it",
+        "B. over the moon",
+        "C. on the fence",
+        "D. up for it"
       ],
       "answer": "A",
-      "explanation": "'a stretch for my budget'는 예산에 비해 부담스럽다는 뜻으로 가격이 비싸다는 상황과 정확히 맞습니다. 'a piece of cake'는 '식은 죽 먹기(아주 쉬움)', 'not my cup of tea'는 '내 취향이 아니다', 'out of the question'은 '전혀 고려할 수 없다'는 뜻으로 이 문맥에는 적절하지 않습니다."
+      "explanation": "'I'm not really feeling it'은 지금 그다지 당기지 않는다는 뜻으로 대화 흐름과 정확히 맞습니다. 'over the moon'은 '매우 기쁘다', 'on the fence'는 '결정을 못 내리다', 'up for it'은 '하고 싶다'는 반대의 의미라 이 상황에 맞지 않습니다."
     }
   ]
 }
