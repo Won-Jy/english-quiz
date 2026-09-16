@@ -27,7 +27,12 @@ import yaml
 
 MODEL = "claude-sonnet-5"
 # sonnet-5는 thinking 토큰도 max_tokens 예산을 함께 쓰므로 넉넉히 잡는다
-MAX_TOKENS = 16000
+MAX_TOKENS = 20000
+
+# 구어 표현 은행 / 최근 N개 퀴즈를 훑어 중복 출제를 피한다
+EXPRESSIONS_PATH = Path(__file__).parent.parent / "data" / "expressions.json"
+EXPRESSIONS_PER_DAY = 2
+RECENT_QUIZ_LOOKBACK = 45
 
 PERSONAL_REPO = "Won-Jy/archive-wonjy"
 PERSONAL_BRANCH = "main"
@@ -182,6 +187,44 @@ def fetch_personal_texts(n=PERSONAL_WORKS_PER_DAY):
     return out
 
 
+# ── 구어 표현 선택 ───────────────────────────────────────────────────────────
+
+def load_expressions():
+    with open(EXPRESSIONS_PATH, encoding="utf-8") as f:
+        return json.load(f)
+
+
+def recently_used_expressions(lookback=RECENT_QUIZ_LOOKBACK):
+    """최근 퀴즈 JSON을 훑어 이미 출제된 표현 키를 모은다."""
+    used = set()
+    files = sorted(QUIZ_OUTPUT_DIR.glob("*.json"))[-lookback:]
+    for fp in files:
+        try:
+            data = json.load(open(fp, encoding="utf-8"))
+        except Exception:
+            continue
+        for q in data.get("questions", []):
+            key = q.get("expression_key")
+            if key:
+                used.add(key.strip().lower())
+    return used
+
+
+def pick_expressions(n=EXPRESSIONS_PER_DAY):
+    bank = load_expressions()
+    used = recently_used_expressions()
+    fresh = [e for e in bank if e["expr"].strip().lower() not in used]
+
+    if len(fresh) < n:
+        print(f"[INFO] Expression pool exhausted ({len(fresh)} left) — recycling full bank")
+        fresh = bank
+
+    picked = random.sample(fresh, n)
+    print(f"[INFO] expressions: {[e['expr'] for e in picked]} "
+          f"(fresh {len(fresh)}/{len(bank)})")
+    return picked
+
+
 # ── RSS 수집 ────────────────────────────────────────────────────────────────
 
 def fetch_sentences(feeds, max_per_feed=2):
@@ -206,7 +249,7 @@ SYSTEM_PROMPT = """You are an expert English teacher working with an advanced le
 Create precise, challenging quiz questions. Never test trivial points (basic third-person -s, obvious plurals). Return ONLY a valid JSON array — no markdown fences, no preamble."""
 
 
-def build_prompt(personal_texts, rss_texts):
+def build_prompt(personal_texts, rss_texts, expressions):
     personal_block = "\n\n".join(
         f'[MY WRITING {i+1} — "{p["title"]}"]\n{p["text"]}'
         for i, p in enumerate(personal_texts)
@@ -215,7 +258,12 @@ def build_prompt(personal_texts, rss_texts):
     rss_block = "\n\n".join(f"[PUBLISHED {i+1}]\n{t}" for i, t in enumerate(rss_texts))
     g = random.sample(GRAMMAR_TOPICS, 2)
 
-    return f"""Create exactly 8 English quiz questions.
+    expr_block = "\n".join(
+        f'  E{i+1}. "{e["expr"]}"  (Korean sense: {e["ko"]})'
+        for i, e in enumerate(expressions)
+    )
+
+    return f"""Create exactly 10 English quiz questions.
 
 === SOURCE A: MY OWN WRITING (the learner's own artist texts) ===
 {personal_block}
@@ -223,40 +271,62 @@ def build_prompt(personal_texts, rss_texts):
 === SOURCE B: PUBLISHED ARTICLES ===
 {rss_block}
 
-=== REQUIRED DISTRIBUTION (8 questions) ===
+=== SOURCE C: TARGET SPOKEN EXPRESSIONS ===
+{expr_block}
 
-Q1-Q2 — VOCABULARY from SOURCE A (source: "personal")
-  Pick words or phrases that actually appear in MY WRITING and are worth mastering
-  for art writing. Fill-in-the-blank using the real sentence, 4 options.
+=== REQUIRED DISTRIBUTION (10 questions) ===
 
-Q3-Q4 — GRAMMAR from SOURCE A (source: "personal")
-  Base these on sentence structures in MY WRITING. Test whether the learner can choose
-  the more accurate or more idiomatic construction for art/academic writing.
-  Good angles: articles with abstract nouns, participle clauses, preposition choice,
-  parallel structure, tense for completed vs ongoing work.
-  Set "sentence" to the relevant sentence (or a lightly adapted version) from MY WRITING.
+Q1-Q2 — VOCABULARY from SOURCE A (type "vocabulary", source "personal")
+  Words or phrases that actually appear in MY WRITING and are worth mastering for
+  art writing. Fill-in-the-blank using the real sentence, 4 options.
 
-Q5-Q6 — VOCABULARY from SOURCE B (source: "published")
+Q3-Q4 — GRAMMAR from SOURCE A (type "grammar", source "personal")
+  Based on sentence structures in MY WRITING. Test the more accurate or idiomatic
+  construction for art/academic writing: articles with abstract nouns, participle
+  clauses, preposition choice, parallel structure, tense for completed vs ongoing work.
+  Set "sentence" to the relevant sentence (lightly adapted) from MY WRITING.
+
+Q5-Q6 — VOCABULARY from SOURCE B (type "vocabulary", source "published")
   Sophisticated vocabulary in context, fill-in-the-blank, 4 options.
 
-Q7-Q8 — GRAMMAR, self-authored (source: "original")
+Q7-Q8 — GRAMMAR, self-authored (type "grammar", source "original")
   Test these two points, one each: {g[0]}; {g[1]}.
-  Write your own clear example sentences.
+
+Q9-Q10 — SPOKEN EXPRESSION (type "expression", source "conversation")
+  One question per target expression in SOURCE C, in the given order
+  (Q9 uses E1, Q10 uses E2).
+
+  Write a SHORT, natural everyday dialogue — friends, family, flatmates, a shop,
+  a cafe, a phone call. NOT an art-world or professional setting.
+  3 to 5 turns, speakers "A" and "B", each line under 15 words.
+  The target expression appears in the FINAL line with its key words blanked as ______.
+  The preceding turns must make the situation clear enough that the right expression
+  is inferable, but do not paraphrase the answer.
+
+  Put the dialogue in a "dialogue" array of {{"speaker": "A"|"B", "line": "..."}}.
+  Leave "sentence" null for these two.
+  Set "expression_key" to the expression EXACTLY as written in SOURCE C.
+  The 4 options must all be plausible spoken expressions of a similar register —
+  never nonsense. Distractors should be real expressions that simply do not fit here.
 
 === RULES ===
-- Every question tests something different. No overlap between Q3-Q4 and Q7-Q8.
-- Distractors must be genuinely plausible — a careless reader should be tempted.
-- "explanation": 2-3 sentences in Korean. Say why the answer is right AND why the main
-  distractor is wrong. For SOURCE A questions, add one short practical note on how to
-  use the expression in the learner's own writing.
+- Every question tests something different.
+- Distractors must be genuinely plausible.
+- "explanation": 2-3 sentences in Korean. Why the answer is right AND why the main
+  distractor is wrong.
+  * For SOURCE A questions, add a short practical note on using the expression in
+    the learner's own art writing.
+  * For Q9-Q10, briefly gloss what the other three options actually mean, so the
+    learner picks up four expressions from one question.
 - "question" prompts: write in Korean.
-- Keep "sentence" in English.
+- Keep "sentence" and all dialogue lines in English.
 
 === OUTPUT ===
-JSON array of 8 objects, each:
-{{"id":1,"type":"vocabulary"|"grammar","source":"personal"|"published"|"original","work_title":"About Warding","sentence":"...","question":"...","options":["A. ...","B. ...","C. ...","D. ..."],"answer":"A","explanation":"..."}}
+JSON array of 10 objects:
+{{"id":1,"type":"vocabulary"|"grammar"|"expression","source":"personal"|"published"|"original"|"conversation","work_title":null,"expression_key":null,"sentence":"...","dialogue":null,"question":"...","options":["A. ...","B. ...","C. ...","D. ..."],"answer":"A","explanation":"..."}}
 
-"work_title" only for source "personal"; null otherwise."""
+"work_title": only for source "personal". "expression_key" and "dialogue": only for
+type "expression". Use null where not applicable."""
 
 
 def _extract_json(response):
@@ -281,9 +351,9 @@ def _extract_json(response):
     return json.loads(raw)
 
 
-def generate_questions(personal_texts, rss_texts, attempts=2):
+def generate_questions(personal_texts, rss_texts, expressions, attempts=2):
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
-    prompt = build_prompt(personal_texts, rss_texts)
+    prompt = build_prompt(personal_texts, rss_texts, expressions)
     last_err = None
 
     for n in range(1, attempts + 1):
@@ -301,8 +371,8 @@ def generate_questions(personal_texts, rss_texts, attempts=2):
                 raise ValueError("response truncated (hit max_tokens)")
 
             questions = _extract_json(response)
-            if not isinstance(questions, list) or len(questions) < 6:
-                raise ValueError(f"expected a list of ~8 questions, got {type(questions).__name__} "
+            if not isinstance(questions, list) or len(questions) < 8:
+                raise ValueError(f"expected a list of ~10 questions, got {type(questions).__name__} "
                                  f"len={len(questions) if isinstance(questions, list) else 'n/a'}")
 
             for i, q in enumerate(questions, 1):
@@ -340,6 +410,9 @@ def send_email(date_str, questions, personal_titles):
     n_vocab = sum(1 for q in questions if q.get("type") == "vocabulary")
     n_gram = sum(1 for q in questions if q.get("type") == "grammar")
     n_mine = sum(1 for q in questions if q.get("source") == "personal")
+    n_expr = sum(1 for q in questions if q.get("type") == "expression")
+    expr_list = ", ".join(q["expression_key"] for q in questions
+                          if q.get("type") == "expression" and q.get("expression_key"))
     src_line = ", ".join(personal_titles) if personal_titles else "—"
 
     html_body = f"""
@@ -347,10 +420,13 @@ def send_email(date_str, questions, personal_titles):
   <h2 style="border-bottom:2px solid #2563eb;padding-bottom:8px;font-size:1.2rem;">
     오늘의 영어 퀴즈 — {date_str}
   </h2>
-  <p style="margin:14px 0;">총 <b>{total}문항</b> · 어휘 {n_vocab} · 문법 {n_gram}</p>
+  <p style="margin:14px 0;">총 <b>{total}문항</b> · 어휘 {n_vocab} · 문법 {n_gram} · 회화 {n_expr}</p>
   <div style="background:#f1f5f9;border-radius:8px;padding:12px 16px;margin:12px 0;font-size:0.88rem;">
     내 작업 텍스트에서 <b>{n_mine}문항</b><br>
     <span style="color:#64748b;">{src_line}</span>
+    <div style="margin-top:8px;padding-top:8px;border-top:1px solid #e2e8f0;">
+      오늘의 회화 표현<br><span style="color:#64748b;">{expr_list}</span>
+    </div>
   </div>
   <a href="{quiz_url}" style="display:inline-block;padding:13px 26px;background:#2563eb;
      color:#fff;text-decoration:none;border-radius:10px;font-weight:bold;margin:14px 0;">
@@ -362,7 +438,7 @@ def send_email(date_str, questions, personal_titles):
 </body></html>"""
 
     msg = MIMEMultipart("alternative")
-    msg["Subject"] = f"영어 퀴즈 {date_str} — {total}문항 (내 작업 {n_mine})"
+    msg["Subject"] = f"영어 퀴즈 {date_str} — {total}문항 (내 작업 {n_mine} · 회화 {n_expr})"
     msg["From"] = GMAIL_USER
     msg["To"] = RECIPIENT_EMAIL
     msg.attach(MIMEText(html_body, "html"))
@@ -392,7 +468,8 @@ def main():
     titles = [p["title"] for p in personal]
     print(f"[INFO] personal={len(personal)} {titles} | rss={len(rss)}")
 
-    questions = generate_questions(personal, rss[:4])
+    expressions = pick_expressions()
+    questions = generate_questions(personal, rss[:4], expressions)
     print(f"[OK] {len(questions)} questions generated")
 
     save_quiz(questions, date_str, titles)
