@@ -53,6 +53,7 @@ function renderQuestion(index) {
     grammar: "문법",
     context: "문맥",
     paraphrase: "패러프레이징",
+    expression: "회화 표현",
   }[q.type] || q.type;
 
   const sourceBadge = {
@@ -61,11 +62,20 @@ function renderQuestion(index) {
     academic:  "🎓 학술",
     general:   "📰 일반",
     original:  "✍️ 문법 연습",
+    conversation: "💬 일상 대화",
     everyday:  "💬 일상",
   }[q.source] || "📰 일반";
 
   const workTag = q.work_title
     ? `<span class="badge work-badge">${q.work_title}</span>` : "";
+
+  const dialogueBlock = Array.isArray(q.dialogue) && q.dialogue.length
+    ? `<div class="dialogue">${q.dialogue.map(t => `
+        <div class="turn turn-${(t.speaker || "A").toLowerCase()}">
+          <span class="speaker">${t.speaker || ""}</span>
+          <span class="line">${t.line || ""}</span>
+        </div>`).join("")}</div>`
+    : "";
 
   let answerBlock = "";
   if (q.type === "paraphrase") {
@@ -102,6 +112,7 @@ function renderQuestion(index) {
         <span class="q-counter">${index + 1} / ${state.questions.length}</span>
       </div>
       <div class="question-text">${q.question}</div>
+      ${dialogueBlock}
       ${q.sentence && q.type !== "paraphrase"
         ? `<blockquote class="source-sentence">${q.sentence}</blockquote>`
         : ""}
