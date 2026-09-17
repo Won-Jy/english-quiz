@@ -1,0 +1,225 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T18:10:21.808488+00:00",
+  "personal_sources": [
+    "Granit de rêve",
+    "Fantôme 3008",
+    "Premières pierres"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Granit de rêve",
+      "expression_key": null,
+      "sentence": "This semi-documentary video ______ my journey in search of a dream granite along the Hérault River in 2021.",
+      "dialogue": null,
+      "question": "다음 문장의 빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. retraces",
+        "B. retells",
+        "C. rewinds",
+        "D. reproduces"
+      ],
+      "answer": "A",
+      "explanation": "'retrace a journey'는 이전에 지나온 경로나 여정을 다시 따라가며 기록한다는 뜻으로, 다큐멘터리 성격의 영상 작업을 설명할 때 정확한 표현입니다. 'retell'은 이야기를 다시 말하는 것이라 여정 자체를 묘사하기엔 어색합니다. 작가노트에서 답사·리서치 기반 영상 작업을 설명할 때 'retrace a journey/process'는 매우 유용한 표현입니다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Premières pierres",
+      "expression_key": null,
+      "sentence": "Concrete — crushed and fired stone — builds the city, and its ______ then returns wearing the appearance of stone.",
+      "dialogue": null,
+      "question": "다음 문장의 빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. debris",
+        "B. residue",
+        "C. remnants",
+        "D. wreckage"
+      ],
+      "answer": "A",
+      "explanation": "'debris'는 파괴되거나 부서진 물질의 흩어진 조각들을 가리키는 단어로, 콘크리트 파편을 묘사하는 원문의 뉘앙스와 정확히 맞습니다. 'residue'는 화학적/추상적 잔여물, 'wreckage'는 큰 구조물의 잔해(배, 건물 붕괴 등)에 더 어울려 이 문맥엔 부자연스럽습니다. 건축 폐기물이나 도시의 물질적 잔재를 다룰 때 'debris'를 적극 활용해보세요."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Premières pierres",
+      "expression_key": null,
+      "sentence": "Since 2018, I ______ on Premières pierres, a series of 'fake stones' made by printing images of rock onto fragments of concrete gathered in the city.",
+      "dialogue": null,
+      "question": "진행 중인 작업을 설명하는 문장으로 가장 자연스러운 시제를 고르세요.",
+      "options": [
+        "A. have been working",
+        "B. worked",
+        "C. am working",
+        "D. had worked"
+      ],
+      "answer": "A",
+      "explanation": "'since + 과거 시점'과 함께 현재까지 계속되고 있는 작업을 나타낼 때는 현재완료진행형이 정확합니다. 'am working'은 지속 기간(since 2018)을 표현하지 못해 부자연스럽고, 'worked'는 이미 끝난 과거 사건처럼 들려 현재 진행 중인 시리즈 작업 설명에는 맞지 않습니다. 작가노트에서 '~년부터 지금까지 진행 중인 연작'을 설명할 때 이 구조를 표준적으로 사용하세요."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Granit de rêve",
+      "expression_key": null,
+      "sentence": "This video retraces my journey along the Hérault River in 2021, ______ of an exhibition in Le Vigan.",
+      "dialogue": null,
+      "question": "다음 문장의 빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. as part",
+        "B. as a part",
+        "C. in part",
+        "D. as parts"
+      ],
+      "answer": "A",
+      "explanation": "'as part of'는 관사 없이 쓰는 고정 표현으로, '~의 일환으로'라는 뜻의 관용구입니다. 'as a part of'처럼 부정관사를 넣으면 비문법적이며, 'in part of'는 존재하지 않는 표현입니다. 전시나 프로젝트의 맥락을 설명할 때 'as part of an exhibition/project'는 매우 자주 쓰이는 구문이니 관사 없이 익혀두세요."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The Centre for Contemporary Arts Tashkent (CCA Tashkent), Uzbekistan's first permanent institution ______ to contemporary art, opened to the public on September 6.",
+      "dialogue": null,
+      "question": "다음 문장의 빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. devoted",
+        "B. attached",
+        "C. contributed",
+        "D. committed"
+      ],
+      "answer": "A",
+      "explanation": "'devoted to'는 어떤 목적이나 분야에 전적으로 바쳐진 기관·시설을 설명할 때 쓰는 표준 표현입니다. 'attached to'는 물리적 부착이나 소속을 뜻해 기관의 목적을 설명하기엔 부적절하며, 'contributed to'는 문법적으로 이 자리에 맞지 않습니다. 'committed to'도 가능하지만 원문에서 실제로 쓰인 단어는 'devoted'입니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Scientists tracked the dogs' perilous 2,500-mile ______ to find their own territory.",
+      "dialogue": null,
+      "question": "다음 문장의 빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. odyssey",
+        "B. voyage",
+        "C. excursion",
+        "D. expedition"
+      ],
+      "answer": "A",
+      "explanation": "'odyssey'는 길고 험난하며 모험적인 여정을 뜻하는 단어로, 신화적 울림을 지녀 위험한 장거리 여정을 극적으로 묘사할 때 적합합니다. 'voyage'는 주로 배를 이용한 여행, 'excursion'은 짧고 가벼운 나들이를 의미해 이 문맥과 어울리지 않습니다. 'expedition'도 가능하지만 원문의 극적 어조에는 'odyssey'가 더 정확히 부합합니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "She stopped ______ about the meaning of the piece once the exhibition closed.",
+      "dialogue": null,
+      "question": "의미상 가장 적절한 형태를 고르세요.",
+      "options": [
+        "A. thinking",
+        "B. to think",
+        "C. think",
+        "D. having thought"
+      ],
+      "answer": "A",
+      "explanation": "'stop + 동명사'는 '어떤 행위를 그만두다'라는 뜻이므로, 전시가 끝난 후 '생각하는 것을 멈췄다'는 문맥에 맞습니다. 'stop to think'는 '생각하기 위해 하던 일을 멈추다'라는 전혀 다른 의미가 되어 이 문장의 논리와 어긋납니다. 이렇게 동명사와 to부정사가 의미를 바꾸는 동사(try, remember, stop 등)는 예술 글쓰기에서도 뉘앙스 차이에 주의해야 합니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The building, ______ was demolished in 2023, once served as a hospital and morgue.",
+      "dialogue": null,
+      "question": "콤마로 구분된 비제한적 관계절에 알맞은 관계대명사를 고르세요.",
+      "options": [
+        "A. which",
+        "B. that",
+        "C. who",
+        "D. whom"
+      ],
+      "answer": "A",
+      "explanation": "콤마로 분리된 비제한적 관계절(추가 정보를 덧붙이는 절)에서는 'that'을 쓸 수 없고 반드시 'which'를 사용해야 합니다. 'who/whom'은 사람을 가리킬 때 쓰이므로 건물(사물)에는 맞지 않습니다. 전시 텍스트에서 건물이나 장소의 역사를 부연 설명할 때 이 구조를 정확히 구분해 쓰는 것이 중요합니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "I'm warming up to the idea",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "So, are you coming to the yoga retreat with us?"
+        },
+        {
+          "speaker": "B",
+          "line": "I wasn't sure at first, but I've been reading about it."
+        },
+        {
+          "speaker": "A",
+          "line": "Yeah? Has your opinion changed?"
+        },
+        {
+          "speaker": "B",
+          "line": "Actually, I think I'm ______ the idea."
+        }
+      ],
+      "question": "마지막 대화에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. warming up to",
+        "B. cooling off about",
+        "C. holding out for",
+        "D. giving up on"
+      ],
+      "answer": "A",
+      "explanation": "'warming up to the idea'는 처음엔 망설였지만 점점 마음이 기울고 있다는 뜻으로, 대화 흐름(처음엔 확신 없었지만 점점 관심이 생김)과 정확히 맞습니다. 'cooling off about'은 반대로 관심이 식어간다는 뜻이라 문맥과 어긋납니다. 'holding out for'는 더 나은 것을 기다린다는 뜻, 'giving up on'은 포기한다는 뜻으로 각각 다른 상황에서 쓰입니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "I'm holding out for something better",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Did you buy that laptop you saw last week?"
+        },
+        {
+          "speaker": "B",
+          "line": "No, not yet."
+        },
+        {
+          "speaker": "A",
+          "line": "Why not? It looked perfect."
+        },
+        {
+          "speaker": "B",
+          "line": "I know, but I'm ______ ______ ______ ______."
+        }
+      ],
+      "question": "마지막 대화에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. holding out for something better",
+        "B. settling for less",
+        "C. warming up to it",
+        "D. giving up on it"
+      ],
+      "answer": "A",
+      "explanation": "'holding out for something better'는 지금 당장 결정하지 않고 더 나은 것을 기다린다는 뜻으로, 마음에 든 노트북을 아직 안 샀다는 대화 맥락과 정확히 맞습니다. 'settling for less'는 오히려 타협해서 못한 것을 받아들인다는 반대 의미입니다. 'warming up to it'은 점점 좋아진다는 뜻, 'giving up on it'은 완전히 포기한다는 뜻으로 이 상황엔 맞지 않습니다."
+    }
+  ]
+}
