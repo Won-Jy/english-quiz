@@ -1,0 +1,217 @@
+{
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T17:40:11.699775+00:00",
+  "personal_sources": [
+    "Roulé-Lavé",
+    "Residency at Maison Daura I",
+    "Flâner passer ou habiter"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Roulé-Lavé",
+      "expression_key": null,
+      "sentence": "Won Jy's works are often ______ with subtle humor, allowing complex issues to be expressed through light and poetic forms.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. tinged",
+        "B. dyed",
+        "C. colored",
+        "D. smudged"
+      ],
+      "answer": "A",
+      "explanation": "'tinged with'는 원문에 사용된 표현으로, 색이나 감정이 은은하게 배어있다는 은유적 의미이며 예술 텍스트의 미묘한 뉘앙스 표현에 유용하다. 'dyed'와 'colored'는 물리적 염색을 뜻해 은유적 문맥에 맞지 않고, 'smudged'는 얼룩진다는 부정적 뉘앙스라 부적절하다. 작가노트에서 'tinged with irony/humor/sadness' 형태로 활용하면 좋다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Residency at Maison Daura I",
+      "expression_key": null,
+      "sentence": "The village, perched halfway up a gorge, was often ______ in the damp autumn clouds that give the area its distinctive landscape.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. shrouded",
+        "B. wrapped",
+        "C. blanketed",
+        "D. drenched"
+      ],
+      "answer": "A",
+      "explanation": "'shrouded in'은 안개나 구름에 뒤덮여 신비롭게 가려진 상태를 나타내는 문학적 표현으로 원문과 일치한다. 'wrapped'와 'blanketed'는 단순히 덮인 상태를 뜻해 원문의 은폐감이 약하며, 'drenched'는 젖음을 의미해 시각적 효과와 무관하다. 풍경 묘사에서 'shrouded in mist/fog/cloud'는 예술적 글쓰기에 자주 쓰이는 조합이다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Roulé-Lavé",
+      "expression_key": null,
+      "sentence": "The artist is seen ______ up rivers in search of the source of the water—and thus the origin of the shape of the stones he collects.",
+      "dialogue": null,
+      "question": "지각동사의 수동태 구문에서 문법적으로 올바른 형태를 고르세요.",
+      "options": [
+        "A. going",
+        "B. go",
+        "C. to going",
+        "D. being gone"
+      ],
+      "answer": "A",
+      "explanation": "지각동사(see)의 수동태에서 진행 중인 동작을 나타낼 때는 'is seen + -ing' 형태가 자연스러우며 원문과 일치한다. 'is seen go'는 수동태에서 원형부정사를 쓸 수 없어 비문이며, 'is seen to going'은 to부정사와 동명사가 혼용되어 문법적으로 틀렸다. 영상이나 퍼포먼스 작업을 서술할 때 'the artist is seen -ing' 구문은 다큐멘터리적 묘사에 효과적이다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Flâner passer ou habiter",
+      "expression_key": null,
+      "sentence": "I displayed stones in diverse scales and states: sand, pebbles, and stones — either simply ______, manipulated, or mixed.",
+      "dialogue": null,
+      "question": "병렬구조상 빈칸에 가장 적절한 형태를 고르세요.",
+      "options": [
+        "A. placed",
+        "B. placing",
+        "C. to place",
+        "D. place"
+      ],
+      "answer": "A",
+      "explanation": "콜론 뒤 나열된 세 요소는 모두 과거분사(placed, manipulated, mixed)로 병렬구조를 이루어야 하므로 'placed'가 정답이다. 'placing'이나 'to place'는 다른 두 단어와 형태가 달라 병렬구조가 깨진다. 재료나 상태를 나열할 때 동일한 문법 형태를 유지하면 전시 텍스트의 명료성이 높아진다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "A West of Ireland data center objected to by novelist Sally Rooney has just had its planning permission ______ on the grounds that it breaches Irish [law].",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. overturned",
+        "B. overthrown",
+        "C. overtaken",
+        "D. overrun"
+      ],
+      "answer": "A",
+      "explanation": "'overturn a decision/permission'은 결정이나 허가를 뒤집다/무효화하다는 뜻으로 원문과 일치한다. 'overthrow'는 정부나 권력자를 전복시킬 때 쓰이며, 'overtaken'과 'overrun'은 문맥상 허가와 결합하지 않아 부적절하다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Survivors ... have ______ their panic and struggle for breath, as police on Friday fired teargas at people protesting against the deaths.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. recounted",
+        "B. recalled",
+        "C. recited",
+        "D. recorded"
+      ],
+      "answer": "A",
+      "explanation": "'recount'는 자신이 겪은 일을 상세히 이야기하다는 뜻으로, 생존자들이 언론에 상황을 전달하는 맥락과 일치한다. 'recall'은 내적으로 기억해내는 행위를 강조해 외부 전달의 뉘앙스가 약하며, 'recite'는 암송, 'record'는 기록의 의미라 문맥에 맞지 않는다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Before the opening, the gallery ______ the sculpture professionally photographed for the catalogue.",
+      "dialogue": null,
+      "question": "사역구문에서 문법적으로 올바른 단어를 고르세요.",
+      "options": [
+        "A. had",
+        "B. made",
+        "C. let",
+        "D. did"
+      ],
+      "answer": "A",
+      "explanation": "사역동사 'have + 목적어 + 과거분사'는 누군가에게 일을 시켜서 하게 하다는 의미로, 갤러리가 전문가에게 촬영을 의뢰한 문맥에 적합하다. 'made'는 'make + 목적어 + 원형부정사' 구조를 요구하므로 과거분사와 결합할 수 없고, 'let'과 'did'는 이 문맥에서 사역의 의미를 만들지 못한다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "It is essential that the artist ______ full control over the installation process.",
+      "dialogue": null,
+      "question": "가정법(mandative subjunctive) 구문에서 올바른 동사 형태를 고르세요.",
+      "options": [
+        "A. retain",
+        "B. retains",
+        "C. retained",
+        "D. is retaining"
+      ],
+      "answer": "A",
+      "explanation": "'it is essential that' 뒤에는 가정법 현재(원형부정사)가 오므로 주어가 3인칭 단수여도 'retain'이 맞다. 'retains'는 흔한 실수로 일반 직설법 현재시제를 잘못 적용한 것이다. 그랜트 신청서 등 격식체 글쓰기에서 'it is essential/important/necessary that + 주어 + 원형' 구조는 자주 사용된다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "let's get to the point",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "I've been thinking about switching jobs lately."
+        },
+        {
+          "speaker": "B",
+          "line": "Oh yeah? What's going on?"
+        },
+        {
+          "speaker": "A",
+          "line": "Well, it's complicated... the commute, my boss, the low pay..."
+        },
+        {
+          "speaker": "B",
+          "line": "Okay, ______ — are you quitting or not?"
+        }
+      ],
+      "question": "마지막 대사의 빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. let's get to the point",
+        "B. let's sleep on it",
+        "C. let's play it by ear",
+        "D. let's call it a day"
+      ],
+      "answer": "A",
+      "explanation": "'let's get to the point'는 상대방이 장황하게 설명할 때 본론으로 바로 들어가자고 재촉하는 표현이다. 'let's sleep on it'은 결정을 하루 미루고 생각해보자는 뜻, 'let's play it by ear'는 상황을 보며 즉흥적으로 대응하자는 뜻, 'let's call it a day'는 하던 일을 그만하자는 의미로 모두 이 상황에 맞지 않는다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "that's uncalled for",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "You always mess things up, you're so careless!"
+        },
+        {
+          "speaker": "B",
+          "line": "Whoa, ______."
+        }
+      ],
+      "question": "마지막 대사의 빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. that's uncalled for",
+        "B. that's the last straw",
+        "C. that's beside the point",
+        "D. that's a stretch"
+      ],
+      "answer": "A",
+      "explanation": "'that's uncalled for'는 상대방의 말이나 행동이 지나치게 심했다고 지적할 때 쓰는 표현이다. 'that's the last straw'는 더 이상 참을 수 없는 한계에 다다랐다는 뜻, 'that's beside the point'는 논점에서 벗어났다는 뜻, 'that's a stretch'는 주장이 억지스럽다는 뜻으로 모두 다른 상황에 쓰인다."
+    }
+  ]
+}
