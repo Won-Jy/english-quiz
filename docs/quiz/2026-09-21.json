@@ -1,0 +1,225 @@
+{
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T19:20:40.964162+00:00",
+  "personal_sources": [
+    "Columbarium III",
+    "Collection des contenants en plastique",
+    "Figure de pigeon"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Columbarium III",
+      "expression_key": null,
+      "sentence": "For this exhibition, I stacked the pigeon-grave boxes — which had ______ at home over time — into a single tall column, like a tower, and titled it Columbarium.",
+      "dialogue": null,
+      "question": "빈칸에 가장 적절한 표현을 고르세요.",
+      "options": [
+        "A. piled up",
+        "B. picked up",
+        "C. lined up",
+        "D. backed up"
+      ],
+      "answer": "A",
+      "explanation": "\"piled up\"은 시간이 지나며 물건이 자연스럽게 쌓이는 것을 나타내는 구동사로 이 문맥에 정확히 맞습니다. \"picked up\"은 '줍다'는 뜻이라 어울리지 않습니다. 작업이 축적되는 과정을 설명할 때 작가노트에서 자주 활용할 수 있는 표현입니다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Collection des contenants en plastique",
+      "expression_key": null,
+      "sentence": "These were the everyday \"______\" of daily life, sorted by kind inside transparent plastic boxes.",
+      "dialogue": null,
+      "question": "빈칸에 가장 적절한 표현을 고르세요.",
+      "options": [
+        "A. residue",
+        "B. remainder",
+        "C. leftover",
+        "D. surplus"
+      ],
+      "answer": "A",
+      "explanation": "\"residue\"는 일상에서 남겨진 물질적·개념적 잔여물을 뜻하며, 오브제에 상징적 의미를 부여하는 예술 글쓰기에 적합한 단어입니다. \"leftover\"는 주로 음식에 한정되어 쓰이는 표현이라 이 문맥에는 어색합니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Collection des contenants en plastique",
+      "expression_key": null,
+      "sentence": "I was inspired ______ an exhibition by the artist Laura Lamiel, who had visited the school at the time.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 알맞은 전치사를 고르세요.",
+      "options": [
+        "A. by",
+        "B. from",
+        "C. with",
+        "D. for"
+      ],
+      "answer": "A",
+      "explanation": "'be inspired by + 명사'는 예술적 영향을 나타내는 고정된 전치사 결합입니다. \"inspired from\"은 흔히 저지르는 실수이므로 주의해야 합니다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Columbarium III",
+      "expression_key": null,
+      "sentence": "______ the boxes, I arranged them in chronological order from bottom to top, with the oldest burials at the base.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 자연스러운 분사구문을 고르세요.",
+      "options": [
+        "A. When stacking",
+        "B. When stack",
+        "C. While stacked",
+        "D. When having stack"
+      ],
+      "answer": "A",
+      "explanation": "주절의 주어(I)와 동작의 주체가 동일할 때는 \"When stacking\"처럼 현재분사를 사용한 분사구문이 자연스럽습니다. \"When stack\"은 동사원형만 남아 문법적으로 불완전합니다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The officers in charge would ______ them when they asked, they said.",
+      "dialogue": null,
+      "question": "빈칸에 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. taunt",
+        "B. flatter",
+        "C. console",
+        "D. reassure"
+      ],
+      "answer": "A",
+      "explanation": "\"taunt\"는 조롱하다는 뜻으로, 구금자들을 놀리는 관리들의 태도를 정확히 묘사합니다. \"reassure\"는 오히려 안심시킨다는 반대의 의미라 맞지 않습니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "...a writer whose voice powerfully embodies the wisdom, courage, and ______ that marked the lives of...",
+      "dialogue": null,
+      "question": "빈칸에 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. steadfastness",
+        "B. flexibility",
+        "C. spontaneity",
+        "D. indifference"
+      ],
+      "answer": "A",
+      "explanation": "\"steadfastness\"는 확고함, 꾸준함을 뜻하며 wisdom, courage와 병렬되어 인물의 굳은 신념을 묘사합니다. \"indifference\"는 무관심을 뜻해 문맥과 반대됩니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "______ art created during times of crisis often reflects collective anxiety rather than personal experience.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 알맞은 관사를 고르세요.",
+      "options": [
+        "A. (no article)",
+        "B. The",
+        "C. An",
+        "D. Art's"
+      ],
+      "answer": "A",
+      "explanation": "예술 일반을 가리키는 추상명사 \"Art\"는 관사 없이 사용하는 것이 자연스럽습니다. \"The art\"는 특정한 예술 작품이나 장르를 가리킬 때만 사용되므로 이 문맥에는 맞지 않습니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "______ she finished installing the piece than the gallery flooded.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 알맞은 표현을 고르세요.",
+      "options": [
+        "A. No sooner had",
+        "B. Hardly had",
+        "C. Not until",
+        "D. Rarely had"
+      ],
+      "answer": "A",
+      "explanation": "\"No sooner had + S + p.p... than...\"는 고정된 부정 도치 구문입니다. \"Hardly\"는 \"when\"과 짝을 이루므로 \"than\"과는 함께 쓰이지 않습니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "it's up in the air",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Are we still going hiking on Saturday?"
+        },
+        {
+          "speaker": "B",
+          "line": "Not sure yet, my brother might visit."
+        },
+        {
+          "speaker": "A",
+          "line": "So should I invite Mina or not?"
+        },
+        {
+          "speaker": "B",
+          "line": "Let's wait — it's still ______ right now."
+        }
+      ],
+      "question": "대화의 마지막 문장 빈칸에 들어갈 가장 적절한 표현을 고르세요.",
+      "options": [
+        "A. up in the air",
+        "B. written in stone",
+        "C. out of the question",
+        "D. on the back burner"
+      ],
+      "answer": "A",
+      "explanation": "\"up in the air\"는 아직 결정되지 않았다는 뜻으로 형제의 방문 여부에 따라 계획이 유동적인 상황과 정확히 맞습니다. \"written in stone\"은 이미 확정됐다는 반대 의미이고, \"out of the question\"은 전혀 불가능함, \"on the back burner\"는 우선순위가 낮아 미뤄둔 상태를 뜻합니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "that's a bit much",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "I got you this necklace — it cost 300 euros."
+        },
+        {
+          "speaker": "B",
+          "line": "Wait, seriously? For a random Tuesday?"
+        },
+        {
+          "speaker": "A",
+          "line": "Yeah, I just wanted to spoil you."
+        },
+        {
+          "speaker": "B",
+          "line": "That's sweet, but honestly, that's ______."
+        }
+      ],
+      "question": "대화의 마지막 문장 빈칸에 들어갈 가장 적절한 표현을 고르세요.",
+      "options": [
+        "A. a bit much",
+        "B. no big deal",
+        "C. worth a shot",
+        "D. over the moon"
+      ],
+      "answer": "A",
+      "explanation": "\"that's a bit much\"은 과하다는 뜻으로 평범한 화요일에 300유로짜리 선물을 받은 상황에 정확히 맞습니다. \"no big deal\"은 별일 아니라는 반대 의미이고, \"worth a shot\"은 시도해볼 만하다는 뜻, \"over the moon\"은 매우 기쁘다는 뜻으로 문맥과 다릅니다."
+    }
+  ]
+}
