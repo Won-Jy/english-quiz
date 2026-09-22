@@ -1,0 +1,217 @@
+{
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T18:04:28.816512+00:00",
+  "personal_sources": [
+    "Homeless Drawings",
+    "Columbarium V",
+    "Premières pierres II"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Homeless Drawings",
+      "expression_key": null,
+      "sentence": "But I found myself ______ by a gap between the context of what I was drawing and the space in which I was drawing it.",
+      "dialogue": null,
+      "question": "다음 문장에서 빈칸에 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. hindered",
+        "B. blocked",
+        "C. prevented",
+        "D. hampered"
+      ],
+      "answer": "A",
+      "explanation": "'hindered by'는 간극, 제약 같은 추상적 장애물과 자연스럽게 어울리는 표현입니다. 'blocked by'는 물리적 차단에 더 적합하고, 'prevented'는 'prevented from -ing' 구조가 필요하므로 이 문장에는 맞지 않습니다. 작업 개념의 어려움을 설명할 때 'hindered by a gap/tension between A and B' 구문을 활용하면 좋습니다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Columbarium V",
+      "expression_key": null,
+      "sentence": "The six pigeon bodies ______ here are among those collected from abandoned residential buildings in the Pissevin district of Nîmes.",
+      "dialogue": null,
+      "question": "다음 문장에서 빈칸에 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. interred",
+        "B. buried",
+        "C. entombed",
+        "D. deposited"
+      ],
+      "answer": "A",
+      "explanation": "'interred'는 유해가 '안치되다'라는 격식 있는 표현으로 columbarium(납골당) 맥락에 정확히 어울립니다. 'buried'는 너무 일상적이고, 'entombed'는 과장된 느낌을 주며, 'deposited'는 감정적 뉘앙스가 없어 부적절합니다. 유해를 다루는 작업 설명에는 'interred'를 쓰면 격식과 정확성을 살릴 수 있습니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Premières pierres II",
+      "expression_key": null,
+      "sentence": "I agglomerated large chunks of concrete rubble—remnants from the demolition of a social service building of ______ Gard Département—which had once served as a gathering place for marginalized individuals and families.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 표현을 고르세요.",
+      "options": [
+        "A. (관사 없음)",
+        "B. the",
+        "C. a",
+        "D. this"
+      ],
+      "answer": "B",
+      "explanation": "프랑스 행정구역명인 'Gard Département' 앞에는 정관사 'the'가 필요합니다('the Gard Département'). 이는 강, 산맥, 행정구역 등 특정 지리적 고유명사에 정관사를 붙이는 영어 관사 규칙 때문이며, 관사를 생략하면 비문법적입니다. 프랑스 지명을 영어 전시 텍스트에 쓸 때 이 규칙을 기억해두면 유용합니다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Columbarium V",
+      "expression_key": null,
+      "sentence": "I reused the same pigeon-shaped form and laid six newly added graves back on the floor, ______ them in a 360-degree circle centered on the front of the pigeon-shaped head.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 자연스럽고 정확한 형태를 고르세요.",
+      "options": [
+        "A. arranging",
+        "B. arranged",
+        "C. and arranged",
+        "D. to arrange"
+      ],
+      "answer": "A",
+      "explanation": "이미 두 개의 동사(reused, laid)가 주절을 구성하므로, 결과나 방식을 나타내는 분사구문 'arranging'으로 연결하는 것이 더 매끄럽고 학술적인 글쓰기에 적합합니다. 'arranged'는 시제 일치가 어긋나고, 'and arranged'는 문법적으로 가능하지만 세 동작을 동등하게 나열해 의도한 결과-방식 뉘앙스를 약화시킵니다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The Trump administration's cuts to programs such as USAID, as well as the Covid-19 pandemic, have brought 'new urgency' for reform after the ______.",
+      "dialogue": null,
+      "question": "다음 문장에서 빈칸에 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. debacle",
+        "B. downturn",
+        "C. decline",
+        "D. shortage"
+      ],
+      "answer": "A",
+      "explanation": "'debacle'은 '총체적 실패, 낭패'를 뜻하는 격식 있는 단어로 원조 프로그램 철수로 인한 큰 혼란을 표현하기에 적절합니다. 'downturn'은 주로 경제적 하락에 쓰이고, 'decline'은 점진적 감소를 의미해 갑작스러운 혼란의 뉘앙스와 맞지 않습니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "When I found the mushroom being sold in candy wrappers, I uncovered legal ______, dangerous dosages and more.",
+      "dialogue": null,
+      "question": "다음 문장에서 빈칸에 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. loopholes",
+        "B. gaps",
+        "C. holes",
+        "D. cracks"
+      ],
+      "answer": "A",
+      "explanation": "'legal loopholes'는 '법의 허점'을 뜻하는 고정된 연어(collocation)로 이 문맥에 정확히 맞습니다. 'gaps'나 'holes'는 일반적인 단어라 법률 맥락의 관용적 표현으로는 부자연스럽습니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "This project draws ______ my personal experience of urban marginalization.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 전치사를 고르세요.",
+      "options": [
+        "A. on",
+        "B. from",
+        "C. in",
+        "D. of"
+      ],
+      "answer": "A",
+      "explanation": "'draw on'은 '~을 바탕으로 하다, ~에서 끌어오다'라는 뜻의 학술적 표현으로 경험이나 자료를 활용함을 나타낼 때 자주 쓰입니다. 'draw from'도 쓰이긴 하지만 'draw on'이 더 관용적인 짝이며, 'draw in'은 '끌어들이다'라는 전혀 다른 의미입니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "By the time I returned to Paris, I ______ over 100 drawings during my two months on the street.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 시제를 고르세요.",
+      "options": [
+        "A. had made",
+        "B. made",
+        "C. have made",
+        "D. was making"
+      ],
+      "answer": "A",
+      "explanation": "과거의 특정 시점(returned)보다 이전에 완료된 행위를 나타낼 때는 과거완료(had made)를 사용합니다. 단순과거(made)를 쓰면 두 사건의 선후 관계가 모호해지고, 현재완료(have made)는 과거 시점 기준 서술과 맞지 않습니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "it's bugging me",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "You seem distracted today."
+        },
+        {
+          "speaker": "B",
+          "line": "Yeah, something's off but I can't figure out what."
+        },
+        {
+          "speaker": "A",
+          "line": "Is everything okay at home?"
+        },
+        {
+          "speaker": "B",
+          "line": "I don't know, ______."
+        }
+      ],
+      "question": "마지막 대화에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. it's bugging me",
+        "B. that rings a bell",
+        "C. it's slipping my mind",
+        "D. it's getting on my nerves"
+      ],
+      "answer": "A",
+      "explanation": "'it's bugging me'는 무언가가 계속 신경 쓰인다는 뜻으로 B가 이유 모를 불편함을 느끼는 상황에 정확히 맞습니다. 'that rings a bell'은 '어디서 들어본 것 같다'는 뜻(익숙함)이라 문맥과 다르고, 'it's slipping my mind'는 '깜빡 잊어버리다'라는 반대 의미이며, 'it's getting on my nerves'는 짜증남을 뜻해 뉘앙스가 다릅니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "that rings a bell",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Have you met my neighbor, Sophie?"
+        },
+        {
+          "speaker": "B",
+          "line": "Hmm, ______. Did she used to work at the bakery?"
+        }
+      ],
+      "question": "마지막 대화에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. that rings a bell",
+        "B. it's bugging me",
+        "C. that's news to me",
+        "D. that sounds like a broken record"
+      ],
+      "answer": "A",
+      "explanation": "'that rings a bell'은 '어디서 들어본 것 같다'는 뜻으로 이름이 희미하게 익숙할 때 쓰는 표현입니다. 'it's bugging me'는 계속 신경 쓰인다는 뜻(다른 상황), 'that's news to me'는 전혀 몰랐던 사실을 들었을 때 쓰는 표현(반대 의미), 'that sounds like a broken record'는 같은 말을 반복한다는 뜻으로 문맥과 무관합니다."
+    }
+  ]
+}
