@@ -1,0 +1,221 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T18:24:55.191804+00:00",
+  "personal_sources": [
+    "Hostis",
+    "Esquisse sur la colombophobie",
+    "Fantôme 3008"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Hostis",
+      "expression_key": null,
+      "sentence": "The exhibition « Hostis » takes place in the former premises of a Muslim funeral home, far ______ from the conventional universe of contemporary art.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. removed",
+        "B. distanced",
+        "C. separated",
+        "D. isolated"
+      ],
+      "answer": "A",
+      "explanation": "'far removed from'은 '~와는 거리가 먼, 전혀 다른'이라는 뜻의 관용 표현으로 removed가 정답입니다. distanced/separated/isolated는 이 구조에서 관용적으로 쓰이지 않아 어색합니다. 전시 공간과 예술계의 대조를 강조할 때 이 표현을 그대로 활용하면 좋습니다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Hostis",
+      "expression_key": null,
+      "sentence": "This neighborhood, a witness to the utopian architecture of the 1960s–70s « Grands Ensembles », is currently ______ by degradation and drug trafficking.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. marked",
+        "B. signed",
+        "C. noted",
+        "D. labeled"
+      ],
+      "answer": "A",
+      "explanation": "'marked by'는 '~로 특징지어지다, ~의 흔적이 있다'는 뜻의 자연스러운 관용 표현입니다. signed/noted/labeled는 이 문맥에서 의미가 통하지 않습니다. 지역이나 공간의 상태를 묘사할 때 유용하게 쓸 수 있는 표현입니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Hostis",
+      "expression_key": null,
+      "sentence": "This space, ______ demolition and originally chosen as a creative site, has been transformed into an unconventional indoor garden.",
+      "dialogue": null,
+      "question": "분사구문에서 문맥상 올바른 형태를 고르세요.",
+      "options": [
+        "A. awaiting",
+        "B. awaited",
+        "C. having awaited",
+        "D. being awaited"
+      ],
+      "answer": "A",
+      "explanation": "공간이 철거를 '기다리고 있는' 능동의 의미이므로 현재분사 awaiting이 맞습니다. awaited는 수동형('기다려지는 것')이 되어 의미가 어긋납니다. 건물이나 장소의 상태를 분사구문으로 압축해 묘사할 때 능동/수동 구분에 유의하세요."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Fantôme 3008",
+      "expression_key": null,
+      "sentence": "The graffiti murals that ______ to dust as the concrete was destroyed have been faithfully restored here.",
+      "dialogue": null,
+      "question": "시제 흐름상 가장 적절한 형태를 고르세요.",
+      "options": [
+        "A. had turned",
+        "B. turned",
+        "C. have turned",
+        "D. were turning"
+      ],
+      "answer": "A",
+      "explanation": "벽화가 먼지로 변한 사건은 복원(have been restored)보다 훨씬 이전에 일어난 일이므로 과거완료 had turned가 자연스럽습니다. 단순과거 turned를 쓰면 시제 순서가 모호해집니다. 철거 이후 오랜 시간이 지나 복원된 경위를 설명할 때 과거완료로 선후관계를 분명히 하세요."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The remarkable engineering and tragic ______ of the vessel that would end Britain's dream to dominate the skies.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. demise",
+        "B. arrival",
+        "C. success",
+        "D. launch"
+      ],
+      "answer": "A",
+      "explanation": "demise는 '(비극적인) 종말, 몰락'을 뜻하며 tragic과 자연스럽게 어울립니다. arrival/success/launch는 tragic이라는 형용사와 의미상 모순되어 문맥에 맞지 않습니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Fighting ______ after Tigrayan rebels form new coalition aimed at overthrowing Abiy Ahmed government.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. escalates",
+        "B. decreases",
+        "C. stabilizes",
+        "D. pauses"
+      ],
+      "answer": "A",
+      "explanation": "escalates는 갈등이나 전투가 '격화되다'는 뜻으로 문맥에 정확히 맞습니다. decreases/stabilizes/pauses는 오히려 반대되거나 상충되는 의미를 나타내 부적절합니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The curator said, \"The exhibition will open next month.\" → The curator said that the exhibition ______ next month.",
+      "dialogue": null,
+      "question": "간접화법으로 바꿀 때 올바른 시제를 고르세요.",
+      "options": [
+        "A. would open",
+        "B. will open",
+        "C. opens",
+        "D. had opened"
+      ],
+      "answer": "A",
+      "explanation": "원래 발화가 미래시제(will)였으므로 전달동사 said에 맞춰 would로 시제가 후퇴(backshift)해야 합니다. will을 그대로 쓰면 시제 일치 규칙을 어기게 됩니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The building, ______ was demolished in 2023, once served as a hospital.",
+      "dialogue": null,
+      "question": "콤마로 구분된 비제한적 관계절에 올바른 관계대명사를 고르세요.",
+      "options": [
+        "A. which",
+        "B. that",
+        "C. who",
+        "D. whose"
+      ],
+      "answer": "A",
+      "explanation": "콤마로 분리된 비제한적 관계절에는 that을 쓸 수 없고 which를 써야 합니다. that은 제한적 관계절에서만 사용 가능하므로 이 문맥에서는 오답입니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "it's worth a shot",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "My phone won't turn on at all."
+        },
+        {
+          "speaker": "B",
+          "line": "Have you tried holding the power button for 30 seconds?"
+        },
+        {
+          "speaker": "A",
+          "line": "I haven't, but I doubt it'll work."
+        },
+        {
+          "speaker": "B",
+          "line": "Try it anyway — it's ______."
+        }
+      ],
+      "question": "빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. worth a shot",
+        "B. par for the course",
+        "C. up in the air",
+        "D. a piece of cake"
+      ],
+      "answer": "A",
+      "explanation": "확신은 없지만 시도해볼 만한 상황이므로 '한번 해볼 만하다'는 뜻의 worth a shot이 정답입니다. par for the course는 '늘 있는 흔한 일', up in the air는 '아직 미정인 상태', a piece of cake는 '아주 쉬운 일'을 뜻해 문맥에 맞지 않습니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "it's par for the course",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "The train's delayed again."
+        },
+        {
+          "speaker": "B",
+          "line": "Seriously? Third time this week."
+        },
+        {
+          "speaker": "A",
+          "line": "Yeah, but that's just ______ around here."
+        }
+      ],
+      "question": "빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. par for the course",
+        "B. worth a shot",
+        "C. out of the blue",
+        "D. a stretch"
+      ],
+      "answer": "A",
+      "explanation": "반복적으로 일어나는 흔한 일이라는 의미이므로 '늘 있는 일이다'는 뜻의 par for the course가 정답입니다. worth a shot은 '한번 해볼 만하다', out of the blue는 '갑작스럽게', a stretch는 '무리한 주장'을 뜻해 문맥과 맞지 않습니다."
+    }
+  ]
+}
