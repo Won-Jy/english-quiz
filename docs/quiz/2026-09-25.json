@@ -1,0 +1,225 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T18:31:51.092747+00:00",
+  "personal_sources": [
+    "Déambulatoire",
+    "Fantôme 3008",
+    "Hostis"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Déambulatoire",
+      "expression_key": null,
+      "sentence": "I carried out daily walks around the living space, collecting objects ______ throughout the landscape along the banks of the Hérault River.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 자연스러운 단어를 고르세요.",
+      "options": [
+        "A. scattered",
+        "B. dispersed",
+        "C. spread",
+        "D. littered"
+      ],
+      "answer": "A",
+      "explanation": "'scattered throughout the landscape'는 자연스러운 연어(collocation)로, 실제 작가노트에 쓰인 표현입니다. 'littered'는 '어질러진'이라는 부정적 뉘앙스가 강해 자연물 채집 맥락에는 어울리지 않고, 'dispersed'는 더 격식적이고 과학적인 느낌을 줍니다. 전시 텍스트에서 사물이 공간에 흩어져 있음을 묘사할 때 'scattered'를 활용하면 좋습니다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Déambulatoire",
+      "expression_key": null,
+      "sentence": "These 'remains,' ______ in the eyes of the locals, were highlighted and made visible by being placed on geometric pedestals I built myself.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. mundane",
+        "B. futile",
+        "C. obsolete",
+        "D. trivial"
+      ],
+      "answer": "A",
+      "explanation": "'mundane'은 '평범한, 일상적인'이라는 뜻으로 주민들에게는 특별할 것 없는 사물이었다는 원문의 의미와 정확히 맞습니다. 'trivial'도 비슷해 보이지만 '하찮은, 사소한'이라는 가치 폄하 뉘앙스가 강해 예술적 맥락에서 원래 의도(일상성)와 약간 어긋납니다. 오브제의 평범함을 강조하고 싶을 때 'mundane objects'는 작가 텍스트에서 매우 유용한 표현입니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Déambulatoire",
+      "expression_key": null,
+      "sentence": "The act of making was replaced by ______ repetitive production of pedestals, evoking a kind of industrial process.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 관사를 고르세요.",
+      "options": [
+        "A. the",
+        "B. a",
+        "C. some",
+        "D. (no article)"
+      ],
+      "answer": "A",
+      "explanation": "여기서 'repetitive production of pedestals'는 이미 앞 문장에서 언급된 구체적인 행위(작가가 실제로 한 특정 작업)를 가리키므로 정관사 'the'가 맞습니다. 부정관사 'a'를 쓰면 불특정한 '어떤 반복적 생산' 하나를 가리키게 되어 원문의 구체성이 사라집니다. 작가노트에서 이미 설명한 특정 행위나 개념을 다시 지칭할 때는 'the + 추상명사' 구조를 기억해두세요."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Déambulatoire",
+      "expression_key": null,
+      "sentence": "These elements were selected, displaced, and ______ in a single interior space—a white cube.",
+      "dialogue": null,
+      "question": "병렬 구조를 고려할 때 빈칸에 가장 적절한 형태를 고르세요.",
+      "options": [
+        "A. arranged",
+        "B. arranging",
+        "C. being arranged",
+        "D. to be arranged"
+      ],
+      "answer": "A",
+      "explanation": "'selected, displaced, and arranged'는 세 개의 과거분사가 병렬을 이루어 수동태 동사구를 완성하는 구조입니다. 'arranging'이나 'being arranged'를 쓰면 앞의 두 분사와 형태가 어긋나 병렬 구조가 깨집니다. 작업 과정을 나열할 때는 동사 형태를 통일하는 것이 전시 텍스트의 리듬과 명료성을 위해 중요합니다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Jürgen Habermas, the great defender of deliberative democracy, lived up to its demands: he never feared ______ his mind.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. changing",
+        "B. altering",
+        "C. converting",
+        "D. switching"
+      ],
+      "answer": "A",
+      "explanation": "'change one's mind'는 '마음/의견을 바꾸다'는 뜻의 고정된 관용 표현입니다. 'convert'는 종교나 형태의 근본적 전환에 쓰이고, 'switch'는 더 캐주얼하며 'switch one's mind'는 어색합니다. 'alter'도 가능하긴 하지만 이 문맥에서는 관용적으로 'change one's mind'가 압도적으로 자연스럽습니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "There are growing fears of a return to civil war in Ethiopia after an offensive by fighters from Tigray ______ the neighbouring states of Afar and Amhara.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 전치사구를 고르세요.",
+      "options": [
+        "A. into",
+        "B. onto",
+        "C. towards",
+        "D. upon"
+      ],
+      "answer": "A",
+      "explanation": "'offensive into [지역]'은 군사 공세가 특정 지역 '안으로' 진입했다는 의미로 뉴스 기사에서 흔히 쓰이는 표현입니다. 'towards'는 방향만 나타내고 실제 진입을 의미하지 않아 문맥과 약하게 어긋납니다. 'onto'와 'upon'은 이런 지리적 침공 표현에는 부자연스럽습니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The artist, ______ lives between Seoul and Paris, often incorporates found objects into her installations.",
+      "dialogue": null,
+      "question": "콤마로 구분된 비제한적 관계절에 알맞은 관계대명사를 고르세요.",
+      "options": [
+        "A. who",
+        "B. that",
+        "C. which",
+        "D. whom"
+      ],
+      "answer": "A",
+      "explanation": "콤마로 앞뒤가 분리된 비제한적(non-defining) 관계절에서는 사람을 가리킬 때 'who'만 쓸 수 있고 'that'은 쓸 수 없습니다. 'which'는 사물/동물에 쓰이므로 사람인 the artist에는 맞지 않습니다. 정보를 덧붙이는 부가 설명인지, 필수적인 제한 정보인지에 따라 콤마 유무와 관계대명사 선택이 달라진다는 점을 기억하세요."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "______ from recycled materials, the sculpture reflects the artist's concern with sustainability.",
+      "dialogue": null,
+      "question": "문두 분사구문으로 가장 자연스러운 형태를 고르세요.",
+      "options": [
+        "A. Made",
+        "B. Having made",
+        "C. Being made",
+        "D. Having been made"
+      ],
+      "answer": "A",
+      "explanation": "조각은 스스로 만드는 행위의 주체가 아니라 만들어지는 대상이므로 수동의 과거분사 'Made'가 자연스럽고, 이는 상태를 설명하는 압축된 수동태입니다. 'Having made'는 능동 의미로 조각이 무언가를 만들었다는 뜻이 되어 논리적으로 틀리고, 'Having been made'는 문법적으로 가능하지만 지나치게 장황해 이 문맥에는 어울리지 않습니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "I'm dragging today",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "You look exhausted. Are you okay?"
+        },
+        {
+          "speaker": "B",
+          "line": "I only slept four hours last night."
+        },
+        {
+          "speaker": "A",
+          "line": "That's rough."
+        },
+        {
+          "speaker": "B",
+          "line": "Yeah, I'm just ______ today."
+        }
+      ],
+      "question": "빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. dragging",
+        "B. under the weather",
+        "C. on cloud nine",
+        "D. up in arms"
+      ],
+      "answer": "A",
+      "explanation": "'I'm dragging today'는 '오늘 몸이 축 처지네'라는 뜻으로 잠을 못 자서 기운이 없는 상황에 정확히 맞습니다. 'under the weather'는 몸이 살짝 아플 때 쓰는 표현이라 피곤함과는 결이 다르고, 'on cloud nine'은 매우 행복한 상태, 'up in arms'는 화가 나서 항의하는 상태를 뜻해 전혀 다른 감정입니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "that doesn't sit well with me",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "The landlord wants to raise the rent early, breaking his promise."
+        },
+        {
+          "speaker": "B",
+          "line": "Wait, he said he wouldn't for another year."
+        },
+        {
+          "speaker": "A",
+          "line": "I know, but he's doing it anyway."
+        },
+        {
+          "speaker": "B",
+          "line": "That ______ with me."
+        }
+      ],
+      "question": "빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. doesn't sit well",
+        "B. rings true",
+        "C. goes down well",
+        "D. sits fine"
+      ],
+      "answer": "A",
+      "explanation": "'doesn't sit well with me'는 '그건 좀 마음에 걸려/찜찜해'라는 뜻으로 약속을 어긴 상황에 대한 불편한 감정을 표현합니다. 'rings true'는 '사실처럼 들리다', 'goes down well'은 '호응을 얻다, 잘 받아들여지다', 'sits fine'은 '괜찮다, 문제없다'는 뜻이라 지금의 불쾌한 감정과는 반대되거나 무관합니다."
+    }
+  ]
+}
