@@ -1,0 +1,225 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T20:32:09.754611+00:00",
+  "personal_sources": [
+    "Residency at Maison Daura I",
+    "Columbarium VI",
+    "Premières pierres"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Residency at Maison Daura I",
+      "expression_key": null,
+      "sentence": "The village, perched halfway up a gorge, was often ______ in the damp autumn clouds that give the area its distinctive landscape.",
+      "dialogue": null,
+      "question": "빈칸에 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. shrouded",
+        "B. surrounded",
+        "C. flooded",
+        "D. buried"
+      ],
+      "answer": "A",
+      "explanation": "'shrouded'는 안개나 구름에 뒤덮여 신비롭고 흐릿한 분위기를 암시하는 시적인 단어로, 이 문맥의 축축한 가을 안개 묘사에 정확히 맞습니다. 'surrounded'는 단순히 둘러싸임만 나타내고 은폐/신비의 뉘앙스가 없어 부족합니다. 작가노트에서 날씨나 분위기를 묘사할 때 'shrouded in mist/fog/clouds' 표현을 활용하면 시각적 은유가 살아납니다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Columbarium VI",
+      "expression_key": null,
+      "sentence": "the pigeon's body is covered, but not entirely ______; it is covered with particles, but plastic fragments rather than soil",
+      "dialogue": null,
+      "question": "빈칸에 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. concealed",
+        "B. disguised",
+        "C. masked",
+        "D. buried"
+      ],
+      "answer": "A",
+      "explanation": "'concealed'는 '완전히 숨겨지지 않았다'는 원문의 의미(부분적으로 보이는 상태)와 정확히 맞습니다. 'disguised'는 다른 모습으로 위장한다는 의미라 물리적 은폐 묘사에는 어색합니다. 작품 설명에서 '가려짐의 정도'를 다룰 때는 concealed/exposed의 대조를 쓰면 개념적 명료함이 살아납니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Columbarium VI",
+      "expression_key": null,
+      "sentence": "I drew particular inspiration ______ a kind of local custom I often observed among the neighborhood's troublemakers.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 알맞은 전치사를 고르세요.",
+      "options": [
+        "A. from",
+        "B. by",
+        "C. of",
+        "D. for"
+      ],
+      "answer": "A",
+      "explanation": "'draw inspiration from'은 예술 글쓰기에서 영감의 출처를 밝힐 때 쓰는 표준 관용구입니다. 'inspiration by'는 수동태(be inspired by)에서만 자연스럽고, 능동형 'draw inspiration'에는 반드시 'from'을 씁니다. 작가노트에서 영감의 근원을 언급할 때는 항상 'draw/take inspiration from'을 고정 표현으로 기억해두세요."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Premières pierres",
+      "expression_key": null,
+      "sentence": "Since 2018, I ______ on Premières pierres, a series of \"fake stones\" made by printing images of rock onto fragments of concrete.",
+      "dialogue": null,
+      "question": "빈칸에 가장 알맞은 시제를 고르세요.",
+      "options": [
+        "A. have been working",
+        "B. work",
+        "C. worked",
+        "D. am working"
+      ],
+      "answer": "A",
+      "explanation": "'since + 과거 시점'과 함께 현재까지 계속되는 작업을 표현할 때는 현재완료진행형 'have been working'이 정확합니다. 단순현재 'work'는 습관적 사실을 말할 뿐 지속 기간을 담지 못해 'since 2018'과 어울리지 않습니다. 장기 진행 중인 연작을 소개할 때는 'Since [year], I have been working on...' 구문을 표준으로 쓰세요."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "In the mid-1990s, thinkers ______ the idea that we're built by language, turning to feeling and the body instead.",
+      "dialogue": null,
+      "question": "빈칸에 가장 적절한 표현을 고르세요.",
+      "options": [
+        "A. pushed back against",
+        "B. pushed forward",
+        "C. pushed through",
+        "D. pushed aside"
+      ],
+      "answer": "A",
+      "explanation": "'push back against'는 어떤 사상이나 주장에 저항/반발한다는 뜻으로, 언어중심주의에 반대하는 문맥에 정확히 맞습니다. 'push forward'는 오히려 그 생각을 추진한다는 반대 의미라 틀립니다. 'push through'(어려움을 뚫고 밀어붙이다)와 'push aside'(무시하다)도 비슷해 보이지만 여기서는 지적 반박이라는 뉘앙스와 맞지 않습니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The spectral are getting louder, more insistent, more ______, and our literature, our cinema, reflect this.",
+      "dialogue": null,
+      "question": "빈칸에 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. prevalent",
+        "B. provident",
+        "C. prudent",
+        "D. proficient"
+      ],
+      "answer": "A",
+      "explanation": "'prevalent'는 '널리 퍼진, 만연한'이라는 뜻으로 유령적 이미지가 문화 전반에 확산되는 현상을 설명하는 데 맞습니다. 'provident'(선견지명 있는), 'prudent'(신중한), 'proficient'(능숙한)는 철자가 비슷해 헷갈리기 쉽지만 전혀 다른 의미이므로 문맥과 맞지 않습니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "It is essential that the artist ______ complete freedom during the residency.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 알맞은 형태를 고르세요.",
+      "options": [
+        "A. have",
+        "B. has",
+        "C. having",
+        "D. will have"
+      ],
+      "answer": "A",
+      "explanation": "'It is essential that...' 구문 뒤에는 인칭과 시제에 상관없이 동사원형을 쓰는 가정법 현재(subjunctive)가 요구되므로 'have'가 맞습니다. 'has'는 일반 현재형 일치를 따른 오답으로, 가정법 구문에서는 절대 3인칭 단수형을 쓰지 않습니다. 제안·필수·요구를 나타내는 that절(suggest, essential, important 등) 뒤에서는 항상 원형 동사를 쓴다는 규칙을 기억하세요."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Among the fragments collected from the demolition site ______ several pieces that resemble human bones.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 알맞은 동사를 고르세요.",
+      "options": [
+        "A. were",
+        "B. was",
+        "C. is",
+        "D. has been"
+      ],
+      "answer": "A",
+      "explanation": "문두 전치사구(Among...)로 도치된 문장에서 실제 주어는 복수 명사 'several pieces'이므로 동사도 복수형 'were'가 맞습니다. 도치 구문에서는 문장 맨 앞의 명사가 아니라 진짜 주어에 수를 일치시켜야 하는데, 'was'는 이 규칙을 무시한 흔한 오류입니다. 복잡하거나 도치된 문장에서는 항상 '진짜 주어'를 찾아 수일치를 확인하는 습관이 필요합니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "I'll pass",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "We're getting bubble tea from the place downstairs, want some?"
+        },
+        {
+          "speaker": "B",
+          "line": "I just brushed my teeth after lunch."
+        },
+        {
+          "speaker": "A",
+          "line": "Come on, it's your favorite flavor though."
+        },
+        {
+          "speaker": "B",
+          "line": "Thanks, but I'll ______ this time."
+        }
+      ],
+      "question": "마지막 대화 빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. pass",
+        "B. count me in",
+        "C. take a rain check",
+        "D. give it a shot"
+      ],
+      "answer": "A",
+      "explanation": "'I'll pass'는 정중하게 제안을 거절할 때 쓰는 표현으로, 이미 이를 닦았다는 이유로 지금은 사양하겠다는 상황에 맞습니다. 'count me in'은 오히려 참여하겠다는 정반대의 의미입니다. 'take a rain check'는 지금은 거절하지만 나중에는 하고 싶다는 뉘앙스이고, 'give it a shot'은 한번 시도해보겠다는 뜻이라 이 상황과 맞지 않습니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "that's a stretch for my budget",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "This apartment near the station is really nice."
+        },
+        {
+          "speaker": "B",
+          "line": "How much is the rent?"
+        },
+        {
+          "speaker": "A",
+          "line": "It's $1500 a month, but it includes utilities."
+        },
+        {
+          "speaker": "B",
+          "line": "Hmm, that's ______ for my budget."
+        }
+      ],
+      "question": "마지막 대화 빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. a stretch",
+        "B. a steal",
+        "C. a breeze",
+        "D. a piece of cake"
+      ],
+      "answer": "A",
+      "explanation": "'a stretch for my budget'는 예산에 비해 빠듯하고 부담스럽다는 뜻으로, 렌트비가 비싸다는 상황에 정확히 맞습니다. 'a steal'은 '아주 저렴하다, 거저나 다름없다'는 정반대 의미라 오답입니다. 'a breeze'와 'a piece of cake'는 둘 다 '아주 쉬운 일'을 뜻하는 표현이라 예산 이야기와는 전혀 어울리지 않습니다."
+    }
+  ]
+}
