@@ -1,0 +1,209 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T19:22:53.555739+00:00",
+  "personal_sources": [
+    "Columbarium VI",
+    "Collection des contenants en plastique",
+    "Flâner passer ou habiter"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Columbarium VI",
+      "expression_key": null,
+      "sentence": "Its ______ had already progressed considerably, leaving it dried out with little more than a bare skeleton of quills remaining.",
+      "dialogue": null,
+      "question": "다음 문장의 빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. decomposition",
+        "B. decoration",
+        "C. composition",
+        "D. corrosion"
+      ],
+      "answer": "A",
+      "explanation": "'decomposition'은 유기물이 부패·분해되는 과정을 뜻하며, 비둘기 사체의 상태를 설명하는 이 문맥에 정확히 맞습니다. 'corrosion'은 금속의 부식을 뜻해 유기체에는 쓰이지 않으므로 오답입니다. 작가노트에서 사체나 유기물의 변화를 묘사할 때 유용한 단어입니다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Columbarium VI",
+      "expression_key": null,
+      "sentence": "I reproduced them identically, multiple times, as clear resin nuggets — a form ______ of Claude Viallat's.",
+      "dialogue": null,
+      "question": "다음 문장의 빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. reminiscent",
+        "B. remnant",
+        "C. resemblant",
+        "D. reminded"
+      ],
+      "answer": "A",
+      "explanation": "'reminiscent of'는 '~을 연상시키는'이라는 뜻의 고정 표현으로 예술적 영향관계를 설명할 때 자주 쓰입니다. 'resemblant'는 영어에서 실제로 거의 쓰이지 않는 어색한 단어이므로 오답입니다. 다른 작가의 스타일을 언급할 때 'a form reminiscent of X's work' 형태로 활용하면 좋습니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Collection des contenants en plastique",
+      "expression_key": null,
+      "sentence": "These were the everyday residue of daily life, ______ by kind inside transparent plastic boxes.",
+      "dialogue": null,
+      "question": "분사구문으로 문장을 자연스럽게 이어주는 알맞은 형태를 고르세요.",
+      "options": [
+        "A. sorted",
+        "B. sorting",
+        "C. having sorted",
+        "D. to sort"
+      ],
+      "answer": "A",
+      "explanation": "residue(잔여물)는 분류하는 주체가 아니라 분류되는 대상이므로 수동의 의미를 가진 과거분사 'sorted'가 맞습니다. 'sorting'을 쓰면 residue가 스스로 분류하는 것처럼 능동의 의미가 되어 어색합니다. 오브제나 재료가 '정리된' 상태를 묘사할 때 이런 분사구문을 활용하면 문장이 간결해집니다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Flâner passer ou habiter",
+      "expression_key": null,
+      "sentence": "I also integrated materials collected from the riverbed ______ concrete, creating sculptures that evoke hostile architectural structures.",
+      "dialogue": null,
+      "question": "다음 문장의 빈칸에 들어갈 가장 알맞은 전치사를 고르세요.",
+      "options": [
+        "A. into",
+        "B. in",
+        "C. with",
+        "D. onto"
+      ],
+      "answer": "A",
+      "explanation": "'integrate A into B'는 'A를 B 안에 통합시키다'라는 뜻의 관용적 전치사 결합입니다. 'integrate with'는 '~와 어우러지다'라는 다른 뉘앙스로, 재료를 콘크리트 속에 섞어 넣는 이 문맥에는 맞지 않습니다. 작업 과정을 설명할 때 'integrate materials into [medium]' 구조를 기억해두면 유용합니다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Bridget Finn, ABMB's director, told ArtNews that 'this reduction is more about ______ than contraction.'",
+      "dialogue": null,
+      "question": "다음 문장의 빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. refinement",
+        "B. refined",
+        "C. refine",
+        "D. refining"
+      ],
+      "answer": "A",
+      "explanation": "'contraction'과 병렬 구조를 이루려면 명사형 'refinement'가 필요합니다. 'refining'은 동명사로 문법적으로는 가능하나 원문의 대구(refinement vs contraction)에 맞지 않아 부자연스럽습니다. 전시나 행사 규모 변화를 설명할 때 'refinement'는 '축소'가 아닌 '정제·개선'의 뉘앙스를 전달하는 유용한 단어입니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "A cancer diagnosis carries with it fear and ______.",
+      "dialogue": null,
+      "question": "다음 문장의 빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. upheaval",
+        "B. uphill",
+        "C. upheave",
+        "D. uplift"
+      ],
+      "answer": "A",
+      "explanation": "'upheaval'은 '격변, 큰 혼란'을 뜻하는 명사로 fear와 함께 쓰이는 자연스러운 병렬 표현입니다. 'uplift'는 오히려 긍정적 고양을 뜻해 문맥과 반대되므로 오답입니다. 이 단어는 심리적·사회적 격변을 표현할 때 예술 텍스트에서도 자주 사용됩니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Having ______ the exhibition for three months, the artist finally opened the doors to the public.",
+      "dialogue": null,
+      "question": "완료 분사구문에 맞는 형태를 고르세요.",
+      "options": [
+        "A. prepared",
+        "B. preparing",
+        "C. been prepared",
+        "D. to prepare"
+      ],
+      "answer": "A",
+      "explanation": "'Having + 과거분사'는 주절보다 먼저 끝난 행위를 나타내는 완료 능동 분사구문으로, 여기서는 작가가 직접 준비한 것이므로 'having prepared'가 맞습니다. 'having been prepared'는 수동을 나타내어 준비 행위의 주체가 작가가 아니게 되므로 문맥과 어긋납니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The artist ______ the resin sculptures cast by a local foundry before the opening.",
+      "dialogue": null,
+      "question": "사역동사(causative have) 구문에 맞는 형태를 고르세요.",
+      "options": [
+        "A. had",
+        "B. was had",
+        "C. has",
+        "D. having"
+      ],
+      "answer": "A",
+      "explanation": "'have + 목적어 + 과거분사'는 '~을 시켜서 하게 하다'라는 사역 구문으로, 작가가 주물 공장에 조각을 주조하게 한 것이므로 'had ... cast'가 맞습니다. 'was had'는 문법적으로 성립하지 않는 형태이므로 오답입니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "I'm easing into it",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "How's it going with your new job so far?"
+        },
+        {
+          "speaker": "B",
+          "line": "It's a lot to learn, but ______."
+        }
+      ],
+      "question": "B의 마지막 대사에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. I'm easing into it",
+        "B. I'm getting cold feet",
+        "C. I'm calling it quits",
+        "D. I'm winging it"
+      ],
+      "answer": "A",
+      "explanation": "'I'm easing into it'은 '천천히 적응해가고 있다'는 뜻으로, 배울 것이 많지만 점차 익숙해지는 상황에 딱 맞습니다. 'getting cold feet'는 겁을 먹고 망설인다는 뜻, 'calling it quits'는 그만둔다는 뜻, 'winging it'은 준비 없이 즉흥적으로 한다는 뜻으로 모두 이 문맥과 맞지 않습니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "I'd rather not",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Do you want to talk about what happened yesterday?"
+        },
+        {
+          "speaker": "B",
+          "line": "Honestly, ______."
+        }
+      ],
+      "question": "B의 마지막 대사에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. I'd rather not",
+        "B. I couldn't care less",
+        "C. I wouldn't mind",
+        "D. I might as well"
+      ],
+      "answer": "A",
+      "explanation": "'I'd rather not'은 '안 하는 게 좋겠어'라는 뜻으로 정중하게 거절할 때 쓰는 표현이며, 어제 일에 대해 이야기하고 싶지 않은 상황에 맞습니다. 'I couldn't care less'는 전혀 신경 쓰지 않는다는 뜻, 'I wouldn't mind'는 오히려 괜찮다는 긍정적 수락, 'I might as well'은 마지못해 하겠다는 뜻으로 모두 거절의 뉘앙스와 다릅니다."
+    }
+  ]
+}
