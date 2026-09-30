@@ -1,0 +1,225 @@
+{
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T19:10:04.232289+00:00",
+  "personal_sources": [
+    "Esquisse sur la colombophobie",
+    "Hostis",
+    "Premières pierres II"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Esquisse sur la colombophobie",
+      "expression_key": null,
+      "sentence": "In the final section, I draw a connection between pigeons—now despised—and ______ people in human society, a connection I refer to as the \"Pigeon-human.\"",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. marginalized",
+        "B. marginal",
+        "C. marginalizing",
+        "D. marginalize"
+      ],
+      "answer": "A",
+      "explanation": "'marginalized people'는 '주변화된 사람들'이라는 뜻의 과거분사형 형용사로, 사회에서 소외된 이들을 가리킬 때 예술/사회학 글쓰기에서 자주 쓰입니다. 'marginal'은 '주변적인, 미미한'이라는 다른 의미이므로 부적절합니다. 작가노트에서 소외된 존재를 다룰 때 이 표현을 적극 활용하면 좋습니다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Esquisse sur la colombophobie",
+      "expression_key": null,
+      "sentence": "Through the concepts of Colombophobia and Pigeon-human, I sketch out the mechanisms of hatred, exploring how ______ to others, self-hatred, taboo, and sacredness intersect.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. aversion",
+        "B. adversity",
+        "C. version",
+        "D. diversion"
+      ],
+      "answer": "A",
+      "explanation": "'aversion to'는 '~에 대한 혐오/반감'을 뜻하며 감정을 분석하는 글에 적합합니다. 'adversity'는 '역경'이라는 전혀 다른 뜻이라 문맥에 맞지 않습니다. 혐오나 거부감을 다루는 작가 텍스트에서 유용하게 쓸 수 있는 단어입니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Hostis",
+      "expression_key": null,
+      "sentence": "This space, ______ demolition and originally chosen as a creative site, has been transformed into an unconventional indoor garden.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 분사 형태를 고르세요.",
+      "options": [
+        "A. awaiting",
+        "B. awaited",
+        "C. await",
+        "D. being awaited"
+      ],
+      "answer": "A",
+      "explanation": "공간(this space) 자체가 철거를 '기다리고 있는' 능동적 상태이므로 현재분사 'awaiting'이 맞습니다. 'awaited'는 수동형으로 공간이 누군가에 의해 '기다려지는' 뜻이 되어 어색합니다. 전시 공간의 상태를 묘사할 때 분사구문으로 정보를 압축하는 이 구조는 작가 텍스트에서 매우 유용합니다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Esquisse sur la colombophobie",
+      "expression_key": null,
+      "sentence": "I sketch out the mechanisms of hatred, exploring how aversion to others, self-hatred, taboo, and sacredness intersect, while seeking to understand ______ psychological coexistence of these contradictory emotions.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 관사를 고르세요.",
+      "options": [
+        "A. the",
+        "B. a",
+        "C. (무관사)",
+        "D. that"
+      ],
+      "answer": "A",
+      "explanation": "'of these contradictory emotions'라는 한정 수식어가 붙어 특정한 공존을 가리키므로 정관사 'the'가 필요합니다. 무관사나 부정관사는 추상명사를 일반적으로 말할 때는 가능하지만, 이처럼 구체적으로 한정될 때는 부적절합니다. 추상명사 뒤에 of구가 붙을 때 관사 선택에 유의하세요."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "On Wednesday, the state department ______ the funds to the grantees hours before the deadline despite congressional concerns.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. obligated",
+        "B. obliged",
+        "C. obligatory",
+        "D. obligation"
+      ],
+      "answer": "A",
+      "explanation": "행정/재정 맥락에서 'obligate funds'는 '자금을 공식적으로 배정하다'라는 전문 용어입니다. 'obliged'는 '의무를 지우다, 감사하게 하다'라는 뜻으로 이 문맥에는 맞지 않습니다. 정부 문서나 재정 기사에서 자주 등장하는 표현이니 익혀두면 좋습니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The Trump administration is pushing to direct more than $175m of the state department's ______ human rights fund to a slate of awards.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. flagship",
+        "B. flagstaff",
+        "C. flagrant",
+        "D. flag-bearing"
+      ],
+      "answer": "A",
+      "explanation": "'flagship'은 '대표적인, 주력의'라는 뜻으로 기관의 핵심 프로그램을 가리킬 때 씁니다. 'flagrant'는 '노골적인, 악명 높은'이라는 전혀 다른 의미라 혼동하기 쉬우니 주의하세요."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Given how detailed the final report is, the artist ______ spent months preparing it.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 조동사 표현을 고르세요.",
+      "options": [
+        "A. must have",
+        "B. should have",
+        "C. needn't have",
+        "D. can have"
+      ],
+      "answer": "A",
+      "explanation": "보고서가 매우 상세하다는 증거로부터 과거 사실에 대한 확신을 나타내므로 'must have + p.p.'가 맞습니다. 'should have'는 '~했어야 했는데 안 했다'는 후회/비판을 뜻하므로 이 문맥과 맞지 않습니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "______ selected for the biennale, the artist began preparing new works specifically for the space.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 분사 형태를 고르세요.",
+      "options": [
+        "A. Having been",
+        "B. Having",
+        "C. Being",
+        "D. Done"
+      ],
+      "answer": "A",
+      "explanation": "작가가 먼저 '선정된' 후에 '준비를 시작한' 시간 순서를 나타내야 하므로 완료수동분사 'Having been selected'가 정확합니다. 'Being selected'는 단순 동시 동작을 나타내어 시간차가 드러나지 않습니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "something feels off",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Have you heard from Jun since the trip?"
+        },
+        {
+          "speaker": "B",
+          "line": "No, and he hasn't posted anything either."
+        },
+        {
+          "speaker": "A",
+          "line": "That's odd, he always checks in."
+        },
+        {
+          "speaker": "B",
+          "line": "Yeah... something ______."
+        }
+      ],
+      "question": "마지막 대사의 빈칸에 들어갈 가장 적절한 표현을 고르세요.",
+      "options": [
+        "A. feels off",
+        "B. sounds about right",
+        "C. rings a bell",
+        "D. is up in the air"
+      ],
+      "answer": "A",
+      "explanation": "평소와 다른 침묵에 대해 막연한 불안감(찝찝함)을 표현하므로 'something feels off'가 정답입니다. 'rings a bell'은 '낯이 익다, 들어본 적 있다'는 뜻이고, 'is up in the air'는 '아직 결정되지 않았다'는 뜻으로 이 상황과 맞지 않습니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "that's right up my alley",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "I found a class on natural dyeing techniques."
+        },
+        {
+          "speaker": "B",
+          "line": "Oh really? Tell me more."
+        },
+        {
+          "speaker": "A",
+          "line": "It's all about plant-based pigments and traditional methods."
+        },
+        {
+          "speaker": "B",
+          "line": "That's ______!"
+        }
+      ],
+      "question": "마지막 대사의 빈칸에 들어갈 가장 적절한 표현을 고르세요.",
+      "options": [
+        "A. right up my alley",
+        "B. out of my depth",
+        "C. off the beaten path",
+        "D. a piece of cake"
+      ],
+      "answer": "A",
+      "explanation": "자신의 취향이나 관심사에 딱 맞는다는 뜻으로 'right up my alley'가 정답입니다. 'out of my depth'는 '내 능력 밖이다'는 뜻이고, 'a piece of cake'는 '아주 쉬운 일'이라는 뜻이라 이 상황과 맞지 않습니다."
+    }
+  ]
+}
