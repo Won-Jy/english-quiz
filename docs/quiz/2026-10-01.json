@@ -1,0 +1,225 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T19:29:05.013573+00:00",
+  "personal_sources": [
+    "Grotto",
+    "Déambulatoire",
+    "Homeless Drawings"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Grotto",
+      "expression_key": null,
+      "sentence": "This exhibition grew out of the ______ sculpture Grotto (2020–2022), of the same name, which had been made in the basement of the former Département du Gard social welfare building while it awaited demolition.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 표현을 고르세요.",
+      "options": [
+        "A. site-specific",
+        "B. site-specified",
+        "C. site-related",
+        "D. sited-specific"
+      ],
+      "answer": "A",
+      "explanation": "'site-specific'은 특정 장소를 위해 제작된 작품을 뜻하는 미술 전문 용어로, 전시 설명에 자주 쓰입니다. 'site-specified'와 'sited-specific'은 실제로 존재하지 않는 표현이므로 오답입니다. 본인의 작가 노트에서 장소 기반 작업을 설명할 때 이 표현을 적극적으로 활용해 보세요."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Homeless Drawings",
+      "expression_key": null,
+      "sentence": "The following summer, I decided to spend about two months ______ in Paris, staying close to them and drawing what I saw.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. sleeping rough",
+        "B. sleeping roughly",
+        "C. sleeping out rough",
+        "D. rough sleeping"
+      ],
+      "answer": "A",
+      "explanation": "'sleeping rough'는 '노숙하다'라는 뜻의 굳어진 관용 표현으로, 여기서 'rough'는 부사처럼 쓰여 '-ly'를 붙이지 않습니다. 'rough sleeping'은 명사형으로 동사 'spend ~ ing' 구조에 맞지 않습니다. 퍼포먼스 작업에서 신체적 체험을 서술할 때 유용하게 쓸 수 있는 표현입니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Grotto",
+      "expression_key": null,
+      "sentence": "This unexpected extension of time allowed the sculpture Grotto to ______ an exhibition that took over the entire basement.",
+      "dialogue": null,
+      "question": "작업이 전시로 발전했다는 의미를 정확히 전달하려면 빈칸에 어떤 표현이 가장 적절할까요?",
+      "options": [
+        "A. grow into",
+        "B. grow to",
+        "C. grow as",
+        "D. grow up to"
+      ],
+      "answer": "A",
+      "explanation": "'grow into something'은 '~로 발전하다/성장하다'라는 뜻의 관용적 전치사구입니다. 'grow to'는 주로 'grow to love/like' 같은 심리적 변화에 쓰이므로 이 문맥에는 맞지 않습니다. 조각이 전시로 확장된 과정을 설명할 때 'grow into'를 기억해 두면 좋습니다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Grotto",
+      "expression_key": null,
+      "sentence": "Over the course of the exhibition, I invited other artists to perform there on four separate occasions, ______ the exhibition, the pool, and the basement space.",
+      "dialogue": null,
+      "question": "앞 문장 전체의 결과를 자연스럽게 덧붙이려면 빈칸에 어떤 형태가 가장 적절할까요?",
+      "options": [
+        "A. continually reactivating",
+        "B. continually reactivate",
+        "C. which continually reactivates",
+        "D. to continually reactivate"
+      ],
+      "answer": "A",
+      "explanation": "현재분사구 'continually reactivating...'은 앞 절 전체의 결과를 덧붙이는 자연스러운 분사구문입니다. 'which continually reactivates'는 바로 앞 명사인 'occasions'를 수식하는 것으로 읽혀 의미가 어색해지고, 'continually reactivate'는 동사 원형이라 문법적으로 틀립니다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "With hours left before the funding expires, the Trump administration is pushing to direct more than $175m of the state department's ______ human rights fund to a slate of awards.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. flagship",
+        "B. flagstaff",
+        "C. flagrant",
+        "D. flanking"
+      ],
+      "answer": "A",
+      "explanation": "'flagship'은 어떤 기관의 가장 대표적이고 중요한 프로그램을 비유적으로 가리키는 표현입니다. 'flagrant'(명백한, 주로 부정적 의미), 'flagstaff'(깃대), 'flanking'(측면의)은 이 문맥에 전혀 맞지 않습니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "On Wednesday, the state department ______ the funds to the grantees hours before the deadline despite congressional concerns and requests not to do so.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. obligated",
+        "B. obliged",
+        "C. obligatory",
+        "D. obliterated"
+      ],
+      "answer": "A",
+      "explanation": "이 문맥에서 'obligate'는 자금을 공식적으로 배정·확정한다는 행정·법률 전문 용어로 쓰였습니다. 'oblige'는 '누군가에게 의무를 지우다'라는 뜻으로 사람을 목적어로 받는 경우가 많아 이 문장에는 어색합니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "By the time the building was demolished in 2023, the artist ______ four performance events in the basement.",
+      "dialogue": null,
+      "question": "과거의 한 시점 이전에 완료된 일을 나타내려면 빈칸에 어떤 시제가 필요할까요?",
+      "options": [
+        "A. had already organized",
+        "B. has already organized",
+        "C. already organized",
+        "D. was already organizing"
+      ],
+      "answer": "A",
+      "explanation": "'By the time + 과거시제' 구문은 그 시점 이전에 이미 끝난 일을 나타내므로 과거완료 'had already organized'가 맞습니다. 현재완료 'has already organized'는 과거의 기준점과 함께 쓸 수 없으므로 오답입니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Scattered across the riverbank ______ the stones, plants, and discarded objects collected during the residency.",
+      "dialogue": null,
+      "question": "도치된 문장에서 실제 주어에 맞는 동사는 무엇일까요?",
+      "options": [
+        "A. were",
+        "B. was",
+        "C. has been",
+        "D. is"
+      ],
+      "answer": "A",
+      "explanation": "문장이 'Scattered across the riverbank'로 도치되면서 실제 주어는 복수형인 'the stones, plants, and discarded objects'이므로 동사는 복수형 'were'가 되어야 합니다. 단수 동사 'was'는 이 복수 주어와 일치하지 않습니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "that went over my head",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Did you go to that economics seminar yesterday?"
+        },
+        {
+          "speaker": "B",
+          "line": "Yeah, I tried to follow, but it was really technical."
+        },
+        {
+          "speaker": "A",
+          "line": "Did you understand the part about interest rates?"
+        },
+        {
+          "speaker": "B",
+          "line": "Not really, that part completely ______."
+        }
+      ],
+      "question": "마지막 대사의 빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. went over my head",
+        "B. rang a bell",
+        "C. hit the nail on the head",
+        "D. slipped my mind"
+      ],
+      "answer": "A",
+      "explanation": "'went over my head'는 '무슨 말인지 하나도 이해하지 못했다'는 뜻으로, 기술적인 설명을 못 따라갔다는 상황에 딱 맞습니다. 'rang a bell'은 '어렴풋이 기억난다', 'hit the nail on the head'는 '정곡을 찌르다', 'slipped my mind'는 '깜빡 잊어버렸다'는 뜻으로 이 상황에는 맞지 않습니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "I'll get back to you",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Can you come to the party on Saturday?"
+        },
+        {
+          "speaker": "B",
+          "line": "I'm not sure yet, let me check my schedule."
+        },
+        {
+          "speaker": "A",
+          "line": "Okay, just let me know soon."
+        },
+        {
+          "speaker": "B",
+          "line": "Sure, ______."
+        }
+      ],
+      "question": "마지막 대사의 빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. I'll get back to you",
+        "B. I'll take a rain check",
+        "C. I'll keep you posted",
+        "D. I'll let it slide"
+      ],
+      "answer": "A",
+      "explanation": "'I'll get back to you'는 '나중에 다시 연락해서 답을 주겠다'는 뜻으로, 일정을 확인한 뒤 답을 주겠다는 상황에 정확히 맞습니다. 'I'll keep you posted'는 '진행 상황을 계속 알려주겠다', 'I'll take a rain check'는 '이번엔 사양하고 다음 기회로 미루겠다', 'I'll let it slide'는 '그냥 넘어가겠다'는 뜻으로 다릅니다."
+    }
+  ]
+}
