@@ -1,0 +1,213 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T19:12:53.310437+00:00",
+  "personal_sources": [
+    "Columbarium II",
+    "Columbarium VI",
+    "Residency at Maison Daura I"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Columbarium II",
+      "expression_key": null,
+      "sentence": "I brought the pigeon graves I had at home and ______ a display, arranging them together with materials I found on-site at the residency.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. improvised",
+        "B. improved",
+        "C. imposed",
+        "D. impromptu"
+      ],
+      "answer": "A",
+      "explanation": "'improvised'가 정답이며, 즉흥적으로 전시를 구성했다는 의미를 정확히 전달합니다. 'impromptu'는 형용사이므로 동사 자리에 올 수 없고, 'improved'와 'imposed'는 의미가 다릅니다. 작가노트에서 현장 설치 과정을 설명할 때 'improvise a display'처럼 쓰면 즉흥성과 현장성을 강조할 수 있어 유용합니다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Columbarium VI",
+      "expression_key": null,
+      "sentence": "This work was ______ as part of the solo exhibition Roulé-Lavé (2025) at CACN – Centre d'Art Contemporain de Nîmes.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. conceived",
+        "B. perceived",
+        "C. convinced",
+        "D. concealed"
+      ],
+      "answer": "A",
+      "explanation": "'conceived'가 정답이며, 작품이 '구상되었다'는 의미를 전달합니다. 'perceived'(지각되다), 'convinced'(설득하다), 'concealed'(숨기다)는 전혀 다른 의미입니다. 전시 서문에서 작업의 기원을 설명할 때 'conceived as part of'는 매우 표준적인 표현입니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Columbarium VI",
+      "expression_key": null,
+      "sentence": "Its decomposition had already progressed considerably, ______ it dried out with little more than a bare skeleton of quills remaining.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 자연스러운 형태를 고르세요.",
+      "options": [
+        "A. leaving",
+        "B. left",
+        "C. having left",
+        "D. to leave"
+      ],
+      "answer": "A",
+      "explanation": "'leaving'이 정답이며, 앞 문장의 결과를 설명하는 분사구문으로 쓰였습니다. 'left'는 수동형이라 주어와 맞지 않고, 'having left'는 주절보다 먼저 끝난 행위를 암시해 의미가 달라집니다. 작가노트에서 변화의 결과를 설명할 때 '..., leaving X' 구조는 간결하고 자연스럽습니다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Columbarium II",
+      "expression_key": null,
+      "sentence": "Échangeur 22, an artist residency located ______ Saint-Laurent-des-Arbres.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 전치사를 고르세요.",
+      "options": [
+        "A. in",
+        "B. at",
+        "C. on",
+        "D. within"
+      ],
+      "answer": "A",
+      "explanation": "'in'이 정답이며, 마을이나 도시처럼 넓은 지역 안에 위치함을 나타낼 때 사용합니다. 'at'은 특정 지점(주소, 건물)에, 'on'은 길이나 표면에 사용되므로 부적절합니다. 레지던시나 장소를 소개할 때 'located in + 지명' 형태를 기억해두면 유용합니다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "She ______ Elaina Richardson, who is stepping down after twenty-six years leading the nonprofit.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. succeeds",
+        "B. precedes",
+        "C. replaces",
+        "D. follows"
+      ],
+      "answer": "A",
+      "explanation": "'succeeds'가 정답이며, 직책을 이어받는다는 뜻의 격식있는 표현입니다. 'precedes'는 반대 의미(앞서다)이고, 'replaces'도 비슷하지만 공식 직함 승계에는 'succeed'가 더 정확합니다. 'follows'는 너무 일반적인 표현입니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The painting was among 40 murals ______ to beautify the city for Xi's arrival.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. commissioned",
+        "B. ordered",
+        "C. requested",
+        "D. assigned"
+      ],
+      "answer": "A",
+      "explanation": "'commissioned'가 정답이며, 특정 목적을 위해 의뢰받은 작품을 가리키는 미술 전문 용어입니다. 'ordered'와 'requested'는 격식이 떨어지고, 'assigned'는 임무 배정에 가까워 미술 맥락에서 어색합니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": null,
+      "dialogue": null,
+      "question": "여러 개의 무덤 중 특정한 하나를 구별하여 설명하는 문장으로 가장 올바른 것을 고르세요.",
+      "options": [
+        "A. The grave, which contained maggots, was placed near the window.",
+        "B. The grave that contained maggots was placed near the window.",
+        "C. The grave which contained maggots, was placed near the window.",
+        "D. The grave, that contained maggots was placed near the window."
+      ],
+      "answer": "B",
+      "explanation": "정답은 B입니다. 특정 무덤 하나를 다른 것들과 구별하는 제한적(한정적) 관계절이므로 콤마 없이 'that'을 사용해야 합니다. A처럼 콤마+which를 쓰면 무덤이 하나뿐이라는 뜻이 되어버리고, C와 D는 콤마와 접속사 사용이 일치하지 않아 비문법적입니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "______ the stones from the river, I washed and sorted them by size.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 분사구문을 고르세요.",
+      "options": [
+        "A. Having collected",
+        "B. Collecting",
+        "C. Having been collected",
+        "D. Collected"
+      ],
+      "answer": "A",
+      "explanation": "정답은 'Having collected'입니다. 주절보다 먼저 완료된 행동을 나타내는 완료분사구문입니다. 'Collecting'은 동시 동작을 나타내 시간 순서가 어긋나고, 'Collected'나 'Having been collected'는 수동의 의미가 되어 주어(나)와 맞지 않습니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "that's a relief",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Did you manage to fix your laptop?"
+        },
+        {
+          "speaker": "B",
+          "line": "Yes, the shop repaired it for free under warranty."
+        },
+        {
+          "speaker": "A",
+          "line": "Oh wow, that's ______!"
+        }
+      ],
+      "question": "빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. a relief",
+        "B. a shame",
+        "C. a stretch",
+        "D. a tough break"
+      ],
+      "answer": "A",
+      "explanation": "정답은 A입니다. 'That's a relief'는 걱정하던 일이 잘 풀렸을 때 쓰는 표현으로 '다행이다'라는 뜻입니다. 'a shame'은 안타까운 상황, 'a stretch'는 억지스러운 주장, 'a tough break'는 안된 일(불운)을 의미해 이 상황에는 맞지 않습니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "it slipped my mind",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Did you call Mom back?"
+        },
+        {
+          "speaker": "B",
+          "line": "Oh no, ______. I'll do it right now."
+        }
+      ],
+      "question": "빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. it slipped my mind",
+        "B. it crossed my mind",
+        "C. it dawned on me",
+        "D. it came to me"
+      ],
+      "answer": "A",
+      "explanation": "정답은 A입니다. 'It slipped my mind'는 '깜빡 잊어버렸다'는 뜻으로 전화하는 것을 잊은 상황에 적합합니다. 'crossed my mind'는 문득 생각이 스쳐 지나갔다는 뜻, 'dawned on me'는 깨달았다는 뜻, 'came to me'는 기억이 떠올랐다는 뜻이라 문맥에 맞지 않습니다."
+    }
+  ]
+}
