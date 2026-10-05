@@ -1,0 +1,225 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T21:28:48.937238+00:00",
+  "personal_sources": [
+    "Esquisse sur la colombophobie",
+    "Collection des contenants en plastique",
+    "Grotto"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Esquisse sur la colombophobie",
+      "expression_key": null,
+      "sentence": "These five traits help explain how pigeons were once seen as sacred or privileged animals in human societies, and how those same traits later contributed to their rejection and ______ in contemporary society.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 알맞은 단어를 고르세요.",
+      "options": [
+        "A. disgust",
+        "B. dismissal",
+        "C. disposal",
+        "D. distrust"
+      ],
+      "answer": "A",
+      "explanation": "'disgust'는 원문에서 사용된 단어로 비둘기에 대한 강한 혐오감을 정확히 표현합니다. 'dismissal'은 단순히 무시나 해고를 뜻해 감정적 강도가 훨씬 약합니다. 작품 설명에서 감정적 반응을 묘사할 때는 이렇게 구체적인 감정 어휘를 쓰면 설득력이 높아집니다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Grotto",
+      "expression_key": null,
+      "sentence": "The building had previously housed the social and medical welfare services of the Département du Gard, before being sold to a private property developer and ______ for demolition as part of a new real-estate project.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 알맞은 단어를 고르세요.",
+      "options": [
+        "A. slated",
+        "B. scheduled",
+        "C. designated",
+        "D. destined"
+      ],
+      "answer": "A",
+      "explanation": "'slated for demolition'은 건축·부동산 분야에서 흔히 쓰이는 관용 표현으로 철거가 공식적으로 예정되었음을 가장 자연스럽게 전달합니다. 'scheduled'도 문법적으로는 가능하지만 다소 사무적이며 이 맥락에서는 덜 관용적입니다. 건축/도시개발 관련 글을 쓸 때 'slated for demolition/renovation' 표현을 기억해두면 유용합니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Grotto",
+      "expression_key": null,
+      "sentence": "______ to begin from this place and make work specifically for it, in February 2021 I set up a tent in the basement, where I spent two to three days a week eating and sleeping.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 알맞은 형태를 고르세요.",
+      "options": [
+        "A. Wanting",
+        "B. Want",
+        "C. To want",
+        "D. Having wanted"
+      ],
+      "answer": "A",
+      "explanation": "현재분사 구문 'Wanting to begin...'은 주절의 주어 'I'와 동시에 일어나는 동기나 상황을 자연스럽게 연결합니다. 'Having wanted'는 완료의 의미가 더해져 주절 이전에 끝난 바람을 뜻하게 되므로 문맥과 맞지 않습니다. 전시 서문에서 작업 동기를 밝힐 때 이런 분사구문을 쓰면 문장이 간결하고 학술적인 톤을 유지할 수 있습니다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Esquisse sur la colombophobie",
+      "expression_key": null,
+      "sentence": "Through the concepts of Colombophobia and Pigeon-human, I sketch out the mechanisms of hatred, exploring how aversion ______ others, self-hatred, taboo, and sacredness intersect, while seeking to understand the psychological coexistence of these contradictory emotions.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 알맞은 전치사를 고르세요.",
+      "options": [
+        "A. to",
+        "B. for",
+        "C. from",
+        "D. against"
+      ],
+      "answer": "A",
+      "explanation": "'aversion to'는 특정 대상에 대한 혐오를 나타낼 때 쓰이는 표준적인 전치사 결합입니다. 'aversion for'도 문법적으로 존재하지만 격식 있는 학술적 글쓰기에서는 'to'가 훨씬 더 널리 쓰입니다. 혐오·반감을 다룰 때는 'aversion to someone/something' 구조를 기억해두면 좋습니다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Independent, the New York-based organizer of the Independent Art Fair and Independent 20th Century, has been ______ by global conglomerate Informa, according to reporting by Artnews.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 알맞은 단어를 고르세요.",
+      "options": [
+        "A. acquired",
+        "B. inquired",
+        "C. acclaimed",
+        "D. accrued"
+      ],
+      "answer": "A",
+      "explanation": "'acquired'는 기업 인수를 의미하는 정확한 단어로 기사 내용과 일치합니다. 'inquired'는 '문의하다'라는 전혀 다른 뜻이라 문맥에 맞지 않습니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "On the rickshaw ride to the hospital, Marian Haji Abdi Guled felt a mixture of joy and ______: the day they had been waiting for had finally arrived.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 알맞은 단어를 고르세요.",
+      "options": [
+        "A. apprehension",
+        "B. impression",
+        "C. repression",
+        "D. oppression"
+      ],
+      "answer": "A",
+      "explanation": "'apprehension'은 불안·걱정을 뜻하며 기쁨과 대비되는 복합 감정을 나타내기에 적절합니다. 'oppression'은 억압을 뜻해 개인의 내면 감정을 표현하기에 부적절합니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "She ______ three solo exhibitions since she moved to Paris in 2019.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 알맞은 동사 형태를 고르세요.",
+      "options": [
+        "A. has held",
+        "B. held",
+        "C. had held",
+        "D. holds"
+      ],
+      "answer": "A",
+      "explanation": "'since + 과거 시점'과 함께 현재완료가 쓰여 과거부터 현재까지 이어지는 경험을 나타냅니다. 단순과거 'held'는 특정 시점에 끝난 동작을 나타내므로 'since 2019'와 함께 쓸 수 없습니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "It is essential that the artist ______ her own statement before the exhibition opens.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 알맞은 동사 형태를 고르세요.",
+      "options": [
+        "A. write",
+        "B. writes",
+        "C. wrote",
+        "D. will write"
+      ],
+      "answer": "A",
+      "explanation": "'It is essential that + 주어 + 동사원형'은 가정법 현재(subjunctive)의 전형적인 구조로, 3인칭 단수 주어에도 동사원형을 그대로 씁니다. 'writes'는 직설법 형태로 이런 필요성·제안 구문에서는 문법적 오류입니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "that's par for me",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Did you miss the bus again this morning?"
+        },
+        {
+          "speaker": "B",
+          "line": "Yeah, I ran but it just pulled away."
+        },
+        {
+          "speaker": "A",
+          "line": "That seems to happen to you every week!"
+        },
+        {
+          "speaker": "B",
+          "line": "______, honestly."
+        }
+      ],
+      "question": "대화의 빈칸에 들어갈 가장 알맞은 표현을 고르세요.",
+      "options": [
+        "A. That's par for me",
+        "B. That's not my cup of tea",
+        "C. That's beside the point",
+        "D. That's the last straw"
+      ],
+      "answer": "A",
+      "explanation": "'That's par for me'는 '나한텐 늘 있는 일이야'라는 뜻으로 반복되는 전형적인 상황을 가리킬 때 씁니다. 'That's not my cup of tea'는 '내 취향이 아니다', 'That's beside the point'는 '요점과 상관없다', 'That's the last straw'는 '더 이상 못 참겠다'는 뜻이라 이 상황과 맞지 않습니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "I'll take a rain check",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Want to grab coffee this afternoon?"
+        },
+        {
+          "speaker": "B",
+          "line": "I've got a deadline, can't today."
+        },
+        {
+          "speaker": "A",
+          "line": "No worries, another time then?"
+        },
+        {
+          "speaker": "B",
+          "line": "______, if that's okay."
+        }
+      ],
+      "question": "대화의 빈칸에 들어갈 가장 알맞은 표현을 고르세요.",
+      "options": [
+        "A. I'll take a rain check",
+        "B. I'll give you a heads-up",
+        "C. I'll keep my fingers crossed",
+        "D. I'll bite the bullet"
+      ],
+      "answer": "A",
+      "explanation": "'I'll take a rain check'는 '다음에 하자'는 뜻으로 지금은 못 하지만 나중에 하자고 제안할 때 씁니다. 'I'll give you a heads-up'은 '미리 알려줄게', 'I'll keep my fingers crossed'는 '행운을 빌게', 'I'll bite the bullet'은 '힘들어도 받아들이겠다'는 뜻으로 이 상황과 다릅니다."
+    }
+  ]
+}
