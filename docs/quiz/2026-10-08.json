@@ -1,0 +1,217 @@
+{
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T19:52:33.728587+00:00",
+  "personal_sources": [
+    "Grotto",
+    "Figure de pigeon",
+    "Déambulatoire"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Grotto",
+      "expression_key": null,
+      "sentence": "This exhibition grew out of the ______ sculpture Grotto (2020–2022), of the same name, which had been made in the basement of the former Département du Gard social welfare building while it awaited demolition.",
+      "dialogue": null,
+      "question": "다음 빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. site-specific",
+        "B. site-sensitive",
+        "C. location-based",
+        "D. place-oriented"
+      ],
+      "answer": "A",
+      "explanation": "'site-specific'은 특정 장소에 맞춰 제작된 작품을 뜻하는 미술 전문 용어로 원문에서도 정확히 사용됨. 'site-sensitive'나 'location-based'는 비슷한 의미지만 미술 용어로서 표준적이지 않음. 전시 서문에서 공간과 작업의 관계를 강조할 때 이 표현을 적극 활용하면 좋음."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Déambulatoire",
+      "expression_key": null,
+      "sentence": "Discovered along my paths between river, mountain, and village, these elements were selected, ______, and arranged in a single interior space—a white cube.",
+      "dialogue": null,
+      "question": "다음 빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. displaced",
+        "B. replaced",
+        "C. misplaced",
+        "D. dislocated"
+      ],
+      "answer": "A",
+      "explanation": "'displaced'는 원래 위치에서 옮겨졌다는 뜻으로, '수집-이동-배치'라는 작가의 작업 과정을 정확히 묘사함. 'replaced'는 대체되었다는 뜻이라 문맥과 맞지 않고, 'misplaced'는 실수로 잃어버렸다는 부정적 뉘앙스가 있어 부적절함."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Grotto",
+      "expression_key": null,
+      "sentence": "This exhibition grew out of the site-specific sculpture Grotto (2020–2022), of the same name, which ______ in the basement of the former Département du Gard social welfare building while it awaited demolition.",
+      "dialogue": null,
+      "question": "문맥상 가장 자연스러운 시제를 고르세요.",
+      "options": [
+        "A. had been made",
+        "B. was made",
+        "C. has been made",
+        "D. was being made"
+      ],
+      "answer": "A",
+      "explanation": "조각이 만들어진 시점은 전시가 그로부터 발전하기 이전의 사건이므로 과거완료 'had been made'가 두 사건의 선후 관계를 명확히 드러냄. 단순과거 'was made'는 시간적 순서를 분명히 보여주지 못함. 과거 프로젝트의 배경 사건을 언급할 때 과거완료를 쓰면 전시 서사의 흐름이 더 정확해짐."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Grotto",
+      "expression_key": null,
+      "sentence": "Over the course of the exhibition, I invited other artists to perform there on four separate occasions, ______ the exhibition, the pool, and the basement space.",
+      "dialogue": null,
+      "question": "문맥상 가장 자연스러운 분사구문 형태를 고르세요.",
+      "options": [
+        "A. continually reactivating",
+        "B. continually reactivated",
+        "C. which continually reactivate",
+        "D. to continually reactivate"
+      ],
+      "answer": "A",
+      "explanation": "현재분사 'continually reactivating'은 주절 행동(공연 초대)의 결과나 부수 상황을 자연스럽게 나타냄. 과거분사 'reactivated'는 수동의 의미가 되어 문맥과 맞지 않음. 반복되는 행위의 효과를 설명할 때 이런 현재분사 구문을 쓰면 문장이 간결해짐."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "From Lenape land to ______ metropolis, this detailed timelapse animation captures the making of Manhattan.",
+      "dialogue": null,
+      "question": "다음 빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. sprawling",
+        "B. spanning",
+        "C. sprawled",
+        "D. expanding"
+      ],
+      "answer": "A",
+      "explanation": "'sprawling metropolis'는 넓게 불규칙하게 퍼져나간 도시를 묘사하는 전형적 표현임. 'spanning'은 '걸쳐 있다'는 뜻으로 명사 앞 수식어로 쓰이기에 어색함."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Translator and writer Lin King released a statement on Instagram laying out her claim of copyright ______ of her Booker-Prize-winning English translation.",
+      "dialogue": null,
+      "question": "다음 빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. infringement",
+        "B. infringing",
+        "C. infraction",
+        "D. violation"
+      ],
+      "answer": "A",
+      "explanation": "'copyright infringement'는 저작권 침해를 뜻하는 고정된 콜로케이션임. 'infraction'은 규칙 위반을 뜻하지만 저작권 맥락에서는 관용적으로 쓰이지 않음."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "If the building's demolition had not been postponed, the sculpture ______ into a full exhibition.",
+      "dialogue": null,
+      "question": "문맥상 가장 적절한 조건문 형태를 고르세요.",
+      "options": [
+        "A. would not have grown",
+        "B. would not grow",
+        "C. had not grown",
+        "D. would not have been grown"
+      ],
+      "answer": "A",
+      "explanation": "과거 사실과 반대되는 가정을 나타내는 3조건문이므로 'if + had + p.p., would have + p.p.' 구조가 맞음. B는 2조건문 형태로 가정의 시제가 맞지 않음."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The installation consists ______ found objects collected during the residency.",
+      "dialogue": null,
+      "question": "다음 빈칸에 들어갈 가장 적절한 전치사를 고르세요.",
+      "options": [
+        "A. of",
+        "B. in",
+        "C. with",
+        "D. from"
+      ],
+      "answer": "A",
+      "explanation": "'consist of'는 '~로 구성되다'라는 뜻의 고정 전치사 표현임. 'consist in'은 '본질이 ~에 있다'는 전혀 다른 의미로 쓰임."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "it's a toss-up",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Do you think we'll win tomorrow's match?"
+        },
+        {
+          "speaker": "B",
+          "line": "Both teams are equally strong this season."
+        },
+        {
+          "speaker": "A",
+          "line": "Yeah, honestly ______."
+        }
+      ],
+      "question": "마지막 대화에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. it's a toss-up",
+        "B. it's a done deal",
+        "C. it's a piece of cake",
+        "D. it's a long shot"
+      ],
+      "answer": "A",
+      "explanation": "'it's a toss-up'은 반반이라 결과를 예측하기 어렵다는 뜻으로 두 팀이 비슷하게 강하다는 상황에 정확히 맞음. 'it's a done deal'은 이미 확정된 일을 뜻하고, 'a piece of cake'는 아주 쉬운 일, 'a long shot'은 가능성이 희박한 일을 뜻해 문맥과 맞지 않음."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "let's play it by ear",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "What time should we meet for dinner, 7 or 8?"
+        },
+        {
+          "speaker": "B",
+          "line": "I'm not sure yet, my schedule might change."
+        },
+        {
+          "speaker": "A",
+          "line": "No worries, ______."
+        }
+      ],
+      "question": "마지막 대화에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. let's play it by ear",
+        "B. let's call it a day",
+        "C. let's sleep on it",
+        "D. let's cross that bridge when we come to it"
+      ],
+      "answer": "A",
+      "explanation": "'let's play it by ear'는 상황을 봐서 그때그때 정하자는 뜻으로, 일정이 유동적인 상황에 정확히 맞음. 'let's call it a day'는 오늘은 여기까지 하고 끝내자는 뜻, 'let's sleep on it'은 하룻밤 자며 생각해보자는 뜻, 'let's cross that bridge when we come to it'은 나중에 그 문제가 생기면 그때 대처하자는 뜻으로 지금의 맥락과는 다름."
+    }
+  ]
+}
