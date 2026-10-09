@@ -1,0 +1,225 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T19:29:56.634593+00:00",
+  "personal_sources": [
+    "Untitled",
+    "About Warding",
+    "Columbarium III"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Untitled",
+      "expression_key": null,
+      "sentence": "This work was ______ as part of the exhibition Corpus, held in 2019 at the Maison Consulaire in Mende, under the guidance of Brigitte Bauer and Jean-Marc Cerino.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. conceived",
+        "B. perceived",
+        "C. deceived",
+        "D. received"
+      ],
+      "answer": "A",
+      "explanation": "'conceived'는 '구상되다, 착상되다'라는 뜻으로 작품이 어떻게 기획되었는지 설명할 때 작가 노트에서 자주 쓰입니다. 'perceived'는 '인식되다'라는 뜻이라 작품 기획 맥락과 맞지 않습니다. 앞으로 전시 소개글에서 'This work was conceived as...' 구조를 적극 활용해보세요."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "About Warding",
+      "expression_key": null,
+      "sentence": "______ this line between \"us\" and \"them,\" I turned to the region's granite: boulders once cleared from farmland by hand, piled into dry-stone walls, and later reproduced as garden ornaments.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. Tracing",
+        "B. Tracking",
+        "C. Pursuing",
+        "D. Following"
+      ],
+      "answer": "A",
+      "explanation": "'trace a line between A and B'는 개념적 연결선을 따라가며 탐구한다는 뜻의 관용 표현으로 예술적 리서치 과정을 설명할 때 자연스럽습니다. 'Tracking'은 물리적 추적의 뉘앙스가 강해 추상적 개념(선, 논리)과는 잘 어울리지 않습니다. 전시 서문에서 리서치 전개 과정을 설명할 때 'tracing a line/thread between...' 구조를 활용해보세요."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Untitled",
+      "expression_key": null,
+      "sentence": "Through this, the photograph and the stones supporting their own illusion arrive ______ a distinctly sculptural position, where three layers, \"image–support–matter,\" meet vertically.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 올바른 전치사를 고르세요.",
+      "options": [
+        "A. at",
+        "B. to",
+        "C. in",
+        "D. on"
+      ],
+      "answer": "A",
+      "explanation": "'arrive at'는 추상적인 결론, 지점, 상태에 도달함을 나타낼 때 쓰는 고정 전치사 결합입니다. 'arrive to'는 비문법적이며 물리적 장소 도착에도 'at/in'을 쓰는 것이 원칙입니다. 작가 노트에서 개념적 결론에 다다름을 서술할 때 'arrive at a position/conclusion' 구조를 기억해두면 유용합니다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Untitled",
+      "expression_key": null,
+      "sentence": "This work was conceived as part of the exhibition Corpus, ______ in 2019 at the Maison Consulaire in Mende, under the guidance of Brigitte Bauer and Jean-Marc Cerino.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. held",
+        "B. holding",
+        "C. which held",
+        "D. was held"
+      ],
+      "answer": "A",
+      "explanation": "'held'는 'which was held'를 축약한 과거분사 수식어로, 전시가 '개최된' 수동의 의미를 간결하게 전달합니다. 'holding'은 능동 의미(개최하는 주체)가 되어 전시 자체가 주어로 쓰인 문맥과 맞지 않습니다. 전시명 뒤에 개최 정보를 삽입할 때 'the exhibition X, held in [year] at [venue]' 구조를 활용하면 문장이 간결해집니다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "She was among the first to argue that prosperity, equality and the protection of nature are ______ planetary goals.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. inseparable",
+        "B. indispensable",
+        "C. incompatible",
+        "D. intangible"
+      ],
+      "answer": "A",
+      "explanation": "'inseparable'은 '서로 분리할 수 없는'이라는 뜻으로, 세 가지 목표가 긴밀히 얽혀 있음을 강조하는 원문의 논지와 일치합니다. 'incompatible'은 정반대로 '양립할 수 없는'이라는 뜻이라 문맥과 모순됩니다. 'indispensable'은 '필수적인'이라는 뜻이라 의미는 비슷해 보이지만 '목표들이 서로 분리 불가능하다'는 관계성을 표현하지 못합니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Committee recognises work of South African who ______ UN commission that concluded Israel was guilty of genocide in Gaza.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. chaired",
+        "B. presided",
+        "C. headed",
+        "D. convened"
+      ],
+      "answer": "A",
+      "explanation": "'chair a commission'은 '위원회를 의장으로서 이끌다'라는 뜻의 고정 표현으로 원문에 정확히 쓰인 표현입니다. 'presided'는 반드시 'presided over'의 형태로 전치사가 필요해 이 문장 구조에는 맞지 않습니다. 'convened'는 '소집하다'라는 뜻이라 '이끌다'의 의미와는 다릅니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": null,
+      "dialogue": null,
+      "question": "다음 중 어법상 가장 올바른 문장을 고르세요.",
+      "options": [
+        "A. The gallery, that represents my work, is located in Paris.",
+        "B. The gallery that represents my work is located in Paris.",
+        "C. The gallery, represents my work, is located in Paris.",
+        "D. The gallery which represents my work, is located in Paris."
+      ],
+      "answer": "B",
+      "explanation": "한정적(defining) 관계대명사절은 콤마 없이 문장의 의미를 제한하는 역할을 하며, 이 경우 'that' 또는 'which'를 콤마 없이 사용합니다. A는 콤마 뒤에 'that'을 쓸 수 없다는 규칙을 어겼고, D는 앞뒤 콤마가 비대칭이라 비문법적입니다. 특정 갤러리 하나를 식별하는 문장이므로 한정적 용법이 맞습니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "For the final presentation, I ______ the aluminum panel professionally printed at a specialized lab.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 사역동사를 고르세요.",
+      "options": [
+        "A. had",
+        "B. made",
+        "C. did",
+        "D. let"
+      ],
+      "answer": "A",
+      "explanation": "'have something + 과거분사'는 '누군가에게 ~하도록 시키다/맡기다'라는 사역 수동 구조로, 전문가에게 작업을 의뢰했음을 나타낼 때 정확한 표현입니다. 'made'는 'make + 목적어 + 과거분사' 형태가 비문법적이며, 'let'은 허락의 의미라 상황과 맞지 않습니다. 작가 노트에서 외주 제작 과정을 설명할 때 'had it printed/fabricated/cast' 구조를 기억해두면 좋습니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "it doesn't add up",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "He said he left the house at nine, but his neighbor saw him at ten."
+        },
+        {
+          "speaker": "B",
+          "line": "That's strange."
+        },
+        {
+          "speaker": "A",
+          "line": "And he told us he walked, but it's a two-hour drive away."
+        },
+        {
+          "speaker": "B",
+          "line": "Something's wrong — it just ______."
+        }
+      ],
+      "question": "마지막 대화에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. doesn't add up",
+        "B. rings a bell",
+        "C. slipped my mind",
+        "D. doesn't sit well with me"
+      ],
+      "answer": "A",
+      "explanation": "'it doesn't add up'은 이야기나 상황의 앞뒤가 맞지 않을 때 쓰는 표현으로, 시간과 거리 정보가 모순되는 이 상황에 정확히 들어맞습니다. 'rings a bell'은 '낯이 익다, 들어본 적 있다'는 뜻이고, 'slipped my mind'는 '깜빡 잊었다'는 뜻이며, 'doesn't sit well with me'는 '마음에 불편하다, 받아들이기 어렵다'는 감정적 거부감을 뜻해 논리적 모순을 지적하는 상황과는 다릅니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "it caught me off guard",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "How was the meeting with your landlord?"
+        },
+        {
+          "speaker": "B",
+          "line": "He suddenly said he's selling the apartment."
+        },
+        {
+          "speaker": "A",
+          "line": "Wait, you didn't see that coming?"
+        },
+        {
+          "speaker": "B",
+          "line": "No, honestly — it just ______."
+        }
+      ],
+      "question": "마지막 대화에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. caught me off guard",
+        "B. slipped my mind",
+        "C. rang a bell",
+        "D. hit close to home"
+      ],
+      "answer": "A",
+      "explanation": "'it caught me off guard'는 예상치 못한 일에 허를 찔렸을 때 쓰는 표현으로, 갑작스러운 소식에 놀란 상황과 정확히 맞습니다. 'slipped my mind'는 '깜빡 잊었다', 'rang a bell'은 '낯이 익다', 'hit close to home'은 '개인적으로 와닿다, 민감한 부분을 건드리다'라는 뜻이라 이 맥락에는 어울리지 않습니다."
+    }
+  ]
+}
