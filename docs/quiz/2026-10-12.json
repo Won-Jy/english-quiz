@@ -1,0 +1,217 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T22:06:25.913054+00:00",
+  "personal_sources": [
+    "Columbairum",
+    "Columbarium II",
+    "Flâner passer ou habiter"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Columbairum",
+      "expression_key": null,
+      "sentence": "In Latin, columbarium first meant a dovecote — a structure lined with close-set ______ where pigeons (columba) roost.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. niches",
+        "B. nests",
+        "C. cavities",
+        "D. alcoves"
+      ],
+      "answer": "A",
+      "explanation": "'niche'는 벽면에 오목하게 파인 작은 공간을 뜻하며, 비둘기 둥지나 납골당의 칸을 묘사할 때 정확히 들어맞는 단어입니다. 'nest'는 새가 직접 짓는 둥지 자체를 가리키므로 건축적 구조를 묘사하는 이 문맥에는 맞지 않습니다. 작가 노트에서 공간적 구조(벽감, 칸)를 설명할 때 'niche'를 쓰면 건축적 뉘앙스를 살릴 수 있습니다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Columbairum",
+      "expression_key": null,
+      "sentence": "The first is a ______, «Book of the Dead»: for each of the sixty bodies gathered so far, I record a name, a date of collection, GPS coordinates, and the circumstances of the discovery.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. register",
+        "B. registry",
+        "C. recording",
+        "D. record"
+      ],
+      "answer": "A",
+      "explanation": "'a register'는 체계적으로 기록을 남기는 장부나 기록부를 뜻하며, 교회의 출생·사망 기록부(parish register)처럼 쓰이는 전통적 표현이라 이 작업의 성격과 잘 맞습니다. 'registry'는 주로 공식 기관(토지등기소 등)을 가리키므로 개인 아카이브에는 어색합니다. 작가 노트에서 개인적 기록 체계를 설명할 때 'a register of ~'라는 표현을 활용하면 유용합니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Columbairum",
+      "expression_key": null,
+      "sentence": "Since 2016, I have been collecting, recording, and burying the dead pigeons I come across in the city.",
+      "dialogue": null,
+      "question": "2016년부터 현재까지 계속되는 작업을 설명할 때 가장 정확한 시제를 고르세요.",
+      "options": [
+        "A. Since 2016, I have been collecting, recording, and burying the dead pigeons I come across in the city.",
+        "B. Since 2016, I collect, record, and bury the dead pigeons I come across in the city.",
+        "C. Since 2016, I collected, recorded, and buried the dead pigeons I come across in the city.",
+        "D. Since 2016, I had been collecting, recording, and burying the dead pigeons I come across in the city."
+      ],
+      "answer": "A",
+      "explanation": "'have been -ing'는 과거에 시작되어 지금까지 계속되고 있는 동작을 나타내므로, 2016년부터 현재까지 이어지는 작업을 설명하는 데 정확합니다. 단순현재(B)는 반복되는 습관처럼 들려 '지속되어온 프로젝트'라는 뉘앙스를 잃습니다. 진행 중인 장기 프로젝트를 소개할 때는 항상 'have been -ing + since/for'를 기본 틀로 쓰세요."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Columbairum",
+      "expression_key": null,
+      "sentence": "Through these two gestures, I return ______ individuality to anonymous deaths.",
+      "dialogue": null,
+      "question": "추상명사 앞에 들어갈 가장 적절한 관사를 고르세요.",
+      "options": [
+        "A. an",
+        "B. the",
+        "C. (no article)",
+        "D. some"
+      ],
+      "answer": "A",
+      "explanation": "'individuality'는 보통 불가산명사지만, 'an individuality'처럼 부정관사를 붙이면 '하나의 구체화된 개별성'이라는 특정한 사례를 가리키는 문예적 용법이 됩니다. 무관사(C)를 쓰면 일반적이고 추상적인 개념으로만 읽혀 '각각의 죽음에게 돌려주는 개별성'이라는 구체성이 사라집니다. 작가 노트에서 추상명사를 구체적 사례로 전환하고 싶을 때 이런 부정관사 용법을 활용하면 효과적입니다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Recommended dose of hepatitis B vaccine will be ______ from thousands of newborns by Danish researchers.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. withheld",
+        "B. withdrawn",
+        "C. suspended",
+        "D. revoked"
+      ],
+      "answer": "A",
+      "explanation": "'withhold'는 마땅히 주어야 할 것을 '주지 않다, 보류하다'는 뜻으로, 백신 접종을 하지 않는 임상시험 상황에 정확히 맞습니다. 'withdraw'는 이미 주어진 것을 '철회하다'는 뜻이라 신생아에게 애초에 주지 않는 상황과는 다릅니다. 기사에서는 윤리적으로 민감한 '의도적 보류'의 뉘앙스가 중요하므로 'withhold'가 적절합니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Built from vegetal materials, these majestic tombs housing Buganda kings ______ the realms of living and dead in Uganda.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. bridge",
+        "B. merge",
+        "C. blend",
+        "D. link"
+      ],
+      "answer": "A",
+      "explanation": "'bridge the realms'는 서로 분리된 두 영역(삶과 죽음)을 '이어주다, 연결하다'는 관용적 표현으로 건축이나 의례를 묘사할 때 자주 쓰입니다. 'merge'나 'blend'는 두 영역이 하나로 섞인다는 뜻이라 '산 자와 죽은 자의 영역'처럼 별개로 유지되는 두 세계를 연결하는 이미지와는 어긋납니다. 전시 서문에서 공간이 상징적으로 두 영역을 매개한다고 쓸 때 'bridge'를 적극 활용할 수 있습니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The curator ______ a wall text next to each sculpture, but she completely forgot.",
+      "dialogue": null,
+      "question": "과거의 행동에 대한 비판을 나타낼 때 가장 적절한 표현을 고르세요.",
+      "options": [
+        "A. should have included",
+        "B. must have included",
+        "C. needn't have included",
+        "D. would have included"
+      ],
+      "answer": "A",
+      "explanation": "'should have + p.p.'는 과거에 했어야 했는데 하지 않은 일에 대한 후회나 비판을 나타내므로, '깜빡 잊었다'는 뒷문장과 자연스럽게 이어집니다. 'must have included'는 과거 사실에 대한 강한 추측을 나타내는 표현이라 '그녀가 포함했을 것이다'라는 뜻이 되어 뒤 문장과 모순됩니다. 전시 리뷰나 피드백을 쓸 때 과거의 누락을 지적하려면 'should have + p.p.'를 기억해두세요."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "It is essential that the catalogue ______ accurate measurements for each work.",
+      "dialogue": null,
+      "question": "'It is essential that' 뒤에 오는 가정법 동사 형태로 가장 적절한 것을 고르세요.",
+      "options": [
+        "A. include",
+        "B. includes",
+        "C. included",
+        "D. will include"
+      ],
+      "answer": "A",
+      "explanation": "'It is essential that' 뒤에는 인칭·시제에 상관없이 동사원형을 쓰는 가정법 현재가 사용되므로 'include'가 정답입니다. 'includes'처럼 3인칭 단수 -s를 붙이면 격식 있는 학술적 가정법 구문 규칙을 어기게 됩니다. 그랜트 신청서나 전시 기획서에서 'it is essential/important/necessary that + 주어 + 동사원형' 구조를 쓰면 격식 있는 어조를 만들 수 있습니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "let it slide",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Did you hear Tom broke my mug and didn't even mention it?"
+        },
+        {
+          "speaker": "B",
+          "line": "Yeah, are you going to say something to him?"
+        },
+        {
+          "speaker": "A",
+          "line": "Not really. I'll just ______ this time."
+        }
+      ],
+      "question": "빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. let it slide",
+        "B. let it go",
+        "C. call it a day",
+        "D. cut him some slack"
+      ],
+      "answer": "A",
+      "explanation": "'let it slide'는 잘못이나 실수를 일부러 문제 삼지 않고 '그냥 넘어가다'라는 뜻으로, Tom의 행동을 지적하지 않기로 한 상황에 정확히 맞습니다. 'let it go'는 감정적으로 집착을 내려놓는다는 의미가 강해 미묘하게 다르고, 'call it a day'는 '그만 끝내다(하루 일과를 마치다)', 'cut him some slack'은 '그를 좀 봐주다, 너그럽게 대하다'라는 뜻으로 이 상황의 핵심 뉘앙스와는 거리가 있습니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "it's a matter of time",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "My laptop keeps freezing every single day now."
+        },
+        {
+          "speaker": "B",
+          "line": "Have you backed up your files?"
+        },
+        {
+          "speaker": "A",
+          "line": "Not yet, but I think it's ______ before it completely dies."
+        }
+      ],
+      "question": "빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. a matter of time",
+        "B. just a phase",
+        "C. too late now",
+        "D. no big deal"
+      ],
+      "answer": "A",
+      "explanation": "'it's a matter of time'은 결과가 거의 확실하며 단지 '시간 문제'일 뿐이라는 뜻으로, 노트북이 곧 완전히 고장 날 것이라는 예측과 정확히 맞습니다. 'just a phase'는 '일시적인 단계일 뿐'이라는 뜻이라 반대로 곧 지나갈 것이라는 뉘앙스이고, 'too late now'는 '이미 늦었다', 'no big deal'은 '별일 아니다'라는 의미라 이 문맥에는 맞지 않습니다."
+    }
+  ]
+}
