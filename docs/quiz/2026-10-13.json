@@ -1,0 +1,221 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T20:13:09.753221+00:00",
+  "personal_sources": [
+    "Residency at Maison Daura I",
+    "Flâner passer ou habiter",
+    "Grotto"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Residency at Maison Daura I",
+      "expression_key": null,
+      "sentence": "The village, perched halfway up a gorge, was often ______ in the damp autumn clouds that give the area its distinctive landscape.",
+      "dialogue": null,
+      "question": "빈칸에 가장 자연스러운 단어를 고르세요.",
+      "options": [
+        "A. shrouded",
+        "B. blanketed",
+        "C. buried",
+        "D. soaked"
+      ],
+      "answer": "A",
+      "explanation": "'shrouded'는 안개나 구름에 뒤덮인 느낌을 표현할 때 가장 자연스러운 단어로, 특히 흐릿하고 신비로운 풍경 묘사에 자주 쓰입니다. 'blanketed'도 비슷하지만 보통 눈처럼 두꺼운 덮개에 쓰이고, 'buried'는 지나치게 강한 표현입니다. 작가 노트에서 날씨나 분위기를 묘사할 때 'shrouded in mist/clouds' 조합을 기억해두면 유용합니다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Flâner passer ou habiter",
+      "expression_key": null,
+      "sentence": "This exhibition ______ my journey through the rivers and rocks of the Cévennes, as well as the traces left by human presence.",
+      "dialogue": null,
+      "question": "빈칸에 가장 적절한 동사를 고르세요.",
+      "options": [
+        "A. retraces",
+        "B. retells",
+        "C. rewrites",
+        "D. relives"
+      ],
+      "answer": "A",
+      "explanation": "'retraces'는 이미 지나온 여정을 다시 따라간다는 뜻으로, 전시가 작가의 과거 경로를 되짚는다는 의미에 정확히 부합합니다. 'retells'는 이야기를 다시 들려준다는 뜻이라 물리적 여정 묘사에는 어색합니다. 전시 서문에서 과거의 경험을 되짚는 작업을 설명할 때 유용한 동사입니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Residency at Maison Daura I",
+      "expression_key": null,
+      "sentence": "My residency largely consisted of exploring ___ Lot river and its natural rock formations.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 알맞은 관사를 고르세요.",
+      "options": [
+        "A. the",
+        "B. a",
+        "C. (no article)",
+        "D. an"
+      ],
+      "answer": "A",
+      "explanation": "강 이름 앞에는 정관사 'the'를 붙이는 것이 표준 규칙입니다(the Lot River, the Seine 등 고유 지명). 무관사나 부정관사는 특정한 강을 지칭할 때 자연스럽지 않습니다. 레지던시 텍스트에서 지역 지형을 언급할 때 이 규칙을 지키면 더 정확해 보입니다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Residency at Maison Daura I",
+      "expression_key": null,
+      "sentence": "I also filmed a video documenting the process of collecting stones, which became the starting point ___ an early-stage work, Lithosomnia.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 알맞은 전치사를 고르세요.",
+      "options": [
+        "A. for",
+        "B. of",
+        "C. to",
+        "D. in"
+      ],
+      "answer": "A",
+      "explanation": "'starting point for'는 관용적으로 굳어진 전치사 조합으로, 어떤 것의 출발점이 된다는 뜻을 정확히 전달합니다. 'of'나 'to'는 이 명사구와 자연스럽게 어울리지 않습니다. 작업 설명에서 한 작업이 다른 작업의 시발점이 되었음을 말할 때 유용한 표현입니다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Japanese architect Junya Ishigami, known for ______ designs that link the built environment to nature, has been announced as the first winner of the newly launched Barragán Prize.",
+      "dialogue": null,
+      "question": "빈칸에 가장 적절한 형용사를 고르세요.",
+      "options": [
+        "A. airy",
+        "B. heavy",
+        "C. sturdy",
+        "D. solid"
+      ],
+      "answer": "A",
+      "explanation": "'airy'는 가볍고 개방적인 느낌을 주는 건축을 묘사할 때 쓰이는 단어로, 기사 맥락(자연과 연결된 가벼운 디자인)과 정확히 일치합니다. 'solid'나 'sturdy'는 오히려 무겁고 단단한 느낌을 주어 반대되는 의미입니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Recommended dose of hepatitis B vaccine will be ______ from thousands of newborns by Danish researchers.",
+      "dialogue": null,
+      "question": "빈칸에 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. withheld",
+        "B. withdrawn",
+        "C. retained",
+        "D. restrained"
+      ],
+      "answer": "A",
+      "explanation": "'withheld'는 의도적으로 무언가를 주지 않는다는 뜻으로, 백신을 투여하지 않는 임상시험 상황에 정확히 맞습니다. 'withdrawn'은 이미 준 것을 다시 거두어간다는 뜻이라 뉘앙스가 다릅니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "While revising her artist statement, she stopped ______ her notes and went for a walk to clear her head.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 알맞은 형태를 고르세요.",
+      "options": [
+        "A. writing",
+        "B. to write",
+        "C. write",
+        "D. having written"
+      ],
+      "answer": "A",
+      "explanation": "'stopped writing'은 메모를 쓰는 행위 자체를 중단했다는 뜻이고, 'stopped to write'는 다른 일을 하다가 메모를 쓰기 위해 멈췄다는 뜻으로 의미가 완전히 다릅니다. 문맥상(산책하러 감) 그녀가 글쓰기를 중단한 것이므로 동명사 형태가 맞습니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Scattered across the gallery floor ______ dozens of small stones collected from the riverbed.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 알맞은 동사 형태를 고르세요.",
+      "options": [
+        "A. were",
+        "B. was",
+        "C. is",
+        "D. has been"
+      ],
+      "answer": "A",
+      "explanation": "도치된 문장 구조에서는 동사가 문장 뒤에 오는 실제 주어(dozens of stones, 복수)와 수일치해야 하므로 'were'가 맞습니다. 'was'나 'is'는 단수형이라 복수 주어와 어울리지 않습니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "I'll sleep on it",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Are you going to take the apartment downtown?"
+        },
+        {
+          "speaker": "B",
+          "line": "I'm still not sure, it's a big decision."
+        },
+        {
+          "speaker": "A",
+          "line": "You don't have to decide right now."
+        },
+        {
+          "speaker": "B",
+          "line": "Yeah, I'll ______ and tell you tomorrow."
+        }
+      ],
+      "question": "마지막 대사의 빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. sleep on it",
+        "B. call it a day",
+        "C. keep an eye on it",
+        "D. play it by ear"
+      ],
+      "answer": "A",
+      "explanation": "'I'll sleep on it'은 결정을 하룻밤 더 생각해보겠다는 뜻으로 상황에 정확히 맞습니다. 'call it a day'는 하루 일과를 끝낸다는 뜻, 'keep an eye on it'은 무언가를 계속 지켜본다는 뜻, 'play it by ear'는 상황을 보며 즉흥적으로 대처한다는 뜻이라 모두 다른 의미입니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "I'll take it from here",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "I started washing the dishes but I'm running late for work."
+        },
+        {
+          "speaker": "B",
+          "line": "No worries, I'll ______."
+        },
+        {
+          "speaker": "A",
+          "line": "Thanks, I owe you one!"
+        }
+      ],
+      "question": "마지막 대사의 빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. take it from here",
+        "B. let it go",
+        "C. call it a day",
+        "D. keep you posted"
+      ],
+      "answer": "A",
+      "explanation": "'I'll take it from here'는 이제부터는 자신이 맡아서 하겠다는 뜻으로, 설거지를 이어받겠다는 상황에 정확히 맞습니다. 'let it go'는 신경 쓰지 말라는 뜻, 'call it a day'는 그만하자는 뜻, 'keep you posted'는 진행 상황을 알려주겠다는 뜻이라 모두 다른 의미입니다."
+    }
+  ]
+}
