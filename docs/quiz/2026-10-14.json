@@ -1,0 +1,217 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T18:32:15.114192+00:00",
+  "personal_sources": [
+    "Columbarium V",
+    "Grotto",
+    "Flâner passer ou habiter"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Columbarium V",
+      "expression_key": null,
+      "sentence": "The six pigeon bodies ______ here are among those collected from abandoned residential buildings in the Pissevin district of Nîmes.",
+      "dialogue": null,
+      "question": "다음 작가노트 문장의 빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. interred",
+        "B. implanted",
+        "C. embedded",
+        "D. installed"
+      ],
+      "answer": "A",
+      "explanation": "'interred'는 '매장된'이라는 뜻으로 무덤, 유골 등과 함께 쓰이는 격식 있는 단어이며 원문과 일치합니다. 'embedded'나 'installed'는 물리적으로 박혀있거나 설치되었다는 의미라 무덤이라는 맥락과 어울리지 않습니다. 작가노트에서 죽음, 매장을 다룰 때 'bury'보다 격식 있는 'inter'를 쓰면 전시 텍스트의 톤을 높일 수 있습니다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Grotto",
+      "expression_key": null,
+      "sentence": "The building had previously housed the social and medical welfare services of the Département du Gard, before being sold to a private property developer and ______ for demolition as part of a new real-estate project.",
+      "dialogue": null,
+      "question": "다음 작가노트 문장의 빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. slated",
+        "B. scheduled",
+        "C. destined",
+        "D. doomed"
+      ],
+      "answer": "A",
+      "explanation": "'slated for demolition'은 '철거가 예정된'이라는 뜻의 자연스러운 관용 표현으로 원문에 실제로 쓰인 단어입니다. 'scheduled'도 문법적으로는 가능하지만 공식 일정표의 뉘앙스가 강해 건물의 운명을 서술하는 글에는 'slated'가 더 적합합니다. 건축물의 철거나 재개발을 다룰 때 'slated for'를 알아두면 유용합니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Columbarium V",
+      "expression_key": null,
+      "sentence": "______ from Columbarium IV, I reused the same pigeon-shaped form and laid six newly added graves back on the floor.",
+      "dialogue": null,
+      "question": "다음 문장의 빈칸에 들어갈 가장 자연스러운 분사구문 형태를 고르세요.",
+      "options": [
+        "A. Continuing",
+        "B. Continued",
+        "C. Having continued",
+        "D. To continue"
+      ],
+      "answer": "A",
+      "explanation": "주절의 주어 'I'가 능동적으로 '이어가는' 행위를 하므로 현재분사 'Continuing'이 맞습니다. 'Continued'는 수동의 의미가 되어 '이어받아진'이라는 뜻이 되어 문맥과 맞지 않습니다. 작업이 이전 작품에서 자연스럽게 이어진다는 것을 보여줄 때 'Continuing from X, I...' 구조를 쓰면 전시 서문에서 흐름을 매끄럽게 연결할 수 있습니다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Columbarium V",
+      "expression_key": null,
+      "sentence": "I wanted this circular gathering of six graves, when viewed from above, ______.",
+      "dialogue": null,
+      "question": "다음 문장에서 병렬구조상 가장 적절한 이어지는 표현을 고르세요.",
+      "options": [
+        "A. to read at once like a flower blooming open, and like the ornamental pattern of a fountain",
+        "B. to read at once like a flower blooming open, and as the ornamental pattern of a fountain",
+        "C. to read at once as a flower blooming open, and like the ornamental pattern of a fountain",
+        "D. to read at once like a flower blooming open, or as the ornamental pattern of a fountain"
+      ],
+      "answer": "A",
+      "explanation": "두 개의 비유를 나열할 때는 'like...and like...'처럼 동일한 전치사를 반복해 병렬구조를 유지해야 문장이 매끄럽습니다. B와 C는 'like'와 'as'를 섞어 써서 비유의 형식이 일관되지 않습니다. 작가노트에서 여러 이미지를 동시에 비유할 때는 반드시 같은 접속 표현을 반복하는 습관을 들이면 좋습니다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The Irish novelist known for ______ Millennial relationship psychosis and speaking up about Palestine told The Guardian this morning that she can no longer sell her novels in the United Kingdom.",
+      "dialogue": null,
+      "question": "다음 기사 문장의 빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. nailing",
+        "B. hammering",
+        "C. pinning",
+        "D. striking"
+      ],
+      "answer": "A",
+      "explanation": "'nail'은 비유적으로 '정확히 포착하다, 완벽하게 묘사하다'라는 뜻으로 작가의 통찰력을 칭찬할 때 자주 쓰입니다. 'hammering'이나 'striking'은 물리적 타격의 뉘앙스가 강해 이런 맥락에는 어울리지 않습니다. 비평문에서 작가나 작품이 어떤 감정이나 현상을 정확히 짚어낼 때 'nail it'이라는 표현을 익혀두면 유용합니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The study... has been ______ by Robert F Kennedy Jr, secretary of the US Department of Health and Human Services (HHS) and a longtime anti-vaccine activist.",
+      "dialogue": null,
+      "question": "다음 기사 문장의 빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. championed",
+        "B. sponsored",
+        "C. chaired",
+        "D. endorsed"
+      ],
+      "answer": "A",
+      "explanation": "'champion'은 '적극적으로 지지하고 옹호하다'라는 뜻으로 어떤 인물이 정책이나 연구를 강하게 밀어붙일 때 쓰입니다. 'endorsed'도 비슷하지만 공식적인 승인이나 보증의 뉘앙스가 강해 이 문맥에서는 다소 약하게 느껴집니다. 'championed'는 논쟁적인 사안을 누군가 열정적으로 추진한다는 뉘앙스를 살릴 때 적합합니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Vaisseau 3008, ______ the artist used as her studio from 2020 to 2022, was eventually demolished.",
+      "dialogue": null,
+      "question": "다음 문장의 빈칸에 들어갈 가장 적절한 관계대명사를 고르세요.",
+      "options": [
+        "A. which",
+        "B. that",
+        "C. who",
+        "D. whose"
+      ],
+      "answer": "A",
+      "explanation": "쉼표로 구분된 비한정적(non-defining) 관계절에서는 'that'을 쓸 수 없고 'which'를 써야 합니다. 'that'은 한정적 관계절에서만 쓰이며 쉼표와 함께 쓰면 문법적으로 틀립니다. 건물이나 장소에 대한 부가 설명을 덧붙일 때 비한정적 절로 'which'를 쓰면 정보를 자연스럽게 추가할 수 있습니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The artist said that she ______ pigeon remains from abandoned buildings.",
+      "dialogue": null,
+      "question": "다음 간접화법 문장의 빈칸에 들어갈 가장 적절한 시제를 고르세요. (원래 발언: \"I have collected pigeon remains from abandoned buildings.\")",
+      "options": [
+        "A. had collected",
+        "B. collects",
+        "C. has collected",
+        "D. collect"
+      ],
+      "answer": "A",
+      "explanation": "직접화법의 현재완료(have collected)는 간접화법으로 바뀌면서 한 단계 더 과거로 백시프트되어 과거완료(had collected)가 됩니다. 'has collected'는 백시프트 없이 그대로 둔 것이라 전달동사가 과거(said)인 문장과 시제가 어긋납니다. 전시 서문이나 인터뷰 인용을 간접화법으로 바꿀 때 이 백시프트 규칙을 꼭 적용해야 합니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "let's touch base later",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "I have a question about the rent money but I'm late for the bus."
+        },
+        {
+          "speaker": "B",
+          "line": "No worries, I'll be home around 7."
+        },
+        {
+          "speaker": "A",
+          "line": "Okay, let's ______ then."
+        }
+      ],
+      "question": "다음 대화의 빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. touch base",
+        "B. catch up",
+        "C. check in",
+        "D. follow up"
+      ],
+      "answer": "A",
+      "explanation": "'touch base'는 간단히 다시 연락해서 필요한 이야기를 나누자는 뜻으로, 특정 용건(렌트비)을 나중에 짧게 다시 다루자는 이 상황에 정확히 맞습니다. 'catch up'은 그동안 못 나눈 근황을 길게 나누자는 뉘앙스, 'check in'은 상대의 안부나 상태를 확인하자는 뜻, 'follow up'은 이미 논의한 사안을 추가로 점검하자는 뜻이라 이 대화의 맥락과는 조금씩 어긋납니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "let's keep it between us",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "I heard Mia is planning a surprise party for Tom."
+        },
+        {
+          "speaker": "B",
+          "line": "Really? Don't tell anyone yet."
+        },
+        {
+          "speaker": "A",
+          "line": "Don't worry, let's ______."
+        }
+      ],
+      "question": "다음 대화의 빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. keep it between us",
+        "B. keep it under wraps",
+        "C. keep it on the down low",
+        "D. keep it to ourselves"
+      ],
+      "answer": "A",
+      "explanation": "'keep it between us'는 '우리끼리만 알고 있자'는 뜻으로 두 사람 사이의 비밀을 지키자고 할 때 가장 직접적이고 자연스러운 표현입니다. 'keep it under wraps'는 공개되지 않도록 숨긴다는 뜻, 'keep it on the down low'는 비밀스럽게 조용히 한다는 캐주얼한 표현, 'keep it to ourselves'는 의미는 비슷하지만 '우리들 사이'라는 관계성보다 '우리만 알고 발설하지 않는다'는 느낌이 더 강해 이 대화의 정답으로는 'between us'가 더 자연스럽습니다."
+    }
+  ]
+}
