@@ -1,0 +1,225 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T18:14:36.963877+00:00",
+  "personal_sources": [
+    "Columbarium V",
+    "Hostis",
+    "Roulé-Lavé"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Columbarium V",
+      "expression_key": null,
+      "sentence": "The six pigeon bodies ______ here are among those collected from abandoned residential buildings in the Pissevin district of Nîmes.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. interred",
+        "B. buried",
+        "C. stored",
+        "D. hidden"
+      ],
+      "answer": "A",
+      "explanation": "'interred'는 무덤에 정식으로 매장되었다는 의식적·격식적 뉘앙스를 전달해 'grave' 작업과 잘 어울립니다. 'buried'도 뜻은 비슷하지만 더 일상적이고 평범한 단어라 예술적 텍스트에서는 격이 떨어집니다. 본인의 작가 노트에서 매장 의식을 강조하고 싶을 때 'interred'를 적극 활용해 보세요."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Hostis",
+      "expression_key": null,
+      "sentence": "This space, ______ demolition and originally chosen as a creative site, has been transformed into an unconventional indoor garden.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. awaiting",
+        "B. expecting",
+        "C. anticipating",
+        "D. pending"
+      ],
+      "answer": "A",
+      "explanation": "'awaiting demolition'은 건물이 철거를 '기다리고 있는' 상태를 표현하는 관용적 구문입니다. 'pending'은 'pending demolition'처럼 명사 뒤에서만 자연스럽게 쓰이며 이 문장 구조에는 맞지 않습니다. 건축물의 운명을 묘사할 때 'awaiting + 명사' 구조를 기억해두면 유용합니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Columbarium V",
+      "expression_key": null,
+      "sentence": "______ from Columbarium IV, I reused the same pigeon-shaped form and laid six newly added graves back on the floor.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 자연스러운 분사 형태를 고르세요.",
+      "options": [
+        "A. Continuing",
+        "B. Continued",
+        "C. Having continued",
+        "D. Being continued"
+      ],
+      "answer": "A",
+      "explanation": "주절의 주어 'I'가 능동적으로 '이어가는' 주체이므로 현재분사 'Continuing'이 맞습니다. 'Continued'나 'Being continued'는 수동의 의미가 되어 주어와 논리적으로 맞지 않습니다. 작업 설명에서 이전 작업과의 연속성을 표현할 때 'Continuing from [이전 작품명], I...' 구문을 자주 활용할 수 있습니다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Roulé-Lavé",
+      "expression_key": null,
+      "sentence": "______ as part of the exhibition Roulé-Lavé (2025).",
+      "dialogue": null,
+      "question": "전시 캡션에서 빈칸에 들어갈 가장 적절한 형태를 고르세요.",
+      "options": [
+        "A. Installed",
+        "B. Installing",
+        "C. Being installed",
+        "D. To install"
+      ],
+      "answer": "A",
+      "explanation": "이미 완료된 설치 작업을 설명하는 캡션이므로 과거분사 'Installed'(= which was installed)가 자연스럽습니다. 'Installing'은 진행 중인 뉘앙스를 주어 완료된 전시 캡션에 어울리지 않습니다. 전시 설명 캡션에서는 'Installed as part of...'처럼 과거분사로 축약된 관계절을 쓰는 것이 관례입니다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "A landowner in Behbeit El-Hagar, an Egyptian village in the Nile Delta, ______ a head from a monumental statue believed to represent Ramses II.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. unearthed",
+        "B. excavated",
+        "C. exhumed",
+        "D. discovered"
+      ],
+      "answer": "A",
+      "explanation": "'unearthed'는 땅속에서 우연히 혹은 작업 중 꺼내졌다는 뉘앙스로, 일반 토지주가 발견한 상황에 정확히 맞습니다. 'excavated'는 체계적인 발굴팀의 작업을 암시하고, 'exhumed'는 주로 시신 발굴에 쓰이는 단어라 부적절합니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Mass arrests, forced HIV testing and barriers to legal representation are part of an ______ crackdown against LGBTQ+ people in Senegal.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. escalating",
+        "B. intensifying",
+        "C. growing",
+        "D. increasing"
+      ],
+      "answer": "A",
+      "explanation": "'escalating crackdown'은 언론 영어에서 매우 흔히 쓰이는 연어(collocation)로, 상황이 단계적으로 심각해짐을 강조합니다. 'intensifying'도 의미는 비슷하지만 'crackdown'과의 결합 빈도가 낮아 부자연스럽습니다. 'growing'이나 'increasing'은 너무 일반적이어서 이 맥락의 긴박함을 덜 전달합니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "After years of personal fieldwork, the artist stopped ______ stones by hand and began relying on local collaborators.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 형태를 고르세요.",
+      "options": [
+        "A. collecting",
+        "B. to collect",
+        "C. collect",
+        "D. having collected"
+      ],
+      "answer": "A",
+      "explanation": "'stop + 동명사'는 '하던 행위를 그만두다'라는 뜻으로, 작가가 더 이상 직접 돌을 수집하지 않게 되었다는 문맥과 일치합니다. 'stop + to부정사'는 '~하기 위해 멈추다'라는 전혀 다른 의미가 되어 이 문맥에는 맞지 않습니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "It is essential that the catalogue ______ before the opening night.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 형태를 고르세요.",
+      "options": [
+        "A. be finished",
+        "B. is finished",
+        "C. will be finished",
+        "D. was finished"
+      ],
+      "answer": "A",
+      "explanation": "'It is essential that...' 뒤에는 가정법 현재(동사원형)가 와야 하므로 'be finished'가 정답입니다. 'is finished'는 일상 구어체에서는 쓰이기도 하지만 격식 있는 학술·예술 글쓰기에서는 가정법 형태가 표준입니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "it's been a rough week",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Hey, you look really tired lately."
+        },
+        {
+          "speaker": "B",
+          "line": "Yeah, work's been crazy and my car broke down too."
+        },
+        {
+          "speaker": "A",
+          "line": "That sounds exhausting."
+        },
+        {
+          "speaker": "B",
+          "line": "Tell me about it, ______."
+        }
+      ],
+      "question": "마지막 대화에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. it's been a rough week",
+        "B. it's been a piece of cake",
+        "C. it's been smooth sailing",
+        "D. it's been a walk in the park"
+      ],
+      "answer": "A",
+      "explanation": "힘든 한 주를 보냈다는 의미로 'it's been a rough week'가 정답입니다. 'a piece of cake'와 'a walk in the park'는 '아주 쉬운 일'을, 'smooth sailing'은 '순조롭게 진행됨'을 뜻해 정반대의 상황을 나타냅니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "that's out of the question",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Can I borrow the car again tonight?"
+        },
+        {
+          "speaker": "B",
+          "line": "After what happened last time?"
+        },
+        {
+          "speaker": "A",
+          "line": "Come on, I'll be careful this time."
+        },
+        {
+          "speaker": "B",
+          "line": "No way, ______."
+        }
+      ],
+      "question": "마지막 대화에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. that's out of the question",
+        "B. that's up in the air",
+        "C. that's a piece of cake",
+        "D. that's beside the point"
+      ],
+      "answer": "A",
+      "explanation": "절대 안 된다는 단호한 거절의 뜻으로 'that's out of the question'이 맞습니다. 'up in the air'는 '아직 정해지지 않음', 'a piece of cake'는 '아주 쉬움', 'beside the point'는 '요점과 상관없음'을 뜻해 모두 다른 상황에 쓰입니다."
+    }
+  ]
+}
