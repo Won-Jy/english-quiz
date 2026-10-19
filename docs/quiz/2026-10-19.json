@@ -1,0 +1,221 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T19:49:40.395998+00:00",
+  "personal_sources": [
+    "About Warding",
+    "Esquisse sur la colombophobie",
+    "Residency at Maison Daura I"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Residency at Maison Daura I",
+      "expression_key": null,
+      "sentence": "The village, perched halfway up a gorge, was often ______ in the damp autumn clouds that give the area its distinctive landscape.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. shrouded",
+        "B. covered",
+        "C. soaked",
+        "D. wrapped"
+      ],
+      "answer": "A",
+      "explanation": "'shrouded in clouds/mist'는 신비롭고 시적인 분위기를 묘사할 때 쓰이는 전형적 표현으로, 원문에서도 안개 낀 풍경의 정서를 살리기 위해 사용되었습니다. 'covered'는 의미는 통하지만 훨씬 평범하고 문학적 뉘앙스가 없어 작가 노트 같은 글에는 약합니다. 작가노트에서 날씨나 분위기를 묘사할 때 'shrouded in fog/mystery' 형태로 활용하면 좋습니다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Esquisse sur la colombophobie",
+      "expression_key": null,
+      "sentence": "In the final section, I draw a connection between pigeons—now despised—and ______ people in human society, a connection I refer to as the \"Pigeon-human.\"",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. marginalized",
+        "B. forgotten",
+        "C. isolated",
+        "D. excluded"
+      ],
+      "answer": "A",
+      "explanation": "'marginalized'는 사회적·정치적으로 주변화된 집단을 가리키는 학술적 표현으로, 원문의 맥락(혐오와 배제의 메커니즘)에 정확히 들어맞습니다. 'excluded'도 의미는 비슷하지만 더 일반적이고 구체적 권력관계를 함의하지 않아 사회학적 논의에는 약합니다. 작가 진술서에서 소외된 집단을 언급할 때 'marginalized communities/voices' 형태로 자주 활용됩니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "About Warding",
+      "expression_key": null,
+      "sentence": "I translated these findings ______ sculptures combining stone, cast and blown glass, clay, silicone, and plaster.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 전치사를 고르세요.",
+      "options": [
+        "A. into",
+        "B. to",
+        "C. in",
+        "D. onto"
+      ],
+      "answer": "A",
+      "explanation": "'translate A into B'는 '무언가를 다른 형태로 변환하다'라는 뜻의 고정 전치사 결합으로, 리서치나 아이디어를 작업으로 구현했다는 뜻을 전달할 때 미술 글쓰기에서 매우 자주 쓰입니다. 'to'는 방향성은 있지만 이 동사와는 관용적으로 결합하지 않아 어색합니다. 앞으로 조사 내용을 작품으로 옮겼다고 쓸 때 'translate findings/research into works' 형태를 기억해두면 유용합니다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Residency at Maison Daura I",
+      "expression_key": null,
+      "sentence": "In the fall of 2025, I ______ six weeks in residence at the former home of the painter Pierre Daura, in Saint-Cirq-Lapopie.",
+      "dialogue": null,
+      "question": "완료된 과거의 레지던시 경험을 설명하기에 가장 알맞은 시제를 고르세요.",
+      "options": [
+        "A. spent",
+        "B. have spent",
+        "C. was spending",
+        "D. had spent"
+      ],
+      "answer": "A",
+      "explanation": "'in the fall of 2025'처럼 특정 시점이 명시된 완료된 과거 사건에는 단순과거(spent)가 적절합니다. 'have spent'는 현재완료로 시점이 특정되지 않은 경험을 말할 때 쓰이므로 날짜가 명시된 이 문장과는 맞지 않습니다. 레지던시 기록을 쓸 때는 종료된 활동은 단순과거로, 현재 진행 중이거나 영향이 이어지는 작업은 현재완료로 구분해 쓰는 것이 좋습니다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Following an eighteen-month ______ negotiation between MCH Group... and the city of Miami Beach, the fair has announced that it will stay in Florida through 2031.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. deadlocked",
+        "B. stalled",
+        "C. frozen",
+        "D. suspended"
+      ],
+      "answer": "A",
+      "explanation": "'deadlocked negotiation'은 양측이 합의에 이르지 못하고 교착 상태에 빠진 협상을 뜻하는 관용적 표현입니다. 'stalled'도 비슷한 뜻이지만 'deadlocked'보다 덜 격식적이며 뉴스 기사체에서는 'deadlocked'가 더 자연스럽습니다. 교착 상태를 뜻하는 이 단어는 협상, 갈등을 다루는 기사에서 자주 등장합니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "For the philosopher Bruno Latour, seeing anything 'natural' as good and the 'artificial' as bad is ______ human-centric.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. perversely",
+        "B. absurdly",
+        "C. ironically",
+        "D. inherently"
+      ],
+      "answer": "A",
+      "explanation": "'perversely'는 '본래 의도나 상식과 반대로, 뒤틀리게'라는 뜻으로, 자연을 선하다고 보는 태도가 오히려 인간 중심적이라는 역설을 강조합니다. 'ironically'도 역설적 의미지만 더 가볍고 단순한 반전을 가리켜 철학적 논조에는 약합니다. 이 단어는 통념을 비트는 주장을 펼칠 때 효과적으로 쓸 수 있습니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "MCH Group argued that the city's fee to use the convention center ______ too high.",
+      "dialogue": null,
+      "question": "간접화법으로 바꿀 때 시제 일치(backshift)에 맞는 동사 형태를 고르세요.",
+      "options": [
+        "A. was",
+        "B. is",
+        "C. has been",
+        "D. would be"
+      ],
+      "answer": "A",
+      "explanation": "주절 동사 'argued'가 과거이므로 종속절의 현재시제도 과거로 당겨져 'was'가 되어야 합니다(시제 일치 규칙). 'is'는 직접화법 그대로 남겨둔 오류로, 보고 동사가 과거일 때는 거의 항상 백시프트가 필요합니다. 전시 서문이나 기사 인용을 보고체로 바꿀 때 이 규칙을 적용하면 자연스럽습니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Among the sculptures on display ______ a cast-glass intake form and six glass droplets paired with stone.",
+      "dialogue": null,
+      "question": "도치된 문장에서 주어-동사 일치가 올바른 것을 고르세요.",
+      "options": [
+        "A. is",
+        "B. are",
+        "C. was",
+        "D. has been"
+      ],
+      "answer": "B",
+      "explanation": "문두에 전치사구(Among the sculptures)가 와서 도치된 구조이지만, 실제 주어는 'a cast-glass intake form and six glass droplets'로 두 요소가 and로 연결된 복수 주어이므로 복수동사 'are'가 와야 합니다. 'is'는 도치 구조 때문에 동사 바로 앞 명사(form)만 보고 단수로 착각하기 쉬운 전형적 오류입니다. 전시 설명문에서 여러 작품을 나열할 때 실제 주어가 무엇인지 끝까지 확인하는 습관이 필요합니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "it's not a big deal",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "I accidentally spilled coffee on your notebook."
+        },
+        {
+          "speaker": "B",
+          "line": "Oh no, really?"
+        },
+        {
+          "speaker": "A",
+          "line": "I'm so sorry, I'll buy you a new one."
+        },
+        {
+          "speaker": "B",
+          "line": "Relax, it's ______."
+        }
+      ],
+      "question": "마지막 대사의 빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. not a big deal",
+        "B. out of the question",
+        "C. none of my business",
+        "D. beside the point"
+      ],
+      "answer": "A",
+      "explanation": "B가 친구를 안심시키며 '별거 아니야'라고 말하는 상황이므로 'it's not a big deal'이 정답입니다. 'out of the question'은 '절대 불가능하다'는 뜻이고, 'none of my business'는 '내가 상관할 일이 아니다', 'beside the point'는 '논점에서 벗어났다'는 뜻으로 이 상황과 맞지 않습니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "that's a bit steep",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "How much is this jacket?"
+        },
+        {
+          "speaker": "B",
+          "line": "It's 120 euros."
+        },
+        {
+          "speaker": "A",
+          "line": "Hmm, that's ______."
+        }
+      ],
+      "question": "마지막 대사의 빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. a bit steep",
+        "B. a piece of cake",
+        "C. right up my alley",
+        "D. a close call"
+      ],
+      "answer": "A",
+      "explanation": "가격을 듣고 비싸다고 느낄 때 쓰는 표현은 'that's a bit steep'(가격이 좀 세네)입니다. 'a piece of cake'는 '아주 쉬운 일', 'right up my alley'는 '내 취향/전문 분야에 딱 맞다', 'a close call'은 '아슬아슬하게 피한 상황'을 뜻해 가격과는 관련이 없습니다."
+    }
+  ]
+}
