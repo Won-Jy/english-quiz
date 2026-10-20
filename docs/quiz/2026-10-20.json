@@ -1,0 +1,209 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T18:27:41.148705+00:00",
+  "personal_sources": [
+    "Columbarium II",
+    "Columbarium V",
+    "Premières pierres II"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Columbarium II",
+      "expression_key": null,
+      "sentence": "I brought the pigeon graves I had at home and ______ a display, arranging them together with materials I found on-site at the residency.",
+      "dialogue": null,
+      "question": "빈칸에 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. improvised",
+        "B. improved",
+        "C. fabricated",
+        "D. staged"
+      ],
+      "answer": "A",
+      "explanation": "'improvised'는 현장에서 즉흥적으로, 주어진 재료만으로 구성했다는 뉘앙스를 담고 있어 문맥과 정확히 맞습니다. 'fabricated'는 공들여 제작했다는 느낌이라 즉흥성과 어긋나고, 'staged'는 연출/상연의 의미가 강해 디스플레이를 즉흥적으로 꾸몄다는 뜻과는 다릅니다. 작가노트에서 설치의 현장성·즉흥성을 강조하고 싶을 때 'improvise(d)'를 적극 활용해보세요."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Premières pierres II",
+      "expression_key": null,
+      "sentence": "Simulating a process of artificial sedimentation, I ______ large chunks of concrete rubble—remnants from the demolition of a social service building of Gard Departement.",
+      "dialogue": null,
+      "question": "빈칸에 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. agglomerated",
+        "B. accumulated",
+        "C. aggregated",
+        "D. amassed"
+      ],
+      "answer": "A",
+      "explanation": "'agglomerated'는 작은 덩어리들이 뭉쳐 하나의 응집된 형태를 이루는 과정을 뜻해 '인공 퇴적(sedimentation)' 개념과 가장 잘 어울립니다. 'accumulated'는 단순히 쌓였다는 뜻이라 응집의 이미지가 약합니다. 재료의 물리적 변형 과정을 설명할 때 'agglomerate'를 쓰면 더 전문적이고 시각적인 인상을 줄 수 있습니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Columbarium II",
+      "expression_key": null,
+      "sentence": "This work ______ as part of Dents creuses II, a short-term, on-site experimental exhibition hosted by Échangeur 22, an artist residency located in Saint-Laurent-des-Arbres.",
+      "dialogue": null,
+      "question": "빈칸에 가장 적절한 동사 형태를 고르세요.",
+      "options": [
+        "A. was presented",
+        "B. is presented",
+        "C. has been presented",
+        "D. presented itself"
+      ],
+      "answer": "A",
+      "explanation": "이미 끝난 특정 전시를 설명할 때는 단순과거 수동형 'was presented'가 자연스럽습니다. 'has been presented'는 현재까지 영향이 이어지는 완료형 뉘앙스라 특정 과거 전시 서술엔 어색하고, 'is presented'는 현재 진행 중인 전시처럼 들려 시제가 맞지 않습니다. 전시 이력을 쓸 때는 일관되게 단순과거를 사용하는 것이 좋습니다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Columbarium V",
+      "expression_key": null,
+      "sentence": "______ as part of the exhibition Roulé-Lavé (2025).",
+      "dialogue": null,
+      "question": "전시 사진 캡션에 들어갈 가장 적절한 형태를 고르세요.",
+      "options": [
+        "A. Installed",
+        "B. Installing",
+        "C. Having installed",
+        "D. To install"
+      ],
+      "answer": "A",
+      "explanation": "이미 완료되어 전시된 상태를 나타내는 캡션에서는 과거분사 'Installed'가 적절합니다 (작품이 '설치된' 상태를 수동적으로 묘사). 'Installing'은 현재진행형 뉘앙스로 설치 중이라는 뜻이 되어 완료된 전시 사진 설명과 맞지 않습니다. 캡션에서는 이렇게 과거분사 구문을 활용하면 간결하고 정확하게 상태를 전달할 수 있습니다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "More than 100,000 people from Ukraine and Sudan can stay in the United States without immediate risk of deportation, in what amounts to a temporary ______ after their right to stay in the country was set to expire.",
+      "dialogue": null,
+      "question": "빈칸에 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. reprieve",
+        "B. release",
+        "C. relief",
+        "D. recess"
+      ],
+      "answer": "A",
+      "explanation": "'reprieve'는 좋지 않은 일(여기서는 추방)이 일시적으로 연기·유예되는 것을 뜻해 문맥과 정확히 일치합니다. 'relief'는 단순한 안도감을 뜻해 법적 유예의 의미가 없고, 'recess'는 휴회를 뜻해 전혀 다른 맥락입니다. 뉴스 기사에서 자주 쓰이는 'temporary reprieve'라는 콜로케이션을 기억해두세요."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Master's students at the Design Academy Eindhoven staged protests during the school's graduation exhibition to demand action against ______ facilities.",
+      "dialogue": null,
+      "question": "빈칸에 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. overcrowded",
+        "B. overextended",
+        "C. oversaturated",
+        "D. overburdened"
+      ],
+      "answer": "A",
+      "explanation": "'overcrowded'는 공간에 비해 사람이나 사물이 지나치게 많다는 뜻으로 'facilities(시설)'와 자연스럽게 결합합니다. 'overburdened'는 주로 사람이나 시스템이 과도한 부담을 진다는 뜻이라 시설 자체를 묘사하기엔 어색합니다. 'overextended'는 자원·능력이 한계를 넘었다는 의미로 주로 재정이나 인력에 쓰입니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The sculpture is composed ______ concrete rubble collected from a demolished building.",
+      "dialogue": null,
+      "question": "빈칸에 가장 적절한 전치사를 고르세요.",
+      "options": [
+        "A. of",
+        "B. from",
+        "C. by",
+        "D. with"
+      ],
+      "answer": "A",
+      "explanation": "'be composed of'는 '~로 구성되다'라는 뜻의 고정 전치사 결합으로 재료를 나열할 때 표준적으로 쓰입니다. 'composed from'이나 'composed with'는 어색하거나 비문법적이며, 'composed by'는 저자/작곡가를 나타낼 때 쓰는 표현이라 재료 설명에는 맞지 않습니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Direct speech: \"I will exhibit the piece in Paris next year,\" said the artist. Reported speech: The artist said that she ______ the piece in Paris the following year.",
+      "dialogue": null,
+      "question": "간접화법으로 바꿀 때 빈칸에 가장 적절한 형태를 고르세요.",
+      "options": [
+        "A. would exhibit",
+        "B. will exhibit",
+        "C. exhibits",
+        "D. had exhibited"
+      ],
+      "answer": "A",
+      "explanation": "주절 동사가 과거시제(said)이면 조동사 will은 would로 시제일치(backshift)됩니다. 'will exhibit'은 시제일치가 안 된 직접화법 형태라 간접화법에는 부적절하고, 'had exhibited'는 과거완료로 이미 끝난 행위를 나타내 미래 계획을 전달하는 맥락과 맞지 않습니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "that's news to me",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Did you hear Jun got promoted to team lead?"
+        },
+        {
+          "speaker": "B",
+          "line": "Wait, really? ______."
+        }
+      ],
+      "question": "B의 마지막 대사에 들어갈 가장 적절한 표현을 고르세요.",
+      "options": [
+        "A. That's news to me",
+        "B. That's beyond me",
+        "C. That's all the same to me",
+        "D. That's up to me"
+      ],
+      "answer": "A",
+      "explanation": "'That's news to me'는 '처음 듣는 얘기인데'라는 뜻으로 몰랐던 정보를 막 들었을 때 쓰는 표현입니다. 'That's beyond me'는 '나는 이해가 안 된다', 'That's all the same to me'는 '나한텐 다 똑같다/상관없다', 'That's up to me'는 '그건 내가 결정할 일이다'라는 뜻으로 모두 이 상황과 맞지 않습니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "I'll wing it",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Did you prepare slides for tomorrow's presentation?"
+        },
+        {
+          "speaker": "B",
+          "line": "Not really... ______."
+        }
+      ],
+      "question": "B의 마지막 대사에 들어갈 가장 적절한 표현을 고르세요.",
+      "options": [
+        "A. I'll wing it",
+        "B. I'll play it by ear",
+        "C. I'll call it a day",
+        "D. I'll bite the bullet"
+      ],
+      "answer": "A",
+      "explanation": "'wing it'은 사전 준비 없이 즉흥적으로 해낸다는 뜻으로, 슬라이드를 준비하지 않았다는 맥락과 정확히 맞습니다. 'play it by ear'는 비슷해 보이지만 '상황을 봐가며 유동적으로 대응한다'는 뜻에 가까워 '준비 부재'보다는 '임기응변적 대응'을 강조합니다. 'call it a day'는 '오늘은 여기까지 하자', 'bite the bullet'은 '힘든 일을 억지로 받아들이다'라는 뜻으로 둘 다 이 상황과 맞지 않습니다."
+    }
+  ]
+}
