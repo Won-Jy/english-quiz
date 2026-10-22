@@ -1,0 +1,221 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T18:29:41.477177+00:00",
+  "personal_sources": [
+    "Columbarium II",
+    "Déambulatoire",
+    "Esquisse sur la colombophobie"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Déambulatoire",
+      "expression_key": null,
+      "sentence": "Thus, my intervention on the displayed objects was deliberately ______.",
+      "dialogue": null,
+      "question": "빈칸에 가장 적절한 단어를 고르세요. (작가 노트에서 '개입의 정도'를 표현할 때)",
+      "options": [
+        "A. minimal",
+        "B. minimalist",
+        "C. minimized",
+        "D. minimizing"
+      ],
+      "answer": "A",
+      "explanation": "'deliberately' 뒤에는 정도를 나타내는 형용사 'minimal'이 와야 자연스럽습니다. 'minimalist'는 양식(미니멀리즘적인)을 가리키는 다른 의미이고, 'minimized/minimizing'은 동사 형태라 이 구조에 맞지 않습니다. 작업 설명에서 개입의 정도를 말할 때는 'minimal intervention' 같은 조합을 기억해두면 유용합니다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Déambulatoire",
+      "expression_key": null,
+      "sentence": "These 'remains,' ______ in the eyes of the locals, were highlighted and made visible by being placed on geometric pedestals I built myself.",
+      "dialogue": null,
+      "question": "빈칸에 가장 적절한 단어를 고르세요. (주민들에게는 '하찮고 평범한' 것으로 보였다는 뜻)",
+      "options": [
+        "A. mundane",
+        "B. sacred",
+        "C. precious",
+        "D. curious"
+      ],
+      "answer": "A",
+      "explanation": "'mundane'은 '평범하고 하찮은'이라는 뜻으로, 작가가 하찮게 여겨지던 사물을 작품으로 격상시켰다는 대비를 만듭니다. 'sacred'는 정반대 의미라 문맥과 맞지 않습니다. 전시 서문에서 일상적 사물을 다룰 때 'mundane object'는 매우 유용한 표현입니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Columbarium II",
+      "expression_key": null,
+      "sentence": "This work ______ as part of Dents creuses II, a short-term, on-site experimental exhibition hosted by Échangeur 22.",
+      "dialogue": null,
+      "question": "이미 끝난 전시를 설명할 때 가장 적절한 시제를 고르세요.",
+      "options": [
+        "A. was presented",
+        "B. is presented",
+        "C. has been presented",
+        "D. presents"
+      ],
+      "answer": "A",
+      "explanation": "전시가 특정 과거 시점에 열리고 끝났으므로 단순과거 'was presented'가 맞습니다. 'is presented'는 현재 진행 중인 전시처럼 들려서 부정확합니다. 작업 설명에서 완료된 전시를 언급할 땐 항상 단순과거를 쓰는 습관을 들이세요."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Déambulatoire",
+      "expression_key": null,
+      "sentence": "Thus, my intervention on the displayed objects was deliberately minimal: ______ — moving — placing on a pedestal.",
+      "dialogue": null,
+      "question": "병렬 구조상 빈칸에 가장 적절한 형태를 고르세요.",
+      "options": [
+        "A. selecting",
+        "B. select",
+        "C. selection",
+        "D. to select"
+      ],
+      "answer": "A",
+      "explanation": "'moving', 'placing'과 형태를 맞추려면 동명사 'selecting'이 와야 병렬 구조가 유지됩니다. 'select'는 동사 원형이라 명사/동명사 나열에 어울리지 않습니다. 작업 과정을 나열할 때는 동일한 품사 형태로 통일하는 것이 영문 글쓰기에서 중요합니다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The US-backed hepatitis B vaccine trial in African newborns that drew global ______ was halted, the lead researcher said.",
+      "dialogue": null,
+      "question": "빈칸에 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. backlash",
+        "B. support",
+        "C. outreach",
+        "D. applause"
+      ],
+      "answer": "A",
+      "explanation": "'backlash'는 대중의 강한 반발을 뜻하며 문맥상 연구가 비판을 받아 중단되었다는 내용과 일치합니다. 'support'나 'applause'는 긍정적 반응을 뜻해 문맥과 반대됩니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "There will never be another Wikipedia, 'one of the strangest and most ______ successes of its time.'",
+      "dialogue": null,
+      "question": "빈칸에 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. outlandish",
+        "B. outlasting",
+        "C. outspoken",
+        "D. outworn"
+      ],
+      "answer": "A",
+      "explanation": "'outlandish'는 '기이한, 상식을 벗어난'이라는 뜻으로 Wikipedia의 비정상적인 성공을 묘사하기에 적절합니다. 'outspoken'은 '거침없이 말하는'이라는 뜻으로 사람에게 쓰이는 표현이라 문맥에 맞지 않습니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "After collecting objects along the riverbank for an hour, I stopped ______ photographs of the site before continuing my walk.",
+      "dialogue": null,
+      "question": "의미상 가장 적절한 형태를 고르세요. (사진을 찍기 위해 걸음을 멈췄다는 뜻)",
+      "options": [
+        "A. to take",
+        "B. taking",
+        "C. take",
+        "D. having taken"
+      ],
+      "answer": "A",
+      "explanation": "'stop to do'는 '~하기 위해 하던 일을 멈추다'는 뜻으로, 걷다가 사진을 찍으려고 멈췄다는 문맥에 맞습니다. 'stop doing'을 쓰면 '사진 찍는 행위 자체를 그만두다'라는 다른 의미가 되어 문맥과 어긋납니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "______ by Julien Bouissou, the residency program invited artists to respond to the local landscape.",
+      "dialogue": null,
+      "question": "분사구문으로 가장 적절한 형태를 고르세요.",
+      "options": [
+        "A. Organized",
+        "B. Organizing",
+        "C. Having organized",
+        "D. Being organize"
+      ],
+      "answer": "A",
+      "explanation": "레지던시 프로그램은 Julien Bouissou에 의해 '조직되는' 대상이므로 수동 분사 'Organized'가 맞습니다. 'Organizing'은 능동(조직하는 주체)을 뜻해 레지던시 자체와 의미가 맞지 않고, 'Being organize'는 문법적으로 오류입니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "I'm in no rush",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Sorry, my train got delayed by twenty minutes."
+        },
+        {
+          "speaker": "B",
+          "line": "No worries at all, take your time."
+        },
+        {
+          "speaker": "A",
+          "line": "Are you sure? I could call you back later."
+        },
+        {
+          "speaker": "B",
+          "line": "Don't worry, I'm ______."
+        }
+      ],
+      "question": "마지막 대사의 빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. in no rush",
+        "B. on the fence",
+        "C. under the weather",
+        "D. up for it"
+      ],
+      "answer": "A",
+      "explanation": "'I'm in no rush'는 '급할 거 없어'라는 뜻으로, 기차 지연에도 상대를 안심시키는 상황에 딱 맞습니다. 'on the fence'는 '결정을 못 내리고 망설이는'이라는 뜻이고, 'under the weather'는 '몸이 좀 안 좋은', 'up for it'은 '그거 할 의향이 있는'이라는 뜻이라 문맥과 맞지 않습니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "keep me posted",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Did you hear back about the apartment viewing?"
+        },
+        {
+          "speaker": "B",
+          "line": "Not yet, still waiting on the landlord."
+        },
+        {
+          "speaker": "A",
+          "line": "Okay, just ______ when you know."
+        }
+      ],
+      "question": "마지막 대사의 빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. keep me posted",
+        "B. keep me company",
+        "C. give me a break",
+        "D. keep an eye out"
+      ],
+      "answer": "A",
+      "explanation": "'keep me posted'는 '계속 알려줘'라는 뜻으로, 결과를 기다리는 상황에서 소식을 전해달라고 할 때 쓰는 표현입니다. 'keep me company'는 '곁에 있어줘', 'give me a break'는 '그만 좀 해/봐줘', 'keep an eye out'은 '~을 주의해서 살펴봐'라는 뜻이라 이 상황과 맞지 않습니다."
+    }
+  ]
+}
