@@ -1,0 +1,225 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T18:16:40.187685+00:00",
+  "personal_sources": [
+    "About Warding",
+    "Premières pierres II",
+    "Columbarium VI"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "About Warding",
+      "expression_key": null,
+      "sentence": "Working between my established ______ in concrete rubble and Pukeberg's glassblowing tradition, I translated these findings into sculptures combining stone, cast and blown glass, clay, silicone, and plaster.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요. (작가의 '조형적 어휘·레퍼토리'를 의미)",
+      "options": [
+        "A. vocabulary",
+        "B. collection",
+        "C. technique",
+        "D. tradition"
+      ],
+      "answer": "A",
+      "explanation": "'vocabulary'는 언어뿐 아니라 예술가의 고유한 조형적 표현 체계·레퍼토리를 가리킬 때도 쓰이는 비유적 용법입니다. 'collection'이나 'technique'은 축적된 작업 방식이라는 뉘앙스를 담지 못해 어색합니다. 작가노트에서 자신의 반복되는 재료나 형식을 설명할 때 'my vocabulary in X'라는 표현을 적극 활용해보세요."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Premières pierres II",
+      "expression_key": null,
+      "sentence": "I ______ large chunks of concrete rubble—remnants from the demolition of a social service building of Gard Departement—which had once served as a gathering place for marginalized individuals and families.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요. (잔해 덩어리들을 뭉쳐 하나의 덩어리로 만드는 과정을 뜻함)",
+      "options": [
+        "A. agglomerated",
+        "B. assembled",
+        "C. accumulated",
+        "D. aggregated"
+      ],
+      "answer": "A",
+      "explanation": "'agglomerate'는 서로 다른 조각들이 뭉쳐 하나의 덩어리(응집체)를 이루는 과정을 뜻하는 지질학적 뉘앙스를 가진 단어로, 콘크리트 잔해가 하나의 덩어리로 굳어지는 과정을 설명하기에 가장 정확합니다. 'assemble'은 단순 조립, 'accumulate'는 단순 축적을 뜻해 작품의 물질적 변형 과정을 담지 못합니다. 작품 설명에서 재료의 물리적 변형 과정을 강조할 때 이 단어를 활용하면 더 전문적으로 들립니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "About Warding",
+      "expression_key": null,
+      "sentence": "______ this line between \"us\" and \"them,\" I turned to the region's granite—boulders once cleared from farmland by hand.",
+      "dialogue": null,
+      "question": "문맥상 가장 자연스러운 분사구문 형태를 고르세요.",
+      "options": [
+        "A. Tracing",
+        "B. Having traced",
+        "C. Traced",
+        "D. To trace"
+      ],
+      "answer": "A",
+      "explanation": "주절의 행위(돌을 찾아간 것)와 분사구문의 행위(선을 추적하는 것)가 동시에 일어나는 연속적 과정이므로 현재분사 'Tracing'이 맞습니다. 'Having traced'는 추적이 이미 완료된 후 다른 행동이 이어진다는 뜻이 되어 리서치와 제작이 겹쳐 진행된 실제 작업 과정과 맞지 않습니다. 전시 서문에서 연구 과정과 제작 과정의 동시성을 표현할 때 이 구조를 기억해두면 유용합니다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "About Warding",
+      "expression_key": null,
+      "sentence": "I translated these findings into sculptures ... objects that carry the same administrative and architectural logic ______ protection and exclusion, wherever they are found.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 전치사를 고르세요.",
+      "options": [
+        "A. of",
+        "B. for",
+        "C. about",
+        "D. between"
+      ],
+      "answer": "A",
+      "explanation": "'the logic of X'는 'X의 논리'라는 뜻의 관용적 전치사 결합으로, 추상명사 'logic' 뒤에는 거의 항상 'of'가 따라옵니다. 'logic for'는 '~를 위한 논리'라는 뜻이 되어 보호와 배제가 목적이 아니라 내재된 원리임을 설명하는 이 문맥과는 어울리지 않습니다. 전시 서문에서 개념적 구조를 설명할 때 'the logic/structure/system of X' 형태를 기본값으로 쓰면 안전합니다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The Philadelphia Museum of Art announced that it was the recipient of a $20 million gift ______ for the development of a new education center.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요. (특정 목적을 위해 '지정된' 기부금을 의미)",
+      "options": [
+        "A. earmarked",
+        "B. allocated",
+        "C. designated",
+        "D. intended"
+      ],
+      "answer": "A",
+      "explanation": "'earmark'는 기금이나 자원을 특정 목적을 위해 미리 따로 지정해둔다는 뜻으로 기부·예산 관련 기사에서 관용적으로 쓰이는 표현입니다. 'allocated'도 비슷한 뜻이지만 보다 행정적·사후적 분배 뉘앙스가 강해 이 문맥의 '애초부터 지정된 기부금'이라는 뉘앙스와는 살짝 다릅니다. 보조금 신청서에서 특정 용도로 지정된 예산을 설명할 때 'earmarked for'를 쓰면 전문적으로 들립니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Tribologists study friction: what happens when things rub together. It's ______, from the wheel to the paths of stars.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요. (없어서는 안 될, 필수적인)",
+      "options": [
+        "A. indispensable",
+        "B. inevitable",
+        "C. innumerable",
+        "D. inexplicable"
+      ],
+      "answer": "A",
+      "explanation": "'indispensable'은 '필수불가결한'이라는 뜻으로, 마찰이 바퀴부터 별의 궤도까지 모든 현상에 필수적이라는 문맥에 정확히 맞습니다. 'inevitable'은 '피할 수 없는'이라는 뜻으로 의미는 비슷해 보이지만 필연성이 아니라 중요성을 강조하는 이 문장과는 뉘앙스가 다릅니다. 네 단어 모두 'in-' 접두사를 가진 고급 어휘이니 스펠링 차이에 유의하세요."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "______ the six-week residency, the artist began translating her research into sculptural form.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 분사구문 형태를 고르세요.",
+      "options": [
+        "A. Having completed",
+        "B. Completing",
+        "C. Having been completed",
+        "D. Complete"
+      ],
+      "answer": "A",
+      "explanation": "레지던시가 이미 '완료된 후' 작업을 시작했다는 시간적 선후관계를 나타내야 하므로 완료형 능동분사 'Having completed'가 맞습니다. 'Having been completed'는 수동형으로, 레지던시가 '작가에 의해 완료되었다'는 어색한 의미가 되어 부적절합니다. 'having p.p.'는 주절보다 먼저 끝난 일을 표현할 때 쓴다는 점을 기억하세요."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "It is essential that the artist statement ______ clear and concise.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 동사 형태를 고르세요. (가정법 현재)",
+      "options": [
+        "A. be",
+        "B. is",
+        "C. was",
+        "D. will be"
+      ],
+      "answer": "A",
+      "explanation": "'It is essential that + 주어 + 동사원형'은 당위성을 나타내는 가정법 현재 구문으로, 주어의 인칭·수에 상관없이 동사원형 'be'를 씁니다. 'is'는 평서문에서는 맞지만 이 구조에서는 격식체 가정법 규칙을 어기게 됩니다. 그랜트 신청서나 추천서에서 'It is important/necessary/essential that + 동사원형' 구조를 쓰면 격식 있는 문체가 됩니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "why bother",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "I'm repainting the whole fence before we sell the house."
+        },
+        {
+          "speaker": "B",
+          "line": "But we're moving out in two weeks."
+        },
+        {
+          "speaker": "A",
+          "line": "I know, it just looks shabby to me."
+        },
+        {
+          "speaker": "B",
+          "line": "______? No one will even notice."
+        }
+      ],
+      "question": "빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. Why bother",
+        "B. What's the point",
+        "C. Who cares",
+        "D. So what"
+      ],
+      "answer": "A",
+      "explanation": "'why bother'는 '굳이 그럴 필요가 있나, 뭐하러'라는 뜻으로, 불필요해 보이는 수고를 지적할 때 쓰는 구어체 표현입니다. 'what's the point'도 의미는 비슷하지만 '그게 무슨 의미가 있냐'는 더 철학적·목적 지향적 뉘앙스이고, 'who cares'는 '신경 안 써'라는 무관심, 'so what'은 '그래서 뭐'라는 도발적 반응이라 이 대화 맥락에는 덜 어울립니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "let's split the bill",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Dinner was great, thanks for inviting me."
+        },
+        {
+          "speaker": "B",
+          "line": "No problem! How should we handle the check?"
+        },
+        {
+          "speaker": "A",
+          "line": "I don't want you paying for everything again."
+        },
+        {
+          "speaker": "B",
+          "line": "Okay, let's ______."
+        }
+      ],
+      "question": "빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. split the bill",
+        "B. foot the bill",
+        "C. pick up the tab",
+        "D. go dutch"
+      ],
+      "answer": "A",
+      "explanation": "'split the bill'은 '각자 내자', 즉 금액을 나눠서 지불하자는 뜻으로 이 대화에 정확히 맞습니다. 'foot the bill'과 'pick up the tab'은 둘 다 '혼자서 전액을 낸다'는 뜻이라 오히려 반대 의미이고, 'go dutch'는 의미는 비슷하지만 'let's' 뒤에 자연스럽게 이어지지 않는 구어체 숙어(go dutch는 보통 동사 없이 단독으로 쓰임)라 이 문장 구조와는 어울리지 않습니다."
+    }
+  ]
+}
