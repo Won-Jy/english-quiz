@@ -1,0 +1,217 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T20:28:15.419673+00:00",
+  "personal_sources": [
+    "Collection des contenants en plastique",
+    "Columbarium III",
+    "About Warding"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Collection des contenants en plastique",
+      "expression_key": null,
+      "sentence": "Each student assembled a personal collection of their own and ______ a display to present it freely.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. devised",
+        "B. deviced",
+        "C. devoted",
+        "D. derived"
+      ],
+      "answer": "A",
+      "explanation": "'devise'는 '고안하다, 궁리해내다'라는 뜻으로 전시 구성이나 설치 방식을 설명할 때 유용합니다. 'deviced'는 애초에 존재하지 않는 형태이고, 'devoted'(헌신한)와 'derived'(파생된)는 의미상 맞지 않습니다. 작가 노트에서 '전시 방식을 고안했다'는 표현을 쓸 때 'devise a display/method'처럼 활용하면 좋습니다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "About Warding",
+      "expression_key": null,
+      "sentence": "Objects that carry the same administrative and architectural logic of protection and ______, wherever they are found.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. exclusion",
+        "B. seclusion",
+        "C. inclusion",
+        "D. preclusion"
+      ],
+      "answer": "A",
+      "explanation": "'protection and exclusion'은 '보호'와 '배제'라는 대조적 개념의 짝으로, 감금·통제 시스템을 설명하는 핵심 어휘입니다. 'seclusion'(은둔, 격리)은 의미가 비슷해 보이지만 제도적 '배제'의 뉘앙스가 약하고, 'inclusion'은 정반대 의미입니다. 전시 서문에서 건축적·제도적 권력을 논할 때 'protection and exclusion'처럼 대구 구조로 쓰면 효과적입니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Columbarium III",
+      "expression_key": null,
+      "sentence": "By the time the exhibition opened, hundreds of maggots that had been born inside the topmost box ______ into flies.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 시제를 고르세요.",
+      "options": [
+        "A. had turned",
+        "B. turned",
+        "C. have turned",
+        "D. were turning"
+      ],
+      "answer": "A",
+      "explanation": "'by the time + 과거' 구문은 그 시점 이전에 이미 완료된 일을 나타내므로 과거완료 'had turned'가 정확합니다. 단순과거 'turned'를 쓰면 전시 개막과 동시에 일어난 일처럼 읽혀 시간 순서가 모호해집니다. 작업 전개 과정을 서술할 때 두 사건의 선후관계를 분명히 하려면 과거완료를 적극 활용하세요."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "About Warding",
+      "expression_key": null,
+      "sentence": "Boulders once cleared from farmland by hand, ______ into dry-stone walls, and later reproduced as garden ornaments in suburban housing developments.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 형태를 고르세요.",
+      "options": [
+        "A. piled",
+        "B. piling",
+        "C. are piled",
+        "D. to be piled"
+      ],
+      "answer": "A",
+      "explanation": "'cleared', 'piled', 'reproduced'는 모두 boulders를 수식하는 과거분사로 병렬 구조를 이루어야 합니다. 'piling'은 현재분사라 능동의 의미가 되어 문맥과 어긋나고, 'are piled'는 별도의 정동사를 만들어 문장을 어색하게 만듭니다. 작가노트에서 사물의 변형 과정을 나열할 때 분사구를 평행하게 맞추면 문장이 훨씬 세련됩니다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The works were given without any tax ______.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. incentives",
+        "B. deductions",
+        "C. intentions",
+        "D. subsidies"
+      ],
+      "answer": "A",
+      "explanation": "'tax incentive'는 세금 혜택을 가리키는 고정 표현으로, 기부자가 아무런 세제 혜택 없이 작품을 기증했다는 의미를 정확히 전달합니다. 'deductions'(공제)와 'subsidies'(보조금)는 비슷한 영역이지만 이 맥락의 관용 표현이 아니며, 'intentions'는 의미 자체가 다릅니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Senior Sudanese commanders ______ in a \"campaign of rape\" have been targeted by the UK.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. implicated",
+        "B. implied",
+        "C. incriminated",
+        "D. indicated"
+      ],
+      "answer": "A",
+      "explanation": "'implicated in'은 '~에 연루된'이라는 뜻으로 혐의와 관련된 사람을 설명할 때 쓰는 표준 표현입니다. 'implied'(암시된)와 'indicated'(나타낸)는 전혀 다른 의미이고, 'incriminated'는 보통 'incriminate someone'처럼 타동사로 쓰여 이 자리에 자연스럽지 않습니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "You ______ fed the flies — they would have survived on the condensation inside the box anyway.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 조동사 표현을 고르세요.",
+      "options": [
+        "A. needn't have",
+        "B. shouldn't have",
+        "C. mustn't have",
+        "D. couldn't have"
+      ],
+      "answer": "A",
+      "explanation": "'needn't have + p.p.'는 '할 필요가 없었는데 했다'는 뜻으로, 이미 한 행동이 불필요했음을 나타낼 때 씁니다. 'shouldn't have'는 '하지 말았어야 했는데 했다'는 비판의 뉘앙스라 이 문맥(단지 불필요했을 뿐 잘못은 아님)과 맞지 않습니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "It is essential that the artist ______ full control over installation conditions.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 동사 형태를 고르세요.",
+      "options": [
+        "A. have",
+        "B. has",
+        "C. having",
+        "D. will have"
+      ],
+      "answer": "A",
+      "explanation": "'it is essential that' 뒤에는 가정법 현재(주어 수와 상관없이 동사원형)를 쓰므로 'have'가 정답입니다. 'has'는 일반적인 직설법 형태라 격식체 제안/필요 구문에서는 부적절합니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "it backfired",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "I heard you tried to fix the Wi-Fi yourself."
+        },
+        {
+          "speaker": "B",
+          "line": "Yeah, I thought restarting the router twice would help."
+        },
+        {
+          "speaker": "A",
+          "line": "Did it work?"
+        },
+        {
+          "speaker": "B",
+          "line": "No, it completely ______ — now nothing connects at all."
+        }
+      ],
+      "question": "마지막 대화에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. backfired",
+        "B. paid off",
+        "C. worked out",
+        "D. fell through"
+      ],
+      "answer": "A",
+      "explanation": "'it backfired'는 의도한 것과 반대로 역효과가 난 상황을 뜻하며, 와이파이를 고치려다 더 망가진 상황에 정확히 맞습니다. 'paid off'(성과가 있었다)와 'worked out'(잘 풀렸다)은 긍정적 결과를 뜻해 반대 의미이고, 'fell through'는 계획 자체가 '무산되다'는 뜻으로 결과가 나쁘다기보다 아예 실행되지 않았다는 뉘앙스입니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "that's a good call",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "I decided to leave an hour early because of the traffic."
+        },
+        {
+          "speaker": "B",
+          "line": "______ — you made it just in time."
+        }
+      ],
+      "question": "마지막 대화에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. That's a good call",
+        "B. That's a close call",
+        "C. That's a tough call",
+        "D. That's a fair call"
+      ],
+      "answer": "A",
+      "explanation": "'that's a good call'은 누군가의 판단이나 결정을 칭찬할 때 쓰는 표현으로, 일찍 출발한 결정이 좋은 선택이었음을 확인해줍니다. 'close call'은 '아슬아슬한 상황', 'tough call'은 '어려운 결정', 'fair call'은 '합당한 판단/지적'이라는 뜻이라 이 상황과는 맞지 않습니다."
+    }
+  ]
+}
