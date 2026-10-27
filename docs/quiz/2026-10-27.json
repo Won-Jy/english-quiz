@@ -1,0 +1,225 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T20:03:32.867452+00:00",
+  "personal_sources": [
+    "Self-portrait",
+    "Columbarium II",
+    "About Warding"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Self-portrait",
+      "expression_key": null,
+      "sentence": "I worked with particular attention to how, though made of the same material, a pebble placed within that small world could stand in for a massive boulder, paying close attention to the specific ______ stone takes on at that scale.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. translucency",
+        "B. transparency",
+        "C. opacity",
+        "D. luminosity"
+      ],
+      "answer": "A",
+      "explanation": "translucency는 빛을 완전히 투과시키지 않고 부분적으로만 통과시키는 성질로, 작은 돌이 빛을 머금는 미묘한 상태를 묘사하기에 적합합니다. transparency는 완전히 투명함을 뜻해 돌의 질감과 맞지 않습니다. 작가 노트에서 재료의 물성을 묘사할 때 translucency/opacity 구분을 활용하면 더 정밀한 표현이 가능합니다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Columbarium II",
+      "expression_key": null,
+      "sentence": "Dents creuses II was a short-term, on-site experimental exhibition hosted by Échangeur 22, and ______ both in the village and inside the residency building.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. staged",
+        "B. performed",
+        "C. hosted",
+        "D. displayed"
+      ],
+      "answer": "A",
+      "explanation": "staged는 전시나 이벤트가 특정 장소들에서 '펼쳐졌다'는 의미로, 이미 앞 문장에서 hosted(주최 기관)가 쓰였으므로 반복을 피하고 공간적 전개를 나타내는 데 적합합니다. performed는 공연에 더 어울리고, displayed는 설치된 작품 자체에 쓰는 말이라 전시 전체를 묘사하기엔 부족합니다. 전시 서문에서 장소를 여러 곳 언급할 때 'staged across/in'을 쓰면 자연스럽습니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Self-portrait",
+      "expression_key": null,
+      "sentence": "I deepened a miniature-based practice — one I had originally begun inspired by suseok culture, in which [BLANK] — as part of this residency.",
+      "dialogue": null,
+      "question": "관사 사용이 가장 정확한 것을 고르세요.",
+      "options": [
+        "A. a microcosm mirrors the macrocosm",
+        "B. the microcosm mirrors a macrocosm",
+        "C. a microcosm mirrors a macrocosm",
+        "D. the microcosm mirrors the macrocosm"
+      ],
+      "answer": "A",
+      "explanation": "microcosm은 '어떤 하나의 축소판'이라는 일반적 의미이므로 부정관사 a가 맞고, macrocosm은 '전체 우주/거시세계'라는 유일한 개념을 가리키므로 정관사 the가 맞습니다. D처럼 둘 다 the를 쓰면 microcosm까지 이미 정해진 특정 대상처럼 읽혀 일반론적 뉘앙스가 사라집니다. 작가 노트에서 추상 개념을 일반화할 때는 가산명사 단수+부정관사 조합을 의식적으로 점검하는 것이 좋습니다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Self-portrait",
+      "expression_key": null,
+      "sentence": "The relationship he formed ______ these stones is not simply that of a \"wall\" being built.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 자연스러운 전치사를 고르세요.",
+      "options": [
+        "A. with",
+        "B. to",
+        "C. from",
+        "D. for"
+      ],
+      "answer": "A",
+      "explanation": "'form a relationship with something'은 표준 연어(collocation)로, 사람과 사물/사람 사이의 관계 형성을 말할 때 가장 자연스럽습니다. 'relationship to'는 추상적 개념 간의 연관성을 말할 때 더 쓰이며, 이 문맥처럼 물리적으로 관계를 '맺어가는' 과정에는 어울리지 않습니다. 작업 과정을 서술할 때 'form/build a relationship with [material]'을 기본형으로 익혀두면 유용합니다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The Heinz Architectural Center is the institution's site for exploring and ______ ideas related to architecture.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. incubating",
+        "B. germinating",
+        "C. hatching",
+        "D. fermenting"
+      ],
+      "answer": "A",
+      "explanation": "'incubate ideas'는 기관이나 레지던시가 아이디어를 발전시키기 전 단계에서 보호하고 키운다는 의미로 자주 쓰이는 제도적 표현입니다. hatching은 지나치게 구어적이고, germinating/fermenting은 ideas와 자연스럽게 결합하지 않습니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Senior Sudanese commanders ______ in a \"campaign of rape\" have been targeted by the UK on the first anniversary of a mass atrocity.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. implicated",
+        "B. accused",
+        "C. suspected",
+        "D. involved"
+      ],
+      "answer": "A",
+      "explanation": "'implicated in'은 공식 기소 없이도 연루되어 있음을 시사하는 언론식 표현으로 이 문맥에 정확히 맞습니다. accused는 공식적 기소를 의미해 너무 강하고, suspected는 'suspected of'로 써야 올바른 전치사 결합이 되므로 오답입니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "If she had visited the quarry last year, she ______ different stones for the piece.",
+      "dialogue": null,
+      "question": "가정법 시제가 올바른 것을 고르세요.",
+      "options": [
+        "A. would have chosen",
+        "B. would choose",
+        "C. will choose",
+        "D. chose"
+      ],
+      "answer": "A",
+      "explanation": "if절이 'had visited'로 과거완료이므로 과거 사실에 반하는 가정, 즉 3형식 가정법이 필요하여 주절도 'would have + p.p.' 형태가 맞습니다. 'would choose'는 현재/미래 상황을 가정하는 2형식 가정법이라 시제가 맞지 않습니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The residency involved collecting stones, documenting the landscape, and ______ local artisans.",
+      "dialogue": null,
+      "question": "병렬 구조상 가장 적절한 것을 고르세요.",
+      "options": [
+        "A. interviewing",
+        "B. to interview",
+        "C. interview",
+        "D. interviewed"
+      ],
+      "answer": "A",
+      "explanation": "나열된 세 항목(collecting, documenting, interviewing)이 모두 동명사 형태로 통일되어야 병렬 구조가 성립합니다. 'to interview'는 부정사형이라 앞의 두 동명사와 형태가 맞지 않아 어색합니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "I'm swamped",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Hey, want to grab lunch today?"
+        },
+        {
+          "speaker": "B",
+          "line": "I can't, sorry."
+        },
+        {
+          "speaker": "A",
+          "line": "Everything okay?"
+        },
+        {
+          "speaker": "B",
+          "line": "Yeah, just ______ with work this week."
+        }
+      ],
+      "question": "빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. swamped",
+        "B. over the moon",
+        "C. fed up",
+        "D. caught up"
+      ],
+      "answer": "A",
+      "explanation": "'I'm swamped (with work)'는 일에 파묻혀 정신없이 바쁘다는 뜻으로 점심을 거절하는 상황과 자연스럽게 맞습니다. 'over the moon'은 매우 기쁘다는 뜻, 'fed up'은 지겹고 짜증난다는 뜻, 'caught up'은 '정신이 팔려 있다'는 다른 의미라 이 상황에는 맞지 않습니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "I'm second-guessing myself",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Did you send the grant application yet?"
+        },
+        {
+          "speaker": "B",
+          "line": "Not yet, I keep changing my mind about it."
+        },
+        {
+          "speaker": "A",
+          "line": "Why? Did something go wrong?"
+        },
+        {
+          "speaker": "B",
+          "line": "No, I just ______ about the whole plan."
+        }
+      ],
+      "question": "빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. 'm second-guessing myself",
+        "B. 'm kicking myself",
+        "C. 'm talking myself up",
+        "D. 'm biting my tongue"
+      ],
+      "answer": "A",
+      "explanation": "'I'm second-guessing myself'는 자신의 판단을 계속 의심하게 된다는 뜻으로, 마음을 계속 바꾸는 상황과 정확히 맞습니다. 'kicking myself'는 이미 저지른 실수를 후회한다는 뜻, 'talking myself up'은 스스로를 과장해서 자신감을 북돋운다는 뜻, 'biting my tongue'은 하고 싶은 말을 참는다는 뜻이라 문맥에 맞지 않습니다."
+    }
+  ]
+}
