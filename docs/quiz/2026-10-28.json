@@ -1,0 +1,209 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T20:15:43.964041+00:00",
+  "personal_sources": [
+    "Self-portrait",
+    "Columbarium IV",
+    "Collection des contenants en plastique"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Self-portrait",
+      "expression_key": null,
+      "sentence": "I worked with particular attention to how, though made of the same material, a pebble placed within that small world could stand in for a massive boulder, paying close attention to the specific ______ stone takes on at that scale.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. translucency",
+        "B. transparency",
+        "C. opacity",
+        "D. texture"
+      ],
+      "answer": "A",
+      "explanation": "'translucency'는 빛이 완전히 투과하지도 완전히 차단되지도 않는, 돌 특유의 반투명한 질감을 가리키는 정확한 단어입니다. 'transparency'는 완전히 투명함을 뜻해 돌의 질감 묘사에는 맞지 않습니다. 작가노트에서 재료의 미묘한 물성을 설명할 때 'translucency'를 쓰면 더 정밀한 인상을 줍니다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Columbarium IV",
+      "expression_key": null,
+      "sentence": "I drew inspiration from a practice common in ______ traditions — most notably in ancient Egypt — of enclosing the deceased's body within a form or shell that represents their social identity.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. funerary",
+        "B. funeral",
+        "C. mortuary",
+        "D. burial"
+      ],
+      "answer": "A",
+      "explanation": "'funerary'는 '장례와 관련된'이라는 뜻의 형용사로 학술적·예술적 글쓰기에서 'funeral'보다 격식 있게 쓰입니다. 'funeral'은 명사이며 형용사로 쓰일 때는 'funeral rites'처럼 제한적으로만 어울립니다. 전시 서문처럼 격식 있는 글에서는 'funerary traditions'가 자연스럽습니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Self-portrait",
+      "expression_key": null,
+      "sentence": "I ______ a miniature-based practice — one I had originally begun inspired by suseok culture — as part of this residency.",
+      "dialogue": null,
+      "question": "완료된 레지던시 작업을 설명할 때 가장 적절한 동사 형태를 고르세요.",
+      "options": [
+        "A. deepened",
+        "B. have deepened",
+        "C. had deepened",
+        "D. was deepening"
+      ],
+      "answer": "A",
+      "explanation": "레지던시가 이미 끝난 특정 시점의 사건을 서술하므로 단순과거 'deepened'가 맞습니다. 'have deepened'는 현재까지 이어지는 느낌을 주어 완료된 프로젝트 설명에는 부적절합니다. 전시 텍스트에서는 종료된 프로젝트 서술에 단순과거를 일관되게 쓰는 것이 자연스럽습니다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Self-portrait",
+      "expression_key": null,
+      "sentence": "Le Terrain ... built over decades from stones ______ from the ground.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 분사 형태를 고르세요.",
+      "options": [
+        "A. dug up",
+        "B. digging up",
+        "C. that dug up",
+        "D. having dug"
+      ],
+      "answer": "A",
+      "explanation": "'stones'는 땅에서 파낸 대상이므로 수동의 의미를 가진 과거분사 'dug up'이 맞습니다. 'digging up'은 능동 현재분사로 돌이 스스로 파낸다는 의미가 되어 어색합니다. 작가노트에서 재료의 출처나 과정을 간결하게 묘사할 때 분사구문을 활용하면 문장이 더 간결해집니다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "This past summer it announced deep cuts to its artist roster and staff, dropping a total of 100 artists and staffers in its ______.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. retrenchment",
+        "B. retribution",
+        "C. restoration",
+        "D. retraction"
+      ],
+      "answer": "A",
+      "explanation": "'retrenchment'는 비용 절감을 위한 조직 축소를 뜻하며 기사 내용과 정확히 일치합니다. 'retribution'은 '응징, 보복'이라는 전혀 다른 의미입니다. 갤러리 축소 관련 뉴스를 읽을 때 자주 등장하는 경제·경영 어휘이니 익혀두면 좋습니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "...amid an intensifying ______ on independent media in the country.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. crackdown",
+        "B. breakdown",
+        "C. letdown",
+        "D. showdown"
+      ],
+      "answer": "A",
+      "explanation": "'crackdown'은 정부 등이 특정 대상을 강력히 단속하는 것을 의미해 언론 탄압 맥락에 맞습니다. 'breakdown'은 '고장, 붕괴'라는 뜻으로 전혀 다른 상황에 쓰입니다. 시사 기사에서 'crackdown on~'은 자주 쓰이는 표현이니 통째로 기억해두면 좋습니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Before the opening, the artist ______ the resin sculptures photographed by a professional for the catalogue.",
+      "dialogue": null,
+      "question": "사역의 의미를 나타내는 가장 적절한 표현을 고르세요.",
+      "options": [
+        "A. had",
+        "B. did",
+        "C. made",
+        "D. let"
+      ],
+      "answer": "A",
+      "explanation": "'have something done' 구조는 전문가에게 어떤 일을 맡겨 처리하게 했다는 사역의 의미를 나타내며, 여기서는 'had'가 정답입니다. 'made'는 'make someone do something' 형태로 사람에게 강제로 시킬 때 쓰이고 사물을 목적어로 쓸 수 없습니다. 작업 과정을 설명할 때 'had it photographed/fabricated' 같은 구문은 유용하게 쓰입니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Looking back, the curator thinks the wall text ______ so much explanation; viewers found it heavy-handed.",
+      "dialogue": null,
+      "question": "과거의 불필요했던 행동을 비판할 때 가장 적절한 표현을 고르세요.",
+      "options": [
+        "A. needn't have included",
+        "B. must have included",
+        "C. should have included",
+        "D. couldn't have included"
+      ],
+      "answer": "A",
+      "explanation": "'needn't have + p.p.'는 '할 필요가 없었는데 했다'는 의미로, 설명이 불필요했다는 비판에 정확히 맞습니다. 'should have included'는 오히려 '포함했어야 했는데 안 했다'는 반대 의미가 되어 문맥과 맞지 않습니다. 전시 텍스트의 과잉 설명을 자기비평할 때 이 구문을 정확히 구분해 쓰는 것이 중요합니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "I'm running late",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Where are you? We were supposed to meet ten minutes ago."
+        },
+        {
+          "speaker": "B",
+          "line": "Sorry, ______ — the bus just got stuck in traffic."
+        }
+      ],
+      "question": "빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. I'm running late",
+        "B. I'm cutting it close",
+        "C. I'm behind schedule",
+        "D. I'm falling behind"
+      ],
+      "answer": "A",
+      "explanation": "'I'm running late'는 약속 시간에 늦고 있음을 알릴 때 가장 일상적으로 쓰는 표현입니다. 'I'm cutting it close'는 '아슬아슬하게 시간이 맞다'는 뜻으로 아직 늦지 않은 상황에 쓰이고, 'I'm behind schedule'은 업무·프로젝트 일정이 밀렸을 때, 'I'm falling behind'는 전반적으로 뒤처지고 있다는 더 넓은 의미로 쓰입니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "it's a hassle",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Why don't you ever separate the recycling properly?"
+        },
+        {
+          "speaker": "B",
+          "line": "Honestly, ______ — I never know which bin is which."
+        }
+      ],
+      "question": "빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. it's a hassle",
+        "B. it's a piece of cake",
+        "C. it's a breeze",
+        "D. it's a snap"
+      ],
+      "answer": "A",
+      "explanation": "'it's a hassle'는 번거롭고 귀찮다는 뜻으로, 재활용 분리수거가 헷갈려 귀찮다는 상황에 정확히 맞습니다. 나머지 세 표현 'a piece of cake', 'a breeze', 'a snap'은 모두 '아주 쉽다'는 정반대의 뜻을 가진 구어체 표현입니다."
+    }
+  ]
+}
