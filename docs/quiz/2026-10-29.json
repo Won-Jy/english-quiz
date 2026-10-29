@@ -1,0 +1,209 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T20:17:08.383942+00:00",
+  "personal_sources": [
+    "About Warding",
+    "Fantôme 3008",
+    "Columbarium IV"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "About Warding",
+      "expression_key": null,
+      "sentence": "I examined Kalmar's prison... alongside the Hôtel-Dieu in Paris, another site where care and ______ have historically overlapped.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. confinement",
+        "B. containment",
+        "C. detainment",
+        "D. imprisonment"
+      ],
+      "answer": "A",
+      "explanation": "'confinement'은 '보살핌(care)'과 짝을 이루어 제도적 공간의 이중적 성격(돌봄과 통제)을 표현하는 데 가장 자연스러운 추상명사입니다. 'containment'은 주로 물질이나 확산을 막는 맥락에 쓰이고, 'detainment'은 거의 쓰이지 않는 어색한 형태이며, 'imprisonment'은 의미가 너무 좁아 병원의 맥락과 어울리지 않습니다. 작가노트에서 기관의 양가성을 설명할 때 'care and confinement'처럼 짝을 이루는 추상명사 구조를 기억해두면 유용합니다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Fantôme 3008",
+      "expression_key": null,
+      "sentence": "This virtual space ______ objects and traces symbolizing the various functions the site fulfilled over the centuries.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. intertwines",
+        "B. interweaves",
+        "C. interlaces",
+        "D. intersects"
+      ],
+      "answer": "A",
+      "explanation": "원문은 'intertwines'를 사용해 서로 다른 시대의 기능들이 뒤얽혀 공존함을 표현합니다. 'interweaves'도 비슷한 뜻이지만 주로 실이나 이야기 가닥을 짜는 더 문학적인 맥락에 쓰이고, 'interlaces'는 패턴이나 구조물에 쓰이며, 'intersects'는 '교차하다'로 뒤섞임보다는 단순 교차를 의미해 뜻이 다릅니다. 여러 요소가 유기적으로 얽혀 있음을 설명할 때 'intertwine'을 적극 활용해보세요."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "About Warding",
+      "expression_key": null,
+      "sentence": "______ this line between 'us' and 'them,' I turned to the region's granite: boulders once cleared from farmland by hand, piled into dry-stone walls, and later reproduced as garden ornaments.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 형태를 고르세요.",
+      "options": [
+        "A. Tracing",
+        "B. Traced",
+        "C. To trace",
+        "D. Having trace"
+      ],
+      "answer": "A",
+      "explanation": "현재분사 'Tracing'은 본동사 'turned'와 동시에 일어나는 행위/방법을 나타내는 분사구문으로, 두 문장을 자연스럽게 하나로 압축합니다. 'Traced'는 과거분사로 수동의 의미가 되어 '선이 추적되는 것'처럼 어색하고, 'To trace'는 목적을 나타내 의미가 달라지며, 'Having trace'는애초에 문법적으로 틀린 형태입니다(완료분사는 'Having traced'). 작가 노트에서 조사 과정과 결과를 한 문장에 담고 싶을 때 이런 분사구문을 적극 활용하면 글이 간결해집니다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "About Warding",
+      "expression_key": null,
+      "sentence": "______ my established vocabulary in concrete rubble and Pukeberg's glassblowing tradition, I translated these findings into sculptures combining stone, cast and blown glass, clay, silicone, and plaster.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 전치사 표현을 고르세요.",
+      "options": [
+        "A. Working between",
+        "B. Working among",
+        "C. Working amid",
+        "D. Working amidst"
+      ],
+      "answer": "A",
+      "explanation": "두 개의 특정한 대상(콘크리트 어휘와 글래스블로잉 전통)을 연결할 때는 'between'이 정확합니다. 'among', 'amid', 'amidst'는 보통 셋 이상의 요소나 둘러싸인 상황을 묘사할 때 쓰이므로 이 문맥에서는 부자연스럽습니다. 두 가지 실천/매체 사이를 오가는 작업 방식을 설명할 때는 'between A and B' 구조를 기본으로 기억해두면 좋습니다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Attalah was taken briefly into custody amid an ______ crackdown on independent media in the country.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. intensifying",
+        "B. intensified",
+        "C. intensive",
+        "D. intense"
+      ],
+      "answer": "A",
+      "explanation": "'intensifying'은 현재진행형 분사로 '점점 심해지고 있는' 과정을 나타내어 기사 특유의 긴박감을 전달합니다. 'intensified'는 이미 완료된 상태를 뜻해 뉘앙스가 다르고, 'intensive'는 '집중적인'이라는 뜻으로 crackdown과 자연스럽게 어울리지 않으며, 'intense'는 단순히 강도를 묘사할 뿐 진행 중인 과정을 드러내지 못합니다. 시사 영어에서 '점점 심화되는 상황'을 표현할 때 '-ing' 분사형 형용사를 적극 활용해보세요."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "More than 100 writers have signed an open letter ______ to boycott Indigo Books and Music, Canada's largest bookstore.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 자연스러운 단어를 고르세요.",
+      "options": [
+        "A. vowing",
+        "B. promising",
+        "C. pledging",
+        "D. swearing"
+      ],
+      "answer": "A",
+      "explanation": "'vowing'은 공개서한이라는 공식적이고 결연한 맥락에서 '굳게 맹세하다'는 어조를 가장 잘 전달하며 실제 기사에서도 쓰인 표현입니다. 'pledging'도 비슷하게 formal하지만 보통 기부나 지지 선언에 더 자주 쓰이고, 'promising'은 다소 가볍게 들리며, 'swearing'은 구어적이고 과장된 느낌을 줍니다. 저널리즘에서 집단적 결의를 표현할 때 'vow'의 강한 어조를 기억해두면 좋습니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "If the museum ______ more funding last year, the residency would have lasted twice as long.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 형태를 고르세요.",
+      "options": [
+        "A. had received",
+        "B. received",
+        "C. would receive",
+        "D. receives"
+      ],
+      "answer": "A",
+      "explanation": "이 문장은 과거의 사실과 반대되는 가정(지난해 자금을 못 받았다는 사실)을 다루므로 3형식 가정법(if + had p.p., would have p.p.)이 맞습니다. 'received'는 2형식 가정법에 쓰여 현재/미래의 가정을 나타내므로 'last year'와 시제가 맞지 않습니다. 과거에 이미 끝난 상황을 되짚어 '그때 그랬다면'을 말할 때는 항상 'had + p.p.' 구조를 기억하세요."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The artist's installation, ______ was made entirely from recycled glass, won the biennale's top prize.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 관계대명사를 고르세요.",
+      "options": [
+        "A. which",
+        "B. that",
+        "C. who",
+        "D. it"
+      ],
+      "answer": "A",
+      "explanation": "쉼표로 분리된 비한정적(non-defining) 관계절에서는 추가 정보를 덧붙이는 역할을 하는 'which'를 써야 하며, 'that'은 비한정적 관계절에서 사용할 수 없습니다. 'who'는 사람을 가리킬 때 쓰이므로 사물인 installation에는 맞지 않고, 'it'은 관계대명사가 아니라 독립된 문장을 만들어버려 구조가 깨집니다. 전시 설명문에서 작품에 대한 부가 설명을 덧붙일 때 쉼표+'which' 구조를 정확히 구분해 쓰는 것이 중요합니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "you're telling me",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "I can't believe how expensive groceries have gotten lately."
+        },
+        {
+          "speaker": "B",
+          "line": "______! My grocery bill doubled this month."
+        }
+      ],
+      "question": "빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. You're telling me",
+        "B. You don't say",
+        "C. If you say so",
+        "D. Says who"
+      ],
+      "answer": "A",
+      "explanation": "'You're telling me'는 상대방의 말에 '내 말이 그 말이야'라며 강하게 공감할 때 쓰는 표현으로, 이어지는 문장(장바구니 비용이 두 배가 됐다)과 잘 어울립니다. 'You don't say'는 비꼬는 투로 '그래? 몰랐네' 식의 마지못한 놀람을 표현하고, 'If you say so'는 믿지 못하지만 수긍하는 척하는 표현이며, 'Says who'는 '누가 그래?'라며 상대 주장에 반박할 때 쓰는 표현입니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "let's split up and meet later",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "This mall has way too many shops for us to visit together."
+        },
+        {
+          "speaker": "B",
+          "line": "True, how about we ______ at the food court at noon?"
+        }
+      ],
+      "question": "빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. split up and meet",
+        "B. stick together and decide",
+        "C. take turns shopping",
+        "D. wait here and chat"
+      ],
+      "answer": "A",
+      "explanation": "'split up and meet'은 각자 따로 다니다가 특정 장소에서 다시 만나자는 제안으로, 쇼핑몰이 너무 넓다는 앞 대화 맥락과 정확히 맞습니다. 'stick together and decide'는 오히려 함께 다니자는 반대 제안이고, 'take turns shopping'은 번갈아가며 쇼핑하자는 뜻으로 상황과 다르며, 'wait here and chat'은 아예 이동하지 않고 한 자리에 머물자는 의미라 맥락에 맞지 않습니다."
+    }
+  ]
+}
