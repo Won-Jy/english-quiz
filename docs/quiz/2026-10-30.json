@@ -1,0 +1,225 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T19:56:08.108404+00:00",
+  "personal_sources": [
+    "Untitled",
+    "Hostis",
+    "Columbarium II"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Untitled",
+      "expression_key": null,
+      "sentence": "This work was ______ as part of the exhibition Corpus, held in 2019 at the Maison Consulaire in Mende.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. conceived",
+        "B. perceived",
+        "C. received",
+        "D. deceived"
+      ],
+      "answer": "A",
+      "explanation": "'conceived'는 '구상되다, 기획되다'라는 뜻으로 작품이나 전시가 어떻게 기획되었는지 설명할 때 자주 쓰입니다. 'perceived'는 '인식되다'라는 의미라 작품 기획 과정을 설명하는 문맥에 맞지 않습니다. 작가노트에서 프로젝트의 발상 단계를 설명할 때 'conceived as part of~' 구문을 적극적으로 활용해보세요."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Untitled",
+      "expression_key": null,
+      "sentence": "The photograph and the stones supporting their own illusion ______ at a distinctly sculptural position.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. arrive",
+        "B. arise",
+        "C. derive",
+        "D. aspire"
+      ],
+      "answer": "A",
+      "explanation": "'arrive at a position'은 '어떤 상태나 결론에 도달하다'라는 뜻의 고정 표현입니다. 'arise'는 '발생하다'라는 뜻이라 뒤에 'at'을 취하지 않으며 문맥상 어색합니다. 작품이 최종적으로 어떤 조형적 상태에 이르렀는지 서술할 때 'arrive at a position/state'를 활용하면 좋습니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Untitled",
+      "expression_key": null,
+      "sentence": "It is a sculptural piece combining bauxite stones collected during a trip to Villeveyrac ______ photographs of these same stones.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 전치사를 고르세요.",
+      "options": [
+        "A. with",
+        "B. to",
+        "C. and",
+        "D. into"
+      ],
+      "answer": "A",
+      "explanation": "'combine A with B'는 'A와 B를 결합하다'라는 뜻의 정형화된 전치사 구문입니다. 'and'를 쓰면 문법적으로는 가능하나 'combining'이라는 분사와 자연스럽게 호응하지 않아 어색합니다. 두 요소의 결합을 설명할 때는 항상 'combine A with B' 형태를 기억해두세요."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Untitled",
+      "expression_key": null,
+      "sentence": "This work ______ conceived as part of the exhibition Corpus, held in 2019 at the Maison Consulaire in Mende.",
+      "dialogue": null,
+      "question": "이미 완료된 2019년 프로젝트를 설명할 때 가장 적절한 시제를 고르세요.",
+      "options": [
+        "A. was",
+        "B. has been",
+        "C. is",
+        "D. had been"
+      ],
+      "answer": "A",
+      "explanation": "2019년이라는 명확한 과거 시점이 명시되어 있으므로 단순과거 'was'가 적절합니다. 'has been'은 현재와 연결된 완료나 지속을 나타내므로 특정 과거 시점과 함께 쓰이면 어색합니다. 과거 전시나 완료된 프로젝트를 설명할 때는 날짜와 함께 단순과거를 쓰는 것이 작가노트의 기본 원칙입니다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "A wayfaring cosmopolitan who never gets stuck, the ______ is the right anti-hero for our hyper-specialised age.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. dilettante",
+        "B. virtuoso",
+        "C. novice",
+        "D. connoisseur"
+      ],
+      "answer": "A",
+      "explanation": "'dilettante'는 한 분야에 정착하지 않고 여러 분야를 옅게 다루는 사람을 뜻하며, 기사의 '절대 한곳에 머물지 않는 세계인'이라는 묘사와 정확히 일치합니다. 'virtuoso'는 특정 분야의 '거장'을 뜻해 전문화와는 반대되는 이 글의 논지와 맞지 않습니다. 이 단어는 특정 분야에 깊이 몰입하지 않는 태도를 비판적 또는 중립적으로 표현할 때 유용합니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "As the price of gold has ______, so too has activity in the abandoned mine shafts that mark the area.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. soared",
+        "B. plummeted",
+        "C. stagnated",
+        "D. dwindled"
+      ],
+      "answer": "A",
+      "explanation": "'soar'는 '급등하다'라는 뜻으로 금값 상승과 불법 채굴 활동 증가가 비례 관계임을 보여줍니다. 'plummeted'는 '급락하다'로 정반대의 의미라 문맥과 모순됩니다. 수치나 활동의 급격한 증가를 표현할 때 'soar'는 'increase'보다 훨씬 생동감 있는 선택입니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Her work often engages with ______ memory and loss, drawing on personal archives.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 관사를 고르세요.",
+      "options": [
+        "A. (no article)",
+        "B. the",
+        "C. a",
+        "D. some"
+      ],
+      "answer": "A",
+      "explanation": "'memory and loss'는 특정하지 않은 추상적·불가산 개념을 일반적으로 지칭하므로 무관사가 자연스럽습니다. 'the'를 쓰면 앞서 언급된 특정한 기억과 상실을 가리키는 것이 되어 일반론을 다루는 이 문장과 맞지 않습니다. 작가노트에서 추상적 주제를 일반적으로 논할 때는 관사를 생략하는 것이 더 학술적이고 자연스럽습니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The installation consists ______ found materials and organic matter gathered on-site.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 전치사를 고르세요.",
+      "options": [
+        "A. of",
+        "B. in",
+        "C. from",
+        "D. with"
+      ],
+      "answer": "A",
+      "explanation": "'consist of'는 '~로 구성되다'라는 뜻의 고정 전치사 구문입니다. 'consist in'은 '본질이 ~에 있다'는 다른 의미이므로 재료 나열에는 맞지 않습니다. 설치 작품의 구성 요소를 나열할 때는 항상 'consist of'를 사용하세요."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "I'll hold off for now",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Are you going to buy the new phone today?"
+        },
+        {
+          "speaker": "B",
+          "line": "It's really expensive right now."
+        },
+        {
+          "speaker": "A",
+          "line": "There might be a sale next month."
+        },
+        {
+          "speaker": "B",
+          "line": "Good point. I'll ______ for now."
+        }
+      ],
+      "question": "빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. hold off",
+        "B. give in",
+        "C. follow up",
+        "D. move on"
+      ],
+      "answer": "A",
+      "explanation": "'hold off'는 '(결정이나 행동을) 잠시 미루다, 보류하다'라는 뜻으로 세일을 기다리며 구매를 미루는 상황에 정확히 맞습니다. 'give in'은 '굴복하다, 포기하고 받아들이다'라는 뜻이라 문맥에 맞지 않습니다. 'follow up'은 '후속 조치를 취하다', 'move on'은 '다음으로 넘어가다'라는 뜻으로 모두 결정 보류와는 다른 의미입니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "I'm fed up with it",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Is your neighbor still playing loud music every night?"
+        },
+        {
+          "speaker": "B",
+          "line": "Yes, literally every single night."
+        },
+        {
+          "speaker": "A",
+          "line": "That sounds exhausting to deal with."
+        },
+        {
+          "speaker": "B",
+          "line": "I know, I'm ______ with it."
+        }
+      ],
+      "question": "빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. fed up",
+        "B. caught up",
+        "C. cut out",
+        "D. worn out"
+      ],
+      "answer": "A",
+      "explanation": "'fed up with'는 '~에 지긋지긋하다, 질리다'라는 뜻으로 반복되는 짜증나는 상황을 표현할 때 쓰는 전형적 구문입니다. 'worn out'은 '지쳐 있다'는 뜻으로 비슷해 보이지만 'with it'과 결합해 짜증을 표현하는 관용구는 아닙니다. 'caught up with'는 '~에 휘말리다/따라잡다', 'cut out for'는 '~에 적합하다'는 전혀 다른 뜻입니다."
+    }
+  ]
+}
