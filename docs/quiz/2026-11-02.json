@@ -1,0 +1,225 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T23:07:19.059548+00:00",
+  "personal_sources": [
+    "Roulé-Lavé",
+    "Residency at Maison Daura I",
+    "Esquisse sur la colombophobie"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Roulé-Lavé",
+      "expression_key": null,
+      "sentence": "Won Jy's works are often ______ with subtle humor, allowing complex issues to be expressed through light and poetic forms.",
+      "dialogue": null,
+      "question": "빈칸에 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. tinged",
+        "B. stained",
+        "C. colored",
+        "D. dyed"
+      ],
+      "answer": "A",
+      "explanation": "'tinged with'는 '~한 기운이 살짝 섞인'이라는 뜻으로, 전시 서문에서 유머가 은은하게 스며있음을 표현할 때 자주 쓰이는 고급 표현입니다. 'stained'나 'dyed'는 물리적 염색/얼룩을 뜻해 추상적 뉘앙스에 어울리지 않고, 'colored'는 너무 평범해 예술적 문체에는 약합니다. 작가노트에서 감정이나 톤을 묘사할 때 'tinged with [emotion/humor]' 구조를 적극 활용해보세요."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Residency at Maison Daura I",
+      "expression_key": null,
+      "sentence": "The village, perched halfway up a gorge, was often ______ in the damp autumn clouds that give the area its distinctive landscape.",
+      "dialogue": null,
+      "question": "빈칸에 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. shrouded",
+        "B. covered",
+        "C. wrapped",
+        "D. blanketed"
+      ],
+      "answer": "A",
+      "explanation": "'shrouded in'은 안개나 구름에 '신비롭게 감싸인' 느낌을 주는 문학적 표현으로, 레지던시 글의 몽환적 분위기와 잘 어울립니다. 'covered'나 'wrapped'는 단순히 물리적으로 덮인 상태를 뜻해 분위기 묘사에는 약하고, 'blanketed'는 눈이나 안개에 쓰이지만 'shrouded'만큼 신비감을 주지 못합니다. 풍경 묘사 시 'shrouded in mist/fog/clouds'를 기억해두면 좋습니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Residency at Maison Daura I",
+      "expression_key": null,
+      "sentence": "I ______ stones, washed them, and sorted them by size, using each size differently depending on its purpose in the work.",
+      "dialogue": null,
+      "question": "병렬구조상 가장 적절한 동사 형태를 고르세요.",
+      "options": [
+        "A. collected",
+        "B. collecting",
+        "C. have collected",
+        "D. to collect"
+      ],
+      "answer": "A",
+      "explanation": "세 동사 'collected, washed, sorted'가 과거형으로 병렬을 이루어야 하므로 'collected'가 정답입니다. 'collecting'이나 'to collect'는 동사 형태가 달라져 병렬구조가 깨지고, 'have collected'는 시제가 어긋납니다. 작업 과정을 나열할 때는 동사 형태를 통일하는 것이 글의 리듬과 명료성에 중요합니다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Roulé-Lavé",
+      "expression_key": null,
+      "sentence": "He explores the metaphor of colombophobia to address how architecture can include or exclude, often ______ on collective decisions.",
+      "dialogue": null,
+      "question": "빈칸에 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. depending",
+        "B. dependent",
+        "C. depends",
+        "D. relying"
+      ],
+      "answer": "A",
+      "explanation": "'depending on'은 분사구문으로 앞 문장 전체를 자연스럽게 부가 설명하는 관용 표현입니다. 'dependent'는 형용사라서 'being dependent on'처럼 따로 동사가 필요하고, 'depends'는 본동사 자리에만 쓰입니다. 'relying'도 문법적으로는 가능하지만 원문의 의미(결정에 좌우됨)에는 'depending on'이 더 정확하고 자연스럽습니다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Fuchs was an early ______ of placing works of different periods and styles in conversation with one another.",
+      "dialogue": null,
+      "question": "빈칸에 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. proponent",
+        "B. opponent",
+        "C. component",
+        "D. exponent"
+      ],
+      "answer": "A",
+      "explanation": "'proponent'는 어떤 생각이나 방식을 '지지하고 옹호하는 사람'을 뜻하며, 이 문맥에서 Fuchs가 새로운 전시 방식을 옹호했다는 의미에 정확히 맞습니다. 'exponent'도 비슷해 보이지만 보통 어떤 기술이나 스타일을 '대표/실천하는 사람'을 뜻해 뉘앙스가 조금 다릅니다. 'opponent'는 반대 의미라 전혀 맞지 않습니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "But as the price of gold has ______, so too has activity in the abandoned mine shafts that mark the area.",
+      "dialogue": null,
+      "question": "빈칸에 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. soared",
+        "B. risen",
+        "C. boomed",
+        "D. surged"
+      ],
+      "answer": "A",
+      "explanation": "원문에서 사용된 'soared'는 '급격하고 극적으로 치솟다'라는 뜻으로, 금값 폭등이라는 강렬한 이미지를 전달합니다. 'risen'은 단순한 상승이라 어감이 약하고, 'boomed'는 주로 산업이나 경기에 쓰이며, 'surged'도 의미는 비슷하지만 기사 원문의 생생한 표현은 'soared'입니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "______ six weeks in residence at Maison Daura, the artist began collecting stones along the Lot river.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 분사구문으로 가장 적절한 것을 고르세요.",
+      "options": [
+        "A. Having spent",
+        "B. Spending",
+        "C. Spent",
+        "D. To spend"
+      ],
+      "answer": "A",
+      "explanation": "'Having spent'는 주절보다 먼저 완료된 행동을 나타내는 완료분사구문으로, '6주를 보낸 후에'라는 시간 순서를 정확히 표현합니다. 'Spending'은 동시 진행을 뜻해 의미가 어긋나고, 'Spent'는 수동의 의미(보내진)라 주어와 맞지 않으며, 'To spend'는 목적을 나타내 문맥과 맞지 않습니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Her installation reflects on ______ hospitality shown—or denied—to strangers in a city.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 관사로 가장 적절한 것을 고르세요.",
+      "options": [
+        "A. (관사 없음)",
+        "B. the",
+        "C. a",
+        "D. an"
+      ],
+      "answer": "A",
+      "explanation": "'hospitality'는 추상적이고 셀 수 없는 개념을 일반적으로 가리킬 때 관사 없이 쓰는 것이 자연스럽습니다. 'the'를 쓰면 특정한 환대를 가리키는 것처럼 들려 문맥과 어긋나고, 'a/an'은 셀 수 없는 명사 앞에 쓸 수 없습니다. 작가노트에서 identity, memory, hospitality 같은 추상명사는 일반론을 말할 때 무관사로 쓰는 습관을 들이면 좋습니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "I'm stuck in traffic",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Hey, are you close? We're all waiting outside."
+        },
+        {
+          "speaker": "B",
+          "line": "I'm so sorry, I'm running late."
+        },
+        {
+          "speaker": "A",
+          "line": "Did something happen?"
+        },
+        {
+          "speaker": "B",
+          "line": "Yeah, I ______. It's not moving at all."
+        }
+      ],
+      "question": "빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. 'm stuck in traffic",
+        "B. 'm stuck in a rut",
+        "C. 'm stuck between a rock and a hard place",
+        "D. 'm stuck with it"
+      ],
+      "answer": "A",
+      "explanation": "'stuck in traffic'은 '차가 막혀서 꼼짝 못한다'는 뜻으로 지각 상황에 정확히 맞습니다. 'stuck in a rut'는 '(삶이나 일이) 지루하게 반복되는 상태'를, 'stuck between a rock and a hard place'는 '진퇴양난의 상황'을, 'stuck with it'은 '원치 않아도 떠맡아야 하는 상황'을 뜻해 모두 이 상황과는 맞지 않습니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "that's a first",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "I cleaned my whole room without anyone asking."
+        },
+        {
+          "speaker": "B",
+          "line": "Wait, really? You, cleaning on your own?"
+        },
+        {
+          "speaker": "A",
+          "line": "I know. Even I'm surprised."
+        },
+        {
+          "speaker": "B",
+          "line": "Wow, ______!"
+        }
+      ],
+      "question": "빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. that's a first",
+        "B. that's the limit",
+        "C. that's a close call",
+        "D. that's rich"
+      ],
+      "answer": "A",
+      "explanation": "'that's a first'는 '그런 건 처음 본다'는 뜻으로, 평소와 다른 놀라운 행동에 대한 반응으로 딱 맞습니다. 'that's the limit'은 '더는 못 참겠다'는 짜증 표현, 'that's a close call'은 '아슬아슬하게 위기를 피했다'는 뜻, 'that's rich'는 '말과 행동이 모순되어 어이없다'는 비꼬는 표현이라 이 상황에는 맞지 않습니다."
+    }
+  ]
+}
