@@ -1,0 +1,225 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T20:59:05.684239+00:00",
+  "personal_sources": [
+    "Déambulatoire",
+    "Premières pierres",
+    "Self-portrait"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Déambulatoire",
+      "expression_key": null,
+      "sentence": "I carried out daily walks around the living space, collecting objects ______ throughout the landscape along the banks of the Hérault River.",
+      "dialogue": null,
+      "question": "다음 문장에서 빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. scattered",
+        "B. dispersed",
+        "C. sprawled",
+        "D. littered"
+      ],
+      "answer": "A",
+      "explanation": "'scattered throughout'은 자연스러운 연어이며 원문에서 실제로 쓰인 표현입니다. 'littered'는 보통 전치사 with와 함께 쓰이고('littered with'), 'sprawled'는 사물보다 넓게 퍼진 지형이나 도시 등에 주로 쓰여 어색합니다. 작가 노트: 물건이 공간에 흩어져 있는 상태를 묘사할 때 'scattered throughout/across'를 쓰면 전시 서문에서 자연스럽습니다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Déambulatoire",
+      "expression_key": null,
+      "sentence": "These “remains,” ______ in the eyes of the locals, were highlighted and made visible by being placed on geometric pedestals I built myself.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. mundane",
+        "B. banal",
+        "C. trivial",
+        "D. ordinary"
+      ],
+      "answer": "A",
+      "explanation": "'mundane'은 '일상적인, 평범한'이라는 중립적 뉘앙스로 원문의 의도(주민들에게는 평범해 보이는 사물)를 정확히 전달합니다. 'trivial'은 '하찮은'이라는 부정적 가치판단이 강하고, 'banal'은 '진부한, 식상한'이라는 비평적 뉘앙스가 더해져 작품의 의도와 어긋납니다. 작가 노트: 평범한 재료의 가치를 재조명하는 맥락에서는 'mundane'이 가장 적절합니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Déambulatoire",
+      "expression_key": null,
+      "sentence": "During this short seven-day residency, I carried out daily walks around the living space, ______ objects scattered throughout the landscape along the banks of the Hérault River.",
+      "dialogue": null,
+      "question": "문맥상 가장 자연스러운 분사구문을 고르세요.",
+      "options": [
+        "A. collecting",
+        "B. collected",
+        "C. and collect",
+        "D. to collect"
+      ],
+      "answer": "A",
+      "explanation": "주절의 동작과 동시에 일어나는 부가적 행동을 나타낼 때는 현재분사(collecting)를 사용합니다. 'and collect'는 시제가 어긋나고(carried는 과거, collect는 현재형), 'to collect'는 목적을 나타내어 의미가 달라집니다. 작가 노트: 작업 과정을 묘사할 때 분사구문을 쓰면 동시성과 리듬감을 살릴 수 있어 전시 서문에 유용합니다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Premières pierres",
+      "expression_key": null,
+      "sentence": "Since 2018, I ______ on Premières pierres, a series of 'fake stones' made by printing images of rock onto fragments of concrete gathered in the city.",
+      "dialogue": null,
+      "question": "2018년부터 현재까지 계속되는 작업을 설명할 때 가장 알맞은 시제를 고르세요.",
+      "options": [
+        "A. have been working",
+        "B. worked",
+        "C. am working",
+        "D. had worked"
+      ],
+      "answer": "A",
+      "explanation": "'since + 과거 시점'과 함께 현재까지 계속되는 일을 말할 때는 현재완료진행형(have been working)이 적절합니다. 단순과거(worked)는 작업이 이미 끝났다는 의미가 되어 현재까지 이어지는 연작을 설명하는 원문 의도와 맞지 않습니다. 작가 노트: 지속 중인 프로젝트를 소개할 때 'Since [year], I have been working on...' 구문은 작가 노트의 표준 표현입니다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The Art Newspaper reports that the Italian parliament is ______ a new law that would create a formal process for returning art and cultural artifacts that were stolen by Nazis and Italian authorities under Benito Mussolini during World War II.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. weighing",
+        "B. weighting",
+        "C. raising",
+        "D. lifting"
+      ],
+      "answer": "A",
+      "explanation": "'weighing a law'는 '법안을 신중히 검토하고 있다'는 뜻으로 기사 맥락과 일치합니다. 'weighting'은 통계적 가중치를 부여한다는 다른 의미이고, 'lifting'은 전혀 다른 뜻(들어올리다/해제하다)이며, 'raising a law'는 영어에서 일반적으로 쓰이지 않는 표현입니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "But as the price of gold has ______, so too has activity in the abandoned mine shafts that mark the area.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. soared",
+        "B. hovered",
+        "C. plummeted",
+        "D. stagnated"
+      ],
+      "answer": "A",
+      "explanation": "금 가격이 '급등했다'는 'soared'가 뒤이어 불법 채굴 활동도 함께 증가했다는 문맥과 자연스럽게 이어집니다. 'plummeted'(급락)와 'stagnated'(정체)는 의미가 반대이거나 무관하며, 'hovered'는 변동 없이 머물렀다는 뜻이라 맞지 않습니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Julien said, \"I will send you the residency photos next week.\" → Julien said that he ______ the residency photos the following week.",
+      "dialogue": null,
+      "question": "직접화법을 간접화법으로 바꿀 때 빈칸에 들어갈 가장 알맞은 표현을 고르세요.",
+      "options": [
+        "A. would send",
+        "B. will send",
+        "C. sends",
+        "D. had sent"
+      ],
+      "answer": "A",
+      "explanation": "주절의 동사가 과거형(said)이므로 시제 일치(backshift)에 따라 will은 would로 바뀝니다. 'will send'는 시제 일치를 지키지 않은 오류이고, 'had sent'는 과거완료로 의미가 달라져 적절하지 않습니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "You installed the pedestals before checking whether the floor was level. You ______ checked it first.",
+      "dialogue": null,
+      "question": "과거 행동에 대한 비판을 나타내는 가장 알맞은 표현을 고르세요.",
+      "options": [
+        "A. should have",
+        "B. must have",
+        "C. needn't have",
+        "D. could have"
+      ],
+      "answer": "A",
+      "explanation": "과거에 하지 않은 일에 대한 후회나 비판은 'should have + p.p.'로 표현합니다. 'must have'는 과거 사실에 대한 강한 추측(확신)을 나타내고, 'needn't have'는 실제로 했지만 불필요했던 행동을 가리켜 문맥과 다릅니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "that figures",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "The café ran out of oat milk again."
+        },
+        {
+          "speaker": "B",
+          "line": "Really? That's the third time this week."
+        },
+        {
+          "speaker": "A",
+          "line": "Yeah, and the barista barely apologized."
+        },
+        {
+          "speaker": "B",
+          "line": "That ______."
+        }
+      ],
+      "question": "마지막 대사의 빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. figures",
+        "B. tracks",
+        "C. makes sense",
+        "D. checks out"
+      ],
+      "answer": "A",
+      "explanation": "'that figures'는 '그럴 줄 알았어'라는 뜻으로 반복되는 패턴에 놀랍지 않다는 느낌을 전달해 이 상황에 꼭 맞습니다. 'that tracks'는 비슷하지만 더 캐주얼한 신조어이고, 'that makes sense'는 단순히 논리적으로 이해된다는 뜻, 'that checks out'은 확인해보니 사실과 일치한다는 뜻이라 뉘앙스가 다릅니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "I'm behind on everything",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Hey, have you packed for the trip yet?"
+        },
+        {
+          "speaker": "B",
+          "line": "Not yet, I haven't even started laundry."
+        },
+        {
+          "speaker": "A",
+          "line": "What's going on with you lately?"
+        },
+        {
+          "speaker": "B",
+          "line": "I'm ______ right now."
+        }
+      ],
+      "question": "마지막 대사의 빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. behind on everything",
+        "B. caught up on everything",
+        "C. ahead of schedule",
+        "D. swamped with work"
+      ],
+      "answer": "A",
+      "explanation": "'I'm behind on everything'은 '모든 게 밀려 있다'는 뜻으로 여러 가지 할 일이 한꺼번에 밀려있는 상황을 표현합니다. 'caught up on everything'과 'ahead of schedule'은 반대 의미이고, 'swamped with work'는 업무량이 과하다는 점은 비슷하지만 '밀려 있다'는 느낌보다 '일에 치여있다'는 뉘앙스에 가깝습니다."
+    }
+  ]
+}
