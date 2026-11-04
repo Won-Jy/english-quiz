@@ -1,0 +1,213 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T21:17:38.747178+00:00",
+  "personal_sources": [
+    "Homeless Drawings",
+    "Grotto",
+    "Roulé-Lavé"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Homeless Drawings",
+      "expression_key": null,
+      "sentence": "But I found myself ______ by a gap between the context of what I was drawing and the space in which I was drawing it.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. hindered",
+        "B. inspired",
+        "C. motivated",
+        "D. encouraged"
+      ],
+      "answer": "A",
+      "explanation": "원문에서는 작업 중 느낀 '방해받음, 가로막힘'의 감정을 표현하기 위해 'hindered by'를 사용했습니다. 'inspired/motivated/encouraged'는 모두 긍정적 의미라 문맥(간극 때문에 어려움을 느낌)과 맞지 않습니다. 작가노트에서 어떤 제약이나 한계를 설명할 때 'hindered by a gap/distance' 같은 표현을 활용하면 좋습니다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Roulé-Lavé",
+      "expression_key": null,
+      "sentence": "Won Jy's works are often ______ with subtle humor, allowing complex issues to be expressed through light and poetic forms.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. tinged",
+        "B. soaked",
+        "C. drenched",
+        "D. coated"
+      ],
+      "answer": "A",
+      "explanation": "'tinged with'는 '은은하게 ~한 기운이 섞인'이라는 뉘앙스로, 유머가 과하지 않고 가볍게 배어있음을 표현할 때 적합합니다. 'soaked/drenched'는 '흠뻑 젖은'이라는 과도한 이미지라 'subtle humor'와 어울리지 않고, 'coated'는 표면을 덮는다는 물리적 의미가 강합니다. 작품 설명에서 미묘한 정서나 톤을 묘사할 때 'tinged with irony/humor/melancholy' 같은 표현이 유용합니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Homeless Drawings",
+      "expression_key": null,
+      "sentence": "I packed a bag with pencils, paper, and a plastic box ______ my drawings, and left home.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 형태를 고르세요.",
+      "options": [
+        "A. to hold",
+        "B. holding",
+        "C. held",
+        "D. for holding"
+      ],
+      "answer": "A",
+      "explanation": "'to hold my drawings'는 목적을 나타내는 to부정사로, '그림을 담기 위한 상자'라는 의미를 정확히 전달합니다. 'holding'은 현재분사로 '상자가 현재 담고 있는 중'이라는 뜻이 되어 아직 비어있는 상자를 묘사하기엔 어색합니다. 사물의 용도를 설명할 때 'a box to hold X', 'a tool to measure Y'처럼 to부정사를 쓰는 패턴을 익혀두면 작업 설명문에 유용합니다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Grotto",
+      "expression_key": null,
+      "sentence": "In May 2022, I organized an exhibition unfolding across several chapters, which ______ until the site was demolished.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 시제를 고르세요.",
+      "options": [
+        "A. continued",
+        "B. has continued",
+        "C. continues",
+        "D. had been continuing"
+      ],
+      "answer": "A",
+      "explanation": "전시와 건물 모두 이미 종료된 과거 사건이므로 단순과거 'continued'가 맞으며, 뒤에 나오는 'was demolished'와 시제가 일치합니다. 'has continued'는 현재까지 이어지는 상황을 뜻해 이미 철거된 사실과 모순됩니다. 완결된 과거 프로젝트를 설명할 때는 전체 문장을 단순과거로 통일하는 것이 일관성 있는 작가노트 작성의 핵심입니다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Repairs and renovations to the ______ building of the New York Studio School (NYSS) have uncovered long-lost murals.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. deteriorating",
+        "B. decorating",
+        "C. deliberating",
+        "D. degrading"
+      ],
+      "answer": "A",
+      "explanation": "'deteriorating building'은 '노후화되어 상태가 나빠지는 건물'이라는 뜻으로 기사의 맥락(보수 공사 중 벽화 발견)과 자연스럽게 맞습니다. 'degrading'도 '악화되는'이라는 의미가 있지만 주로 환경·품질 저하에 쓰이며 건물 묘사에는 'deteriorating'이 훨씬 관용적입니다. 'decorating'과 'deliberating'은 철자가 비슷할 뿐 의미가 전혀 다릅니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "A British healthcare worker with Ebola is being ______ from the Democratic Republic of the Congo to the UK for medical treatment.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. evacuated",
+        "B. extracted",
+        "C. transported",
+        "D. relocated"
+      ],
+      "answer": "A",
+      "explanation": "'evacuated'는 위험 지역에서 안전한 곳으로 긴급히 이동시킨다는 뜻으로, 감염병 환자의 본국 송환 상황에 정확히 들어맞는 표현입니다. 'extracted'는 주로 인질 구출이나 군사 작전에, 'transported/relocated'는 단순 이동을 뜻해 긴급성과 의료적 뉘앙스가 부족합니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The exhibition draws ______ the artist's personal archive to reconstruct a collective narrative.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 전치사를 고르세요.",
+      "options": [
+        "A. on",
+        "B. from",
+        "C. of",
+        "D. with"
+      ],
+      "answer": "A",
+      "explanation": "'draw on something'은 '~을 활용하다, ~에서 자료를 끌어오다'라는 관용 표현으로 전시 설명에 자주 쓰입니다. 'draw from'도 쓰이긴 하지만 '원천에서 직접 끌어낸다'는 뉘앙스가 강해 이 문맥에서는 'draw on'이 더 자연스럽고 널리 쓰입니다. 'draw of/with'는 비문법적입니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Accompanying the sculptural installation ______ a series of photographs documenting its transformation.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 동사 형태를 고르세요.",
+      "options": [
+        "A. is",
+        "B. are",
+        "C. have been",
+        "D. were"
+      ],
+      "answer": "A",
+      "explanation": "문장이 도치되어 있어도 진짜 주어는 'a series of photographs'이며, 'a series'가 핵심 명사이므로 단수 동사 'is'가 맞습니다. 'photographs'가 복수라고 해서 'are'를 쓰면 흔한 실수이니 주의해야 합니다. 이런 도치 구문은 전시 서문에서 작품을 소개할 때 자주 쓰이므로 주어-동사 일치를 정확히 확인하는 습관이 중요합니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "don't push your luck",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "They let us stay an extra night for free."
+        },
+        {
+          "speaker": "B",
+          "line": "Nice! Maybe I'll ask for a late checkout too."
+        },
+        {
+          "speaker": "A",
+          "line": "Don't ______ ______."
+        }
+      ],
+      "question": "마지막 대사 빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. push your luck",
+        "B. count your chickens",
+        "C. jump the gun",
+        "D. rock the boat"
+      ],
+      "answer": "A",
+      "explanation": "이미 공짜로 하루 더 묵게 해줬는데 추가 혜택까지 요구하면 과욕이라는 뜻이므로 'don't push your luck(너무 욕심부리지 마)'이 정답입니다. 'count your chickens(김칫국부터 마시지 마)'는 아직 안 일어난 일을 미리 확신하지 말라는 뜻, 'jump the gun(성급하게 행동하다)'은 때 이르게 행동한다는 뜻, 'rock the boat(평지풍파를 일으키다)'는 안정된 상황을 괜히 흔든다는 뜻으로 모두 이 상황과는 맞지 않습니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "I got carried away",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Why did you buy five bags of chips?"
+        },
+        {
+          "speaker": "B",
+          "line": "I don't know, I ______ ______ at the store."
+        }
+      ],
+      "question": "마지막 대사 빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. got carried away",
+        "B. lost my nerve",
+        "C. blew off steam",
+        "D. went off the rails"
+      ],
+      "answer": "A",
+      "explanation": "충동적으로 계획보다 과하게 행동했다는 뜻이므로 'I got carried away(나도 모르게 너무 갔어)'가 정답입니다. 'lost my nerve'는 겁을 먹고 용기를 잃었다는 뜻, 'blew off steam'은 스트레스를 발산했다는 뜻, 'went off the rails'는 생활이나 행동이 완전히 통제를 벗어났다는 더 심각한 의미라 이 가벼운 쇼핑 상황과는 어울리지 않습니다."
+    }
+  ]
+}
