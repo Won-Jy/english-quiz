@@ -1,0 +1,225 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T21:28:34.873664+00:00",
+  "personal_sources": [
+    "Columbarium VI",
+    "Figure de pigeon",
+    "Premières pierres"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Columbarium VI",
+      "expression_key": null,
+      "sentence": "Its decomposition had already ______ considerably, leaving it dried out with little more than a bare skeleton of quills remaining.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. progressed",
+        "B. proceeded",
+        "C. processed",
+        "D. proposed"
+      ],
+      "answer": "A",
+      "explanation": "'decomposition'(부패)이 '진행되다'라는 뜻으로는 'progress'가 맞습니다. 'proceed'는 어떤 절차나 행동을 계속 진행한다는 뜻이라 자연 현상인 부패에는 어색합니다. 작가노트에서 재료의 변화나 시간의 경과를 묘사할 때 'progress considerably'는 매우 유용한 표현입니다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Columbarium VI",
+      "expression_key": null,
+      "sentence": "The pigeon's body is covered, but not entirely ______; it is covered with particles, but plastic fragments rather than soil.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. concealed",
+        "B. revealed",
+        "C. exposed",
+        "D. disclosed"
+      ],
+      "answer": "A",
+      "explanation": "'covered'와 대비되면서도 '완전히 숨겨지지는 않았다'는 의미를 만들려면 'concealed'(감춰진)가 맞습니다. 'revealed'나 'exposed'는 반대로 '드러나다'는 뜻이라 문맥과 모순됩니다. 전시 텍스트에서 '보이지만 완전히 숨겨지지 않은' 상태를 설명할 때 'covered but not entirely concealed' 구조는 매우 세련된 대비 표현입니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Premières pierres",
+      "expression_key": null,
+      "sentence": "Since 2018, I ______ on Premières pierres, a series of 'fake stones' made by printing images of rock onto fragments of concrete gathered in the city.",
+      "dialogue": null,
+      "question": "2018년부터 현재까지 계속 진행 중인 작업을 설명할 때 가장 적절한 시제를 고르세요.",
+      "options": [
+        "A. have been working",
+        "B. worked",
+        "C. am working",
+        "D. had worked"
+      ],
+      "answer": "A",
+      "explanation": "'since 2018'처럼 과거의 한 시점부터 현재까지 계속되는 동작은 현재완료진행형(have been working)으로 표현해야 합니다. 단순현재(am working)는 지속 기간을 드러내지 못하고, 과거형(worked)은 작업이 끝난 것처럼 들려 부정확합니다. 작가노트에서 지속되는 연작을 소개할 때 이 시제는 거의 필수적으로 쓰입니다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Columbarium VI",
+      "expression_key": null,
+      "sentence": "I drew particular inspiration ______ a kind of local custom I often observed among the neighborhood's troublemakers.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 전치사를 고르세요.",
+      "options": [
+        "A. from",
+        "B. by",
+        "C. of",
+        "D. for"
+      ],
+      "answer": "A",
+      "explanation": "'draw inspiration from something'은 '~로부터 영감을 얻다'는 뜻의 고정 표현입니다. 'inspired by'와 혼동하기 쉬운데, 'inspiration'이라는 명사 뒤에는 'from'이 와야 합니다. 작가노트에서 영감의 출처를 밝힐 때 이 짝(inspiration from)을 정확히 익혀두면 좋습니다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The Museum Wiesbaden will ______ ten human skulls held in its collection to Indonesia, marking the first instance of a German institution returning items taken during the country's Dutch colonial era.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. repatriate",
+        "B. relocate",
+        "C. restore",
+        "D. recover"
+      ],
+      "answer": "A",
+      "explanation": "'repatriate'는 원래 소속된 국가나 민족에게 유물·유해를 '송환하다'는 전문 용어로, 식민지 시기 약탈 문화재 반환 맥락에서 정확히 쓰입니다. 'relocate'는 단순히 장소를 옮긴다는 뜻이라 역사적·윤리적 맥락을 담지 못합니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "A British healthcare worker with Ebola is being ______ from the Democratic Republic of the Congo to the UK for medical treatment.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. evacuated",
+        "B. extracted",
+        "C. exported",
+        "D. exempted"
+      ],
+      "answer": "A",
+      "explanation": "위급 상황에서 사람을 안전한 곳으로 '이송·대피시키다'는 의미로는 'evacuate'가 정확합니다. 'extract'는 군사 작전 등에서 억류된 사람을 빼내는 뉘앙스가 강해 의료 이송 맥락과는 다소 어긋납니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Lying beneath the layers of plastic debris ______ the fragile remains of the bird.",
+      "dialogue": null,
+      "question": "도치된 문장에서 주어-동사 수 일치가 올바른 것을 고르세요.",
+      "options": [
+        "A. are",
+        "B. is",
+        "C. was",
+        "D. has been"
+      ],
+      "answer": "A",
+      "explanation": "문장이 도치되어 동사 뒤에 진짜 주어 'the fragile remains'(복수)가 오므로 동사는 'are'로 일치시켜야 합니다. 도치 구문에서는 앞의 분사구나 부사구가 아니라 뒤에 오는 명사구의 수에 맞춰야 한다는 점이 핵심 함정입니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "______ Decomposition is a recurring theme in my work, often explored through organic materials left to degrade naturally.",
+      "dialogue": null,
+      "question": "추상명사를 일반적인 개념으로 말할 때 올바른 관사 사용을 고르세요.",
+      "options": [
+        "A. Decomposition (no article)",
+        "B. The decomposition",
+        "C. A decomposition",
+        "D. Decompositions"
+      ],
+      "answer": "A",
+      "explanation": "'decomposition'을 특정 사건이 아니라 일반적 개념·주제로 말할 때는 무관사(zero article)가 맞습니다. 'the decomposition'은 특정한 하나의 부패 과정을 가리킬 때만 쓰이므로, 일반론을 펼치는 이 문맥에는 적합하지 않습니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "I'm out of the loop",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Did you hear the café on the corner closed down?"
+        },
+        {
+          "speaker": "B",
+          "line": "What? Since when?"
+        },
+        {
+          "speaker": "A",
+          "line": "Like two weeks ago, everyone's been talking about it."
+        },
+        {
+          "speaker": "B",
+          "line": "Wow, I'm completely ______."
+        }
+      ],
+      "question": "B의 마지막 대사에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. out of the loop",
+        "B. over the moon",
+        "C. under the weather",
+        "D. on the fence"
+      ],
+      "answer": "A",
+      "explanation": "다들 아는 소식을 자기만 몰랐다는 상황이므로 '나만 모르고 있었다'는 뜻의 'out of the loop'이 정답입니다. 'over the moon'은 '매우 기쁘다', 'under the weather'는 '몸이 좀 안 좋다', 'on the fence'는 '결정을 못 내리고 망설이다'라는 뜻으로 전혀 다른 상황에 쓰입니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "I'm spread too thin",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Can you help me move this weekend?"
+        },
+        {
+          "speaker": "B",
+          "line": "I already promised to babysit, tutor my cousin, and finish a report."
+        },
+        {
+          "speaker": "A",
+          "line": "You always say yes to everything."
+        },
+        {
+          "speaker": "B",
+          "line": "I know, I'm just ______ right now."
+        }
+      ],
+      "question": "B의 마지막 대사에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. spread too thin",
+        "B. burning the midnight oil",
+        "C. on thin ice",
+        "D. under the gun"
+      ],
+      "answer": "A",
+      "explanation": "너무 많은 일을 벌여놓아 힘이 분산된 상황이므로 '일을 너무 벌여놨다'는 뜻의 'spread too thin'이 정답입니다. 'burning the midnight oil'은 '밤늦게까지 일하다', 'on thin ice'는 '위태로운 상황에 처하다', 'under the gun'은 '마감 압박을 받다'는 뜻으로 맥락이 다릅니다."
+    }
+  ]
+}
