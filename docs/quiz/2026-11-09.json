@@ -1,0 +1,221 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T23:47:35.842908+00:00",
+  "personal_sources": [
+    "Homeless Drawings",
+    "Untitled",
+    "Residency at Maison Daura I"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Homeless Drawings",
+      "expression_key": null,
+      "sentence": "But I found myself ______ by a gap between the context of what I was drawing and the space in which I was drawing it.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. hindered",
+        "B. enhanced",
+        "C. motivated",
+        "D. accompanied"
+      ],
+      "answer": "A",
+      "explanation": "'hindered by'는 '~에 의해 방해받다'라는 뜻으로, 작업 맥락과 그리는 공간 사이의 간극이 작가를 방해했다는 의미와 정확히 맞습니다. 'enhanced'(향상된)나 'motivated'(동기부여된)는 문맥상 반대 의미라 어울리지 않습니다. 작가노트에서 어떤 제약이나 장애 요소를 설명할 때 'hindered by'는 유용한 표현입니다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Residency at Maison Daura I",
+      "expression_key": null,
+      "sentence": "The village, perched halfway up a gorge, was often ______ in the damp autumn clouds that give the area its distinctive landscape.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. shrouded",
+        "B. sprinkled",
+        "C. drained",
+        "D. polished"
+      ],
+      "answer": "A",
+      "explanation": "'shrouded in'은 '~에 뒤덮이다, 감싸이다'라는 뜻으로 안개나 구름에 가려진 풍경을 묘사할 때 자주 쓰이는 문학적 표현입니다. 'sprinkled'(뿌려진)는 작은 입자가 흩뿌려진 느낌이라 구름 전체를 덮는 이미지와 맞지 않습니다. 레지던시나 풍경 묘사 텍스트에서 분위기를 강조할 때 'shrouded in'을 활용하면 좋습니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Untitled",
+      "expression_key": null,
+      "sentence": "The image seen on top is a photograph ______ at the quarry to document the form of each stone.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 분사 형태를 고르세요.",
+      "options": [
+        "A. taken",
+        "B. taking",
+        "C. taken that",
+        "D. which taken"
+      ],
+      "answer": "A",
+      "explanation": "사진이 '찍히는' 대상이므로 수동의 의미를 가진 과거분사 'taken'이 맞습니다. 'taking'은 능동의 의미(사진이 무언가를 찍는 주체)가 되어 어색합니다. 작품 설명에서 사물이 어떤 행위의 대상임을 나타낼 때 분사구문(과거분사)을 쓰면 문장을 간결하게 만들 수 있습니다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Untitled",
+      "expression_key": null,
+      "sentence": "It is a sculptural piece combining bauxite stones collected during a trip to Villeveyrac ______ photographs of these same stones.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 전치사를 고르세요.",
+      "options": [
+        "A. with",
+        "B. to",
+        "C. into",
+        "D. by"
+      ],
+      "answer": "A",
+      "explanation": "'combine A with B'는 'A와 B를 결합하다'라는 뜻의 고정된 전치사 결합입니다. 'combine into'는 결과물이 되는 방향을 나타낼 때 쓰이므로 이 문맥에는 맞지 않습니다. 설치나 조각 작업을 설명할 때 재료의 결합 관계를 표현하려면 'combine A with B' 구조를 기억해두면 유용합니다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The proclamation, which is not legally ______, does not prohibit any forthcoming president from redecorating, adding new furniture, or making security changes.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. binding",
+        "B. permanent",
+        "C. symbolic",
+        "D. temporary"
+      ],
+      "answer": "A",
+      "explanation": "'legally binding'은 '법적 구속력이 있는'이라는 뜻의 고정 표현으로, 기사 내용과 정확히 일치합니다. 'symbolic'(상징적인)은 오히려 구속력이 없다는 의미에 가까워 문맥과 반대됩니다. 법률·행정 관련 글에서 'legally binding'은 매우 자주 쓰이는 표현이니 기억해두면 좋습니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "President orders ______ investigation after one train derails in collision about 50km from Cairo.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. prompt",
+        "B. lenient",
+        "C. nominal",
+        "D. retroactive"
+      ],
+      "answer": "A",
+      "explanation": "'prompt investigation'은 '신속한 조사'라는 뜻으로 사고 직후 즉각적인 대응을 요구하는 뉴스 문맥에 정확히 맞습니다. 'lenient'(관대한)는 조사의 엄격성과 반대되는 의미라 어울리지 않습니다. 시사 기사체에서 'prompt'는 '즉각적인'이라는 뜻으로 자주 사용되는 격식 있는 단어입니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "No sooner ______ the exhibition opened than critics began comparing it to her earlier work.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 표현을 고르세요.",
+      "options": [
+        "A. had",
+        "B. did",
+        "C. has",
+        "D. was"
+      ],
+      "answer": "A",
+      "explanation": "'No sooner had + 주어 + 과거분사 ... than ~'는 부정 부사구 도치 구문으로, 두 사건이 거의 동시에 일어났음을 강조합니다. 'did'는 일반동사 도치에 쓰이지만 여기서는 'open'의 완료 의미를 나타내는 'had opened'가 필요하므로 맞지 않습니다. 전시 서문이나 비평문에서 극적인 시간 흐름을 표현할 때 이 도치 구문을 쓰면 문장에 힘을 실을 수 있습니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Before the opening, the artist ______ the stones cleaned by an assistant.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 표현을 고르세요.",
+      "options": [
+        "A. had the stones cleaned",
+        "B. had cleaned the stones",
+        "C. was cleaning the stones",
+        "D. had the stones clean"
+      ],
+      "answer": "A",
+      "explanation": "'have something done'은 '남에게 ~을 시키다/하게 하다'라는 사역 구문으로, 작가가 직접 청소한 게 아니라 조수에게 맡겼다는 의미를 정확히 전달합니다. 'had cleaned the stones'는 작가 본인이 직접 청소를 완료했다는 뜻이 되어 문맥과 다릅니다. 작업 준비 과정을 설명할 때 사역동사 구문은 누가 실제로 행위를 했는지 명확히 구분해줍니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "I'll cut to the chase",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "So... how was the date last night?"
+        },
+        {
+          "speaker": "B",
+          "line": "It was fine, but I have something important to tell you."
+        },
+        {
+          "speaker": "A",
+          "line": "Okay, you're making me nervous. What is it?"
+        },
+        {
+          "speaker": "B",
+          "line": "I'll ______ — I'm moving back to Seoul next month."
+        }
+      ],
+      "question": "빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. cut to the chase",
+        "B. beat around the bush",
+        "C. spill the beans",
+        "D. let the cat out of the bag"
+      ],
+      "answer": "A",
+      "explanation": "'cut to the chase'는 '단도직입적으로 말하다, 본론으로 바로 들어가다'라는 뜻으로, B가 중요한 소식을 바로 전달하려는 상황에 딱 맞습니다. 'beat around the bush'는 오히려 '빙빙 돌려 말하다'라는 반대 의미이고, 'spill the beans'와 'let the cat out of the bag'은 둘 다 '비밀을 (의도치 않게) 누설하다'라는 뜻이라 여기서는 어울리지 않습니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "that's a load off my mind",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Did you hear back from the landlord about the deposit?"
+        },
+        {
+          "speaker": "B",
+          "line": "Yes, he's returning the full amount next week."
+        },
+        {
+          "speaker": "A",
+          "line": "Oh, ______ ! I was worried he'd keep some of it."
+        }
+      ],
+      "question": "빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. that's a load off my mind",
+        "B. that's the last straw",
+        "C. that's a piece of cake",
+        "D. that's not my cup of tea"
+      ],
+      "answer": "A",
+      "explanation": "'that's a load off my mind'는 '한시름 놓았다'라는 뜻으로, 걱정하던 일이 잘 해결되었다는 안도감을 표현할 때 딱 맞습니다. 'that's the last straw'는 '더는 못 참겠다'는 짜증의 표현이고, 'a piece of cake'는 '아주 쉬운 일', 'not my cup of tea'는 '내 취향이 아니다'라는 뜻이라 이 상황과는 맞지 않습니다."
+    }
+  ]
+}
