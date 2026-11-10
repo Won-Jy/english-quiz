@@ -1,0 +1,225 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T21:17:36.253134+00:00",
+  "personal_sources": [
+    "Premières pierres",
+    "Granit de rêve",
+    "Residency at Maison Daura I"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Premières pierres",
+      "expression_key": null,
+      "sentence": "Concrete — crushed and fired stone — builds the city, and its ______ then returns wearing the appearance of stone.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. debris",
+        "B. rubbish",
+        "C. wreckage",
+        "D. residue"
+      ],
+      "answer": "A",
+      "explanation": "'debris'는 건물이나 구조물이 부서지고 남은 파편을 가리키는 단어로, 콘크리트 조각을 묘사하는 이 문맥에 정확히 맞습니다. 'wreckage'는 주로 큰 사고(비행기, 배 등)의 잔해를 가리키고, 'rubbish'는 쓰레기라는 뜻이라 어울리지 않습니다. 작가노트에서 재료의 파편성을 표현할 때 'debris'를 쓰면 더 정확하고 문학적인 느낌을 줍니다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Residency at Maison Daura I",
+      "expression_key": null,
+      "sentence": "However, I couldn't use the mud that often ______ to the stones native to this soil.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. clings",
+        "B. sticks",
+        "C. adheres",
+        "D. attaches"
+      ],
+      "answer": "A",
+      "explanation": "'cling to'는 끈적하게 들러붙어 떨어지지 않는 느낌을 생생하게 전달하는 표현으로, 진흙이 돌에 달라붙는 상태를 묘사하기에 가장 자연스럽습니다. 'adhere to'는 더 격식적이고 과학적인 느낌이라 이 문맥에서는 다소 딱딱하게 들립니다. 재료의 물리적 질감을 묘사할 때 'cling to'를 쓰면 더 시적인 뉘앙스를 살릴 수 있습니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Premières pierres",
+      "expression_key": null,
+      "sentence": "Collection follows three routes: shards that have broken off façades or floor surfaces and lie about at street corners; the demolition site of a particular building; and the heaps of rubble ______ at the municipal waste site.",
+      "dialogue": null,
+      "question": "문맥상 가장 적절한 분사 형태를 고르세요.",
+      "options": [
+        "A. piled up",
+        "B. piling up",
+        "C. that piling up",
+        "D. being pile up"
+      ],
+      "answer": "A",
+      "explanation": "'heaps of rubble'는 누군가에 의해 '쌓인' 대상이므로 수동의 의미를 가진 과거분사 'piled up'이 맞습니다. 'piling up'은 더미 자체가 능동적으로 쌓고 있다는 뜻이 되어 의미가 어색해집니다. 작업 설명에서 재료의 상태를 분사구로 압축할 때 능동/수동을 구분하는 것이 중요합니다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Premières pierres",
+      "expression_key": null,
+      "sentence": "Since 2018, I ______ on Premières pierres, a series of 'fake stones' made by printing images of rock onto fragments of concrete.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 시제를 고르세요.",
+      "options": [
+        "A. have been working",
+        "B. worked",
+        "C. am working",
+        "D. had worked"
+      ],
+      "answer": "A",
+      "explanation": "'since + 과거 시점'과 함께 현재까지 계속되는 작업을 나타낼 때는 현재완료진행형이 적절합니다. 'worked'는 과거에 끝난 일처럼 들려 현재 진행 중인 연작을 설명하는 이 문맥과 맞지 않습니다. 진행 중인 장기 프로젝트를 소개할 때는 이 패턴을 기본으로 사용하는 것이 좋습니다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Since 2015, Sirmans has been the Sandra and Tony Tamer Director of the Pérez Art Museum Miami (PAMM). During his ______, he [...]",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. tenure",
+        "B. reign",
+        "C. era",
+        "D. duration"
+      ],
+      "answer": "A",
+      "explanation": "'tenure'는 어떤 직책을 맡고 있던 기간을 가리키는 공식적인 표현으로 이 문맥에 정확히 맞습니다. 'reign'은 군주의 통치 기간에 쓰이는 단어라 이사직에는 과장되고 부적절합니다. 기관장이나 임기 관련 글을 쓸 때 'tenure'를 쓰면 훨씬 자연스럽습니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The seven-time Formula One world champion has ______ about conflict and humanitarian crises in the region, and has called for peace.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 표현을 고르세요.",
+      "options": [
+        "A. spoken out",
+        "B. spoken up",
+        "C. spoken off",
+        "D. spoken through"
+      ],
+      "answer": "A",
+      "explanation": "'speak out about'는 논란이 되는 주제에 대해 공개적으로 의견을 밝힌다는 뜻으로 이 문맥에 정확히 맞습니다. 'speak up'은 주로 회의에서 더 크게 말하거나 의견을 내라고 할 때 쓰이며 'about'보다는 'for'와 자주 결합합니다. 'spoken off'와 'spoken through'는 실제로 쓰이지 않는 표현입니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "If I ______ more time before the opening, I would experiment with a larger format.",
+      "dialogue": null,
+      "question": "2형식 가정법에 맞는 동사 형태를 고르세요.",
+      "options": [
+        "A. had",
+        "B. have",
+        "C. would have",
+        "D. has"
+      ],
+      "answer": "A",
+      "explanation": "현재 사실과 반대되는 가정을 나타내는 2형식 조건문에서는 'if'절에 과거형 'had'를 쓰고 주절에 'would + 동사원형'을 씁니다. 'have'를 쓰면 현실적으로 가능한 1형식 조건문이 되어 의미가 달라집니다. 전시 준비 상황에서 가상의 조건을 말할 때 이 구조를 정확히 써야 설득력이 생깁니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "It is essential that the gallery ______ the lighting before the opening.",
+      "dialogue": null,
+      "question": "가정법 현재(subjunctive)에 맞는 동사 형태를 고르세요.",
+      "options": [
+        "A. install",
+        "B. installs",
+        "C. installed",
+        "D. will install"
+      ],
+      "answer": "A",
+      "explanation": "'it is essential that' 뒤에는 인칭과 시제에 상관없이 동사원형을 쓰는 가정법 현재가 옵니다. 'installs'처럼 3인칭 단수 어미를 붙이면 일반 평서문과 혼동되어 문법적으로 틀립니다. 그랜트 신청서나 요청 문서에서 'it is essential/important that' 구문을 쓸 때 이 규칙을 지키면 훨씬 격식 있게 들립니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "I'm at my wit's end",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "My car broke down again and the landlord still won't fix the heater."
+        },
+        {
+          "speaker": "B",
+          "line": "That's a lot all at once. How are you holding up?"
+        },
+        {
+          "speaker": "A",
+          "line": "Honestly, I don't know what to do anymore."
+        },
+        {
+          "speaker": "A",
+          "line": "I'm ______."
+        }
+      ],
+      "question": "마지막 A의 말에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. at my wit's end",
+        "B. at the end of my rope",
+        "C. at a loss for words",
+        "D. on my last nerve"
+      ],
+      "answer": "A",
+      "explanation": "'I'm at my wit's end'는 더 이상 어떻게 해야 할지 모르겠다는 뜻으로, 앞 문장의 '어떻게 해야 할지 모르겠다'는 맥락과 정확히 일치합니다. 'at the end of my rope'도 비슷하지만 주로 '인내심의 한계'를 강조하고, 'at a loss for words'는 할 말이 없다는 뜻, 'on my last nerve'는 짜증이 극에 달했다는 뜻으로 의미가 다릅니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "that's pushing it",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Can you finish the whole report by tomorrow morning?"
+        },
+        {
+          "speaker": "B",
+          "line": "That's only a few hours from now..."
+        },
+        {
+          "speaker": "A",
+          "line": "I know, but the deadline got moved up."
+        },
+        {
+          "speaker": "B",
+          "line": "That's ______."
+        }
+      ],
+      "question": "마지막 B의 말에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. pushing it",
+        "B. over the top",
+        "C. a stretch",
+        "D. cutting it close"
+      ],
+      "answer": "A",
+      "explanation": "'that's pushing it'은 요구나 상황이 무리할 정도로 지나치다는 뜻으로, 급작스런 마감 요청에 대한 반응으로 딱 맞습니다. 'cutting it close'는 시간이 빠듯하지만 간신히 맞출 수 있다는 뜻이라 여기서는 어울리지 않고, 'over the top'은 과장되거나 지나치게 화려하다는 뜻이며, 'a stretch'는 믿기 어렵거나 억지스럽다는 뜻으로 쓰입니다."
+    }
+  ]
+}
