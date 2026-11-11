@@ -1,0 +1,225 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T21:55:00.055459+00:00",
+  "personal_sources": [
+    "Homeless Drawings",
+    "Grotto",
+    "Untitled"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Homeless Drawings",
+      "expression_key": null,
+      "sentence": "But I found myself ______ by a gap between the context of what I was drawing and the space in which I was drawing it.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. hindered",
+        "B. inspired",
+        "C. accompanied",
+        "D. encouraged"
+      ],
+      "answer": "A",
+      "explanation": "문맥상 작가가 그림을 그리는 맥락과 공간 사이의 '간극' 때문에 방해를 받았다는 부정적 의미이므로 'hindered(방해받다)'가 정답입니다. 'inspired'나 'encouraged'는 긍정적 의미라 문맥과 맞지 않습니다. 작업 설명에서 장애 요소를 언급할 때 'hindered by'는 유용한 표현이니 전시 서문 등에 활용해보세요."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Grotto",
+      "expression_key": null,
+      "sentence": "This experiment proved difficult from the start, ______ the particular conditions of the space.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 표현을 고르세요.",
+      "options": [
+        "A. owing to",
+        "B. owing from",
+        "C. because of that",
+        "D. due with"
+      ],
+      "answer": "A",
+      "explanation": "원문은 'owing to'를 사용했으며, 이는 뒤에 명사구가 올 때 'due to'보다 격식 있는 문어체 표현으로 자주 쓰입니다. 'owing from'과 'due with'는 존재하지 않는 조합이며 'because of that'는 지시어가 불필요하게 들어가 어색합니다. 작가 노트처럼 격식 있는 글에서는 'owing to + 명사구' 구조를 익혀두면 좋습니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Grotto",
+      "expression_key": null,
+      "sentence": "______ to begin from this place and make work specifically for it, I set up a tent in the basement in February 2021.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 형태를 고르세요.",
+      "options": [
+        "A. Wanting",
+        "B. Want",
+        "C. Wanted",
+        "D. To want"
+      ],
+      "answer": "A",
+      "explanation": "분사구문(participle clause)으로 주절의 주어 'I'와 연결되어 이유를 나타내므로 현재분사 'Wanting'이 맞습니다. 'Want'나 'Wanted'는 동사 원형/과거형으로 독립된 절처럼 보여 문법적으로 어색하고, 'To want'는 목적을 나타내는 부정사이지만 여기선 지속적 동기를 표현하는 분사구문이 더 자연스럽습니다. 작가 노트에서 '~하고자 하여'라는 동기를 설명할 때 분사구문은 문장을 간결하게 만들어 줍니다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Homeless Drawings",
+      "expression_key": null,
+      "sentence": "I treated this whole experience as a kind of performance project — one that offers no photographic or video evidence of ______ act.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 관사를 고르세요.",
+      "options": [
+        "A. the",
+        "B. an",
+        "C. a",
+        "D. (no article)"
+      ],
+      "answer": "A",
+      "explanation": "앞서 언급된 특정 행위(수행 프로젝트)를 다시 가리키므로 정관사 'the'가 맞습니다. 'an act'는 불특정한 행위를 뜻해 문맥과 맞지 않고, 'a act'는 모음 앞에서 문법적으로 틀리며, 무관사는 가산명사 단수에 맞지 않습니다. 이미 언급한 구체적 행위나 사건을 다시 지칭할 때는 정관사를 쓰는 것이 작가 노트 작성 시 중요한 포인트입니다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The foundation will house Khouri's collection in a coastal villa ______ by architect Sumayya Vally and her firm Counterspace.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. redesigned",
+        "B. redecorated",
+        "C. rebuilt",
+        "D. refurnished"
+      ],
+      "answer": "A",
+      "explanation": "건축가가 개념적, 구조적으로 공간을 다시 설계했다는 의미이므로 'redesigned'가 적절합니다. 'redecorated'는 단순히 장식을 바꾸는 것을 뜻해 건축적 재설계와는 다르고, 'rebuilt'는 완전히 새로 지었다는 뜻이라 과합니다. 건축/디자인 관련 글에서 구조적 재구성을 말할 때는 'redesign'이 핵심 어휘입니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Lewis Hamilton has visited Egypt's Rafah border crossing and logistics warehouses ______ by Egyptian Red Crescent.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. operated",
+        "B. occupied",
+        "C. inhabited",
+        "D. employed"
+      ],
+      "answer": "A",
+      "explanation": "조직이 창고를 '운영'한다는 의미이므로 'operated'가 정답입니다. 'occupied'와 'inhabited'는 주로 사람이 거주하거나 점유하는 공간에 쓰이고, 'employed'는 사람을 고용할 때 쓰는 단어라 창고에는 맞지 않습니다. 기관이나 단체가 시설을 운영한다고 할 때 'operate'는 뉴스 기사에서 매우 자주 쓰이는 표현입니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The sculpture, ______ was exhibited in Mende, combines bauxite stones with photographs.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 관계대명사를 고르세요.",
+      "options": [
+        "A. which",
+        "B. that",
+        "C. who",
+        "D. (no pronoun)"
+      ],
+      "answer": "A",
+      "explanation": "쉼표로 분리된 비한정적 관계절(non-defining clause)이므로 'which'를 써야 하며, 'that'은 비한정적 관계절에 쓸 수 없습니다. 'who'는 사람을 가리킬 때만 쓰이고, 관계대명사를 생략하면 문장이 성립하지 않습니다. 전시 설명문에서 작품에 대한 부가 정보를 덧붙일 때 이 구조를 정확히 쓰는 것이 중요합니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "It is essential that the artist ______ full control over the installation process.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 동사 형태를 고르세요.",
+      "options": [
+        "A. have",
+        "B. has",
+        "C. having",
+        "D. will have"
+      ],
+      "answer": "A",
+      "explanation": "'It is essential that' 뒤에는 가정법 현재(subjunctive)가 쓰이므로 주어 수와 상관없이 동사 원형 'have'를 씁니다. 'has'는 직설법 현재형으로 가정법 구문에는 맞지 않고, 'having'은 분사형이라 본동사 자리에 올 수 없습니다. 그랜트 신청서나 전시 기획서에서 요구사항을 강조할 때 이 가정법 구조가 자주 사용됩니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "I'm on the fence",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Are you going to take the new job offer?"
+        },
+        {
+          "speaker": "B",
+          "line": "I haven't decided yet."
+        },
+        {
+          "speaker": "A",
+          "line": "Really? It sounds perfect for you."
+        },
+        {
+          "speaker": "B",
+          "line": "I know, but I'm ______ about leaving my current team."
+        }
+      ],
+      "question": "빈칸에 들어갈 가장 적절한 표현을 고르세요.",
+      "options": [
+        "A. on the fence",
+        "B. on the ball",
+        "C. in the loop",
+        "D. under the weather"
+      ],
+      "answer": "A",
+      "explanation": "아직 결정을 못 내렸다는 뜻이므로 '아직 결정 못 했어'에 해당하는 'on the fence'가 정답입니다. 'on the ball'은 '일 처리가 빠르고 똑똑하다', 'in the loop'는 '정보를 공유받고 있다', 'under the weather'는 '몸이 좀 안 좋다'는 뜻으로 모두 문맥과 맞지 않습니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "it's on me",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Two coffees, that's eight dollars total."
+        },
+        {
+          "speaker": "B",
+          "line": "Don't worry, I'll pay for both."
+        },
+        {
+          "speaker": "A",
+          "line": "Are you sure?"
+        },
+        {
+          "speaker": "B",
+          "line": "Yeah, it's ______ today."
+        }
+      ],
+      "question": "빈칸에 들어갈 가장 적절한 표현을 고르세요.",
+      "options": [
+        "A. on me",
+        "B. on the house",
+        "C. in the bag",
+        "D. up to you"
+      ],
+      "answer": "A",
+      "explanation": "친구가 자신이 계산하겠다고 말하는 상황이므로 '내가 낼게'에 해당하는 'it's on me'가 정답입니다. 'on the house'는 가게 주인이 무료로 제공할 때 쓰는 표현이라 손님인 B가 쓰기엔 부적절하고, 'in the bag'은 '확실히 성사된 일', 'up to you'는 '네 결정에 달렸다'는 뜻으로 문맥과 맞지 않습니다."
+    }
+  ]
+}
