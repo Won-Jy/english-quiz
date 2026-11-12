@@ -1,0 +1,225 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T21:50:46.764817+00:00",
+  "personal_sources": [
+    "Columbarium VI",
+    "Esquisse sur la colombophobie",
+    "Flâner passer ou habiter"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Columbarium VI",
+      "expression_key": null,
+      "sentence": "This work was ______ as part of the solo exhibition Roulé-Lavé (2025) at CACN – Centre d'Art Contemporain de Nîmes.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. conceived",
+        "B. perceived",
+        "C. deceived",
+        "D. received"
+      ],
+      "answer": "A",
+      "explanation": "'conceived'는 '구상되다, 기획되다'라는 뜻으로 작품이나 전시가 어떻게 기획되었는지 설명할 때 자주 쓰입니다. 'perceived'는 '인식되다'라는 뜻이라 문맥에 맞지 않습니다. 작가노트에서 프로젝트의 출발점을 설명할 때 'conceived as part of'는 매우 유용한 표현입니다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Columbarium VI",
+      "expression_key": null,
+      "sentence": "I reproduced them identically, multiple times, as clear resin nuggets — a form ______ of Claude Viallat's.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. reminiscent",
+        "B. remnant",
+        "C. remaining",
+        "D. reminding"
+      ],
+      "answer": "A",
+      "explanation": "'reminiscent of'는 '~을 연상시키는'이라는 뜻으로, 다른 작가나 작품과의 형식적 유사성을 언급할 때 미술 글쓰기에서 매우 자주 쓰이는 구문입니다. 'remnant'는 명사로 '잔재'라는 뜻이라 문법적으로 맞지 않습니다. 선생님의 작업을 다른 작가와 비교할 때 이 표현을 적극 활용해보세요."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Columbarium VI",
+      "expression_key": null,
+      "sentence": "Its decomposition had already progressed considerably, ______ it dried out with little more than a bare skeleton of quills remaining.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 자연스러운 형태를 고르세요.",
+      "options": [
+        "A. leaving",
+        "B. left",
+        "C. it left",
+        "D. having left"
+      ],
+      "answer": "A",
+      "explanation": "분사구문 'leaving it dried out...'는 앞 문장의 결과를 설명하는 분사구문으로, 두 절을 매끄럽게 연결합니다. 'it left'는 접속사 없이 두 개의 완전한 절을 나열하는 comma splice 오류입니다. 결과를 나타내는 분사구문(-ing)은 작가노트에서 상황의 전개를 간결하게 설명할 때 매우 유용합니다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Flâner passer ou habiter",
+      "expression_key": null,
+      "sentence": "This exhibition ______ my journey through the rivers and rocks of the Cévennes, as well as the traces left by human presence.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 시제를 고르세요.",
+      "options": [
+        "A. retraces",
+        "B. retraced",
+        "C. has retraced",
+        "D. was retracing"
+      ],
+      "answer": "A",
+      "explanation": "전시나 작품을 설명할 때는 '묘사의 현재시제(descriptive present)'를 사용하는 것이 관례입니다 — 작품은 완료된 과거의 사건이 아니라 지금도 관객에게 그 의미를 전달하는 대상으로 서술됩니다. 'retraced'는 단순 과거로 전시의 '지속적 의미'를 놓치게 됩니다. 전시 서문이나 작가노트에서는 이 현재시제 관습을 꼭 기억하세요."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Kundizeza's story The Blue Fighter ______ the declining fortunes of a family after the father invests in fish tanks.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. charts",
+        "B. chases",
+        "C. charges",
+        "D. changes"
+      ],
+      "answer": "A",
+      "explanation": "'charts'는 여기서 '(이야기의 전개를) 추적하다, 그려내다'라는 뜻의 동사로, 서사나 변화 과정을 서술할 때 문학/비평 글쓰기에서 자주 쓰입니다. 'chases'는 '쫓다'라는 뜻이라 서사 구조를 설명하는 맥락에 맞지 않습니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The Zimbabwean author Simbarashe Kundizeza has been ______ of using AI to write a prize-winning short story, after the prestigious Caine prize concluded that his entry was 'human-written'.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. cleared",
+        "B. clarified",
+        "C. cleaned",
+        "D. claimed"
+      ],
+      "answer": "A",
+      "explanation": "'be cleared of + 명사/동명사'는 '~라는 혐의에서 벗어나다, 무죄로 밝혀지다'라는 뜻의 고정 표현입니다. 'clarified'는 '명확히 하다'라는 뜻으로 의혹을 벗는다는 의미와는 다릅니다. 시사 기사에서 자주 등장하는 유용한 표현이니 기억해두세요."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The curator said, \"I will finish the installation by next week.\" → The curator said that she ______ finish the installation by the following week.",
+      "dialogue": null,
+      "question": "간접화법으로 바꿀 때 빈칸에 들어갈 가장 적절한 형태를 고르세요.",
+      "options": [
+        "A. would",
+        "B. will",
+        "C. had",
+        "D. was going to"
+      ],
+      "answer": "A",
+      "explanation": "직접화법의 'will'은 간접화법(과거 시제)에서 'would'로 시제 일치(backshift)됩니다. 'will'을 그대로 쓰면 시제 일치 규칙을 어기는 것이 됩니다. 'was going to'도 문법적으로 가능하지만 원문의 단순 미래 의도를 가장 정확히 반영하는 것은 'would'입니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "If I ______ more resin, I would have made a larger sculpture.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 형태를 고르세요.",
+      "options": [
+        "A. had had",
+        "B. have",
+        "C. had",
+        "D. would have had"
+      ],
+      "answer": "A",
+      "explanation": "과거 사실에 반대되는 가정을 나타내는 3형식 조건문(if + had + p.p., would have + p.p.)이므로 'had had'가 정답입니다. 'had'만 쓰면 2형식 조건문이 되어 주절의 'would have made'와 시제가 맞지 않습니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "it's on the tip of my tongue",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Who played the lead in that movie we watched?"
+        },
+        {
+          "speaker": "B",
+          "line": "Oh, I know it... give me a second."
+        },
+        {
+          "speaker": "A",
+          "line": "Take your time."
+        },
+        {
+          "speaker": "B",
+          "line": "It's ______, I just can't spit it out right now."
+        }
+      ],
+      "question": "마지막 대사의 빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. on the tip of my tongue",
+        "B. in the back of my mind",
+        "C. slipping through my fingers",
+        "D. written all over my face"
+      ],
+      "answer": "A",
+      "explanation": "'on the tip of my tongue'은 어떤 단어나 이름이 기억날 듯 말 듯 할 때 쓰는 표현으로 대화 상황과 정확히 맞습니다. 'in the back of my mind'는 '마음 한구석에 있다(신경 쓰이다)', 'slipping through my fingers'는 '기회를 놓치다', 'written all over my face'는 '얼굴에 다 드러나다'라는 뜻으로 이 상황에는 맞지 않습니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "let's circle back to that",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Should we decide about the trip now or later?"
+        },
+        {
+          "speaker": "B",
+          "line": "Let's handle the grocery list first."
+        },
+        {
+          "speaker": "A",
+          "line": "Okay, and the trip?"
+        },
+        {
+          "speaker": "B",
+          "line": "Let's ______ once we're done shopping."
+        }
+      ],
+      "question": "마지막 대사의 빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. circle back to that",
+        "B. let it slide",
+        "C. play it by ear",
+        "D. call it a day"
+      ],
+      "answer": "A",
+      "explanation": "'circle back to that'은 지금 다루지 않고 나중에 다시 그 주제로 돌아가자는 뜻으로 대화 흐름과 정확히 맞습니다. 'let it slide'는 '그냥 넘어가다(문제 삼지 않다)', 'play it by ear'는 '상황을 봐가며 결정하다', 'call it a day'는 '그만 끝내자'라는 뜻으로 이 맥락에는 어울리지 않습니다."
+    }
+  ]
+}
