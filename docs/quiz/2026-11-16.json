@@ -1,0 +1,225 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T23:45:27.584788+00:00",
+  "personal_sources": [
+    "Figure de pigeon",
+    "Hostis",
+    "Self-portrait"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Figure de pigeon",
+      "expression_key": null,
+      "sentence": "This image is a projection of that photograph as a ______, via video projector.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. negative",
+        "B. negativity",
+        "C. negation",
+        "D. negligence"
+      ],
+      "answer": "A",
+      "explanation": "'negative'는 사진·영상에서 명암과 색이 반전된 이미지를 가리키는 전문 용어로 원문 그대로 사용된다. 'negativity'(부정적 감정), 'negation'(논리적 부정), 'negligence'(태만)는 의미가 전혀 달라 문맥에 맞지 않는다. 작업 설명에서 사진/영상 매체를 다룰 때 'as a negative' 같은 표현을 적극 활용하면 전문적으로 들린다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Hostis",
+      "expression_key": null,
+      "sentence": "This neighborhood... is currently marked by ______ and drug trafficking.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. degradation",
+        "B. deterioration",
+        "C. degeneration",
+        "D. derogation"
+      ],
+      "answer": "A",
+      "explanation": "'degradation'은 건물·동네의 물리적·사회적 황폐화를 동시에 함축해 원문의 뉘앙스에 가장 가깝다. 'deterioration'도 비슷하지만 도덕적·사회적 타락의 뉘앙스가 약하다. 'degeneration'은 생물학적 퇴화, 'derogation'은 법률상 적용 면제를 뜻해 문맥과 맞지 않는다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Hostis",
+      "expression_key": null,
+      "sentence": "Plants from the surrounding area of the neighborhood were replanted with their original soil, ______ other seeds, thus giving rise to unexpected new growth.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 분사 형태를 고르세요.",
+      "options": [
+        "A. containing",
+        "B. contained",
+        "C. having contained",
+        "D. to contain"
+      ],
+      "answer": "A",
+      "explanation": "현재분사 'containing'은 흙(soil)이 능동적으로 씨앗을 '포함하고 있는' 상태를 자연스럽게 묘사한다. 과거분사 'contained'를 쓰면 흙이 씨앗에 의해 담겨진다는 수동적이고 어색한 의미가 된다. 작업 재료를 묘사할 때 능동/수동 분사의 뉘앙스 차이에 유의하면 문장이 훨씬 정확해진다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Hostis",
+      "expression_key": null,
+      "sentence": "I integrate myself as part of ______ life cycle of this space, attracting and fostering the presence of various living beings.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 관사를 고르세요.",
+      "options": [
+        "A. the",
+        "B. a",
+        "C. (no article)",
+        "D. this"
+      ],
+      "answer": "A",
+      "explanation": "뒤에 'of this space'라는 한정어구가 있어 특정한 생애주기를 가리키므로 정관사 'the'가 적절하다. 'a'는 비한정 대상을 가리켜 어색하고, 무관사는 가산명사 단수에 쓸 수 없으며, 'this'는 가능하지만 원문의 자연스러운 선택은 'the'이다. 추상명사라도 뒤에 한정 수식어가 붙으면 정관사를 쓴다는 점을 기억해두면 작가노트 작성에 유용하다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "...has been ______ as 'a grave moral failing'.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. denounced",
+        "B. announced",
+        "C. renounced",
+        "D. pronounced"
+      ],
+      "answer": "A",
+      "explanation": "'denounce'는 공개적으로 강하게 비난한다는 뜻으로 기사 맥락에 정확히 부합한다. 'announce'는 단순히 발표하다, 'renounce'는 (권리 등을) 포기하다, 'pronounce'는 선언하다/발음하다라는 뜻이라 문맥과 맞지 않는다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "...allows people who have ______ all avenues of appeal against their removal from Europe to be sent to a third country.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. exhausted",
+        "B. exasperated",
+        "C. extinguished",
+        "D. expended"
+      ],
+      "answer": "A",
+      "explanation": "'exhaust all avenues of appeal'은 '모든 항소 수단을 다 써버리다'라는 고정 표현이다. 'exasperate'는 화나게 하다, 'extinguish'는 불을 끄다/소멸시키다, 'expend'는 자원을 소비하다라는 뜻으로 'avenues'와 자연스럽게 결합하지 않는다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "______ had the artist finished installing the piece than the museum called to cancel the show.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 부정 부사를 고르세요.",
+      "options": [
+        "A. No sooner",
+        "B. Hardly when",
+        "C. Scarcely that",
+        "D. No longer"
+      ],
+      "answer": "A",
+      "explanation": "'No sooner...than'은 고정된 짝 표현으로 도치 구문에 쓰인다. 'Hardly'는 'when'과 짝을 이루므로 뒤에 'than'이 오는 이 문장과 맞지 않고, 'Scarcely'는 'that'과 결합하지 않으며, 'No longer'는 이런 도치 구문에 쓰이지 않는다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "______ internationally for over a decade, she was invited to lead the workshop.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 분사 형태를 고르세요.",
+      "options": [
+        "A. Having exhibited",
+        "B. Exhibited",
+        "C. Being exhibited",
+        "D. To have exhibited"
+      ],
+      "answer": "A",
+      "explanation": "'Having exhibited'는 완료 능동분사로 주절보다 먼저 일어난 행동(경력)을 자연스럽게 나타낸다. 'Exhibited'만 쓰면 수동 의미가 되어 그녀가 전시의 주체라는 뜻과 어긋나고, 'Being exhibited'는 진행 수동이라 시제가 맞지 않으며, 'To have exhibited'는 부정사라 이 자리에 쓸 수 없다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "I'm not made of money",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Can I borrow some money for new shoes?"
+        },
+        {
+          "speaker": "B",
+          "line": "You already asked me twice this week!"
+        },
+        {
+          "speaker": "A",
+          "line": "Please, just this once?"
+        },
+        {
+          "speaker": "B",
+          "line": "No, ______."
+        }
+      ],
+      "question": "마지막 B의 대사에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. I'm not made of money",
+        "B. I'm dead broke",
+        "C. money talks",
+        "D. that costs an arm and a leg"
+      ],
+      "answer": "A",
+      "explanation": "'I'm not made of money'는 '내가 돈이 많은 것도 아니고'라는 뜻으로 반복된 돈 요청을 거절할 때 쓰는 자연스러운 표현이다. 'I'm dead broke'는 '완전히 무일푼이다'라는 뜻으로 상황이 다르고, 'money talks'는 '돈이 힘이다'라는 뜻이며, 'costs an arm and a leg'는 '매우 비싸다'는 뜻이라 이 자리에 맞지 않는다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "I'm beat",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Want to go for a run after work?"
+        },
+        {
+          "speaker": "B",
+          "line": "I don't think so..."
+        },
+        {
+          "speaker": "A",
+          "line": "Come on, it'll wake you up!"
+        },
+        {
+          "speaker": "B",
+          "line": "No way, ______."
+        }
+      ],
+      "question": "마지막 B의 대사에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. I'm beat",
+        "B. I'm over the moon",
+        "C. I'm out of my depth",
+        "D. I'm under the weather"
+      ],
+      "answer": "A",
+      "explanation": "'I'm beat'는 '완전 지쳤어'라는 뜻으로 운동 제안을 거절하는 상황에 딱 맞는다. 'I'm over the moon'은 '너무 기쁘다', 'I'm out of my depth'는 '능력 밖의 상황이다', 'I'm under the weather'는 '몸이 약간 안 좋다'는 뜻으로 피곤함과는 다르다."
+    }
+  ]
+}
