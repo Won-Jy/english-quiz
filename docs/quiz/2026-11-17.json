@@ -1,0 +1,221 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T22:53:12.214368+00:00",
+  "personal_sources": [
+    "Premières pierres",
+    "Collection des contenants en plastique",
+    "Residency at Maison Daura I"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Premières pierres",
+      "expression_key": null,
+      "sentence": "Concrete — crushed and fired stone — builds the city, and its ______ then returns wearing the appearance of stone.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요. (원문에서 실제로 사용된 단어)",
+      "options": [
+        "A. debris",
+        "B. rubble",
+        "C. residue",
+        "D. fragments"
+      ],
+      "answer": "A",
+      "explanation": "원문에서는 'debris'가 사용되었으며, 이는 부서진 건축 잔해를 가리키는 격조 있는 표현입니다. 'rubble'도 비슷한 뜻이지만 주로 돌무더기 더미를 가리키는 더 구체적인 단어라 이 문맥의 추상적 뉘앙스와는 차이가 있습니다. 작가노트에서 도시의 파편을 시적으로 표현할 때 'debris'를 활용하면 좋습니다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Residency at Maison Daura I",
+      "expression_key": null,
+      "sentence": "The village, perched halfway up a gorge, was often ______ in the damp autumn clouds that give the area its distinctive landscape.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요. (원문에서 실제로 사용된 단어)",
+      "options": [
+        "A. shrouded",
+        "B. covered",
+        "C. wrapped",
+        "D. veiled"
+      ],
+      "answer": "A",
+      "explanation": "'shrouded'는 안개나 구름이 신비롭게 뒤덮은 분위기를 표현할 때 쓰이는 문학적인 단어로 원문의 표현입니다. 'covered'는 의미는 통하지만 훨씬 평범하고 시적 느낌이 약합니다. 전시 서문처럼 분위기를 묘사할 때 'shrouded in mist/clouds' 같은 표현을 기억해두면 유용합니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Premières pierres",
+      "expression_key": null,
+      "sentence": "Since 2018, I ______ on Premières pierres, a series of \"fake stones\" made by printing images of rock onto fragments of concrete gathered in the city.",
+      "dialogue": null,
+      "question": "2018년부터 지금까지 계속되고 있는 작업을 나타내기에 가장 적절한 시제를 고르세요.",
+      "options": [
+        "A. have been working",
+        "B. am working",
+        "C. worked",
+        "D. had been working"
+      ],
+      "answer": "A",
+      "explanation": "'since + 시작 시점'과 함께 현재까지 지속되는 작업을 말할 때는 현재완료진행형이 가장 자연스럽습니다. 'worked'는 과거에 끝난 일처럼 들려서 현재 진행 중인 연작의 뉘앙스를 살리지 못합니다. 작가 노트에서 장기 프로젝트를 소개할 때 이 시제를 쓰면 작업의 지속성과 현재성을 동시에 보여줄 수 있습니다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Premières pierres",
+      "expression_key": null,
+      "sentence": "______ the light, smooth car parts with heavy, rough concrete, submerging them and lifting them back out, the gesture resembles a rite in which a being is plunged into water and raised again.",
+      "dialogue": null,
+      "question": "뒤따르는 'submerging', 'lifting'과 병렬 구조를 이루기에 가장 적절한 형태를 고르세요.",
+      "options": [
+        "A. Replacing",
+        "B. Replaced",
+        "C. To replace",
+        "D. Having replaced"
+      ],
+      "answer": "A",
+      "explanation": "세 개의 분사구문(Replacing, submerging, lifting)이 병렬 구조를 이루어야 하므로 현재분사 'Replacing'이 맞습니다. 'Replaced'는 수동의 의미가 되어 뒤의 능동적인 -ing 구문들과 어울리지 않습니다. 작업 과정을 나열할 때 분사구문을 병렬로 맞추면 문장이 리드미컬하고 전문적으로 읽힙니다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The fair will include an international ______ of 277 galleries from Europe, North America, South America, the Middle East, and Asia.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요. (기사 원문에서 사용된 단어)",
+      "options": [
+        "A. roster",
+        "B. list",
+        "C. array",
+        "D. cast"
+      ],
+      "answer": "A",
+      "explanation": "'roster'는 참가자나 구성원의 공식 명단을 가리키는 격식 있는 단어로 기사 원문에 쓰였습니다. 'list'는 의미는 통하지만 훨씬 평범하여 기사의 격식을 살리지 못합니다. 'cast'는 배우 명단에 주로 쓰여 이 문맥에는 어울리지 않습니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The pilot scheme is expected to face legal challenges and has been ______ as 'a grave moral failing.'",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요. (기사 원문에서 사용된 단어)",
+      "options": [
+        "A. denounced",
+        "B. announced",
+        "C. criticized",
+        "D. condemned"
+      ],
+      "answer": "A",
+      "explanation": "'denounced'는 공개적으로 강하게 비난한다는 뜻으로 기사 원문의 단어입니다. 'criticized'는 의미는 비슷하지만 어조가 약해 'grave moral failing'이라는 강한 비판과 어울리는 원문의 격렬함을 충분히 담지 못합니다. 'announced'는 '발표하다'라는 전혀 다른 뜻이라 문맥상 맞지 않습니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "______ several residencies in France, she now feels confident navigating grant applications in English.",
+      "dialogue": null,
+      "question": "앞선 동작이 완료되었음을 나타내는 분사구문으로 가장 적절한 것을 고르세요.",
+      "options": [
+        "A. Having completed",
+        "B. Completing",
+        "C. Completed",
+        "D. To complete"
+      ],
+      "answer": "A",
+      "explanation": "완료된 과거의 동작이 현재 상태의 원인이 될 때는 완료분사 'Having + p.p.'를 씁니다. 'Completing'은 동시에 일어나는 동작처럼 들려 시간 순서가 어긋납니다. 'Completed'는 수동의 의미가 되어 주어(she)가 레지던시를 '완료한' 것이 아니라 '완료된' 것처럼 읽혀 부자연스럽습니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "She ______ her exhibition catalogue printed by a specialist printer in Lyon last week.",
+      "dialogue": null,
+      "question": "'다른 사람에게 일을 시켜서 완료시켰다'는 사역 구문에 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. got",
+        "B. did",
+        "C. made",
+        "D. has"
+      ],
+      "answer": "A",
+      "explanation": "'get + 목적어 + 과거분사'는 '~을 대신 하게 하다/시키다'라는 사역 수동 구문으로, 'got ... printed'가 정확합니다. 'made'는 뒤에 원형부정사가 와야 하므로 ('made the printer print') 과거분사와는 결합하지 않습니다. 'did'와 'has'는 이 사역 구조 자체를 만들 수 없어 문법적으로 맞지 않습니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "it's a long shot",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "My neighbor's cat has been missing for a week."
+        },
+        {
+          "speaker": "B",
+          "line": "Did you check the animal shelter downtown?"
+        },
+        {
+          "speaker": "A",
+          "line": "Yeah, but it's ______ — they get dozens of cats every day."
+        }
+      ],
+      "question": "마지막 대화에 들어갈 가장 적절한 표현을 고르세요.",
+      "options": [
+        "A. a long shot",
+        "B. a sure thing",
+        "C. in the bag",
+        "D. a done deal"
+      ],
+      "answer": "A",
+      "explanation": "보호소에 수십 마리의 고양이가 들어온다는 상황은 성공 가능성이 낮다는 뜻이므로 'a long shot(가능성이 낮은 시도)'이 맞습니다. 'a sure thing'과 'a done deal'은 '확실한 일'이라는 반대 의미이고, 'in the bag'은 '이미 성공이 보장된'이라는 뜻이라 상황과 맞지 않습니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "it's not set in stone",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Are we still meeting at 7 for dinner tonight?"
+        },
+        {
+          "speaker": "B",
+          "line": "I think so, but my boss just called me."
+        },
+        {
+          "speaker": "A",
+          "line": "So the time might change?"
+        },
+        {
+          "speaker": "B",
+          "line": "Right, it's ______ — I might have to work late."
+        }
+      ],
+      "question": "마지막 대화에 들어갈 가장 적절한 표현을 고르세요.",
+      "options": [
+        "A. not set in stone",
+        "B. set in stone",
+        "C. written in stone",
+        "D. carved in stone"
+      ],
+      "answer": "A",
+      "explanation": "일정이 아직 확정되지 않았다는 뜻이므로 'not set in stone(확정된 건 아니다)'이 맞습니다. 'set in stone', 'written in stone', 'carved in stone'은 모두 '이미 확정되어 변하지 않는다'는 반대 의미라서, 'might have to work late'라는 불확실성과 모순됩니다."
+    }
+  ]
+}
