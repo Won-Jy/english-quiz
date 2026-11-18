@@ -1,0 +1,225 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T22:36:11.032570+00:00",
+  "personal_sources": [
+    "Untitled",
+    "About Warding",
+    "Baignade"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Untitled",
+      "expression_key": null,
+      "sentence": "This work was ______ as part of the exhibition Corpus, held in 2019 at the Maison Consulaire in Mende, under the guidance of Brigitte Bauer and Jean-Marc Cerino.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. conceived",
+        "B. perceived",
+        "C. received",
+        "D. deceived"
+      ],
+      "answer": "A",
+      "explanation": "'conceived'는 '구상되다, 착안되다'라는 뜻으로 작품이 전시 기획의 일부로 처음 구상되었음을 설명할 때 적절합니다. 'perceived'는 '지각되다, 인식되다'라는 뜻이라 작품의 기원을 설명하는 맥락과 맞지 않습니다. 작가 노트에서 작품의 탄생 배경을 설명할 때 'conceived as part of'라는 표현을 익혀두면 유용합니다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Untitled",
+      "expression_key": null,
+      "sentence": "The aluminum Dibond support panel is an industrial product made from aluminum, a mineral extracted from bauxite — creating a ______ between the artifact and its natural resource.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 표현을 고르세요.",
+      "options": [
+        "A. point of contact",
+        "B. point of view",
+        "C. point of order",
+        "D. point of no return"
+      ],
+      "answer": "A",
+      "explanation": "'point of contact'는 두 대상이 만나는 '접점'을 뜻하며, 인공물과 그 원재료 사이의 연결을 설명하는 데 정확히 맞습니다. 'point of view'는 '관점, 견해'라는 뜻이라 여기서는 의미가 통하지 않습니다. 재료와 개념 사이의 연결고리를 설명할 때 이 표현을 작가노트에 활용하면 좋습니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Untitled",
+      "expression_key": null,
+      "sentence": "It is a sculptural piece combining bauxite stones collected during a trip to Villeveyrac — ______ in 2019, while I was in my third year at the École des Beaux-Arts de Nîmes — with photographs of these same stones.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 형태를 고르세요.",
+      "options": [
+        "A. taken",
+        "B. took",
+        "C. taking",
+        "D. having taken"
+      ],
+      "answer": "A",
+      "explanation": "'trip'이 '취해진(taken)' 것이므로 수동의 과거분사 'taken'이 명사를 수식하는 축약 관계절로 적절합니다. 'took'은 정동사 형태라 별도의 주어 없이는 문법적으로 연결되지 않습니다. 작가 글에서 삽입구로 사건의 시점을 설명할 때 과거분사 축약절을 쓰면 문장이 더 간결해집니다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Untitled",
+      "expression_key": null,
+      "sentence": "The stones were later transported to the exhibition space in Mende for the student project show, where I re-arranged them on the floor ______ their positions in the photograph.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 표현을 고르세요.",
+      "options": [
+        "A. according to",
+        "B. depending on",
+        "C. on the basis",
+        "D. by means of"
+      ],
+      "answer": "A",
+      "explanation": "'according to'는 '~에 맞추어, ~대로'라는 뜻으로 사진 속 배치를 그대로 재현했다는 의미를 정확히 전달합니다. 'depending on'은 조건에 따라 달라진다는 뜻이라 고정된 기준을 따랐다는 원문의 의미와 맞지 않습니다. 설치 작업이 기존 자료나 기록을 따랐음을 설명할 때 'according to'를 쓰면 정확합니다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "A ruling against Myanmar could set ______ for the court's judgment on Israel's actions in Gaza.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. precedent",
+        "B. president",
+        "C. precedence",
+        "D. precinct"
+      ],
+      "answer": "A",
+      "explanation": "'precedent'는 이후 판결의 기준이 되는 '선례'를 뜻하며 법적 맥락에 정확히 맞습니다. 'president'는 발음이 비슷하지만 '대통령'이라는 전혀 다른 뜻이라 흔히 혼동되는 함정입니다. 'precedence'는 '우선순위'를 뜻해 'set precedence'라는 표현 자체가 어색합니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "This past weekend, I was a reader at The Power Broker Marathon, where 400+ volunteers took turns reading the entirety of Robert Caro's ______ biography of Robert Moses.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. magisterial",
+        "B. monumental",
+        "C. magnanimous",
+        "D. meticulous"
+      ],
+      "answer": "A",
+      "explanation": "'magisterial'은 '권위 있고 대가다운'이라는 뜻으로 뛰어난 저작물을 묘사할 때 쓰입니다. 'magnanimous'는 '관대한'이라는 뜻이라 책의 품질과 무관합니다. 'monumental'도 비슷하게 쓰일 수 있지만 원문에서는 저자의 권위와 솜씨를 강조하는 'magisterial'이 더 정확합니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "No sooner ______ the exhibition opened than critics began to debate its meaning.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 조동사를 고르세요.",
+      "options": [
+        "A. had",
+        "B. did",
+        "C. has",
+        "D. was"
+      ],
+      "answer": "A",
+      "explanation": "'No sooner'가 문두에 오면 도치가 일어나며 'had + 과거분사(opened)' 형태의 과거완료가 와야 합니다. 'did'를 쓰려면 뒤에 동사원형 'open'이 와야 하므로 이미 과거분사형 'opened'가 고정된 이 문장에는 맞지 않습니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Not only the sculptures but also the accompanying text ______ essential to understanding the installation.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 동사를 고르세요.",
+      "options": [
+        "A. is",
+        "B. are",
+        "C. were",
+        "D. have been"
+      ],
+      "answer": "A",
+      "explanation": "'not only A but also B' 구조에서 동사는 B, 즉 가장 가까운 명사에 일치시킵니다. 여기서 B는 단수 명사 'text'이므로 단수 동사 'is'가 맞습니다. 'are'는 복수형이라 바로 앞 명사 'text'와 수일치가 어긋나 오답입니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "it's overrated",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Everyone keeps raving about that new ramen shop downtown."
+        },
+        {
+          "speaker": "B",
+          "line": "I finally tried it last week."
+        },
+        {
+          "speaker": "A",
+          "line": "And? Was it as good as everyone says?"
+        },
+        {
+          "speaker": "B",
+          "line": "Honestly, I think it's ______."
+        }
+      ],
+      "question": "빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. overrated",
+        "B. to die for",
+        "C. the real deal",
+        "D. a game changer"
+      ],
+      "answer": "A",
+      "explanation": "'overrated'는 '과대평가된'이라는 뜻으로, 기대만큼 좋지 않았다는 B의 뉘앙스에 맞습니다. 'to die for'는 '정말 끝내주게 좋은'이라는 칭찬 표현이라 반대 의미입니다. 'the real deal'은 '진짜, 진품'이라는 뜻, 'a game changer'는 '판도를 바꾸는 것'이라는 뜻으로 모두 긍정적 평가에 쓰입니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "let's call it a day",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "We've been painting the fence since 1pm."
+        },
+        {
+          "speaker": "B",
+          "line": "Yeah, my arms are killing me."
+        },
+        {
+          "speaker": "A",
+          "line": "It's only 4, but I'm exhausted."
+        },
+        {
+          "speaker": "B",
+          "line": "Same. Let's ______."
+        }
+      ],
+      "question": "빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. call it a day",
+        "B. call it a night",
+        "C. wrap our heads around it",
+        "D. hit the hay"
+      ],
+      "answer": "A",
+      "explanation": "'call it a day'는 '오늘은 여기까지 하자'는 뜻으로, 오후 시간에 일을 그만두자는 상황에 맞습니다. 'call it a night'은 보통 밤에 활동을 마칠 때 쓰는 표현이라 아직 오후 4시인 이 상황과 맞지 않습니다. 'wrap our heads around it'은 '이해하려고 애쓰다'라는 뜻이고, 'hit the hay'는 '자러 가다'라는 뜻으로 둘 다 문맥에 맞지 않습니다."
+    }
+  ]
+}
