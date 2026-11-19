@@ -1,0 +1,225 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T22:40:39.888266+00:00",
+  "personal_sources": [
+    "Columbarium I",
+    "Déambulatoire",
+    "Flâner passer ou habiter"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Columbarium I",
+      "expression_key": null,
+      "sentence": "He was lying on his back on a sewer grate on the sidewalk, completely dried out by the sun — his eyes were already gone, and his feathers had gone ______.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요. (원문 그대로의 단어)",
+      "options": [
+        "A. brittle",
+        "B. fragile",
+        "C. stiff",
+        "D. rigid"
+      ],
+      "answer": "A",
+      "explanation": "'brittle'은 건조되어 쉽게 부서지는 깃털의 질감을 정확히 묘사하는 단어로 원문에 쓰였습니다. 'fragile'은 '깨지기 쉬운'이라는 더 일반적인 의미라 깃털 같은 섬유질 재료의 건조함을 표현하기엔 약하고, 'stiff'나 'rigid'는 뻣뻣함은 맞지만 부서질 듯한 질감(brittle)의 뉘앙스가 빠집니다. 작가노트에서 사체나 유기물의 질감을 묘사할 때 'brittle'을 써보면 디테일이 살아납니다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Columbarium I",
+      "expression_key": null,
+      "sentence": "After days of ______, I decided to give him a burial.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요. (원문 그대로의 단어)",
+      "options": [
+        "A. deliberation",
+        "B. hesitation",
+        "C. consideration",
+        "D. contemplation"
+      ],
+      "answer": "A",
+      "explanation": "'deliberation'은 결정을 내리기까지의 '신중한 숙고 과정'을 뜻하며 원문의 뉘앙스와 정확히 맞습니다. 'hesitation'은 망설임/주저함에 가까워 결정 과정보다는 결정을 미루는 상태를 강조하므로 다소 다릅니다. 전시 서문이나 작가노트에서 창작 결정의 과정을 설명할 때 'after days/weeks of deliberation' 구문은 매우 유용합니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Columbarium I",
+      "expression_key": null,
+      "sentence": "A pigeon buried in soil, inside a plastic box. ______ first pigeon I ever gave a burial to.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 관사를 고르세요.",
+      "options": [
+        "A. The",
+        "B. A",
+        "C. Ø (관사 없음)",
+        "D. This"
+      ],
+      "answer": "A",
+      "explanation": "서수(first)가 명사를 수식할 때는 특정한 하나를 지칭하므로 정관사 'The'가 필요합니다. 'A first pigeon'은 문법적으로 어색하며, 관사 생략도 불가능합니다. 작가노트에서 '최초의 작업'을 언급할 때 'The first + 명사' 구조를 기억해두면 좋습니다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Flâner passer ou habiter",
+      "expression_key": null,
+      "sentence": "This exhibition ______ my journey through the rivers and rocks of the Cévennes, as well as the traces left by human presence.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 동사 형태를 고르세요.",
+      "options": [
+        "A. retraces",
+        "B. retraced",
+        "C. has retraced",
+        "D. was retracing"
+      ],
+      "answer": "A",
+      "explanation": "전시나 작품이 '무엇을 보여주는가/다루는가'를 설명할 때는 과거에 열렸던 전시라도 현재시제를 써서 작품의 내용을 서술하는 것이 미술 글쓰기의 관례입니다. 'retraced'처럼 과거시제를 쓰면 전시가 과거의 단발적 사건으로만 읽혀 내용 설명의 보편성이 사라집니다. 전시 서문을 쓸 때 작품의 '행위/의미'는 현재형으로 서술하는 습관을 들이세요."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Artists 4 Artists Miami has launched a campaign to boycott the fair, inviting local artists, curators, gallerists, collectors, and residents to abstain from participating and to consider long-term alternatives to the commercial ______.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. juggernaut",
+        "B. monopoly",
+        "C. enterprise",
+        "D. institution"
+      ],
+      "answer": "A",
+      "explanation": "'juggernaut'는 거대하고 멈출 수 없는 힘을 가진 상업적 거대 세력을 비유적으로 표현하는 단어로, 아트페어의 압도적 상업성을 강조하는 맥락에 정확히 맞습니다. 'monopoly'는 '독점'이라는 의미라 '하나의 지배적 세력'이라는 뉘앙스와는 다르고, 'enterprise'나 'institution'은 너무 중립적이어서 비판적 뉘앙스가 사라집니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The trees had been ______ at a warehouse in Durban since July, when they were intercepted by authorities who said they had been moved without the necessary permissions.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. stranded",
+        "B. trapped",
+        "C. delayed",
+        "D. abandoned"
+      ],
+      "answer": "A",
+      "explanation": "'stranded'는 원래 가려던 곳에 가지 못하고 오도 가도 못한 채 방치된 상태를 뜻하며, 허가 없이 옮겨진 나무들이 창고에 묶여있던 상황을 정확히 묘사합니다. 'trapped'는 물리적으로 갇힌 느낌이 강하고, 'delayed'는 단순 지연을, 'abandoned'는 의도적으로 버려짐을 뜻해 맥락과 어긋납니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "If I ______ more time during the residency, I would have collected more materials from the riverbed.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 동사 형태를 고르세요.",
+      "options": [
+        "A. had had",
+        "B. have had",
+        "C. would have",
+        "D. had"
+      ],
+      "answer": "A",
+      "explanation": "과거 사실과 반대되는 가정(3형 가정법)에서는 if절에 과거완료(had had)를 써야 하며, 주절은 'would have + p.p.'를 씁니다. 'had' 하나만으로는 과거완료가 완성되지 않아 틀리고, 'have had'나 'would have'는 시제가 if절에 맞지 않습니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Since I'm not a professional welder, I usually ______ my metal sculptures fabricated by a specialist workshop.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 동사를 고르세요. (사역동사 구문)",
+      "options": [
+        "A. have",
+        "B. make",
+        "C. let",
+        "D. do"
+      ],
+      "answer": "A",
+      "explanation": "'have + 목적어 + 과거분사' 구조는 '남에게 ~하게 시키다/맡기다'는 사역 표현으로, 전문 공방에 제작을 맡기는 상황에 정확히 맞습니다. 'make'는 강제성이 너무 강하고, 'let'은 허락의 뉘앙스라 어색하며, 'do'는 이 구조에서 문법적으로 쓰이지 않습니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "I'm just killing time",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Hey, what are you doing at the cafe alone?"
+        },
+        {
+          "speaker": "B",
+          "line": "Nothing much, just waiting for my friend."
+        },
+        {
+          "speaker": "A",
+          "line": "Isn't it boring just sitting there?"
+        },
+        {
+          "speaker": "B",
+          "line": "Not really, I'm just ______ until she arrives."
+        }
+      ],
+      "question": "마지막 대사의 빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. killing time",
+        "B. racing against time",
+        "C. pressed for time",
+        "D. running late"
+      ],
+      "answer": "A",
+      "explanation": "'killing time'은 특별한 목적 없이 시간을 때우며 기다리는 상황에 정확히 맞는 표현입니다. 'racing against time'은 시간에 쫓겨 서두르는 상황, 'pressed for time'은 시간이 부족한 상황, 'running late'는 늦고 있는 상황을 뜻해 모두 여유롭게 기다리는 이 대화의 맥락과 맞지 않습니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "I'll keep that in mind",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "The shop closes early on Sundays, around 5pm."
+        },
+        {
+          "speaker": "B",
+          "line": "Oh really? I didn't know that."
+        },
+        {
+          "speaker": "A",
+          "line": "Yeah, so don't go too late."
+        },
+        {
+          "speaker": "B",
+          "line": "Thanks, I'll ______."
+        }
+      ],
+      "question": "마지막 대사의 빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. keep that in mind",
+        "B. take my word for it",
+        "C. get it off my chest",
+        "D. give it a shot"
+      ],
+      "answer": "A",
+      "explanation": "'I'll keep that in mind'은 들은 정보를 '명심하겠다, 기억해두겠다'는 뜻으로 상대방의 조언에 대한 자연스러운 응답입니다. 'take my word for it'은 '내 말을 믿어라'는 뜻, 'get it off my chest'는 '속마음을 털어놓다', 'give it a shot'은 '한번 시도해보다'라는 뜻이라 이 상황에 맞지 않습니다."
+    }
+  ]
+}
