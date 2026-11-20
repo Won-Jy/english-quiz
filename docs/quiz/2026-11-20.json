@@ -1,0 +1,217 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T22:14:34.202246+00:00",
+  "personal_sources": [
+    "Columbarium I",
+    "Grotto",
+    "Collection des contenants en plastique"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Columbarium I",
+      "expression_key": null,
+      "sentence": "His eyes were already gone, and his feathers had gone ______.",
+      "dialogue": null,
+      "question": "다음 문장의 빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. brittle",
+        "B. fragile",
+        "C. rigid",
+        "D. withered"
+      ],
+      "answer": "A",
+      "explanation": "깃털이 마르면서 쉽게 부서지는 질감을 묘사할 때는 'brittle'이 정확합니다. 'fragile'은 일반적인 약함을, 'rigid'는 질감이 아닌 뻣뻣함을, 'withered'는 주로 식물에 쓰입니다. 작가노트에서 신체의 물리적 변화를 묘사할 때 'brittle'은 건조·부패의 감각적 디테일을 살리는 데 유용합니다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Grotto",
+      "expression_key": null,
+      "sentence": "The building had previously housed social welfare services before being sold to a private property developer and ______ as part of a new real-estate project.",
+      "dialogue": null,
+      "question": "다음 문장의 빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. slated for demolition",
+        "B. marked for destruction",
+        "C. scheduled to demolish",
+        "D. destined to be demolished"
+      ],
+      "answer": "A",
+      "explanation": "'slated for demolition'은 건물 철거 계획을 설명할 때 저널리즘·공식 문서에서 흔히 쓰이는 관용구입니다. C는 능동/수동 혼동으로 문법적으로 어색하고, B는 'destruction'이 다소 과장되고 부자연스러우며, D는 '운명'의 뉘앙스가 있어 공식 철거 계획과는 어울리지 않습니다. 건물이나 공간의 역사를 설명하는 전시 텍스트에서 이 표현을 익혀두면 유용합니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Grotto",
+      "expression_key": null,
+      "sentence": "In 2020, at the height of Covid, I gained ______ use of the basement of a building called 'Vaisseau 3008.'",
+      "dialogue": null,
+      "question": "다음 문장에서 추상명사 'use' 앞에 들어갈 가장 적절한 관사 형태를 고르세요.",
+      "options": [
+        "A. free",
+        "B. a free",
+        "C. the free",
+        "D. some free"
+      ],
+      "answer": "A",
+      "explanation": "'free use of (something)'은 관사 없이 추상적 개념으로 쓰이는 고정 표현입니다. 'a free use'는 특정한 하나의 사례를 가리키는 듯한 어색함을 주고, 'the'는 이미 언급된 특정 대상을 전제하므로 부적절합니다. 작가 스테이트먼트에서 공간이나 자원에 대한 접근을 설명할 때 'free use of'를 관사 없이 쓰는 습관을 들이면 자연스럽습니다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Grotto",
+      "expression_key": null,
+      "sentence": "I took the basement of this building as my studio and ______ there from 2020 to 2022.",
+      "dialogue": null,
+      "question": "다음 문장의 빈칸에 들어갈 가장 적절한 시제를 고르세요.",
+      "options": [
+        "A. stayed",
+        "B. have stayed",
+        "C. had stayed",
+        "D. was staying"
+      ],
+      "answer": "A",
+      "explanation": "'from 2020 to 2022'처럼 과거에 완전히 끝난 기간을 명시할 때는 단순과거가 맞습니다. 현재완료는 기간이 현재까지 이어질 때 쓰이므로 틀리고, 과거완료는 다른 과거 사건보다 앞선 일을 나타낼 때 쓰입니다. 프로젝트 기간을 서술할 때 종료 시점이 명확하면 단순과거를 쓰는 것이 작가노트에서 더 정확합니다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The £68.7 million ______ began in 2018 but suffered delays from Covid, construction setbacks, and inflation.",
+      "dialogue": null,
+      "question": "다음 문장의 빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. transformation",
+        "B. renovation",
+        "C. restoration",
+        "D. conversion"
+      ],
+      "answer": "A",
+      "explanation": "원문에서는 건물의 전면적 개조를 가리켜 'transformation'이라는 단어를 사용했습니다. 'restoration'은 원래 상태로 복원하는 것을, 'conversion'은 용도 변경을 의미하여 문맥과 어긋납니다. 'renovation'은 앞 문장에 이미 등장했으므로 반복을 피하기 위해 'transformation'이 자연스럽게 선택됩니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Successive areas of low pressure generated powerful ______ and large breaking waves for coastal communities.",
+      "dialogue": null,
+      "question": "다음 문장의 빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. swells",
+        "B. surges",
+        "C. tides",
+        "D. currents"
+      ],
+      "answer": "A",
+      "explanation": "'swell'은 먼 바다의 저기압에 의해 생기는 크고 완만한 파도를 뜻하며 기사 원문과 정확히 일치합니다. 'surge'는 폭풍으로 인한 해수면 상승을, 'tide'는 주기적인 조수를, 'current'는 해류를 가리켜 문맥에 맞지 않습니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The opening was moved to Friday, but nobody told me. You ______ sent me a message.",
+      "dialogue": null,
+      "question": "다음 문장의 빈칸에 들어갈 가장 적절한 표현을 고르세요.",
+      "options": [
+        "A. should have",
+        "B. must have",
+        "C. needn't have",
+        "D. could have"
+      ],
+      "answer": "A",
+      "explanation": "'should have + p.p.'는 과거에 하지 않은 일에 대한 비판이나 아쉬움을 나타낼 때 사용합니다. 'must have'는 과거 사실에 대한 강한 확신을, 'needn't have'는 불필요했던 행동을 했을 때 쓰이므로 문맥과 맞지 않습니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "It is essential that the artist ______ present during the installation.",
+      "dialogue": null,
+      "question": "다음 문장의 빈칸에 들어갈 가장 적절한 형태를 고르세요.",
+      "options": [
+        "A. be",
+        "B. is",
+        "C. was",
+        "D. will be"
+      ],
+      "answer": "A",
+      "explanation": "'It is essential that + 주어 + 동사원형'은 가정법 현재(subjunctive)로, 인칭과 시제에 관계없이 동사원형을 사용합니다. 'is'나 'was'는 일반 직설법 시제이므로 격식체 영어에서는 부적절합니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "I'm not following",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "I swapped my shift with Tom, but then Maria said she'd already covered it."
+        },
+        {
+          "speaker": "B",
+          "line": "Wait, so who's actually working tonight?"
+        },
+        {
+          "speaker": "A",
+          "line": "Exactly, it's confusing — even the manager wasn't sure."
+        },
+        {
+          "speaker": "B",
+          "line": "Sorry, ______."
+        }
+      ],
+      "question": "다음 대화의 마지막 문장 빈칸에 들어갈 가장 적절한 표현을 고르세요.",
+      "options": [
+        "A. I'm not following",
+        "B. I couldn't agree more",
+        "C. I'll keep that in mind",
+        "D. That rings a bell"
+      ],
+      "answer": "A",
+      "explanation": "B는 상황을 전혀 이해하지 못하고 있으므로 'I'm not following(무슨 말인지 모르겠어)'이 적절합니다. 'I couldn't agree more'는 전적으로 동의한다는 뜻, 'I'll keep that in mind'는 명심하겠다는 뜻, 'That rings a bell'은 뭔가 기억나는 것이 있다는 뜻으로 모두 문맥과 맞지 않습니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "I can't be bothered",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Are you coming to the gym tonight?"
+        },
+        {
+          "speaker": "B",
+          "line": "Honestly, I'm exhausted and ______."
+        }
+      ],
+      "question": "다음 대화의 마지막 문장 빈칸에 들어갈 가장 적절한 표현을 고르세요.",
+      "options": [
+        "A. I can't be bothered",
+        "B. I wouldn't dream of it",
+        "C. I'm dying to",
+        "D. I'm on the fence"
+      ],
+      "answer": "A",
+      "explanation": "피곤해서 귀찮아 하지 않겠다는 뜻이므로 'I can't be bothered(귀찮아서 안 하겠어)'가 정답입니다. 'I wouldn't dream of it'은 절대 하지 않겠다는 강한 거부, 'I'm dying to'는 너무 하고 싶다는 뜻, 'I'm on the fence'는 결정을 못 내리고 있다는 뜻으로 문맥과 다릅니다."
+    }
+  ]
+}
