@@ -1,0 +1,225 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T02:11:12.004857+00:00",
+  "personal_sources": [
+    "Flâner passer ou habiter",
+    "Untitled",
+    "Columbarium IV"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Flâner passer ou habiter",
+      "expression_key": null,
+      "sentence": "This exhibition ______ my journey through the rivers and rocks of the Cévennes, as well as the traces left by human presence.",
+      "dialogue": null,
+      "question": "빈칸에 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. retraces",
+        "B. traces",
+        "C. backtracks",
+        "D. retracks"
+      ],
+      "answer": "A",
+      "explanation": "'retrace'는 '(지나온 길이나 과정을) 되짚어가다'라는 뜻으로 전시가 작가의 여정을 되짚는다는 의미에 정확히 맞습니다. 'backtrack'는 주로 '말을 번복하다/되돌아가다'의 의미라 전시 설명에는 어색하고, 'retrack'은 실제로 거의 쓰이지 않는 표현입니다. 전시 서문에서 작업의 서사를 요약할 때 'retrace a journey'는 매우 유용한 표현이니 기억해두세요."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Flâner passer ou habiter",
+      "expression_key": null,
+      "sentence": "I also integrated materials collected from the riverbed into concrete, creating sculptures that ______ hostile architectural structures.",
+      "dialogue": null,
+      "question": "빈칸에 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. evoke",
+        "B. invoke",
+        "C. provoke",
+        "D. evolve"
+      ],
+      "answer": "A",
+      "explanation": "'evoke'는 '(이미지, 감정, 분위기를) 불러일으키다'라는 뜻으로 조각이 특정 건축적 이미지를 연상시킨다는 문맥에 맞습니다. 'invoke'는 '(권위, 법, 신을) 끌어오다/소환하다'라는 뜻이라 형태나 분위기를 연상시키는 맥락에는 부적절합니다. 작업 설명에서 'evoke a sense of~'는 시각적 연상 효과를 설명할 때 자주 쓰이는 표현이니 익혀두면 좋습니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Flâner passer ou habiter",
+      "expression_key": null,
+      "sentence": "It also reflects a stone's journey, ______ down the river from the top of the mountain to the bottom, rolling and colliding with other stones.",
+      "dialogue": null,
+      "question": "빈칸에 가장 자연스러운 분사 형태를 고르세요.",
+      "options": [
+        "A. floating",
+        "B. floated",
+        "C. to float",
+        "D. float"
+      ],
+      "answer": "A",
+      "explanation": "'floating'은 뒤에 이어지는 'rolling', 'colliding'와 병렬을 이루는 현재분사로, 돌이 동시에 떠내려가며 구르고 부딪히는 동작을 묘사합니다. 'floated'는 과거분사로 수동의 의미가 되어 돌이 '떠내려지는' 대상이 되므로 능동적 흐름을 표현하려는 의도와 맞지 않습니다. 작업 설명에서 동시 동작을 나열할 때는 현재분사를 일관되게 사용하는 것이 자연스럽습니다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Flâner passer ou habiter",
+      "expression_key": null,
+      "sentence": "I engaged ______ existing elements of the exhibition space itself, such as wall sconces and the mascaron of a disused fountain, by reinterpreting their forms and counter-forms.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 올바른 전치사를 고르세요.",
+      "options": [
+        "A. with",
+        "B. in",
+        "C. on",
+        "D. to"
+      ],
+      "answer": "A",
+      "explanation": "'engage with something'은 '(대상과) 상호작용하다, 다루다'라는 뜻의 표준 academic 표현으로 전시 공간의 요소들과 대화하듯 작업했다는 의미에 정확히 맞습니다. 'engage in'은 '(활동에) 참여하다'는 뜻이라 뒤에 활동명사가 와야 하며 사물 목적어와는 어색합니다. 전시 서문에서 공간이나 재료와의 상호작용을 설명할 때 'engage with the space/material'은 매우 자주 쓰이는 구문입니다."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Ukraine has confirmed it ______ naval drones in strikes on two Russian vessels off Libya on Sunday.",
+      "dialogue": null,
+      "question": "빈칸에 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. deployed",
+        "B. employed",
+        "C. exploited",
+        "D. dispatched"
+      ],
+      "answer": "A",
+      "explanation": "'deploy'는 군사 장비나 부대를 '전략적으로 배치/투입하다'는 뜻으로 드론을 작전에 투입했다는 맥락에 정확히 들어맞는 군사·뉴스 용어입니다. 'dispatch'도 '보내다'라는 의미는 있지만 전략적 배치의 뉘앙스가 약해 군사 작전 기사에서는 'deploy'가 훨씬 자연스럽습니다. 'exploit'은 '(자원을) 착취/활용하다'는 뜻이라 문맥에 맞지 않습니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Volodymyr Zelenskyy described the operation, which sank the corvette Merkury, as ______.",
+      "dialogue": null,
+      "question": "빈칸에 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. exemplary",
+        "B. notorious",
+        "C. redundant",
+        "D. futile"
+      ],
+      "answer": "A",
+      "explanation": "'exemplary'는 '모범적인, 뛰어난'이라는 뜻으로 성공적인 작전을 긍정적으로 평가하는 맥락에 맞습니다. 'notorious'는 '악명 높은'이라는 부정적 의미라 성공을 칭찬하는 문맥과 반대되며, 'futile'은 '헛된'이라는 뜻으로 작전이 실패했다는 의미가 되어 문맥과 모순됩니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The installation consists ______ three distinct layers of material: image, support, and matter.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 올바른 전치사를 고르세요.",
+      "options": [
+        "A. of",
+        "B. in",
+        "C. with",
+        "D. from"
+      ],
+      "answer": "A",
+      "explanation": "'consist of'는 '~로 구성되다'라는 뜻의 고정 전치사 결합으로 작품이 어떤 요소들로 이루어져 있는지 설명할 때 반드시 'of'를 씁니다. 'consist in'은 '본질이 ~에 있다'는 다른 의미이므로 구성 요소를 나열하는 이 문맥에는 맞지 않습니다. 전시 설명이나 작가 노트에서 작업의 구성 요소를 서술할 때 매우 자주 쓰이는 구문이니 꼭 기억해두세요."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "She forgot ______ the artist statement before the deadline, so the gallery had to remind her twice.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 올바른 형태를 고르세요.",
+      "options": [
+        "A. to submit",
+        "B. submitting",
+        "C. to have submitted",
+        "D. having submitted"
+      ],
+      "answer": "A",
+      "explanation": "'forget to do'는 '(해야 할 일을) 하는 것을 잊다'라는 뜻으로, 제출이라는 미래의 할 일을 잊었다는 의미에 맞습니다. 반대로 'forget doing'은 '(과거에 한 일을) 잊다'라는 뜻이라 여기서는 의미가 성립하지 않습니다. 이 둘은 뜻이 완전히 달라지는 대표적인 동명사/부정사 구분 포인트입니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "it's no use",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Did you manage to convince him to come tonight?"
+        },
+        {
+          "speaker": "B",
+          "line": "I tried calling him three times."
+        },
+        {
+          "speaker": "A",
+          "line": "And? Did he agree?"
+        },
+        {
+          "speaker": "B",
+          "line": "It's ______. He's not changing his mind."
+        }
+      ],
+      "question": "마지막 대화에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. no use",
+        "B. a piece of cake",
+        "C. too good to be true",
+        "D. up in the air"
+      ],
+      "answer": "A",
+      "explanation": "'it's no use'는 '소용없다'는 뜻으로, 아무리 설득해도 상대의 마음이 바뀌지 않는 상황에 정확히 맞습니다. 'a piece of cake'는 '아주 쉬운 일', 'too good to be true'는 '믿기지 않을 만큼 좋은 일', 'up in the air'는 '아직 미정인 상태'를 뜻하므로 이 상황과는 맞지 않습니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "it's touch and go",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "How's your grandmother doing after the surgery?"
+        },
+        {
+          "speaker": "B",
+          "line": "She's stable now, thankfully."
+        },
+        {
+          "speaker": "A",
+          "line": "That's a relief! Was it a hard operation?"
+        },
+        {
+          "speaker": "B",
+          "line": "Yeah, for a while it was ______."
+        }
+      ],
+      "question": "마지막 대화에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. touch and go",
+        "B. a long shot",
+        "C. out of the blue",
+        "D. on the fence"
+      ],
+      "answer": "A",
+      "explanation": "'it's touch and go'는 '아슬아슬하다, 결과가 불확실하다'는 뜻으로 수술 경과가 위태로웠던 상황을 표현하기에 적절합니다. 'a long shot'은 '성공 가능성이 희박한 시도', 'out of the blue'는 '예상치 못하게 갑자기', 'on the fence'는 '(의견을) 아직 정하지 못한 상태'를 뜻하므로 이 맥락에는 맞지 않습니다."
+    }
+  ]
+}
