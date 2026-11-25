@@ -1,0 +1,225 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T23:37:21.625471+00:00",
+  "personal_sources": [
+    "Residency at Maison Daura I",
+    "Fantôme 3008",
+    "Collection des contenants en plastique"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Residency at Maison Daura I",
+      "expression_key": null,
+      "sentence": "The village, perched halfway up a gorge, was often ______ in the damp autumn clouds that give the area its distinctive landscape.",
+      "dialogue": null,
+      "question": "다음 빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. shrouded",
+        "B. blanketed",
+        "C. covered",
+        "D. veiled"
+      ],
+      "answer": "A",
+      "explanation": "'shrouded in mist/clouds'는 안개나 구름에 뒤덮인 신비롭고 음산한 분위기를 표현할 때 쓰이는 전형적인 콜로케이션으로 원문에서도 이 단어가 사용되었습니다. 'blanketed'는 주로 눈이나 두꺼운 층을 연상시켜 구름의 이미지와는 결이 다릅니다. 레지던시의 지형적·대기적 특징을 묘사할 때 'shrouded in'을 활용하면 시적인 톤을 살릴 수 있습니다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Fantôme 3008",
+      "expression_key": null,
+      "sentence": "The graffiti murals that had turned to dust as the concrete was destroyed have been ______ restored here, with the artists' names included in captions whenever possible.",
+      "dialogue": null,
+      "question": "다음 빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. faithfully",
+        "B. accurately",
+        "C. exactly",
+        "D. precisely"
+      ],
+      "answer": "A",
+      "explanation": "'faithfully restored'는 원본에 충실하게, 원래의 정신과 세부사항을 존중하며 복원했다는 뉘앙스를 담아 헤리티지·아트 복원 맥락에서 가장 자연스러운 표현입니다. 'accurately'는 수치적·사실적 정확성에 더 가까워 예술 작품의 '진정성'을 강조하는 이 문맥에는 약간 어울리지 않습니다. 작업 설명에서 복원이나 재현을 언급할 때 'faithfully reconstructed/restored'를 기억해두면 유용합니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Residency at Maison Daura I",
+      "expression_key": null,
+      "sentence": "In the fall of 2025, I ______ six weeks in residence at the former home of the painter Pierre Daura, in Saint-Cirq-Lapopie.",
+      "dialogue": null,
+      "question": "다음 빈칸에 들어갈 가장 적절한 시제를 고르세요.",
+      "options": [
+        "A. spent",
+        "B. have spent",
+        "C. had spent",
+        "D. was spending"
+      ],
+      "answer": "A",
+      "explanation": "'In the fall of 2025'처럼 구체적인 과거 시점이 명시되면 현재완료(have spent)는 쓸 수 없고 단순과거(spent)를 써야 합니다. 과거완료(had spent)는 그 이전의 다른 과거 사건과 비교할 때만 필요한데 여기엔 그런 기준 시점이 없습니다. 레지던시나 완료된 프로젝트를 서술할 때는 구체적 시점+단순과거 조합을 기본으로 삼으세요."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Residency at Maison Daura I",
+      "expression_key": null,
+      "sentence": "Since ______ high humidity of autumn here allows lichen and small plants to thrive, I ran a small experiment encouraging lichen to grow on pebbles and stones.",
+      "dialogue": null,
+      "question": "다음 빈칸에 들어갈 가장 적절한 관사를 고르세요.",
+      "options": [
+        "A. the",
+        "B. a",
+        "C. (no article)",
+        "D. this"
+      ],
+      "answer": "A",
+      "explanation": "'humidity'는 불가산명사이지만 'of autumn here'라는 한정 수식어가 뒤따르므로 특정한 습도를 가리키게 되어 정관사 'the'가 필요합니다. 무관사는 일반적 습도를 말할 때는 가능하지만 한정 수식어가 있으면 어색하며, 'a'는 불가산명사와 쓸 수 없습니다. 추상명사/불가산명사라도 of-구로 구체화되면 'the'를 붙인다는 점을 아티스트 스테이트먼트 전반에 적용해보세요."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Sotheby's ______ a painting by Wade Guyton valued at $1 million from its Contemporary Day Auction in New York on November 17 after a collector notified the auction house that it might be a fake.",
+      "dialogue": null,
+      "question": "다음 빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. withdrew",
+        "B. removed",
+        "C. retracted",
+        "D. cancelled"
+      ],
+      "answer": "A",
+      "explanation": "경매에서 작품을 출품 목록에서 빼는 것은 관용적으로 'withdraw a lot/painting from auction'이라고 표현합니다. 'retracted'는 발언이나 성명을 취소할 때 쓰이고, 'cancelled'는 경매 전체를 취소한다는 뜻이 되어 문맥과 맞지 않습니다. 경매·전시 관련 글을 쓸 때 'withdraw from'을 기억해두면 유용합니다."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "A crash involving a fuel tanker ______ a huge fire on a highway surrounding Cairo on Wednesday, killing at least 30 people, Egyptian authorities said.",
+      "dialogue": null,
+      "question": "다음 빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. ignited",
+        "B. sparked",
+        "C. lit",
+        "D. kindled"
+      ],
+      "answer": "A",
+      "explanation": "원문 그대로 'ignited a huge fire'가 사고로 인해 큰불이 '발화'했다는 뉴스 보도체에 적합한 표현입니다. 'sparked'도 비슷하게 쓰이지만 보통 더 작은 규모의 갈등이나 논쟁을 유발할 때 비유적으로 쓰이는 경우가 많습니다. 'kindled'는 장작불처럼 천천히 타오르는 이미지라 대형 사고 화재와는 어울리지 않습니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The gallery assistant forgot to label the installation; she ______ checked the inventory list twice before opening night.",
+      "dialogue": null,
+      "question": "다음 빈칸에 들어갈 가장 적절한 조동사 표현을 고르세요.",
+      "options": [
+        "A. should have",
+        "B. must have",
+        "C. needn't have",
+        "D. had to"
+      ],
+      "answer": "A",
+      "explanation": "'should have checked'은 과거에 했어야 했는데 하지 않은 일에 대한 비판/후회를 나타내므로 문맥에 정확히 맞습니다. 'must have checked'는 과거 사실에 대한 강한 추측(확신)을 나타낼 뿐 비판의 의미는 없어 오답입니다. 전시 준비 과정에서의 실수를 지적할 때 'should have'를 쓰는 연습을 해보세요."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "By the time the curator arrived at the studio, the artist ______ already arranged all the works for the exhibition.",
+      "dialogue": null,
+      "question": "다음 빈칸에 들어갈 가장 적절한 시제를 고르세요.",
+      "options": [
+        "A. had",
+        "B. has",
+        "C. (no auxiliary, use simple past: arranged)",
+        "D. was"
+      ],
+      "answer": "A",
+      "explanation": "'By the time + 과거시제 절'은 두 과거 사건의 선후관계를 나타내므로, 더 먼저 일어난 일(작품 배치)에는 과거완료 'had arranged'를 써야 합니다. 현재완료(has arranged)는 과거 시점 기준과 함께 쓰일 수 없어 오답이며, 단순과거(arranged)만 쓰면 두 사건의 순서가 모호해집니다. 전시 준비 과정처럼 시간 순서가 중요한 서술에는 과거완료를 적극 활용하세요."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "let's wrap it up",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "I've been staring at this essay for hours."
+        },
+        {
+          "speaker": "B",
+          "line": "Yeah, I can't focus anymore either."
+        },
+        {
+          "speaker": "A",
+          "line": "Same here. My brain's totally fried."
+        },
+        {
+          "speaker": "B",
+          "line": "Let's ______."
+        }
+      ],
+      "question": "마지막 B의 말에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. wrap it up",
+        "B. call it a day",
+        "C. sleep on it",
+        "D. play it by ear"
+      ],
+      "answer": "A",
+      "explanation": "지쳐서 공부를 '마무리하자'는 뜻이므로 'wrap it up'이 정확히 맞습니다. 'call it a day'도 '그만하자'는 의미로 비슷해 보이지만 보통 그 날의 작업을 완전히 끝낸다는 더 formal/general한 어감이라 대화 흐름상 약간 어색합니다. 참고로 'sleep on it'은 결정을 하루 미루고 생각해보자는 뜻, 'play it by ear'는 계획 없이 상황 봐가며 하자는 뜻입니다."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "I'm having second thoughts",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "So you're definitely quitting your job next week?"
+        },
+        {
+          "speaker": "B",
+          "line": "I thought I was sure, but now..."
+        },
+        {
+          "speaker": "A",
+          "line": "Wait, really? You seemed so confident before."
+        },
+        {
+          "speaker": "B",
+          "line": "I know, but honestly I'm ______ about it."
+        }
+      ],
+      "question": "마지막 B의 말에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. having second thoughts",
+        "B. over the moon",
+        "C. keeping my fingers crossed",
+        "D. jumping on the bandwagon"
+      ],
+      "answer": "A",
+      "explanation": "결심했던 일을 다시 고민하게 된다는 의미로 'having second thoughts'가 정확히 맞습니다. 'over the moon'은 매우 기쁘다는 뜻, 'keeping my fingers crossed'는 행운을 빈다는 뜻, 'jumping on the bandwagon'은 유행에 편승한다는 뜻으로 모두 망설임과는 거리가 멉니다."
+    }
+  ]
+}
