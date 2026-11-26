@@ -1,0 +1,217 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T23:48:45.211285+00:00",
+  "personal_sources": [
+    "Grotto",
+    "Fantôme 3008",
+    "Premières pierres II"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Grotto",
+      "expression_key": null,
+      "sentence": "The building had previously housed the social and medical welfare services of the Département du Gard, before being sold to a private property developer and slated for ______ as part of a new real-estate project.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. demolition",
+        "B. destruction",
+        "C. collapse",
+        "D. dismantlement"
+      ],
+      "answer": "A",
+      "explanation": "'slated for demolition'은 건물 철거 계획을 나타내는 관용적 collocation으로 실제 원문에 쓰인 표현입니다. 'destruction'은 의미는 비슷하지만 건축/부동산 맥락에서는 'demolition'만큼 자연스럽지 않습니다. 건축·도시 관련 글을 쓸 때 'slated for demolition'을 통째로 외워두면 유용합니다."
+    },
+    {
+      "id": 2,
+      "type": "vocabulary",
+      "source": "personal",
+      "work_title": "Fantôme 3008",
+      "expression_key": null,
+      "sentence": "The testimonies of six people who worked there at different times are ______ throughout in the form of letters.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. scattered",
+        "B. spread",
+        "C. dispersed",
+        "D. distributed"
+      ],
+      "answer": "A",
+      "explanation": "'scattered throughout'은 공간 전체에 흩어져 있는 느낌을 생생하게 전달하는 원문 그대로의 표현입니다. 'distributed'는 더 체계적/의도적 배분의 뉘앙스가 강해 이 문맥에는 어울리지 않습니다. 전시 공간 묘사 시 'scattered throughout the space'처럼 활용할 수 있습니다."
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Grotto",
+      "expression_key": null,
+      "sentence": "By the second month, I began suffering from ______, and eventually folded up the tent and ended this unusual stay.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 형태를 고르세요.",
+      "options": [
+        "A. nightmares",
+        "B. the nightmares",
+        "C. a nightmare",
+        "D. some nightmare"
+      ],
+      "answer": "A",
+      "explanation": "일반적이고 반복적인 경험을 말할 때는 복수 추상명사 앞에 관사를 붙이지 않는 것이 자연스럽습니다. 'the nightmares'는 특정하게 지시된 악몽들을 뜻해 문맥과 맞지 않습니다. 작가노트에서 추상적 경험을 서술할 때 무관사 복수형을 쓰는 습관을 들이면 좋습니다."
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "source": "personal",
+      "work_title": "Fantôme 3008",
+      "expression_key": null,
+      "sentence": "The graffiti murals that ______ to dust as the concrete was destroyed have been faithfully restored here, with the artists' names included in captions whenever possible.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 시제를 고르세요.",
+      "options": [
+        "A. had turned",
+        "B. turned",
+        "C. have turned",
+        "D. were turning"
+      ],
+      "answer": "A",
+      "explanation": "벽화가 먼지로 변한 것은 콘크리트가 파괴되기 전/동시에 일어난 더 이전의 사건이므로 과거완료 'had turned'가 적절합니다. 'have turned'는 현재완료로 주절의 'have been restored'와 시제 관계가 어긋납니다. 복원/소실처럼 시간 순서가 중요한 서술에서는 과거완료를 적극 활용하세요."
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "Sotheby's ______ a painting by Wade Guyton valued at $1 million from its Contemporary Day Auction in New York after a collector notified the auction house that it might be a fake.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. withdrew",
+        "B. retrieved",
+        "C. extracted",
+        "D. retracted"
+      ],
+      "answer": "A",
+      "explanation": "경매에서 작품을 '철회하다/빼다'라는 의미로는 'withdraw'가 정확한 단어입니다. 'retract'는 발언이나 진술을 철회할 때 쓰이며 물건에는 쓰이지 않습니다. 뉴스 기사체에서 'withdraw a work/lot from auction'은 자주 쓰이는 표현이니 기억해두세요."
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "source": "published",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "The US and Russia's candidate for secretary general is on a ______ offensive, attempting to present herself as a potential future UN secretary general.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요.",
+      "options": [
+        "A. charm",
+        "B. public",
+        "C. media",
+        "D. goodwill"
+      ],
+      "answer": "A",
+      "explanation": "'charm offensive'는 '환심 사기 공세'를 뜻하는 고정된 관용표현으로 정치·외교 기사에서 자주 쓰입니다. 'media offensive'나 'public offensive'는 자연스러운 영어 표현이 아닙니다. 이 표현은 통째로 외워두면 뉴스 영어 독해에 유용합니다."
+    },
+    {
+      "id": 7,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "______ by a GAN algorithm, the rock image gave the sculptures an uncanny, artificial texture.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 분사 형태를 고르세요.",
+      "options": [
+        "A. Generated",
+        "B. Having generated",
+        "C. Generating",
+        "D. Generate"
+      ],
+      "answer": "A",
+      "explanation": "바위 이미지는 알고리즘에 '의해 생성된' 것이므로 수동의 의미를 가진 과거분사 'Generated'가 맞습니다. 'Having generated'는 주어가 능동적으로 먼저 행위를 완료했다는 뜻이 되어 의미가 뒤바뀝니다. 작품 설명문에서 재료나 이미지의 생성 과정을 수동적으로 설명할 때 과거분사 구문이 유용합니다."
+    },
+    {
+      "id": 8,
+      "type": "grammar",
+      "source": "original",
+      "work_title": null,
+      "expression_key": null,
+      "sentence": "______ had the artist finished the installation than the gallery flooded overnight.",
+      "dialogue": null,
+      "question": "빈칸에 들어갈 가장 적절한 부정 부사를 고르세요.",
+      "options": [
+        "A. No sooner",
+        "B. Hardly",
+        "C. Not until",
+        "D. Rarely"
+      ],
+      "answer": "A",
+      "explanation": "'No sooner... than'은 짝을 이루는 고정 구문으로, 문장에 이미 'than'이 있으므로 'No sooner'가 정답입니다. 'Hardly'는 'when'과 짝을 이루고, 'Not until'과 'Rarely'는 다른 구조를 요구하므로 이 문장과 맞지 않습니다. 도치 구문은 격식 있는 글쓰기에서 강조 효과를 주므로 전시 서문 등에 활용할 수 있습니다."
+    },
+    {
+      "id": 9,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "I'm swamped with work",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Hey, want to grab coffee this afternoon?"
+        },
+        {
+          "speaker": "B",
+          "line": "I can't, sorry."
+        },
+        {
+          "speaker": "A",
+          "line": "Everything okay?"
+        },
+        {
+          "speaker": "B",
+          "line": "Yeah, I'm just ______ this week."
+        }
+      ],
+      "question": "마지막 대화 빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. swamped with work",
+        "B. over the moon",
+        "C. under the weather",
+        "D. up in the air"
+      ],
+      "answer": "A",
+      "explanation": "커피 초대를 거절하며 바쁘다는 이유를 대는 상황이므로 '일이 산더미야'라는 뜻의 'swamped with work'가 맞습니다. 'over the moon'은 '매우 기쁘다', 'under the weather'는 '몸이 좀 안 좋다', 'up in the air'는 '아직 정해지지 않았다'는 뜻으로 이 상황과 맞지 않습니다. 네 표현 모두 일상 대화에서 매우 자주 쓰이니 함께 익혀두세요."
+    },
+    {
+      "id": 10,
+      "type": "expression",
+      "source": "conversation",
+      "work_title": null,
+      "expression_key": "it's growing on me",
+      "sentence": null,
+      "dialogue": [
+        {
+          "speaker": "A",
+          "line": "Do you still hate that song your sister keeps playing?"
+        },
+        {
+          "speaker": "B",
+          "line": "Actually, no... it's weird, but ______."
+        }
+      ],
+      "question": "마지막 대화 빈칸에 들어갈 가장 자연스러운 표현을 고르세요.",
+      "options": [
+        "A. it's growing on me",
+        "B. it's getting on my nerves",
+        "C. it's out of my hands",
+        "D. it's not my cup of tea"
+      ],
+      "answer": "A",
+      "explanation": "처음엔 싫었지만 점점 좋아지고 있다는 뜻이므로 'it's growing on me'가 정답입니다. 'getting on my nerves'는 '점점 짜증나게 한다', 'out of my hands'는 '내가 통제할 수 없는 일이다', 'not my cup of tea'는 '내 취향이 아니다'라는 뜻으로 문맥과 반대되거나 무관합니다. 네 표현 모두 취향이나 감정을 나타낼 때 자주 쓰이는 구어체 표현입니다."
+    }
+  ]
+}
